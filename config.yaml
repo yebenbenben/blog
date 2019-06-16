@@ -1,0 +1,80 @@
+languageCode: "en-us"
+title: "叶重之"
+theme: "hugo-ivy"
+googleAnalytics: "UA-1988641-2"
+disqusShortname: "叶重之"
+ignoreFiles: ["\\.Rmd$", "_files$", "_cache$"]
+hasCJKLanguage: true
+enableEmoji: true
+footnotereturnlinkcontents: "↩"
+rssLimit: 100
+
+permalinks:
+  cn: "/cn/:year/:month/:slug/"
+  en: "/en/:year/:month/:slug/"
+
+taxonomies:
+tag: "tags"
+category: "categories"
+series: "series"
+
+menu:
+  main:
+    - name: "我"
+      url: "/about/"
+      weight: 1
+    - name: "想"
+      url: "/thinking/"
+      weight: 2
+    - name: "走"
+      url: "/hiking/"
+      weight: 3
+    - name: "看"
+      url: "/tourism/"
+      weight: 4
+
+params:
+  description: "竹杖芒鞋轻胜马，谁怕?一蓑烟雨任平生"
+  footer: "&copy; [Lydia Lu](/) 2005 - 2020"
+  disqusURL: "http://yihui.name"
+  customJS:
+    - "js/fix-toc.js"
+    - "js/center-img.js"
+    - "js/right-quote.js"
+    - "js/no-highlight.js"
+    - "js/fix-footnote.js"
+    - "js/math-code.js"
+    - "js/external-link.js"
+    - "js/alt-title.js"
+    - "js/header-link.js"
+  githubContentURL: "https://github.com/rbind/yihui/edit/master/content/"
+  twitterImage: "/images/logo.png"
+
+  # options for highlight.js (version, additional languages, and theme)
+  highlightjsVersion: "9.12.0"
+  highlightjsCDN: "//cdn.bootcss.com"
+  highlightjsLang: ["r", "yaml", "tex"]
+  highlightjsTheme: "github"
+
+  logo:
+    en:
+      img: "/images/logo.png"
+      url: "/"
+      alt: "Lydia Lu"
+      tag: ""
+
+  author:
+    en: "Lydia Lu"
+    cn: "叶重之"
+
+  lang:
+    edit:
+      cn: "编辑"
+    license:
+      cn: "版权"
+    subscribe:
+      cn: "订阅"
+
+blackfriday:
+    extensionsmask: ["noIntraEmphasis"]
+    fractions: false

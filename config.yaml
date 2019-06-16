@@ -1,3 +1,4 @@
+baseurl: "https://yebenbenben.github.io/"
 languageCode: "en-us"
 title: "叶重之"
 theme: "hugo-ivy"
@@ -36,7 +37,7 @@ menu:
 params:
   description: "竹杖芒鞋轻胜马，谁怕?一蓑烟雨任平生"
   footer: "&copy; [Lydia Lu](/) 2005 - 2020"
-  disqusURL: "http://yihui.name"
+  disqusURL: "https://yebenbenben.github.io/"
   customJS:
     - "js/fix-toc.js"
     - "js/center-img.js"
@@ -47,7 +48,7 @@ params:
     - "js/external-link.js"
     - "js/alt-title.js"
     - "js/header-link.js"
-  githubContentURL: "https://github.com/rbind/yihui/edit/master/content/"
+  githubContentURL: "https://github.com/yebenbenben/blog/tree/master/content"
   twitterImage: "/images/logo.png"
 
   # options for highlight.js (version, additional languages, and theme)

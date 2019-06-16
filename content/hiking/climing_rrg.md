@@ -1,6 +1,7 @@
 ---
 title: "It Was Snowing In Red River Gorge"
 date: 2014-12-02T22:10:47-04:00
+slug: climbing_rrg
 categories: ["Trip Thoughts"]
 tags: ["Kentucky", ”Sports Climbing“]
 draft: true

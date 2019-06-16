@@ -11,8 +11,9 @@ footnotereturnlinkcontents: "↩"
 rssLimit: 100
 
 permalinks:
-  cn: "/cn/:year/:month/:slug/"
-  en: "/en/:year/:month/:slug/"
+  thinking: "/thinking/:year/:month/:slug/"
+  hiking: "/hiking/:year/:month/:slug/"
+  tourism: "/tourism/:year/:month/:slug/"
 
 taxonomies:
 tag: "tags"

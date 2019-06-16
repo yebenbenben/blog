@@ -1,6 +1,7 @@
 ---
 title: "180度以南 - 以此文纪念我的智利百内之旅"
 date: 2017-02-05T01:12:10-04:00
+slug: patagonia_memo
 categories: ["Trip Thoughts"]
 tags: ["Sourth America", "Backpacking"]
 draft: true

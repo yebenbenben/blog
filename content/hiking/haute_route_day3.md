@@ -1,6 +1,7 @@
 ---
 title: "从霞慕尼到策马特 - Haute Route - Day 3"
 date: 2017-08-25T23:07:27-04:00
+slug: haute_route_day3
 categories: ["Trip Report"]
 tags: ["Switzerland", "France", "Europe", "Haute Route", "Backpacking"]
 draft: true

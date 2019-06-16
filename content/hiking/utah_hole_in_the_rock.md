@@ -1,6 +1,7 @@
 ---
 title: "科罗拉多高原 - Hole In The Rock"
 date: 2019-06-12T02:34:48-04:00
+slug: utah_hole_in_the_rock
 categories: ["Trip Report"]
 tags: ["Utah", "US South West", "Day Hike"]
 draft: true

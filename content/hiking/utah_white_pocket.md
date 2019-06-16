@@ -1,6 +1,7 @@
 ---
 title: "科罗拉多高原 - 白口袋"
 date: 2019-06-13T02:34:48-04:00
+slug: utah_white_pocket
 categories: ["Trip Report"]
 tags: ["Utah", "US South West", "Day Hike"]
 draft: true

@@ -1,6 +1,7 @@
 ---
 title: 锡安国家公园 - The Narrows 
 date: 2015-08-26T22:50:18-04:00
+slug: zion_narrows
 categories: ["Trip Report"]
 tags: ["Zion", "Arizona", "US South West", "Rappel", "Day Hike"]
 draft: true

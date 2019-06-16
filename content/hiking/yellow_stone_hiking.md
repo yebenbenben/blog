@@ -1,6 +1,7 @@
 ---
 title: "Yellowstone NP - 6 Days Hiking Trip"
 date: 2014-09-06T23:04:58-04:00
+slug: yellow_stone_hiking
 categories: ["Trip Report"]
 tags: ["Wyoming", "Backcountry Backpacking"]
 draft: true

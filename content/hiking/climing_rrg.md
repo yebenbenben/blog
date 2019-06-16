@@ -4,7 +4,7 @@ date: 2014-12-02T22:10:47-04:00
 slug: climbing_rrg
 categories: ["Trip Thoughts"]
 tags: ["Kentucky", ”Sports Climbing“]
-draft: true
+draft: false
 ---
 I just got back from a five days trip to Red River Gorge in Kentucky. Prior to this trip, I have been a gym rat for almost 2 years and never got a chance to explore the great climbing areas in the states besides Gunks. Two years ago, when I just started bouldering at BKB, one friend of mine took me out for outdoor climbing at Gunks. That trip opened the door for outdoor climbing, before that I never see myself climbing a real rock.
 

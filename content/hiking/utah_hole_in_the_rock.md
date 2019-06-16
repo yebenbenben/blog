@@ -4,7 +4,7 @@ date: 2019-06-12T02:34:48-04:00
 slug: utah_hole_in_the_rock
 categories: ["Trip Report"]
 tags: ["Utah", "US South West", "Day Hike"]
-draft: true
+draft: false
 ---
 [p1]: https://1.bp.blogspot.com/-qDYs5Y8Tgio/XQCDM5CV0KI/AAAAAAAALZs/xigG2EIYmX8vV77HR47GEmKqh8y6WJ8aQCLcBGAs/s1600/peekaboo-spooky-gulch-slot-canyon-trail-map-escalante.png
 

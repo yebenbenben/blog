@@ -4,7 +4,7 @@ date: 2017-08-24T23:07:27-04:00
 slug: haute_route_day2
 categories: ["Trip Report"]
 tags: ["Switzerland", "France", "Europe", "Haute Route", "Backpacking"]
-draft: true
+draft: false
 ---
 
 [p1]: https://1.bp.blogspot.com/-mJVCaO8UH60/XQRq5ciRrcI/AAAAAAAALdk/-0vty5FKDLsHJ5fQgL3831zUWzGAuPpEwCLcBGAs/s1600/Haute_Route-66.jpg

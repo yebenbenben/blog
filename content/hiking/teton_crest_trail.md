@@ -4,7 +4,7 @@ date: 2016-08-28T22:18:11-04:00
 slug: teton_crest_trail
 categories: ["Trip Report"]
 tags: ["wyoming", "Backcountry Backpacking"]
-draft: true
+draft: false
 ---
 #### 序
 大提顿山脊小径，英文名Teton Crest Trail，位于大提顿国家公园，和名声在外的黄石公园同属一个生态区。小径全长40英里，可用3-5天完成，总升降约3776英尺。户外摄影师Jimmy Chin曾这样形容这条路线：如果在北美要挑一条高海拔徒步线路，那就不该错过大提顿山脊小径。作为户外新手，我觉得这确是一条集舒适、观赏、趣味为一体，景色里程比很高的路线。一步一个脚印走完全程，你能从中细细体会到栈道设计者的一片用心。

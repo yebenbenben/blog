@@ -4,7 +4,7 @@ date: 2015-08-26T22:50:18-04:00
 slug: zion_subway
 categories: ["Trip Report"]
 tags: ["Zion", "Arizona", "US South West", "Rappel", "Day Hike"]
-draft: true
+draft: false
 ---
 今年年初，偶然听朋友提起了锡安国家公园*Zion National Park*里的两条著名短途路线, 一条叫*The Narrows*，另一条叫*The Subway*。*The Narrows*的步道就是狭窄的河道，徒步者需要涉水行走两天。而*The subway*也不负其名，需要徒步者从狭小如纽约地铁的“隧道”里游泳而过。因为这两条线路都需要涉水，有一定危险性，因而不容易结集到伙伴通行。 然而没过多久，就遇到岩馆的“富婆”朋友提起想去*The Subway*的意向，于是我们一拍即合，于是才有了这次短暂的周末犹他之旅。
 

@@ -4,7 +4,7 @@ date: 2017-02-05T01:12:10-04:00
 slug: patagonia_memo
 categories: ["Trip Thoughts"]
 tags: ["Sourth America", "Backpacking"]
-draft: true
+draft: false
 ---
 
 故事要从六十年代说起，加州有两个热爱户外的年轻人Yvon Chouinard和Doug Tompkins， 他们痴迷于攀岩和冲浪。为了维持生计，两人开了个手工作坊，在攀岩和冲浪之余做户外登山装备。1968年的某一天，Doug对Yvon说，我们去Patagonia爬 Mt.Fitz Roy吧。两人说走就走，带上一台16mm相机，开着一辆塞满户外装备的面包车就出发了。他们计划沿着泛美公路一路南下，一直开到南美洲最南端的Patagonia。

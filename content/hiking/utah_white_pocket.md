@@ -6,7 +6,7 @@ categories: ["Trip Report"]
 tags: ["Utah", "US South West", "Day Hike"]
 draft: false
 ---
-[p2]: https://1.bp.blogspot.com/-a-jBkDkwHQQ/XP2DKHuNe4I/AAAAAAAALZY/NWk94smISn0OE4C872S2Be_-ya_U3qQVgCLcBGAs/s1600/kaibab_plateau_map_lg.gif
+[p1]: https://1.bp.blogspot.com/-a-jBkDkwHQQ/XP2DKHuNe4I/AAAAAAAALZY/NWk94smISn0OE4C872S2Be_-ya_U3qQVgCLcBGAs/s1600/kaibab_plateau_map_lg.gif
 
 [p2]: https://1.bp.blogspot.com/-kXdvtSvrxLs/XPXqetpY6fI/AAAAAAAALYA/A2GgoWvoO0UwupO59QCbOZZ4vx2mfPzaACKgBGAs/s1600/Utah-48.jpg
 

@@ -5,4 +5,21 @@ disable_mathjax: true
 disable_highlight: true
 ---
 
-这是叶重之的个人主页。
+[p1]: https://lh3.googleusercontent.com/hf9XlKrLk6_YvLPWw3aEyee0zxALolDgxGK9BTJhJPZaPPW1zoenT1Zqu19w0I4Btl3mWhkvA-Mdgd2exJOdiHYoAEqDqd-L57RvbSUS2lA_HaAmGBvIytK-sLWFrma4kBli_iDecQ=w2400
+![p1]
+
+这是叶重之的个人主页，收集了这些年来我在各个平台上留下的图文片段。
+
+在这十年间，我用过不少博客，从兴盛时期的博客大巴，到国外平台blogspot、worldpress。由于移动端的兴起和中国“墙”的原因，又转战到简书和新浪长微博。然而”墙“里”墙“外，没有一个平台可以做到同其他平台无缝衔接， 重复排版和贴图实在是一件令人痛苦不堪的事。一番痛苦的挣扎后，我下定决心把文字图片都搬到Github上来。这样既不用担心[数据丢失](https://www.douban.com/group/topic/111603767/)，又能轻松穿“墙”而过（照片因为存在谷歌上，已然无法显示）。
+
+下面给各位看官来介绍一下我这一亩三分地。地不大，有三块试验田，希望大家各取所需。
+
+- [**想**](/thinking/)：培育一些“所思所想”和“读书笔记".
+- [**走**](/hiking/)：	生产一些”徒步攻略“和”户外笔记“。
+- [**看**](/tourism/)：	种植一些”观后感“和”旅行流水账“。
+
+最后附上我最中意的一首词共勉,
+
+>莫听穿林打叶声，何妨吟啸且徐行。竹杖芒鞋轻胜马，谁怕？ 一蓑烟雨任平生。
+>
+料峭春风吹酒醒，微冷，山头斜照却相迎。回首向来萧瑟处，归去，也无风雨也无晴。

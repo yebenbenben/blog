@@ -6,6 +6,27 @@ categories: ["Trip Report"]
 tags: ["wyoming", "Backcountry Backpacking"]
 draft: false
 ---
+
+[p1]: https://lh3.googleusercontent.com/BvPufoXfhsV2ovcU-bFaNQiW3yRcnXHKeHmIVNThMqkp6HuM4jIAGbZmWT7FwMVROnxA90UXsplrtx814RxHhYHEjeGzTk4gf4KuvIBm4Wgrur2pfKAufRzi5OIOZ85R1DfbdXWnFA=w2400
+
+[p2]: https://lh3.googleusercontent.com/SBt1ZA3HyU5riHSupOLbOLEzAIkwUfhYJuQVLhJ1kEksMhOuHm5SP3o1E96rDwQGdnGN43MHwhJemSnlZScWITdMLRALjEZxL0E_z9WyLEYTjWlblaulZZhrah6KzJgynj3j6oSn7w=w2400
+
+[p3]: https://lh3.googleusercontent.com/BwZNM-dr0mmqb1vXbU9bmO3fv3UwJRaEDXklkBoh9Jo65pZaFr7Urxzf5BRygnvpps6_aU1Gd4PvGyXqNeAiWz5kAaiIFm5m3gU-GWbSscBJa25P0jmpfx_TXptagF1v8my5cWGeOA=w2400
+
+[p4]: https://lh3.googleusercontent.com/1kS60GLYyWbkHMmNj7S3zn8RSl_VzehnaZIHMkXdROvOHA4p7wlZozkU65k5k2fleDF8k7kfUEXBConoa5scccUYzMpwyABX6v3P1CouldsFDh1ci3R0IQxweK-2nne_10Jp-mmYcA=w2400
+
+[p5]: https://lh3.googleusercontent.com/Vgku5Uw0KTxNsHwRu3s1-8A1jJRsnMgwXnLfoBGeofhXqxC_BfRdocisgo3d5EBQkdc2yhuslpE8UaW3sqJdd6SGwHMTnBgBUtTjaAMRd2Qnse4MupVNBlksbBvWfFMwxC6Iu01JKw=w2400
+
+[p6]: https://lh3.googleusercontent.com/Y_eNKA54fM_2bjlzzJE_gS1FYbT87JI62cuVEPmbdQilo7kNG1dYU-7ncNG7RUwVuq1ZqRXOMf5fy10eAP6uaz0PoZdsthXY4pmeT3AL9thbmw63meMh8buJQrLy3Mwke_u1rtSU-w=w2400
+
+[p7]: https://lh3.googleusercontent.com/-f21iiLzrqJ8OSHyF9eOaCU9XjvgdcfujetJabgCZLdgLEpQN2jDuFk1s1L-SuKRFiDjHx1d_k0BsdsPQI90Bt8p6L6ZETnWPJLmM05nuHirv7AS7Cy33miAfhAT2P2GTbUvJhjBJg=w2400
+
+[p8]: https://lh3.googleusercontent.com/EjO9-Q7oRB5Se03e5xCVNs3wKaSV0hL-OIq7Cu4QbldPDCzEh2qdGIb3WigPk361u-PWgH5AM152wty3qTiJi4YFEPFvZbx8Fjc9KXkpARP_f5_VyJjW-vzDq6oVORHPdR8PBkQjUg=w2400
+
+[p9]: https://lh3.googleusercontent.com/zviIomMdxiIHAr2OqqgRgoCXgWzZwMiiJ6nPpywtWgKObWiy45nlbnwSpL7dM6ZUmDN0nlqEP49lzQEpoTWQ0HZlaai64LbiE5RdTYCpluVVFUrxbMVdnUc5ruTj6WXS9lLBOt69jA=w2400
+
+[p10]: https://lh3.googleusercontent.com/l3JVaR3GH6HxvY6N-rsQB9RFGNsiOILsFrluaPPAXIQQT9-LfHeFmTBOLAyRy7L4z0i1P3f93Isl0ZAycyRXA7c-OQyax1a8JxFjHKIsGjYEscHoVyIPz24CxdngWAirP_Wzg9WxXA=w2400
+
 #### 序
 大提顿山脊小径，英文名Teton Crest Trail，位于大提顿国家公园，和名声在外的黄石公园同属一个生态区。小径全长40英里，可用3-5天完成，总升降约3776英尺。户外摄影师Jimmy Chin曾这样形容这条路线：如果在北美要挑一条高海拔徒步线路，那就不该错过大提顿山脊小径。作为户外新手，我觉得这确是一条集舒适、观赏、趣味为一体，景色里程比很高的路线。一步一个脚印走完全程，你能从中细细体会到栈道设计者的一片用心。
 
@@ -27,15 +48,35 @@ draft: false
 
 第一天原计划周六晚上到达Jackson Hole，周日早上取permit和熊罐，然后直接上山。但因飞机误点最终滞留在了芝加哥，一行人到第二天中午才到达Teton小镇。由于路上的耽搁，我们从Tram出发时已是周日下午四点。所幸这一天没安排太多里程数，走了大约四个小时就到达了露营地Middle Fork Group Campsite。舟车劳顿，我没等太阳下山就早早钻进了帐篷，陷入昏睡。
 
+![][p1]*整装待发*
+
+![][p2]*从Jacksonhole Tram上远眺*
+
+![][p3]*高山、草甸、树林是接下来几天最常见的风景*
+
 #### Day 2
 
 当清晨的第一缕阳光照在帐篷上，山谷还是静悄悄的，笼罩在一片薄雾下，仿佛披着一层面纱。日光和煦，洒在山谷里，一切都是那么朦胧，美得不真实。我们就在这样一幅画一般的美景里，吃了早餐收拾了行囊准备上路。
 
+![][p4]*晨光和煦，远处是我们的帐篷*
+
+![][p5]*清晨，薄雾朦胧*
+
 这一天从Middle Fork出发，经过Marion Lake，由Fox Creek Pass进入Death Canyon Shelf。到Marion Lake的路不算很长，但那几个大上坡还是让我和Wifi同学在心里暗暗叫苦。所幸八月的Teton山花烂漫，到处是盛开的薰衣草，花香阵阵。穿行在高低各异，层次分明的花簇中，大上坡也让人觉得不那么难熬了。
+
+![][p6]*第一眼见，我都误以为这是有人修建的花园，像不像三番的九曲花街？*
+
+![][p7]**
+
+![][p8]*可曾记得来时的路？*
+
+![][p9]*到了大提顿公园和National Forest的边界*
 
 就这样拍拍停停，走走喘喘（嗯其实拍照是喘气的借口）我们到Marion Lake的时候已是中午。Marion Lake这是我们此行见到的第一个湖。根据“初恋回忆起来总是美好的”定律，Marion Lake在我心中是清澈的，湛蓝的，没有一丝杂物的。在这么美的湖边总要干点有意义的事情，于是大家决定吃饭，睡觉，解放双脚。我们在树荫下的大石头上躺了下来，嘴里嚼着牛肉干和能量棒。正在“葛优瘫”的我们并没有意识到，黑暗处有一双眼睛已经盯上了我们。它一声不响的慢慢接近，突然以迅雷不及掩耳之速，跳到了我们的背包旁，而背包里装着我们六天的零食！说时迟那时快，我抄起手边的“武器”扔了过去。石头落在了背包上，却没能击中敌人。好在这一击打乱了敌人的阵脚，给我们争取了几秒的宝贵的时间夺回背包。那么这个蹑手蹑脚的小偷是谁呢？嗯，不是熊，不然我就回不来了，是一只花栗鼠。这只是我们和大提顿的小动物们的第一回合交锋，在之后的几天中这样的食物保卫战还将继续上演。
 
 离开Marion Lake我们迎来了一个之字型上坡。写完第一个之字，还能给Marion Lake拍个大全景。等写完第二个之字，湖已经变得很小。就这样写了一个又一个之字，而视野也变得越来越开阔。远处有白雪覆顶的群山，脚下有青葱的松树林和一望无际的草甸。而超过我们的两个Hiker的身影，却早已在绵延重叠的山峦上消失不见了。
+
+![p10]*行行又重重*
 
 到达Death Canyon Shelf的时候已是下午，Death Canyon Shelf正如其名，像是架在山谷上方的书架。行走其中，抬头可见山，低头便看见谷底蜿蜒的河流。这里是大家一致认为景色最美的露营点，很大程度是因为这里可以随意扎营。于是我们便把营地扎在了离悬崖不远的石板地上，这样就可以躲在帐篷里看日出。我们在shelf上煮了泡面，吃了牛肉干。期间，遇上花栗鼠一只，鹿一家三口，发现疑似熊粪一坨。日落在八点半左右，但由于我们在山的东侧，太阳落山的更早一些。这边已是一阵寒意，那头山顶上还是金光闪耀。没有了太阳，山里的气温骤降，大伙儿收拾完便进了帐篷。这一夜，风很大。
 

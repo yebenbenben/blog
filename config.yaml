@@ -49,7 +49,7 @@ params:
     - "js/external-link.js"
     - "js/alt-title.js"
     - "js/header-link.js"
-  githubContentURL: "https://github.com/yebenbenben/blog/"
+  githubContentURL: "https://github.com/yebenbenben/blog/blob/master/content/"
   twitterImage: "/images/logo.png"
 
   # options for highlight.js (version, additional languages, and theme)
@@ -71,11 +71,11 @@ params:
 
   lang:
     edit:
-      en: "编辑"
+      about: "编辑"
     license:
-      en: "版权"
+      about: "版权"
     subscribe:
-      en: "订阅"
+      about: "订阅"
 
 blackfriday:
     extensionsmask: ["noIntraEmphasis"]

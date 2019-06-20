@@ -70,12 +70,9 @@ params:
     cn: "叶重之"
 
   lang:
-    edit:
-      about: "编辑"
-    license:
-      about: "版权"
-    subscribe:
-      about: "订阅"
+    edit: "编辑"
+    license: "版权"
+    subscribe: "订阅"
 
 blackfriday:
     extensionsmask: ["noIntraEmphasis"]

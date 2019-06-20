@@ -1,10 +1,12 @@
 ---
 title: "一个冰冻的小岛 - 冰岛冬季行"
 date: 2017-08-24T23:51:26-04:00
+slug: iceland
 categories: ["Trip Thoughts"]
 tags: ["Iceland", "Europe", "Sightseeing"]
 draft: false
 ---
+
 ## 蓝湖
 感恩节凌晨五点半，我降落在Reykjavik国际机场。冰岛的寒冬才刚拉开帷幕。我躺在候机室的巨型沙发上睡了个回笼觉，约莫着快八点了才慢慢吞吞地走出候机室。抬起头来，圆月依旧高悬，连篇的云朵把天空捂了个严实。冬天里，冰岛的太阳要十点才升起。它在半空中不温不火地挂上六个钟头，便又摇摇晃晃地沉到了地平线下。为了珍惜这来之不易的白昼，我决定先去著名的蓝湖(Blue Lagoon)泡个温泉，洗去舟车劳顿。
 
@@ -40,42 +42,106 @@ Reykjavik 天气变化多端。我刚举手给窗外的雪山拍了张照，发�
 >[冬季打开方式](http://bbs.qyer.com/thread-883777-1.html) 
 
 ## 地热
+[p3-0]: https://lh3.googleusercontent.com/KvSS556Dxtclao1ish2dibFUAcnllvzexIBzmuAVsA7Br_KdK7eY27pmzp_5C_92jgRWrcPi9dVlY73-qKJ45wCXihTevIJ5JVCab5h2frp5G0_IDN8drGhELa-6NWIBMnAo51N_Tg=w2400
+
+[p3-1]: https://lh3.googleusercontent.com/vlCm1qgPM9YIYsqQkpAp6M3J0kCJlsuBidZvR8pBkdHpetc0MpNAlABHFcJaUE_eTWSl41Yna7Fvl1-xSQjII2u524Tsf9TiVCW8YuqXErMx4m3PrGBqeoUqVihqQ_ZsN2GZAsnJgA=w2400
+
+[p3-2]: https://lh3.googleusercontent.com/eMlPFSeVsBnJx36GMYOlnvkiUzG-wkKumYOQkex3bzQVk4F_PmOwrs3aXfI3Fewdg8o0fUcMdOL1yrqO7yz3U3h5KAvlQvPIIQVT7QvbXuCFhxlcgxZqN6WC2Dk3A0gT7w2EDxjW-g=w2400
+
+[p3-3]: https://lh3.googleusercontent.com/0s9qIsz3u8uNH0ZkNKXk4CwcmKM3ZtdZ-i14B1hTqrS2Ed6pKL9vFyBTH5ORKjB8LbOH5ZGvhlW01A04w3X8QCN4sp4pmcr6rkAQP_MHmFAr-dwO1SYeTmx9NiJ7Smwk1G_tWB6Nnw=w2400
+
+[p3-4]: https://lh3.googleusercontent.com/mCXkNtrOF37IquC4zBRglWmD1lPg_TIhHJMQ_BbUNaBQ6hQGWJpuff09-eWJVifM411MCmUT8-zQX_UMP2uqpy5aaM9yMQFlHszAB9No64NQg6Ru74UYyBWW0cMr6SAqrLJn_fgq4w=w2400
+
+[p3-5]: https://lh3.googleusercontent.com/M7-QDS7gwzlwEVHqCzpWQrR0rUvf6lSqdHXWa8rmyssSGhQ-hxkFK8uBHSE7CL8cR4A2WdOn2C8qPg0hmBvE7dEB7ZeJZlZ8X-bjT0jLwwp0rD2wXFYEHeSNFsoL0NJXSIL8eW2bKQ=w2400
+
+[p3-6]: https://lh3.googleusercontent.com/131ZQ8hZ2-Eg25FG3MZwCwkLMNYOikxi7h75kQUme5DWrQYebCGU3R2rvBHKawSHfW7iVSbC5ylG7BCp0cWDm9IqIKJi07XcYdBkSSDdWAlH-KZY4IaStyW4hgNBw50cf_H2PohGrQ=w2400
+
+[p3-7]: https://lh3.googleusercontent.com/w9Zxi_Cu4A0D4yIETD10Oz1RfSLiz7oz91__XDvM-7jbcHk3ynqIL9O_lhWqB6YKwZoSDF5wRHFKXcVdvLI4NgFUHZU_hzFq2WP8R43Orgw2k_FNiu7DTC5k3KtK2V48YWBLPkef7g=w300
+
+[p3-8]: https://lh3.googleusercontent.com/ZEKMCHYYvjhcSYuu9naNidje6Fom_OoQ6MrOk2zuVYhm4UG59Wl80SuKonvur_PnTd1IYrFYraoJI9AvzeBOfHG1epChHNX-SDWLQZ52_tOels59jlQ29nHY_YRj2R-5Bxi5djLt2Q=w2400
+
+[p3-9]: https://lh3.googleusercontent.com/slclJcF6hN3hGs2o9OQNjq237x_w3BMZUvGdUxVHZVOO0LsLC8HzeABfMkiRd4tp114fdWuoMAIQYWaXDqF3NekwyYuXqgwdJM9E7aNQdF_BT39f6jeCGskkUVJk8vVbipELxgAKag=w2400
+
 冰岛的后三天，大部分时间是在车轮上度过的。
 
 昼短夜长，每天出发时天都还没亮。透过车窗，总能看到安安静静遍地雪，明明晃晃一轮月。天虽未亮，四下却也不是漆黑一片。雪映着月光，云掩着星辉。宝蓝色的苍穹下，山峦嶙峋。
 
 到达旅行的第一个景点 Thingvellir 国家公园时，天边已是一片鱼肚白。登高远眺，大河弯弯。想起李宗盛的歌词，却不知自己能否，嬉皮笑脸，从容面对人生的难。
 
+![][p3-0]
+
+![][p3-1]
+
 待众人集结完毕，动身前往间歇泉的时候，太阳也从地平线上缓缓升了起来。冬日的晨光透过厚重的云层，显得越发的清冷。还好这雪地四周热气腾腾。被岩浆加热的地下水，每隔5-7分钟便从间歇泉口喷发而出。两年前在黄石，我为了一睹老忠实(old faithful) 喷发的场景，等待了足足九十分钟。而这个名叫Strokkur的间歇泉，性子急，每隔5-7分钟便迫不及待登场表演一次。让人毫无准备，因而惊喜连连。
+
+![][p3-2]
+
+![][p3-3]
 
 我们在地热公园停留了大约40分钟，便匆匆踏上旅程。下一站是Gullfoss，小名Golden Falls，说起来它算是第一天中最大的惊喜。论落差，论宽度，论水量，Gullfoss可能都榜上无名。但冬天的Gullfoss却能让人近距离感受到大自然的鬼斧神工。水，汽，冰—同一种物质的不同形态，在同一时间地点呈现在了游客的面前。瀑布的水汽不断蒸腾而上，遇冷凝结在枯草的周围，把它们变成了一根根的小冰柱。迎着太阳看，像是一串串的冰灯，晶莹剔透，闪闪发亮。
 
+![][p3-7]
+
 我就站在瀑布口，在这里能望见远处的Hvítá河。冰川融水源源不断奔流而来，经过这里，有的变成了蒸汽，有的变成了冰柱，而大部分还要日夜兼程继续奔流到远方。几千年前，它们是山顶的积雪，经过时间的沉淀变成了冰川的一部分。又经过了多少岁月，从山顶缓慢移动下来，融化成水，回归河流。周而复始，每个轮回便轻易跨过了几千年的人类历史。相比之下，我们不过是天地间的蜉蝣，沧海中之一粟而已。怎能不让人唏嘘感叹！
 
+![][p3-4]
+
+![][p3-5]
+
 离开Gullfoss的时候，太阳西斜，低垂在天边。我们的车缓缓行驶在铺满新雪的路上。忽然间，远处的云开始变得很低，一小朵一小朵的，或是挂在天上或是飘荡在房子的周围。那样子，就像一只一只的氢气球，悬在空中。
+
+![][p3-6]
 
 向导说，我们要进入地热区啦，那些云都是地热的蒸汽，遇冷凝结在了半空中。渐渐地，周围的一切开始变得朦胧起来，仿佛轻纱笼罩。由于雾气低矮，阳光没有被完全遮蔽，透过轻纱照射进来，洒在近处的牛儿马儿身上。动物们对这一切习以为常，安然自若地在雪地上吃着草。我想，仙境大约说得就是这儿吧。
 
 我们到达最后一个景点Seljalandsfoss waterfall的时候，太阳已经落山了。瀑布本身没有什么特别之处，只是遍地白雪，让人恍惚。以为是一阵风来，刮下了积雪，飘落在了脚下。
 
+![][p3-8]
+
 开车去旅馆的路上，四周又是白茫茫一片，没有车也没有灯。天还是宝蓝色的，飘着几朵淡淡的云。我在车里想着，今晚极光会不会降临呢？
+
+![][p3-9]
+
 #### 旅行小贴士：
 >冰岛是许多电视电影的取景点。一路上我们停留的 Thingvellir National Park 是 Game of throne的拍摄地点。在那里拍摄了 Wildlings 在 North Of The Wall 的场景和 White walkers 进军 North Of The Wall的场景。
 
 >在路上行驶的时候，我突然有一种置身 Interstellar中某一个星球的感觉，上网一查原来 Interstellar在冰岛有两处取景点。一处是 Svínafellsjökull Glacier, 那个白色的星球。另一处则是Mafabot。这两处都是南部环线上，若是自驾不妨开去感受一下。
 
 ## 黑沙滩
+[p4-1]: https://lh3.googleusercontent.com/OuNTAYQN3EmugRIj1uc0QMXefnKlfChgRxrD0S6ZVYN3H1WXjunsS440EGUv0-RYPRRuGQvmWF899VdynUqSYiagtk16KRpIw0N1Ni8AXIhPXkm08pgmcpvJ2B9E67zgnujy3QJaDw=w2400
+
+[p4-2]: https://lh3.googleusercontent.com/4agcArUrYckT2I49Qu60HIn6t0tp0pr3S7iSqP1NgOsICOtdq0WBoIFWgGbo3Cyg7ibTRhgTCFCZDowpbTQa_0XE5U15JP2JE6N0HacB8QXBLnVpECHE2Kc4b6UdJjlBZUQdz3ZVEw=w2400
+
+[p4-3]: https://lh3.googleusercontent.com/bVBVv_fxEGcmFHyTVg-_CI6XSg9vbPS0ueB_L1cYsoqbCH9jcN_e3Q_NGGHwFOlPYInCM6YJauqk7KWg9awJfdZWXB_cr847JHHbUdPx9xyKpk2faoezthJ7AOIqCReihSgxCT-gsg=w2400
+
+[p4-4]: https://lh3.googleusercontent.com/b0RHw9xI3gE5vi_j9A4cWJV2UF-u8G-R2CCpjMgL2TAgogPmIecbz-azZxhnda_sWk2mopCfos97qL7ifuB3ZKz62kO8IVQs4HzmYjWsHQmh9_1dqN2yLIvP4oIsdwR0FWrnm_GjpQ=w2400
+
 这一夜我们留宿在只有六百人居住的小镇 Vík。这里倚山傍海，著名的Reynisdrangar黑沙滩就在离小镇不远的海边。
 
 传说中一个月黑风高的夜晚，两只小精灵赶着在黎明前将一艘三桅船从大西洋上拖到小镇的岸边。谁知，未等他们完成就被初升的太阳石化在了峭壁上，也就变成了我们所看到的，伫立在岸边的黑色岩柱。
 
 当然了，这只是一则北欧的神话故事。所谓的黑沙滩，其实是由火山石形成的。火山喷发而出的熔岩经山口缓缓流下，滚烫的熔岩与冰冷的大西洋海水相遇了，在这冰与火的碰撞中，岩浆迅速冷却，变成了许多细小的颗粒。再经过时间的冲刷与洗涤，它们不仅没有了原来的血性也被磨平了棱角，躺在我手心里，光滑如镜，温润如玉。
 
+![p4-1]
+
+![p4-2]
+
 许多到过黑沙滩的人都说，它并没有照片拍得那么美。我想，他们定是没有来对时节。冬日里的黑沙滩，入口的草地上堆积着一片新雪。我们到得早，雪地上还没什么脚印。大雪无痕，山山水水在这白雪的世界里都变了模样。远处，浪花被海风裹挟着，汹涌地拍打着沙石。这些大西洋的裙摆，在黑色火山岩的映衬下，格外洁白细腻。脚下，海风吹起雪花，轻拂过沙石，一时间分不清楚，哪一朵是雪花，哪一朵又是浪花。
+
+![p4-3]
+
+![p4-4]
+
 #### 旅行小贴士:
 >黑沙滩有妖风和巨浪，切勿背对大西洋照相，容易被浪卷走。
 
 ## 欧若拉
+[p5-1]: https://lh3.googleusercontent.com/81fy0tRWPAJSol4h-ZkAezkxT0I17YzKcobPjpAg4zUG-F5L3pbBV9pHpEGp5nN_hqbksqXfle6zMJ75vZvPrBavLGhT06bUqmnJhT0xuaAXgEq_ojJ5JjDyWYhr2dZY9QQMF48x-Q=w2400
+
+[p5-2]: https://lh3.googleusercontent.com/lTbG_nzRK9FHBDV_sjeYA8ZsBkivNvctFJmxWRHJx1nQKm5IcOsGm4H_cuA_wdFO0mLi5RhQhQadtQKnoAWTKecyT5qM7CPpvW_i1O1tWOHfXjePT-B4UQNv0y--sRdc-cPk2I7eWw=w2400
+
+[p5-3]: https://lh3.googleusercontent.com/sbtabx_1D3suhl9a_CZohdwYNp9Z0iCVC8r6f1t9FzrUh3z9HfYYC4rUZ0R7XBsjB5mibu-IE4_xLSyG2xI9G2TpNTW5llyS0a3HyXU_dZ4nocvx2zzQIFeAw0ZK99MQwa13_4ICJA=w2400
+
 冬天到冰岛来，对极光不免有所期待。第一晚，极光指数达到了肉眼可见的三星。一屋子人吃着晚餐就急不可耐地向外张望，讨论着今晚见到极光的可能性。这时向导在一旁慢悠悠地说，“看极光得靠缘分，有时候各种条件都符合，极光也不一定出现”。也许是为了考验我们的耐心，那一晚极光果真没有赴约。第二天傍晚，极光指数还是三星，天空中还飘着些薄云。我早已做好了看不到极光的准备，所以当向导说今晚可能出现极光的时候，我连三脚架都没拿就出门了。
 
 夜幕沉沉，繁星点点。我们住的地方三面环山，群山就像守卫者，在夜幕下显得格外庄严肃穆。旅店的小木屋里透出盏盏灯光，这也是方圆几里内唯一的光源。我已经不记得在寒夜里站了多久，突然向导指着远处的一个山头说，极光来了。
@@ -83,6 +149,12 @@ Reykjavik 天气变化多端。我刚举手给窗外的雪山拍了张照，发�
 和极光的初次相见，并不是想象中的样子。想象中，她应该身着绿衣，翩翩而来。现实中，她只给我留下一道白色的烟雾。在多云的晚上，我甚至分不清哪一片是云，哪一片是极光。虽然有些失望，但我还是回去拿了三脚架想试试运气。
 
 第一次拍极光，心里有些忐忑。暗夜里，传来一声清脆的快门声，之后便是令人窒息的寂静。十五，十四，十三，我在心里默默倒数着。二十秒后屏幕一亮，一个和现实完全不同的世界呈现在眼前。镜头下，一道红光和一道绿光胶着着射向天际，像是两个高人在比试武艺，从谷底一直缠斗到天边，难分胜负。红光一会儿就消失了，接下来便是绿光的独舞。她以苍穹为舞台，流动着，跳跃着，变幻莫测。这时，寂静的山谷里响起了熟悉的旋律，“红橙黄绿蓝，五彩的欧若拉，爱就在心中，相信就会存在”。我回头一看，同车的姑娘们正拉着手大声地唱着《欧若拉》。此时此刻，还有什么比这首歌更应此景呢？
+
+![p5-1]
+
+![p5-2]
+
+![p5-3]
 
 ## 瓦特纳冰原
 瓦特纳冰原 (Vatnajökull) 是欧洲最大的冰原，超过8100平方千米。冰川面积占国家面积的8%之多，而冰层的平均厚度达到400米，最厚处达 到1000米。冰原的南部是冰岛最高山 (2110米)。这儿融合了冰盖和出口冰川，冰川下的火山经常会有地壳活动并伴随着大规模的洪水。

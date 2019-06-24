@@ -1,6 +1,7 @@
 ---
 title: "浅谈母系氏族的产生与其向父系氏族的过渡"
 subtitle: 与X同学商榷
+slug: gynecocracy
 date: 2007-04-07T01:53:40-04:00
 categories: ["Essay"]
 tags: ["Society", "Culture"]

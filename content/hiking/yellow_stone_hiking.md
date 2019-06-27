@@ -49,7 +49,7 @@ After one night at 9B6, we headed to the south. The landscape there is spectacul
 *Day 3: Iris Fall*
 
 #### Day 4
-![Day4_Group](http://4.bp.blogspot.com/-eFzU6XbQv9c/VAvTQeT9GmI/AAAAAAAAAJs/yUBZ9MHN5o8/s1600/IMG_9555.JPG)
+![Day4_Group](https://4.bp.blogspot.com/-eFzU6XbQv9c/VAvTQeT9GmI/AAAAAAAAAJs/yUBZ9MHN5o8/s1600/IMG_9555.JPG)
 *Day 4: Campsite 9U1*
 
 The forth day is an easy day, only 7 mils from 9U1 to 9F2. The trail became rocky, and many times weaves through vegetation, including raspberry bushes. We got to the campsite around 6 PM, 2 hours before the sunset. Had a really nice time at the campsite. And everyone was fully charged for the next coming big day.

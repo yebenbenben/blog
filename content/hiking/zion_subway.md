@@ -6,61 +6,61 @@ categories: ["Trip Report"]
 tags: ["Zion", "Arizona", "US South West", "Rappel", "Day Hike"]
 draft: false
 ---
-今年年初，偶然听朋友提起了锡安国家公园*Zion National Park*里的两条著名短途路线, 一条叫*The Narrows*，另一条叫*The Subway*。*The Narrows*的步道就是狭窄的河道，徒步者需要涉水行走两天。而*The subway*也不负其名，需要徒步者从狭小如纽约地铁的“隧道”里游泳而过。因为这两条线路都需要涉水，有一定危险性，因而不容易结集到伙伴通行。 然而没过多久，就遇到岩馆的“富婆”朋友提起想去*The Subway*的意向，于是我们一拍即合，于是才有了这次短暂的周末犹他之旅。
+今年年初，偶然听朋友提起了锡安国家公园 Zion National Park 里的两条著名短途路线, 一条叫 The Narrows，另一条叫 The Subway。The Narrows 的步道就是狭窄的河道，徒步者需要涉水行走两天。而 The Subway 也不负其名，需要徒步者从狭小如纽约地铁的“隧道”里游泳而过。因为这两条线路都需要涉水，有一定危险性，因而不容易结集到伙伴通行。 然而没过多久，就遇到岩馆的“富婆”朋友提起想去 The Subway 的意向，于是我们一拍即合，于是才有了这次短暂的周末犹他之旅。
 
-要走*The Subway*的第一步是申请Permit。为了保护环境，每天限200人进入，因此需要提前三个月预定。不过这个抽签相比大名鼎鼎的波浪谷还是容易多了。
+要走 The Subway 的第一步是申请 Permit。为了保护环境，每天限200人进入，因此需要提前三个月预定。不过这个抽签相比大名鼎鼎的波浪谷还是容易多了。
 
-然后，便是确定徒步的线路和做相应的准备。通向Subway的路线有两条， 一条bottom-up,起点在left fork trail head，逆流而上，小溪的尽头便是大名鼎鼎的，出现在各种照片里的subway下半部分，之后原路折返。 另外一条，便是我们走得top-down approach， trail head 在 wildcat canyon。从山顶一路顺着水流走到谷底，最后在left fork结束。这条路线能经过不同的地貌，游过subway的前半程，不需要走回头路。
+然后，便是确定徒步的线路和做相应的准备。通向Subway的路线有两条， 一条 bottom-up,起点在 left fork trail head，逆流而上，小溪的尽头便是大名鼎鼎的，出现在各种照片里的subway下半部分，之后原路折返。 另外一条，便是我们走得 top-down approach， trail head 在 wildcat canyon。从山顶一路顺着水流走到谷底，最后在 left fork结束。这条路线能经过不同的地貌，游过 The Subway 的前半程，不需要走回头路。
 
 当然了，天下没有免费的午餐。这样又有趣风景又好的路线自然有它傲娇的地方。首先，你得会游泳！很多地方， 水潭深深， 深如中国的股市。哈比族人一定要做好游泳准备。其次，途中遇到好几处需要down climb 或者 借助绳子rappel。千万不要小看不高的石头，或者过于相信看似很深的潭水！每年都有好多人，盲目的跳到水里，扭伤了脚，然后被营救出去。
 
 好了，如果你觉得你可以应付上述两项并且人品很好中了乐透彩，那就请移步[这里](http://www.canyoneeringusa.com/utah/zion/technical/the-subway-zion-top-down/)， 那儿有最全最详细的路线介绍和地图。
 
-现在，就让我来讲述一下我们这10个小时是如何过山车般度过的。清晨6点左右，我们踏着月光驱车来到shuttle bus的聚集点，开车尾随shuttle bus来到此次行程的终点，left fork trailhead。把车扔在left fork以后，我们便坐上shuttle，一路遥遥晃晃，迎着晨光来到了wildcat trailhead， 此行的出发点。一阵收拾以后，我们在八点左右，迎着旭日，呼吸着清冷的空气，踏上了旅程。大约在松林和沙地间行进30分钟，我们便看到了标有“赛百味”入口的牌子。众人大喜，与牌子合影之。
+现在，就让我来讲述一下我们这10个小时是如何过山车般度过的。清晨6点左右，我们踏着月光驱车来到shuttle bus的聚集点，开车尾随shuttle bus来到此次行程的终点，left fork trailhead。把车扔在left fork以后，我们便坐上 shuttle，一路遥遥晃晃，迎着晨光来到了 wildcat trailhead， 此行的出发点。一阵收拾以后，我们在八点左右，迎着旭日，呼吸着清冷的空气，踏上了旅程。大约在松林和沙地间行进30分钟，我们便看到了标有“赛百味”入口的牌子。众人大喜，与牌子合影之。
 
-![](http://3.bp.blogspot.com/-myAh2GMAc38/Vd6fO8Qz2DI/AAAAAAAAKKI/7-dbzjqGT8w/s1600/Photo%2BAug%2B09%252C%2B10%2B00%2B50%2BAM.jpg)*我们在 The Subway 入口*
+![](https://3.bp.blogspot.com/-myAh2GMAc38/Vd6fO8Qz2DI/AAAAAAAAKKI/7-dbzjqGT8w/s1600/Photo%2BAug%2B09%252C%2B10%2B00%2B50%2BAM.jpg)*我们在 The Subway 入口*
 
-不知走了多久， 脚下不再是沙土，方才意识到我们已经踏上了Russel Gultch。Russel Gultch是一个滑石(slick rock)地貌的峡谷，被河水冲刷出很多层次。这一段行程基本上就是由若隐若现的”玛尼堆“指路，偌大的峡谷如果没有这些人为堆砌的玛尼堆，很容易迷路。这一段路地势平缓，视野开阔。脚下，是河水冲刷而成的沟壑，它们沿着乳白色的石头蜿蜒到远方。山上，放眼望去是笔直的青松。一抬头，太阳恰好爬上山头。
+不知走了多久， 脚下不再是沙土，方才意识到我们已经踏上了 Russel Gultch。Russel Gultch是一个滑石(slick rock)地貌的峡谷，被河水冲刷出很多层次。这一段行程基本上就是由若隐若现的”玛尼堆“指路，偌大的峡谷如果没有这些人为堆砌的玛尼堆，很容易迷路。这一段路地势平缓，视野开阔。脚下，是河水冲刷而成的沟壑，它们沿着乳白色的石头蜿蜒到远方。山上，放眼望去是笔直的青松。一抬头，太阳恰好爬上山头。
 
-![](http://2.bp.blogspot.com/-VGkBpFMMxYI/Vd6iPjIbSqI/AAAAAAAAKKY/n2_CmMWhlWA/s1600/Photo%2BAug%2B09%252C%2B10%2B04%2B13%2BAM.jpg)*太阳恰好爬上山头*
+![](https://2.bp.blogspot.com/-VGkBpFMMxYI/Vd6iPjIbSqI/AAAAAAAAKKY/n2_CmMWhlWA/s1600/Photo%2BAug%2B09%252C%2B10%2B04%2B13%2BAM.jpg)*太阳恰好爬上山头*
 
-![](http://2.bp.blogspot.com/-9dT8aJ2Z4ic/Vd6iPmUBxAI/AAAAAAAAKKU/9NJIxlwANCU/s1600/Photo%2BAug%2B09%252C%2B10%2B05%2B28%2BAM.jpg)*河水留下的沟壑*
+![](https://2.bp.blogspot.com/-9dT8aJ2Z4ic/Vd6iPmUBxAI/AAAAAAAAKKU/9NJIxlwANCU/s1600/Photo%2BAug%2B09%252C%2B10%2B05%2B28%2BAM.jpg)*河水留下的沟壑*
 
 走着走着，周遭的景物渐渐的开始出现色彩。石头，渐渐显出红土的颜色。水流印下的纹路也开始变得细腻起来。乍一看，倒是同照片上看到的the wave 有些形似。五彩的石头，像起伏的波浪。远望，另一对旅人在下一个浪尖上行走。
 
-![](http://2.bp.blogspot.com/-l4B9u2ht6ns/Vd6kEJwgpZI/AAAAAAAAKKo/9TEuUiAtTH4/s1600/Photo%2BAug%2B09%252C%2B11%2B06%2B03%2BAM.jpg)
+![](https://2.bp.blogspot.com/-l4B9u2ht6ns/Vd6kEJwgpZI/AAAAAAAAKKo/9TEuUiAtTH4/s1600/Photo%2BAug%2B09%252C%2B11%2B06%2B03%2BAM.jpg)
 
-![](http://3.bp.blogspot.com/-U2bXUkQ2Ed0/Vd6lZ5qqNQI/AAAAAAAAKK8/gDAHAUlMna4/s1600/Photo%2BAug%2B09%252C%2B11%2B10%2B53%2BAM.jpg)
+![](https://3.bp.blogspot.com/-U2bXUkQ2Ed0/Vd6lZ5qqNQI/AAAAAAAAKK8/gDAHAUlMna4/s1600/Photo%2BAug%2B09%252C%2B11%2B10%2B53%2BAM.jpg)
 
-![](http://3.bp.blogspot.com/-BO9cSPuyahQ/Vd6kKNR34-I/AAAAAAAAKKw/411ibZdtMYw/s1600/Photo%2BAug%2B09%252C%2B11%2B15%2B49%2BAM.jpg)
+![](https://3.bp.blogspot.com/-BO9cSPuyahQ/Vd6kKNR34-I/AAAAAAAAKKw/411ibZdtMYw/s1600/Photo%2BAug%2B09%252C%2B11%2B15%2B49%2BAM.jpg)
 
 来不及陶醉于美景，不多会儿我们就来到了路程中最陡峭的下坡。坡陡到哈比族的我需要用屁股慢慢的蹭下去。等我们蹭到了谷底，太阳也差不多升到了半空。河谷两面的峭壁给我们提供了荫蔽，跟随着小溪欢快的脚步，我们来到了第一个需要速降的地点。这是一块大石头。
 
-![](http://3.bp.blogspot.com/-KJMAT1a5mhM/VeU-QoxyOUI/AAAAAAAAKMc/8EJdlIWjB7g/s1600/IMG_4018.jpg)
+![](https://3.bp.blogspot.com/-KJMAT1a5mhM/VeU-QoxyOUI/AAAAAAAAKMc/8EJdlIWjB7g/s1600/IMG_4018.jpg)
 
-哈比族人和她高大的小伙伴们迅速将绳子挂上已经setup好的bolt上，然后逐个开始速降。有些小伙伴并没有速降的经验，好在艺不高人胆大，右手抓紧绳子，双脚踩着岩壁（请自行脑补，武林高手从天而降），踏着凌波微步，便来到了谷底。等大伙儿都降到了谷底，收拾了绳子，收拾了激动的心情，就穿着wetsuit开始涉水了。峡谷幽深，潭水空灵，四周除了我们四个，空无一人。大家在深不过膝的水里又行走了大约20分钟，就来到了著名的“游泳池”。 从上面可以坐着像滑滑梯一样滑到深深的潭水中。只听见连续四声噗通，哈比族人和她的小伙伴们鱼贯而下。
+哈比族人和她高大的小伙伴们迅速将绳子挂上固定在岩壁上 bolt 上，然后逐个开始速降。有些小伙伴并没有速降的经验，好在艺不高人胆大，右手抓紧绳子，双脚踩着岩壁（请自行脑补，武林高手从天而降），踏着凌波微步，便来到了谷底。等大伙儿都降到了谷底，收拾了绳子，收拾了激动的心情，就穿着 wetsuit 开始涉水了。峡谷幽深，潭水空灵，四周除了我们四个，空无一人。大家在深不过膝的水里又行走了大约 20 分钟，就来到了著名的“游泳池”。 从上面可以坐着像滑滑梯一样滑到深深的潭水中。只听见连续四声噗通，哈比族人和她的小伙伴们鱼贯而下。
 
-![](http://2.bp.blogspot.com/-uK5Wc7elQcU/VeU-i92BDOI/AAAAAAAAKMs/50wFfT-rE9o/s1600/IMG_4030.jpg)
+![](https://2.bp.blogspot.com/-uK5Wc7elQcU/VeU-i92BDOI/AAAAAAAAKMs/50wFfT-rE9o/s1600/IMG_4030.jpg)
 
-![](http://2.bp.blogspot.com/-1AjZwkHS1vk/VeU-zEGGOlI/AAAAAAAAKM4/gdGjL-qYmOQ/s1600/Photo%2BAug%2B09%252C%2B13%2B37%2B00.jpg)*小哈比在狗刨*
+![](https://2.bp.blogspot.com/-1AjZwkHS1vk/VeU-zEGGOlI/AAAAAAAAKM4/gdGjL-qYmOQ/s1600/Photo%2BAug%2B09%252C%2B13%2B37%2B00.jpg)*小哈比在狗刨*
 
-游了大概20ft就可以触到底了，大家抖抖水，没走几步就又到了一个深潭。于是大家又纷纷狗刨入水。大概又行走了十多分钟，一段小悬崖又把小哈比和她的同伴们拦住了。这个小悬崖大概也就比小哈比高一点，虽然可以挂绳速降，但是位置不好，可能还是会磕碰到。所以大伙儿决定采用down climb的方法，左右脚分别蹬着两边的墙，慢慢挪下去。这个小断崖下去以后，要马不停蹄的跳入水中，没有喘歇的机会。过了这道坎，小伙伴们纷纷表示，已经游够泳啦，能不能让我们暖和一点！谷底无法照射到阳光，潭水因而变的冰冷刺骨，多亏了保暖的wet suit，阻挡了体温的迅速流失。
+游了大概20ft就可以触到底了，大家抖抖水，没走几步就又到了一个深潭。于是大家又纷纷狗刨入水。大概又行走了十多分钟，一段小悬崖又把小哈比和她的同伴们拦住了。这个小悬崖大概也就比小哈比高一点，虽然可以挂绳速降，但是位置不好，可能还是会磕碰到。所以大伙儿决定采用 down climb 的方法，左右脚分别蹬着两边的墙，慢慢挪下去。这个小断崖下去以后，要马不停蹄的跳入水中，没有喘歇的机会。过了这道坎，小伙伴们纷纷表示，已经游够泳啦，能不能让我们暖和一点！谷底无法照射到阳光，潭水因而变的冰冷刺骨，多亏了保暖的 wet suit，阻挡了体温的迅速流失。
 
-结果，没走多久新的挑战又在前面等着我们 - bowling ball corridor。这次是要从一块被河水冲刷的圆石上下去。本来这是一块被卡在峡谷中间的石头，探路者们都从底下涉水而过。但是前两年暴雨，冲下了好多根枯木，就这样堵在了石头前，堵住了下行的去路。于是，有人在石头缝里绑了根绳子，抓着绳子可以想办法爬下圆石。（可见，由于雨水冲刷，挡在探路者前面的障碍随时都有可能变化。所以千万要多准备些sling，以备不时之需。）小哈比跌跌撞撞的爬下了大圆石，又在水中行走了五六分钟，就来到了著名的keyhole fall，前面便是the subway的upper end。这里也是一个大约10ft的 rappel，下到一个小瀑布旁边。
+结果，没走多久新的挑战又在前面等着我们 - bowling ball corridor。这次是要从一块被河水冲刷的圆石上下去。本来这是一块被卡在峡谷中间的石头，探路者们都从底下涉水而过。但是前两年暴雨，冲下了好多根枯木，就这样堵在了石头前，堵住了下行的去路。于是，有人在石头缝里绑了根绳子，抓着绳子可以想办法爬下圆石。（可见，由于雨水冲刷，挡在探路者前面的障碍随时都有可能变化。所以千万要多准备些 sling，以备不时之需。）小哈比跌跌撞撞的爬下了大圆石，又在水中行走了五六分钟，就来到了著名的 keyhole fall，前面便是 The Subway 的 upper end。这里也是一个大约 10ft 的 rappel，下到一个小瀑布旁边。
 
-![](http://1.bp.blogspot.com/-CxzHlIcP8OA/VeU-08Y9r0I/AAAAAAAAKM8/FfXsAVdFqJw/s1600/Photo%2BAug%2B09%252C%2B14%2B32%2B47.jpg)*小哈比在rappel*
+![](https://1.bp.blogspot.com/-CxzHlIcP8OA/VeU-08Y9r0I/AAAAAAAAKM8/FfXsAVdFqJw/s1600/Photo%2BAug%2B09%252C%2B14%2B32%2B47.jpg)*小哈比在rappel*
 
-![](http://4.bp.blogspot.com/-giMB6Y69SZ4/Vekr1sdE0oI/AAAAAAAAKN4/1uxKte_g-gE/s1600/IMG_4071.jpg)*换一个视角*
+![](https://4.bp.blogspot.com/-giMB6Y69SZ4/Vekr1sdE0oI/AAAAAAAAKN4/1uxKte_g-gE/s1600/IMG_4071.jpg)*换一个视角*
 
-这个rappel需要一些技巧，因为bolt在另一侧的石头上，人下去的时候会往一边晃一下。如何减少晃动，不撞到自己宝贵智慧的脑袋，是小哈比下去之前想的唯一的问题。还好，智慧的脑袋没有辜负我，让我找到了平衡自己的方式，顺利的降到了谷底。这个速降是所有速降里最好玩的一个，也最具挑战性。小伙伴们看到我顺利到达，也就都鼓起勇气，依葫芦画瓢，一个一个也都安全的到达。这一段的空间及其狭小，就像一个小小的通风管道。小哈比一边游一边担心胖子来了会不会卡住。
+这个 rappel 需要一些技巧，因为 bolt 在另一侧的石头上，人下去的时候会往一边晃一下。如何减少晃动，不撞到自己宝贵智慧的脑袋，是小哈比下去之前想的唯一的问题。还好，智慧的脑袋没有辜负我，让我找到了平衡自己的方式，顺利的降到了谷底。这个速降是所有速降里最好玩的一个，也最具挑战性。小伙伴们看到我顺利到达，也就都鼓起勇气，依葫芦画瓢，一个一个也都安全的到达。这一段的空间及其狭小，就像一个小小的通风管道。小哈比一边游一边担心胖子来了会不会卡住。
 
-![](http://1.bp.blogspot.com/-0jA2dpSo4H4/VeU-3cdf_GI/AAAAAAAAKNE/I8OSBVY0L0U/s1600/Photo%2BAug%2B09%252C%2B14%2B37%2B58.jpg)*是真的很窄*
+![](https://1.bp.blogspot.com/-0jA2dpSo4H4/VeU-3cdf_GI/AAAAAAAAKNE/I8OSBVY0L0U/s1600/Photo%2BAug%2B09%252C%2B14%2B37%2B58.jpg)*是真的很窄*
 
-然后的旅程如图所示，就是继续游泳淌水。这些狭长的管道便是subway的上游。哈比人词汇有限，只能用鬼斧神工，别有洞天来形容它了。别看它只是一条狭长的管道，管道的侧面有很多大小不一的洞（就是小哈比坐得地方），对着里面唱歌，会有有很强的共鸣，声音通过水能传到相邻的洞里。走着走着我们就来到了出现在著名的*The Subway*下半部分。
+然后的旅程如图所示，就是继续游泳淌水。这些狭长的管道便是subway的上游。哈比人词汇有限，只能用鬼斧神工，别有洞天来形容它了。别看它只是一条狭长的管道，管道的侧面有很多大小不一的洞（就是小哈比坐得地方），对着里面唱歌，会有有很强的共鸣，声音通过水能传到相邻的洞里。走着走着我们就来到了出现在著名的 The Subway 下半部分。
 
-![](http://3.bp.blogspot.com/-Wp050jDVgDw/Vekrvp1xiHI/AAAAAAAAKNs/RgyYrIQFLQ8/s1600/Photo%2BAug%2B09%252C%2B14%2B57%2B39.jpg)
+![](https://3.bp.blogspot.com/-Wp050jDVgDw/Vekrvp1xiHI/AAAAAAAAKNs/RgyYrIQFLQ8/s1600/Photo%2BAug%2B09%252C%2B14%2B57%2B39.jpg)
 
-![](http://4.bp.blogspot.com/-ERfNPPXs3UE/Vekr22grPMI/AAAAAAAAKN8/SLyZJaQnrGc/s1600/IMG_4077.jpg)*著名的The Subway*
+![](https://4.bp.blogspot.com/-ERfNPPXs3UE/Vekr22grPMI/AAAAAAAAKN8/SLyZJaQnrGc/s1600/IMG_4077.jpg)*著名的The Subway*
 
 我想说，在网上搜旅游目的地风景照的一大诀窍是，找最丑得看，然后就不会失望。这个某宝上的卖家秀和买家秀是一个道理。我们去得时候雨水量没有那么大，所以水潭没有那么深。再者，水潭就算不浅，没有ps的水也不是那么的清澈如蓝宝石。其实吧，主要原因是，我们没有带好相机。
 
@@ -68,20 +68,20 @@ draft: false
 
 不过，不要因为兴奋过度，忘记了这里的游戏隐藏物品 -- 一个在洞里的小瀑布，建议大家都去体验一下--瀑布浴！
 
-![](http://2.bp.blogspot.com/-dqb1zbAHqV4/VekudlgjBUI/AAAAAAAAKOU/gQiRqgrU-ps/s1600/Photo%2BAug%2B09%252C%2B15%2B46%2B57.jpg)
+![](https://2.bp.blogspot.com/-dqb1zbAHqV4/VekudlgjBUI/AAAAAAAAKOU/gQiRqgrU-ps/s1600/Photo%2BAug%2B09%252C%2B15%2B46%2B57.jpg)
 *我有点站不起来*
 
 至此，你以为游戏差不多就该结束了，那你就错了。大家优哉游哉的晒了会儿太阳，吃了些东西，踩了会儿沙子（这里的沙子不知道为什么，比沙滩上的沙子柔软许多，完全没有杂质！）然后大概2点左右整装待发，向bottom up的那段旅程进发。
 
-这一段路程，其实放到平常还是很有意思的一段trail。沿着小溪，不停得在各种大石头上爬上爬下，还要在溪水两岸跳来跳去寻找可以走的路。可小伙伴们的兴奋劲儿已经过去了，只想着快些到达终点。这一路的景色和上半程比确实逊色了些，所以大家顾不得欣赏，一直在匆匆赶路，埋头苦走。
+这一段路程，其实放到平常还是很有意思的一段 trail。沿着小溪，不停得在各种大石头上爬上爬下，还要在溪水两岸跳来跳去寻找可以走的路。可小伙伴们的兴奋劲儿已经过去了，只想着快些到达终点。这一路的景色和上半程比确实逊色了些，所以大家顾不得欣赏，一直在匆匆赶路，埋头苦走。
 
-在烈日的暴晒下走了大概三个半小时，我们终于来到了trail的”疑似尽头“。大家好一阵兴奋，欢呼雀跃。结果，等来的是失望。又在烈日下走了许久以后，迎接我们的不是停车场，而是游戏的大boss -- 400ft的陡峭的攀登。
+在烈日的暴晒下走了大概三个半小时，我们终于来到了 trail 的”疑似尽头“。大家好一阵兴奋，欢呼雀跃。结果，等来的是失望。又在烈日下走了许久以后，迎接我们的不是停车场，而是游戏的大boss -- 400ft 的陡峭的攀登。
 
-在太阳的炙烤下，红色的岩石几乎摧毁了小哈比的最后一道心理防线。爬完坡我觉得我都快中暑了。然而，这不是结束，还要走过漫长的10分钟，你才能来到停车场。期间，小伙伴们一度都觉得走错路了。因为这段路，在炙热，缺水和饥饿的情况下显得尤为的漫长！等我们来到停车场后，小哈比瞬间便瘫软在地上，迫不及待的啜饮着从车里拿出来的，烤了10个小时的运动饮料。待大伙儿迎着夕阳开出了公园，抬起表来一看，距离我们出发，正好10个小时。
+在太阳的炙烤下，红色的岩石几乎摧毁了小哈比的最后一道心理防线。爬完坡我觉得我都快中暑了。然而，这不是结束，还要走过漫长的 10 分钟，你才能来到停车场。期间，小伙伴们一度都觉得走错路了。因为这段路，在炙热，缺水和饥饿的情况下显得尤为的漫长！等我们来到停车场后，小哈比瞬间便瘫软在地上，迫不及待的啜饮着从车里拿出来的，烤了 10 个小时的运动饮料。待大伙儿迎着夕阳开出了公园，抬起表来一看，距离我们出发，正好10个小时。
 
-![](http://3.bp.blogspot.com/-kt_3yFopSSc/VekwC39ZaRI/AAAAAAAAKOk/WuTQURnrx_U/s1600/Photo%2BAug%2B09%252C%2B19%2B14%2B17.jpg)*疑似尽头*
+![](https://3.bp.blogspot.com/-kt_3yFopSSc/VekwC39ZaRI/AAAAAAAAKOk/WuTQURnrx_U/s1600/Photo%2BAug%2B09%252C%2B19%2B14%2B17.jpg)*疑似尽头*
 
-![](http://1.bp.blogspot.com/-MX-TcqtQBiM/Vekwqw7j0FI/AAAAAAAAKOs/vZxW2LaIBiU/s1600/Photo%2BAug%2B09%252C%2B19%2B41%2B01.jpg)*结束的自拍*
+![](https://1.bp.blogspot.com/-MX-TcqtQBiM/Vekwqw7j0FI/AAAAAAAAKOs/vZxW2LaIBiU/s1600/Photo%2BAug%2B09%252C%2B19%2B41%2B01.jpg)*结束的自拍*
 
 回程的路上景色格外的美，有种”大漠孤烟直，长河落日圆“的感觉。这一路没能得到什么人生的启发，只是叹息自己的国文太差，没有好好背诵好词好句。面对满目的美景，张嘴吐出的却是”卧槽，好牛逼“。
 

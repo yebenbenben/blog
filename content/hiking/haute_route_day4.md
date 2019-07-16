@@ -7,7 +7,7 @@ tags: ["Switzerland", "France", "Europe", "Haute Route", "Backpacking"]
 draft: false
 ---
 
->路线：La Chable to Cabane Du Mont Fort
+>路线：La Chable – Cabane Du Mont Fort
 >
 >里程：6英里
 >

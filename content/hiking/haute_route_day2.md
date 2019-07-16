@@ -25,7 +25,7 @@ draft: false
 
 [p9]: https://1.bp.blogspot.com/-lalycJUMII8/XQRr7RG7pKI/AAAAAAAALeY/5mAv0P3UqWYx_vvP-NrnRRaUhyihkhFpACLcBGAs/s1600/Haute_Route-81.jpg
 
->路线：Trient - Fenetre d’Aprette - Champex-Lac
+>路线：Trient – Fenetre d’Aprette – Champex-Lac
 >
 >里程：9 英里
 >

@@ -8,13 +8,13 @@ draft: false
 ---
 
 
->路线：Gouille - Les Haudères – La Sage - Cabane de Moiry
+>路线：Gouille – Les Haudères – La Sage – Cabane de Moiry
 >
 >里程：12英里
 >
 >上升：6010英尺
 >
->Gouille - Les Haudères – La Sage 公交车
+>Gouille – Les Haudères – La Sage 公交车
 
 Guide Book 上说从 Arolla 走到 La Sage 需要四小时的脚程，然后从 La Sage 走到 Cabane de Moiry 又需要五个半小时。由于 Gouille 到 La Sage 的路穿梭在与公路平行的森林里，对于已经走了六天的我们吸引力不大，于是我们便决定早上搭公车去 La Sage。从 Gouille 到 Le Sage 没有直达的公车，需要在 Les Haudères 中转。我们就着这个空档，到附近的小村庄溜达了一下。
 

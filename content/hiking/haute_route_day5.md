@@ -7,7 +7,7 @@ tags: ["Switzerland", "France", "Europe", "Haute Route", "Backpacking"]
 draft: false
 ---
 
->路线：Cabane Du Mont Fort - Cabane de Prafleuri
+>路线：Cabane Du Mont Fort – Cabane de Prafleuri
 >
 >里程：9英里
 >

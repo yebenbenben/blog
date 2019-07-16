@@ -23,7 +23,7 @@ draft: false
 
 [p8]: https://1.bp.blogspot.com/-7EpPtzfs0J8/XQR1XXmBYuI/AAAAAAAALfc/FfyNVd-Y-Y0qCWpuhKDjoW7zprX7H5uhQCLcBGAs/s1600/Haute_Route-103.jpg
 
->路线：Champex-Lac to La Chable
+>路线：Champex-Lac – La Chable
 >
 >里程：8英里
 >

@@ -51,6 +51,7 @@ params:
     - "js/header-link.js"
   githubContentURL: "https://github.com/yebenbenben/blog/blob/master/content/"
   twitterImage: "/images/logo.png"
+  newsletterURL: "https://tinyletter.com/yebenbenben"
 
   # options for highlight.js (version, additional languages, and theme)
   highlightjsVersion: "9.12.0"
@@ -72,7 +73,9 @@ params:
   lang:
     edit: "编辑"
     license: "版权"
-    subscribe: "订阅"
+    subscribe: "RSS"
+    newsletter: "订阅"
+
 
 blackfriday:
     extensionsmask: ["noIntraEmphasis"]

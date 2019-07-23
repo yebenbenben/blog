@@ -4,7 +4,7 @@ date: 2017-09-02T16:38:17-04:00
 slug: haute_route_day10
 categories: ["Trip Report"]
 tags: ["Switzerland", "France", "Europe", "Haute Route", "Backpacking"]
-draft: true
+draft: False
 ---
 
 >路线：Gruben – Jungen — St.Niklaus – Zermatt

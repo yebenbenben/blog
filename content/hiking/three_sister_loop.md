@@ -92,6 +92,8 @@ This part of the hike in the afternoon were pretty boring since the view didn't 
 
 We finished dinner by the sunset and managed to go to bed around 8:30PM. I was woked up by another group of people at late night. In the morning I found out that they set up their tents below ours by the pond. 
 
+
+
 ###Day 2
 
 > Mesa Creek - South Matthieu Lake
@@ -158,6 +160,8 @@ After a short walk in the forest, we were out on lava land again, this time arou
 
 By the time we arrived at South Matthieu Lake it was around 5:30PM. *South Matthieu Lake* is a designated campsite area with only **three** campsites. We were uncertained if the spots were all taken, but as the ranger told us earlier, we can just camp outside the South Matthieu Lake area after filling up our water bottels. Or we can hike north to *North Matthiew Lake* which has more campsites. We circled around the lake and were luckily enough to grab one of the spot left. It was big and flat, enough room for a large group. We felt reliefed after securing the campsite and sat there for a while just enjoying the sunset and cellphone receptions!
 
+
+
 ### Day 2.5
 
 > South Matthieu Lake - Pole Creek Trail Head
@@ -169,6 +173,8 @@ I was mentally done with this trail after day 2. I thought the way back to trail
 We set out earlier in the morning and followed the Scott Trail down the hills. It was cloudy in the morning, perfect weather to hike. We were pretty happy and chatted a lot on our way down. When we hit the conjunction of Scott Trail and Green Lake Trail, we followd our trail map on Gaia GPS to continue down the Scott Trail until we got to the trail head. We then walked on semi-paved road for a while and back to an off-road  trail for cars. At that point, we were back down to the flat ground in burn area surrounded by charcoaled trees. There was no breeze and the sun was brutal. The constant unchanging scenary of burning trees made me depressed. I decided to look down to the road in front of me and block all other surroundings with my hat. It was the first time that I ever felt that time hangs heavy on my hands.
 
 After four and half hours of hiking, we finally made back to the car. And the first thing we did was to go to Mcdonald's again and eat some real meals.
+
+
 
 ### If You Go
 

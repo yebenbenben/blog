@@ -63,15 +63,13 @@ draft: false
 
 卢梭生前的最后一幅作品《梦境》(*The Dream*) 被 MoMA 收藏，同他的另一幅作品 《沉睡的吉普赛人》(*The Sleeping Gypsy*) 摆放在一起。大都会藏有一幅《捕食的狮子》，同《梦境》是一个色系的。在华盛顿的国家美术馆也有一幅流淌着金色梦幻的作品《Tiger In A Tropical Storm》。
 
-![the_dream](../../static/images/paintings/the_dream.jpg)*梦境，MoMA*
+![the_dream](/images/paintings/the_dream.jpg)*梦境，MoMA*
 
-![the_sleeping_gypsy](../../static/images/paintings/the_sleeping_gypsy.png)
-
-*沉睡的吉普赛人, MoMA*
+![the_sleeping_gypsy](/images/paintings/the_sleeping_gypsy.png)*沉睡的吉普赛人, MoMA*
 
 ![][p8]*捕食的狮子，大都会*
 
-![tiger_in_a_tropical_storm](../../static/images/paintings/tiger_in_a_tropical_storm.jpg)*Tiger In A Tropical Storm，国家美术馆*
+![tiger_in_a_tropical_storm](/images/paintings/tiger_in_a_tropical_storm.jpg)*Tiger In A Tropical Storm，国家美术馆*
 
 看了这么多图，你应该对卢梭儿童画式的风格有所熟悉了。在巴恩斯，你可以在各个展厅发现卢梭的画作，我数了一下，大大小小大概 有17 幅。放上我觉得最好玩的一幅《The Past and the Present》， 两颗悬浮在空中的头，让我想起了曾经痴迷的解密手机游戏 Cube Escape 里的 Rusty Lake，画风就是这样的（顺便强推一下这个系列的手游）。
 

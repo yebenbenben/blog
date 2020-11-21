@@ -25,18 +25,14 @@ draft: false
 >
 > 西岸的主题是海，可以躺在沙滩上看海，可以在岸边浮潜，也可以去海底看魔鬼鱼。
 
-[blue_jack]: https://media.giphy.com/media/hVdUdldvKRiTkFVPDm/giphy.gif
+
 [moray_eel_moving]: https://media.giphy.com/media/QbK60f4Iugdn6opsdw/giphy.gif
 [moray_eel_peacock_grouper]:https://media.giphy.com/media/9EKncgECQmk0TpEAC6/giphy.gif
 [spotted_boxfish]:https://media.giphy.com/media/ok2V2lXoM68cDo5VbR/giphy.gif
 [cornfish]:https://media.giphy.com/media/oJN6e7T2tf6GpV3wFt/giphy.gif
-[saddle_wrasse]:https://media.giphy.com/media/Hu2d2e3USlZH2IqKfY/giphy.gif
 [yellow_tang]:https://media.giphy.com/media/NE0MXXLi06ItrLc0CV/giphy.gif
-[group_fish]:https://media.giphy.com/media/xjNOjLTB1azvjf83v5/giphy.gif
-[spotted_porcupinefish]:https://media.giphy.com/media/tS84LVJddxJRWdV6nc/giphy.gif
 [black_triggerfish]:https://media.giphy.com/media/zafSJlx7foAFcctufd/giphy.gif
 [manta_ray]:https://media.giphy.com/media/DQ8H4JgkpNbcP9cQSZ/giphy.gif
-
 [shallow_fish]: https://media.giphy.com/media/dDpUo9tLrWksKhwhLV/giphy.gif
 
 **Captain Cook Monument （Kealakekua Bay）**
@@ -49,17 +45,17 @@ draft: false
 
 我们的船在离岸不远的地方下锚。跳下船是深水区，这里水质清澈，能见度很高。从船上下来，游一小会儿便到了浅水区，这里鱼群聚集，种类也很丰富，只可惜近岸处的珊瑚群没能幸免于 2014 - 2015 年由于海水突然升温而导致的白化现象（56% 的大岛珊瑚在 2014 - 2015 年发生白化。![group_fish]( https://media.giphy.com/media/xjNOjLTB1azvjf83v5/giphy.gif )
 
-![black_triggerfish](https://media.giphy.com/media/zafSJlx7foAFcctufd/giphy.gif "black triggerfish" ) 
+![black_triggerfish](https://media.giphy.com/media/zafSJlx7foAFcctufd/giphy.gif )
+*black triggerfish*
 
-![spotted_porcupinefish]
-
+![spotted_porcupinefish](https://media.giphy.com/media/tS84LVJddxJRWdV6nc/giphy.gif)
 *一只孤独的 Spotted Porcupinefish*
 
-![saddle_wrasse]
-
+![saddle_wrasse](https://media.giphy.com/media/Hu2d2e3USlZH2IqKfY/giphy.gif)
 *Saddle Wrasse，也看到了 Bird Wrasse，Pearl Wrasse，Yellowtail Coris 和各种颜色鲜艳的 Parrotfish*
 
-![blue_jack]
+![blue_jack](https://media.giphy.com/media/hVdUdldvKRiTkFVPDm/giphy.gif)
+*三只杰克**
 
 **Two Step （Honaunau Bay）**
 

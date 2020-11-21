@@ -25,17 +25,6 @@ draft: false
 >
 > 西岸的主题是海，可以躺在沙滩上看海，可以在岸边浮潜，也可以去海底看魔鬼鱼。
 
-
-[moray_eel_moving]: https://media.giphy.com/media/QbK60f4Iugdn6opsdw/giphy.gif
-[moray_eel_peacock_grouper]:https://media.giphy.com/media/9EKncgECQmk0TpEAC6/giphy.gif
-[spotted_boxfish]:https://media.giphy.com/media/ok2V2lXoM68cDo5VbR/giphy.gif
-[cornfish]:https://media.giphy.com/media/oJN6e7T2tf6GpV3wFt/giphy.gif
-[saddle_wrasse]:https://media.giphy.com/media/Hu2d2e3USlZH2IqKfY/giphy.gif
-[yellow_tang]:https://media.giphy.com/media/NE0MXXLi06ItrLc0CV/giphy.gif
-[black_triggerfish]:https://media.giphy.com/media/zafSJlx7foAFcctufd/giphy.gif
-[manta_ray]:https://media.giphy.com/media/DQ8H4JgkpNbcP9cQSZ/giphy.gif
-[shallow_fish]: https://media.giphy.com/media/dDpUo9tLrWksKhwhLV/giphy.gif
-
 **Captain Cook Monument （Kealakekua Bay）**
 
 1799 年，第三次远航的库克船长在夏威夷和岛民发生冲突遇害身亡，后世为了纪念他在他去世的地方竖立了一座白色方尖碑（方尖碑下的这方土壤归英国所有），现在这里成了大岛最好的浮潜点。
@@ -46,16 +35,13 @@ draft: false
 
 我们的船在离岸不远的地方下锚。跳下船是深水区，这里水质清澈，能见度很高。从船上下来，游一小会儿便到了浅水区，这里鱼群聚集，种类也很丰富，只可惜近岸处的珊瑚群没能幸免于 2014 - 2015 年由于海水突然升温而导致的白化现象（56% 的大岛珊瑚在 2014 - 2015 年发生白化。![group_fish]( https://media.giphy.com/media/xjNOjLTB1azvjf83v5/giphy.gif )
 
-![black_triggerfish](https://media.giphy.com/media/zafSJlx7foAFcctufd/giphy.gif "black triggerfish" )
+![black_triggerfish](https://media.giphy.com/media/zafSJlx7foAFcctufd/giphy.gif  )
 
 ![spotted_porcupinefish](https://media.giphy.com/media/tS84LVJddxJRWdV6nc/giphy.gif)
-*一只孤独的 Spotted Porcupinefish*
 
 ![saddle_wrasse](https://media.giphy.com/media/Hu2d2e3USlZH2IqKfY/giphy.gif)
-*Saddle Wrasse，也看到了 Bird Wrasse，Pearl Wrasse，Yellowtail Coris 和各种颜色鲜艳的 Parrotfish*
 
 ![blue_jack](https://media.giphy.com/media/hVdUdldvKRiTkFVPDm/giphy.gif)
-*三只杰克**
 
 **Two Step （Honaunau Bay）**
 
@@ -73,23 +59,20 @@ Two Step 旁边就是 Puuhonua O Honaunau National Historical Park，这里是�
 
 总之这是一个可以戏水，可以浮潜，老少皆宜全的浮潜点。沙滩后面的 Napua at Mauna Lani Beach Club 是个不错的餐馆，游累了可以喝杯鸡尾酒，游饿了可以室外就餐一下。
 
-![spotted_boxfish]
-*胖乎乎的 Spotted Boxfish*
+![yellow_tang](https://media.giphy.com/media/NE0MXXLi06ItrLc0CV/giphy.gif)
 
-![cornfish]
-*cornfish 鱼如其名*
+![spotted_boxfish](https://media.giphy.com/media/ok2V2lXoM68cDo5VbR/giphy.gif)
 
-![moray_eel_moving]
-*游动的 Moray Eel*
+![cornfish](https://media.giphy.com/media/oJN6e7T2tf6GpV3wFt/giphy.gif)
 
-![moray_eel_peacock_grouper]
-*Peacock Grouper 巧遇守在珊瑚中的 Moray Eel*
+![moray_eel_moving](https://media.giphy.com/media/QbK60f4Iugdn6opsdw/giphy.gif)
 
-![shallow_fish]
-*在沙滩附近看到的鱼群*
+![moray_eel_peacock_grouper](https://media.giphy.com/media/9EKncgECQmk0TpEAC6/giphy.gif)
+
+![shallow_fish](https://media.giphy.com/media/dDpUo9tLrWksKhwhLV/giphy.gif)
 
 **Night Manta Ray Snorkeling / Dive**
-![manta_ray]
+![manta_ray](https://media.giphy.com/media/DQ8H4JgkpNbcP9cQSZ/giphy.gif)
 
 在大岛不可错过的活动便是 Manta Ray 夜潜。
 夏威夷不是唯一一个可以近距离观看 Manta Ray 的地方，但这里的 Manta Ray 是世界上唯一会利用灯光捕食的群落。是 Manta 们自己发现宾馆照射在水面上的灯光能够吸引到他们的食物，才开始利用灯光带来的便利进行捕食。
@@ -102,10 +85,7 @@ Two Step 旁边就是 Puuhonua O Honaunau National Historical Park，这里是�
 >个人觉得深潜观感更好，一是不用承受海面的大风大浪，二是能更近距离的观看 Manta。
 >夏威夷之旅坚定了我要去学深潜的决心
 
-
-
 #### 中部 - Mauna Kea
-
 [sunset_mauna_kea]: https://lh3.googleusercontent.com/KowM0jqn4y8Q5rUqDF2JHDUJLSvdkFhxhtAF3G9nG08MNTiGmdRQj7XaRztTZlRIGGnpCQii9_qXcdUAexneXgwmKrWm7Kb_yAkiDfPRU5_nR3l49ePmIjt4LPWAZ3Ghg6WLYRAJtwwvkUrJzY9Ee0OqsCNf-HfqE9SHOc0Qte90PeNI3MQBBDXw17PtyIHMrJIbiTYWm5WRDY5Hzh93tZ767AJCTxXfWfyMs1gajbyrwNGlGQSRSEemlsmcTxw3FIXrR62WFjCoh4EqJwofzMNBwwW8WIHAZ7FkPRMQW8f1jtJO0DPrHQjmbeMSad95wLRbW13REfrgxxZqzMbWuE4eAYuEd_vxTHosfIpDn_V3W7HbqCoVWnaImB2kZIJt34VLkZmJTXx7H1SrwJnJ7_k9uzhlfe_q34gwNIG3Zh4fqhhr3OSJ9S1y42flvwYnDRl4LoxR-JWInmj1SkkI8fn51_EQqs9l0SDdCcBdvivL8T7yLbxQVTq9jtrIq4BZd7asTIyuDqw6t84c1drpjZekPFioK8GC4g2Tyhosl-GTtrMRaQ5Fg8cmp6NAc_6p3leOkQ6l--wlDIQktEDAXFD224LjJPxGr6-OC50vXQq4zjSnmTHw9C3Ogt9v7XG097nOQuOj2BD2VlGQvCaJ5GXd1tmlS9p2jj9fD7McsRkL12wShCGbV6yHBDYRCA=w2400-no-tmp.jpg
 
 ![sunset_mauna_kea]
@@ -115,8 +95,6 @@ Mauna Kea 山顶的海拔大概 4205 米，从海平面开到山顶只需要一�
 由于气温永远和海拔成反比，无论山下多么炎热潮湿，山顶永远值得你带羽绒服和防风衣。从 Visitor Center 上山有一段土路，只有 4WD 才能上去，连都 AWD 不行。疫情期间本以为车不多，结果太阳下山前，陆陆续续来了十几辆 Jeep，齐刷刷停在了观景台边上。
 
 原则上太阳落山后半小时就不能在山顶停留了。如果想裸眼观星的话， Visitor Center 由于海拔低氧气含量比山顶高40%，是肉眼观星的最佳地点。
-
-
 
 #### 东部 - Hilo + Hamakua Coast
 

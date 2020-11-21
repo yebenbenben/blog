@@ -19,13 +19,13 @@ draft: false
 
 世界上大概只有在这里才能在三小时车程之内体会到如此剧烈的气候变化。
 
-####西部 - Kailua-Kona
+### 西部 - Kailua-Kona
 
 > Kailua-Kona 是大岛的旅游中心，距离机场二十分钟车程。这里有Walmart，Costco，Safeway 等大型超市可供大家购买浮潜装备和日常用品。靠海的 Alii Drive 算是岛上的旅游吃喝一条街，有海景酒吧和各种旅游纪念品小店。疫情期间这条小街算是大岛上十分热闹的地段了。
 >
 > 西岸的主题是海，可以躺在沙滩上看海，可以在岸边浮潜，也可以去海底看魔鬼鱼。
 
-**Captain Cook Monument （Kealakekua Bay）**
+#### Captain Cook Monument (Kealakekua Bay)
 
 1799 年，第三次远航的库克船长在夏威夷和岛民发生冲突遇害身亡，后世为了纪念他在他去世的地方竖立了一座白色方尖碑（方尖碑下的这方土壤归英国所有），现在这里成了大岛最好的浮潜点。
 
@@ -45,7 +45,7 @@ draft: false
 
 ![blue_jack](https://media.giphy.com/media/hVdUdldvKRiTkFVPDm/giphy.gif)
 
-**Two Step （Honaunau Bay）**
+#### Two Step (Honaunau Bay)
 
 Two Steps 得名于海边的两块石头，他们是浮潜的最佳入水点。坐在第一块石头上穿脚蹼，然后踩着下一级入水。相比 Captian Cook Monument，这里的水质稍逊色，但胜在水下地形丰富，珊瑚也相对健康。由于藏在峡湾里，海面平静。下午的大岛经常起风，如果想下午浮潜，这里是个不错的选择。
 
@@ -53,7 +53,7 @@ Two Step 没有沙滩，对于我来说它唯一的不足就是出水和入水�
 
 Two Step 旁边就是 Puuhonua O Honaunau National Historical Park，这里是古夏威夷人逃离死刑的避难所。所有能逃到这里的人，无论犯了什么罪，都能免除死刑，重返社会。
 
-**Makaiwa Bay**
+#### Makaiwa Bay
 
 这是我最喜欢的一个浮潜点，连着去了两次。入水点在 Mauna Lani Beach Club 的沙滩上。由于 Beach Club 没有公共停车位，需要把车停在 Kalahuipua'a Historic Park 的公共停车场，然后步行 0.7 mile 。这一路穿过曾经的熔岩场和古夏威夷人用来捕海鱼的池塘。池塘里养着许多海鱼，譬如鳗鱼和Pufferfish，如果浮潜的时候看不到，在这里看一看也是不错的。
 
@@ -73,9 +73,7 @@ Two Step 旁边就是 Puuhonua O Honaunau National Historical Park，这里是�
 
 ![shallow_fish](https://media.giphy.com/media/dDpUo9tLrWksKhwhLV/giphy.gif)
 
-**Night Manta Ray Snorkeling / Dive**
-
-![manta_ray](https://media.giphy.com/media/DQ8H4JgkpNbcP9cQSZ/giphy.gif)
+#### Night Manta Ray Snorkeling / Dive
 
 在大岛不可错过的活动便是 Manta Ray 夜潜。
 夏威夷不是唯一一个可以近距离观看 Manta Ray 的地方，但这里的 Manta Ray 是世界上唯一会利用灯光捕食的群落。是 Manta 们自己发现宾馆照射在水面上的灯光能够吸引到他们的食物，才开始利用灯光带来的便利进行捕食。
@@ -88,10 +86,10 @@ Two Step 旁边就是 Puuhonua O Honaunau National Historical Park，这里是�
 >个人觉得深潜观感更好，一是不用承受海面的大风大浪，二是能更近距离的观看 Manta。
 >夏威夷之旅坚定了我要去学深潜的决心
 
-#### 中部 - Mauna Kea
-[sunset_mauna_kea]: https://lh3.googleusercontent.com/KowM0jqn4y8Q5rUqDF2JHDUJLSvdkFhxhtAF3G9nG08MNTiGmdRQj7XaRztTZlRIGGnpCQii9_qXcdUAexneXgwmKrWm7Kb_yAkiDfPRU5_nR3l49ePmIjt4LPWAZ3Ghg6WLYRAJtwwvkUrJzY9Ee0OqsCNf-HfqE9SHOc0Qte90PeNI3MQBBDXw17PtyIHMrJIbiTYWm5WRDY5Hzh93tZ767AJCTxXfWfyMs1gajbyrwNGlGQSRSEemlsmcTxw3FIXrR62WFjCoh4EqJwofzMNBwwW8WIHAZ7FkPRMQW8f1jtJO0DPrHQjmbeMSad95wLRbW13REfrgxxZqzMbWuE4eAYuEd_vxTHosfIpDn_V3W7HbqCoVWnaImB2kZIJt34VLkZmJTXx7H1SrwJnJ7_k9uzhlfe_q34gwNIG3Zh4fqhhr3OSJ9S1y42flvwYnDRl4LoxR-JWInmj1SkkI8fn51_EQqs9l0SDdCcBdvivL8T7yLbxQVTq9jtrIq4BZd7asTIyuDqw6t84c1drpjZekPFioK8GC4g2Tyhosl-GTtrMRaQ5Fg8cmp6NAc_6p3leOkQ6l--wlDIQktEDAXFD224LjJPxGr6-OC50vXQq4zjSnmTHw9C3Ogt9v7XG097nOQuOj2BD2VlGQvCaJ5GXd1tmlS9p2jj9fD7McsRkL12wShCGbV6yHBDYRCA=w2400-no-tmp.jpg
+![manta_ray](https://media.giphy.com/media/DQ8H4JgkpNbcP9cQSZ/giphy.gif)
 
-![sunset_mauna_kea]
+### 中部 - Mauna Kea
+[sunset_mauna_kea]: https://lh3.googleusercontent.com/KowM0jqn4y8Q5rUqDF2JHDUJLSvdkFhxhtAF3G9nG08MNTiGmdRQj7XaRztTZlRIGGnpCQii9_qXcdUAexneXgwmKrWm7Kb_yAkiDfPRU5_nR3l49ePmIjt4LPWAZ3Ghg6WLYRAJtwwvkUrJzY9Ee0OqsCNf-HfqE9SHOc0Qte90PeNI3MQBBDXw17PtyIHMrJIbiTYWm5WRDY5Hzh93tZ767AJCTxXfWfyMs1gajbyrwNGlGQSRSEemlsmcTxw3FIXrR62WFjCoh4EqJwofzMNBwwW8WIHAZ7FkPRMQW8f1jtJO0DPrHQjmbeMSad95wLRbW13REfrgxxZqzMbWuE4eAYuEd_vxTHosfIpDn_V3W7HbqCoVWnaImB2kZIJt34VLkZmJTXx7H1SrwJnJ7_k9uzhlfe_q34gwNIG3Zh4fqhhr3OSJ9S1y42flvwYnDRl4LoxR-JWInmj1SkkI8fn51_EQqs9l0SDdCcBdvivL8T7yLbxQVTq9jtrIq4BZd7asTIyuDqw6t84c1drpjZekPFioK8GC4g2Tyhosl-GTtrMRaQ5Fg8cmp6NAc_6p3leOkQ6l--wlDIQktEDAXFD224LjJPxGr6-OC50vXQq4zjSnmTHw9C3Ogt9v7XG097nOQuOj2BD2VlGQvCaJ5GXd1tmlS9p2jj9fD7McsRkL12wShCGbV6yHBDYRCA=w2400-no-tmp.jpg
 
 Mauna Kea 山顶的海拔大概 4205 米，从海平面开到山顶只需要一个多小时车程。突然的海拔上升，可能会带来高原反应，因此所有开车上山顶的游客都被要求在 2804 米处的 Visitor Information Center 停留至少半小时。Covid 期间 Visitor Center 当然是关闭的，窗外下着小雨，我们只能坐在车里干瞪眼，看着手机上的 webcam 监控山顶的天气。虽然山下阴雨连绵，乌云漫布，但据刚下来的小伙说，过了 3000米天就放晴了。这也是为什么虽然大岛常年降水，从远处看山上总是蒙着一层云雾，山顶却能成为著名的天文观测点，让世界各国争相在上面架设天文望远镜。
 
@@ -99,7 +97,9 @@ Mauna Kea 山顶的海拔大概 4205 米，从海平面开到山顶只需要一�
 
 原则上太阳落山后半小时就不能在山顶停留了。如果想裸眼观星的话， Visitor Center 由于海拔低氧气含量比山顶高40%，是肉眼观星的最佳地点。
 
-#### 东部 - Hilo + Hamakua Coast
+![sunset_mauna_kea]
+
+### 东部 - Hilo + Hamakua Coast
 
 > 我们在 Hilo 住了两晚，半天用来回访火山国家公园，半天用来探险 Lava Tube。Hilo 是大岛的首府，相对旅游中心 Kona 更加接地气。由于火山截住了大部分的雨水，让 Hilo 拥有和 Kona 截然不同的热带雨林气候。
 >
@@ -107,9 +107,8 @@ Mauna Kea 山顶的海拔大概 4205 米，从海平面开到山顶只需要一�
 
 [lava_tube]: https://lh3.googleusercontent.com/IHgX-ONGRO6tcNyVQEjMHAHKCVsRIjtx2gBsz4rILOvDzRqeoxt6jTYkojETJam3ZTlOucD1kbUSxgmrCkB8YFjFQVnz5c2aKSTQ1pcY15vZ0AznWmiZ3egy7HRFsEJxftxpU4ZbsvzSVv5nFkyxNJ1-x9BQSrT3vn9ZfZm4zUpX8d4pSj2ZYcJMTDaJcVIch3_cFkjT8skh1a3uSrhwJYD70GgIlenkS3jyBEsynf49dOBUniodMXJsbAoDajWvfqs4VVhoRh4OP8ao3b1qU7-4q2moxfK6v4RIJbO2vCFjSrPfbBBnUpEIpN7N_Nt2QrYZsLbxhZ_Bn_ApH5QCbW1Yy6l1WvB8L14xVG8PIaeBMwCImsfKkeI0iODIN-JV8LxucE3jNyAynwh_OyEaeKgdutbeBklKvpp1_JI314enExvnSi0Db-AmJGS7LYEPsgu4ch6tW7RaVXnMNBixWrBboOqX-lJkQLPQathaRG9hY0b66MwoBnm_WKVoTscpbLb_DW-ejGDpiWr9z0U-OBJboyoxJw-2JQT0eF5KQHkQyessI_xH7dpn9Uyouc-HvhJ3XrrvPjF1HpOmRBFpFvgP5INuM49IlJ5Wfkz3s5WUJ9blLyewWinhC-My8NebH9Cf1Jv-P8go9OQDsTeMKNQeQpChbHmkQ4oLHo9mOzyJELo6_onVJ6OT5BXO6Q=w1202-h802-no?authuser=0
 
-**Lava Tube**
 
-![lava_tube]
+#### Lava Tube 
 
 受疫情影响，火山国家公园的 THURSTON LAVA TUBE 暂时不对外开放。我们只好去 Hilo 附近十五分钟车程的 [KAUMANA CAVES](https://www.lovebigisland.com/activities-to-do/lava-tubes/)。这个由 Mauna Loa 的岩浆产生的 Lava Tube 长达 25 mile，对外开放的部分大约为 2 mile。岩洞很原始，没有灯光和栈道，行走其中颇有探险的野趣。
 
@@ -117,16 +116,19 @@ Kaumana Caves 分左右两个洞口，互不相通。因为大同小异，选择
 
 来这里一定要带头灯和雨衣（如果之前下过雨的话，洞里会很潮湿）。
 
-**PEPE’EKEO (Onomea) Scenic Drive**
+![lava_tube]
+
+#### PEPE’EKEO (Onomea) Scenic Drive
 
 从 Hilo沿着 19 号公路北上，在 mile mark 7 - 8 之间有一个 scenic drive 的指示牌，指向和 19 号公路平行的一段 4 mile 长的公路。如果去 Hawaii Tropical Botanical Garden 的话一定会走这条路， 可惜由于疫情植物园现在不对外开放。这条公路蜿蜒在庞大的热带雨林绿植中，让人完全忘记了火山区的干燥和荒芜。
 
+### 南部 - Volcano + Volcanoes National Park
 
+#### South Point
 
-#### 南部 - Volcano + Volcanoes National Park
+#### Punaluu Black Sand Beach
 
-**Volcanoes Nation Park**
-
+#### Volcanoes National Park
 火山国家公园占地面积很大，但随着 2018 年的火山爆发，这座火山公园可供观赏的景点就不多了。
 
 **Kīlauea Overlook**

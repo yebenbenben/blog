@@ -33,7 +33,9 @@ draft: false
 >
 > 如果是跟船游，船的 permit 不允许浮潜者上岸，一般可以在这里浮潜上一个小时左右。如果自己租 Kayak，需要确定租船公司有可以浮潜的 permit。徒步来纪念碑时间上更自由，但小径单程 2 mile， 垂直升降 1400 ft，也没什么树荫，雨后土路比较湿滑。如果决定徒步，请带足饮用水，量力而行。
 
-我们的船在离岸不远的地方下锚。跳下船是深水区，这里水质清澈，能见度很高。从船上下来，游一小会儿便到了浅水区，这里鱼群聚集，种类也很丰富，只可惜近岸处的珊瑚群没能幸免于 2014 - 2015 年由于海水突然升温而导致的白化现象（56% 的大岛珊瑚在 2014 - 2015 年发生白化。![group_fish]( https://media.giphy.com/media/xjNOjLTB1azvjf83v5/giphy.gif )
+我们的船在离岸不远的地方下锚。跳下船是深水区，这里水质清澈，能见度很高。从船上下来，游一小会儿便到了浅水区，这里鱼群聚集，种类也很丰富，只可惜近岸处的珊瑚群没能幸免于 2014 - 2015 年由于海水突然升温而导致的白化现象（56% 的大岛珊瑚在 2014 - 2015 年发生白化。!
+
+![group_fish]( https://media.giphy.com/media/xjNOjLTB1azvjf83v5/giphy.gif )
 
 ![black_triggerfish](https://media.giphy.com/media/zafSJlx7foAFcctufd/giphy.gif  )
 
@@ -72,6 +74,7 @@ Two Step 旁边就是 Puuhonua O Honaunau National Historical Park，这里是�
 ![shallow_fish](https://media.giphy.com/media/dDpUo9tLrWksKhwhLV/giphy.gif)
 
 **Night Manta Ray Snorkeling / Dive**
+
 ![manta_ray](https://media.giphy.com/media/DQ8H4JgkpNbcP9cQSZ/giphy.gif)
 
 在大岛不可错过的活动便是 Manta Ray 夜潜。
@@ -138,7 +141,7 @@ Kaumana Caves 分左右两个洞口，互不相通。因为大同小异，选择
 [before_after]: https://volcanoes.usgs.gov/observatories/hvo/multimedia_uploads/multimediaFile-2554.jpg
 
 ![web_cam_volcano]
- *webcam 拍下的岩浆湖的塌陷过程 (from USGS)*
+*webcam 拍下的岩浆湖的塌陷过程 (from USGS)*
 
 ![before_after]
 *Before and After (from USGS)*
@@ -151,7 +154,6 @@ Kaumana Caves 分左右两个洞口，互不相通。因为大同小异，选择
 这是公园里最热门的环线徒步路线，沿着火山坑边缘行走 2 miles，然后横穿火山坑，总长 4 miles。这座小火山在 1959 年发生过一次大规模喷发，行走在火山坑底部，地面凹凸不平，像是地震后的柏油马路，时刻提醒着人们地壳运动的威力。
 
 ![volcano_overview]
-
 *从高处俯瞰*
 
 ![volcano_bottom]
@@ -168,22 +170,29 @@ Chain of Craters Road 是火山国家公园里的一条著名景观公路，从 
 这条路修建之初通向海边小镇 Kalapana，但 1983 年的火山喷发把公路拦腰截断。时间快进到 2014 年，一股岩浆突然变道，向东流往小镇 Pāhoa。为了确保当地居民能够安全撤离，政府和公园用压路机推平了火山岩，开出了一条紧急撤离通道（Emergency Access Route）。2018 年喷发前，沿着这条碎石路就能到达岩浆出海口，小镇周围也有许多旅游团组织大家近距离观看“岩浆入海”。随着 2018 年 Kīlauea 火山的喷发，这一切都不复存在。没有了游人如织，Covid 期间这里显得格外冷清。
 
 ![lava_vs_sea]
-冰与火的曾经交汇的地方
+*冰与火的曾经交汇的地方*
 
 ![lava_life]
-植物顽强的生命力带来给了火山岛勃勃生机
+*植物顽强的生命力带来给了火山岛勃勃生机*
 
 ![rainbow_state]
-一下午见到的第三次彩虹，不负rainbow state 盛名
+*一下午见到的第三次彩虹，不负rainbow state 盛名*
 
 #### 北部 - Kohala Coast
 
 **Waipio Valley**
-
 [waipio_outlook]: https://lh3.googleusercontent.com/HC6V0ORCLGLsvlH3LwT_ns2Xa7vzEoFfkV47mvseG92CELobegu2F_48p-GMYSPg4VOjuju4Fu6gCxL9-d6hYLARpqe6LiWXU--XwHpOOs9BwQSIeIRvSqkEFCCaEmDBkxfl0jYH9u-BcCRxUWM4qEGFJRmmgrogcB4WZXxBUNLLNC4eOFLwwgA8a4-7kmHfZuuHiHRPbCS_ixiz7f_GiEu029X8KpkqLD6v4pSFQSaCCB4WsARlvoR9Du3E1CewuNj--HcQ6rxiaIa-XtM8Nxpj3Z2CqD9myW2mjFVBkXSuPtbOE3C5RnHThl9vrg0XURDSmvXxDQGSyVIMTw1hAOrsWvHh3b1jBlHbcvS1uJ7JVO8uZzWkDHDsbl5yQ6V6a20Gea935WJz8ammAM3bsQC26SymxhP0d4reNYd01GrkQditZp5YF3HfRAjl-I10Nght6isGLjGcTkkTbzg8qjdDnEnDEWq-YRWsqNdDoMU9X-Uyb496qXkd0vcaztVSBB4kHvQMtA_ULjbKhUWOBaYygdBy5p6A4PtyMLc55kjqhzYCA--rUCsZdHMLGhUEi0jNqQl6tgbwDLebuEK58DyQspr8IEjcYPyNKoJe_31SVI18HvuC4xVFi6laoAqrLe07seagyFMJwUvKhuBWPfhCPoWcr5cCa1_x2FCT_qcmxrp7zf2zOp1D10sm6g=w2400-no-tmp.jpg
+![waipio_outlook]
+*Waipio Outlook*
 
 **Pololu Valley**
 
 [black_sand_beach]: https://lh3.googleusercontent.com/bgqVyz2h9MCEJ1YrCOsjrgWDDbw3vxxm1D4_FNSlx5xB2_WEm919WCXrtPNBJRh_vWnMnzjiNqOVaAbTphbey0DNrrF401QykgEZTSMkCW1BWrLHxuuo-OD_z_gNs8QZf5DXrPtWrM5MO6dgx5w-ZZHqfOZDrzYaG8lOnsuORh_3oVdrdH0Ejaud5WknHeIechdQ3AXHNumbwS7GjvECAj0rAiJTj-MqcFeUJxVSKDC83g5tyNZoZYsTrErRgISFJr_nRx0WZFeI9huarlgBY18vzK_tbJRY7N01fCL_2G1amGQrtyGeGwH5N3XUksvXOkZup6pdf9tVxx45WA9JctjdnWVBghGlK-YAUaXjdoHRRgGx8OFt14Dt2wTRRjIknfO4Sh0vPITutE4QrYnsv2EsXJQdvFBV1JxY-Z8VGfvmAuSNXYyBVCxmTjlzSZ9CY1VB6EPu9D3s5iv956YpDVOaJjwcubfBF9eG9tx5J6VaYBw9HKY9q1upFL36cTf9UJmJPJRI0MfTRE8sBOQBAhFKEUnAF4t63hqKnh4xapjP1G1SkyLR7DTATZHL5s7AQFnU_vcGGzlN9MKHJBbgFH1X1Vbkf_sWFgOIgSwwcnWm3yVo95-ZYQDGGvxs6QlBcTXCs8E6qaU7E-AXt9U1hLF-ykr-l2t-uFkpdZwsRMzTTehgHXXZHhm28VOe_A=w2400-no-tmp.jpg
+
 [tree_by_the_sea]: https://lh3.googleusercontent.com/e8Z8B2DY4qXl1tbkaU_o--AijaREViffLsw_qi9973kpq0Isg-8NPVgM1gAT84-5WKN7JbN1ud4lBoP5_4qd6laqXj_iC6ggbY-5S68HMDeukH04wq5ld6pcZexQEDs-cl7w6ltbgYRwNbDeaZvalHYZeFpVgV1sDHTqD9Qh-Pw9cQ7uvz2mTgDGVYDLALO3yyCMXBaGQfuxxV0DKAaj8Ofyd1jRWQQDzJy1DYvz7F2bJu8sGM1eGcAAfl8TrduL28PXjP5BrC6XEzALC2c9RVvOAsbQZFjLArs6AZfsvod3Y_kJSySCavPgaCyeXXRCsnLPaInsKEq-vPfHwS_EqtW8AneU9skEuLHHVAj05_ljLZw9UA9o7LFgvFrUQ3vZQoFoYtcq59g2VI4eVm8jG40W0o9XcZJYUhSt9sHfLx5u2QOxXH2Qfzg5vvrPAFYDRRsct0pzKMAxPg_EH3aAXNIP4zVpOgBIisq3HHmNHSKemqyURDNn1a3JZgdnPlFDbNooid_RyJ419mKLArjG6ptWgn_SkayGT4zgRVPfr6xogvmElfF4myW7SKK11mq5QHr6XUa6hH6WPs9tu-Q9EPUW534i70hBsHz9VFaRN0SRG8yTfwRw32N-aijtgXJOzeQxFlzlsd0tQ8NNrzI308MZPL9WR-GqxdxmQuACNw2amwRJUYk5KUyX5sKJ5w=w2400-no-tmp.jpg
+
 [valley_tree]:https://lh3.googleusercontent.com/K2_CE_B-g3mfquxkMVkCSTIP-XsG8WhtTagbIeJ2HwoOOR39e5EtlxuEkd4v5_AhDAoLhnL3BYzEyWsKY40mSIcsIu1q8WqkH60crpEaCa7bU36KOW54Nq-PvhMwAECtPudzdbLI2797gT3l_5_BrshUIV91GU18kfMpYAcOeYNQBZ5yV2k36Q_6btYF5tXmUFOlub9ew-GEu4jCYsb2UQHvlCB1r8TYgeS5FT45mBzcs7-RPHBcdrBzCaffoNws3lajbjjoz44dbkqlZoQsDJAXB6zbSWoESgt-5m00zZPF-S0yuj3r0J0a4JOhozSdDZx5icDxCqEzyMhQjg5ZMsoj2BmKXsukFDGuTx-Cj-q57JwN9XEBSrkcmzqq7ms_Qi7Tr07-KvP_JQBHDIZkjops5jk9z3u8GwBi-OaBwy1kzDdVrDH-2AOVFH4xHVWGSK8-vPXoeiXpKpapUNy4IQjDlMDj0eBmLJ7ZNXNkAMFEcqtL3QALfc_3y9v7maY3_p5-cqVmvdBaUaBWL7ZLSaT6Hf6bTdbAOY1EB5ZmfGwWzR2wBPJm1M06UQ2OIvhuuCf1sprJ7pjyOi8vzOZ7Hog8mpyWM29sGbJ6m6Yu3UuFmhP3fEK1zE8UwhSrdISdSyHS7c2_iq2ER_101NvqHvgz9ugDZ1pLv2Bm1GEUBcJIRZAQJdwqyoz8fq_HFQ=w2400-no-tmp.jpg
+
+![black_sand_beach]
+![tree_by_the_sea]
+![valley_tree]

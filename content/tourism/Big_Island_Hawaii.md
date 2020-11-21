@@ -25,7 +25,7 @@ draft: false
 >
 > 西岸的主题是海，可以躺在沙滩上看海，可以在岸边浮潜，也可以去海底看魔鬼鱼。
 
-[blue_jack]: https://media.giphy.com/media/hVdUdldvKRiTkFVPDm/giphy.gif	"三只杰克"
+[blue_jack]: https://media.giphy.com/media/hVdUdldvKRiTkFVPDm/giphy.gif
 [moray_eel_moving]: https://media.giphy.com/media/QbK60f4Iugdn6opsdw/giphy.gif
 [moray_eel_peacock_grouper]:https://media.giphy.com/media/9EKncgECQmk0TpEAC6/giphy.gif
 [spotted_boxfish]:https://media.giphy.com/media/ok2V2lXoM68cDo5VbR/giphy.gif
@@ -47,13 +47,9 @@ draft: false
 >
 > 如果是跟船游，船的 permit 不允许浮潜者上岸，一般可以在这里浮潜上一个小时左右。如果自己租 Kayak，需要确定租船公司有可以浮潜的 permit。徒步来纪念碑时间上更自由，但小径单程 2 mile， 垂直升降 1400 ft，也没什么树荫，雨后土路比较湿滑。如果决定徒步，请带足饮用水，量力而行。
 
-我们的船在离岸不远的地方下锚。跳下船是深水区，这里水质清澈，能见度很高。从船上下来，游一小会儿便到了浅水区，这里鱼群聚集，种类也很丰富，只可惜近岸处的珊瑚群没能幸免于 2014 - 2015 年由于海水突然升温而导致的白化现象（56% 的大岛珊瑚在 2014 - 2015 年发生白化。
+我们的船在离岸不远的地方下锚。跳下船是深水区，这里水质清澈，能见度很高。从船上下来，游一小会儿便到了浅水区，这里鱼群聚集，种类也很丰富，只可惜近岸处的珊瑚群没能幸免于 2014 - 2015 年由于海水突然升温而导致的白化现象（56% 的大岛珊瑚在 2014 - 2015 年发生白化。![group_fish]( https://media.giphy.com/media/xjNOjLTB1azvjf83v5/giphy.gif )
 
-![group_fish]
-
-![black_triggerfish]
-
-*一群 black triggerfish*
+![black_triggerfish](https://media.giphy.com/media/zafSJlx7foAFcctufd/giphy.gif "black triggerfish" ) 
 
 ![spotted_porcupinefish]
 
@@ -98,6 +94,7 @@ Two Step 旁边就是 Puuhonua O Honaunau National Historical Park，这里是�
 
 **Night Manta Ray Snorkeling / Dive**
 ![manta_ray]
+
 在大岛不可错过的活动便是 Manta Ray 夜潜。
 夏威夷不是唯一一个可以近距离观看 Manta Ray 的地方，但这里的 Manta Ray 是世界上唯一会利用灯光捕食的群落。是 Manta 们自己发现宾馆照射在水面上的灯光能够吸引到他们的食物，才开始利用灯光带来的便利进行捕食。
 
@@ -167,10 +164,10 @@ Kaumana Caves 分左右两个洞口，互不相通。因为大同小异，选择
 [before_after]: https://volcanoes.usgs.gov/observatories/hvo/multimedia_uploads/multimediaFile-2554.jpg
 
 ![web_cam_volcano]
- webcam 拍下的岩浆湖的塌陷过程 (from USGS)
+ *webcam 拍下的岩浆湖的塌陷过程 (from USGS)*
 
 ![before_after]
-Before and After (from USGS)
+*Before and After (from USGS)*
 
 **Kīlauea Iki Trail**
 
@@ -180,10 +177,11 @@ Before and After (from USGS)
 这是公园里最热门的环线徒步路线，沿着火山坑边缘行走 2 miles，然后横穿火山坑，总长 4 miles。这座小火山在 1959 年发生过一次大规模喷发，行走在火山坑底部，地面凹凸不平，像是地震后的柏油马路，时刻提醒着人们地壳运动的威力。
 
 ![volcano_overview]
- 从高处俯瞰
+
+*从高处俯瞰*
 
 ![volcano_bottom]
-地壳运动的威力和顽强的植物
+*地壳运动的威力和顽强的植物*
 
 **Chain of Craters Road**
 

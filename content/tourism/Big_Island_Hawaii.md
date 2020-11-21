@@ -25,7 +25,7 @@ draft: false
 >
 > 西岸的主题是海，可以躺在沙滩上看海，可以在岸边浮潜，也可以去海底看魔鬼鱼。
 
-[blue_jack]: https://media.giphy.com/media/hVdUdldvKRiTkFVPDm/giphy.gif
+[blue_jack]: https://media.giphy.com/media/hVdUdldvKRiTkFVPDm/giphy.gif	"三只杰克"
 [moray_eel_moving]: https://media.giphy.com/media/QbK60f4Iugdn6opsdw/giphy.gif
 [moray_eel_peacock_grouper]:https://media.giphy.com/media/9EKncgECQmk0TpEAC6/giphy.gif
 [spotted_boxfish]:https://media.giphy.com/media/ok2V2lXoM68cDo5VbR/giphy.gif
@@ -52,16 +52,18 @@ draft: false
 ![group_fish]
 
 ![black_triggerfish]
+
 *一群 black triggerfish*
 
 ![spotted_porcupinefish]
+
 *一只孤独的 Spotted Porcupinefish*
 
 ![saddle_wrasse]
+
 *Saddle Wrasse，也看到了 Bird Wrasse，Pearl Wrasse，Yellowtail Coris 和各种颜色鲜艳的 Parrotfish*
 
 ![blue_jack]
-*三只杰克*
 
 **Two Step （Honaunau Bay）**
 

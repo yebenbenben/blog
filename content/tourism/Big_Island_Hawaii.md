@@ -4,7 +4,7 @@ date: 2020-11-20T23:51:26-04:00
 slug: hawaii
 categories: ["Trip Thoughts"]
 tags: ["Hawaii", "BigIsland", "Sightseeing", "Snorkelling"]
-draft: true
+draft: false
 ---
 
 > 转眼间，纽约的冬天就要到了, 居家上班已经八个多月了。错过了夏季，能出去走走的机会就只剩下踏秋和滑雪了。秋是一定会踏到的，出了门到中央公园就是满园的秋色。距离雪季还有两三个月，出不了远门就要白白浪费了假期，这让我很是苦恼。

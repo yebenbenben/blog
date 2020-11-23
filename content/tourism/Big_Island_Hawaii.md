@@ -117,6 +117,7 @@ Mauna Kea 山顶的海拔大概 4205 米，从海平面开到山顶只需要一�
 > 我们住在离市中心不远的 Airbnb 丛林小屋里，窗前是高耸入天的热带植物，脚下是潺潺的溪水。本该是岁月静好，却不料夜夜蛙声不断。[coqui frog](https://en.wikipedia.org/wiki/Coqu%C3%AD) 这种只有硬币大小的树蛙是夏威夷的入侵物种，由于没有蝌蚪阶段，他们不需要池塘就能繁殖，生命力顽强，小小的身躯能爆发出 80 分贝的噪音。不像 Kona 的鸟儿，早晨六点唱一小时歌就收工，树蛙大合唱往往要进行一晚上，让早晨的时光显得格外安静美好。
 
 ![geiko](https://media.giphy.com/media/um7w2aRaeaSMeeiswS/giphy.gif)
+
 在热带雨林小木屋吃早餐时，投食的小壁虎。
 
 [lava_tube]: https://lh3.googleusercontent.com/IHgX-ONGRO6tcNyVQEjMHAHKCVsRIjtx2gBsz4rILOvDzRqeoxt6jTYkojETJam3ZTlOucD1kbUSxgmrCkB8YFjFQVnz5c2aKSTQ1pcY15vZ0AznWmiZ3egy7HRFsEJxftxpU4ZbsvzSVv5nFkyxNJ1-x9BQSrT3vn9ZfZm4zUpX8d4pSj2ZYcJMTDaJcVIch3_cFkjT8skh1a3uSrhwJYD70GgIlenkS3jyBEsynf49dOBUniodMXJsbAoDajWvfqs4VVhoRh4OP8ao3b1qU7-4q2moxfK6v4RIJbO2vCFjSrPfbBBnUpEIpN7N_Nt2QrYZsLbxhZ_Bn_ApH5QCbW1Yy6l1WvB8L14xVG8PIaeBMwCImsfKkeI0iODIN-JV8LxucE3jNyAynwh_OyEaeKgdutbeBklKvpp1_JI314enExvnSi0Db-AmJGS7LYEPsgu4ch6tW7RaVXnMNBixWrBboOqX-lJkQLPQathaRG9hY0b66MwoBnm_WKVoTscpbLb_DW-ejGDpiWr9z0U-OBJboyoxJw-2JQT0eF5KQHkQyessI_xH7dpn9Uyouc-HvhJ3XrrvPjF1HpOmRBFpFvgP5INuM49IlJ5Wfkz3s5WUJ9blLyewWinhC-My8NebH9Cf1Jv-P8go9OQDsTeMKNQeQpChbHmkQ4oLHo9mOzyJELo6_onVJ6OT5BXO6Q=w1202-h802-no?authuser=0
@@ -194,7 +195,7 @@ Chain of Craters Road 是火山国家公园里的一条著名景观公路，从 
 *植物顽强的生命力带来给了火山岛勃勃生机*
 
 ![rainbow_state]
-*一下午见到的第三次彩虹，不负rainbow state 盛名*
+*一下午见到的第三次彩虹，不负 rainbow state 盛名*
 
 ## 北部 
 从 Hilo 回东岸走的是北边的 19 号公路，这条公路穿越了多变的气候带，途径大岛北部的中心 Waimea 镇。这座位于东西两岸之间的小镇，气候适中，有着大片青翠的草场。19 号公路相对 11 号公路开起来更为悠闲，让人更能放松的享受沿途的风景。

@@ -1,5 +1,5 @@
 ---
-title: "大岛"
+title: "大岛，这里的世界很奇妙"
 date: 2020-11-20T23:51:26-04:00
 slug: hawaii
 categories: ["Trip Thoughts"]

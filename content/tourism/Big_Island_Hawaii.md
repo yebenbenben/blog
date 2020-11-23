@@ -43,7 +43,7 @@ draft: false
 
 ![spotted_porcupinefish](https://media.giphy.com/media/tS84LVJddxJRWdV6nc/giphy.gif)
 
-*一只孤独的 spotted porcupinefish *
+*一只孤独的 spotted porcupinefish*
 
 ![saddle_wrasse](https://media.giphy.com/media/Hu2d2e3USlZH2IqKfY/giphy.gif)
 

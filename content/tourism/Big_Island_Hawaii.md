@@ -35,23 +35,28 @@ draft: false
 
 ![group_fish]( https://media.giphy.com/media/xjNOjLTB1azvjf83v5/giphy.gif )
 
-鱼群之中有一只 Bird Wrasse，你看见了吗？
+*鱼群之中有一只 Bird Wrasse，你看见了吗？*
 
 ![black_triggerfish](https://media.giphy.com/media/zafSJlx7foAFcctufd/giphy.gif  )
 
-一群 Black Triggerfish。这种鱼扇懂动鱼鳍的方式很特别，像只扑腾着翅膀的鸟。他们远看是黑色的，近看身上有蓝绿色的条纹。
+*一群 Black Triggerfish。这种鱼扇懂动鱼鳍的方式很特别，像只扑腾着翅膀的鸟。他们远看是黑色的，近看身上有蓝绿色的条纹*
 
 ![spotted_porcupinefish](https://media.giphy.com/media/tS84LVJddxJRWdV6nc/giphy.gif)
 
-一只孤独的 spotted porcupinefish 
+*一只孤独的 spotted porcupinefish *
 
 ![saddle_wrasse](https://media.giphy.com/media/Hu2d2e3USlZH2IqKfY/giphy.gif)
 
-Saddle Wrasse 是夏威夷本土的一种 Warasse
+*Saddle Wrasse 是夏威夷本土的一种 Warasse*
 
 ![blue_jack](https://media.giphy.com/media/hVdUdldvKRiTkFVPDm/giphy.gif)
 
-三只杰克，这种体积很大的鱼经常能在夏威夷的浅水区遇见。阳光照在他们身上，蓝色的鱼鳍格外好看。
+*三只杰克，这种体积很大的鱼经常能在夏威夷的浅水区遇见。阳光照在他们身上，蓝色的鱼鳍格外好看*
+
+![parrot_fish](https://media.giphy.com/media/TBS4R8qhhaubn7a2Qn/giphy.gif)
+
+*一直雄性鹦哥鱼（Parrot Fish） 和他的后宫佳丽之一。大部分鹦哥鱼出生的时候是母的，当群体里的公鱼死亡或是离开群体，母鱼就有机会变性成雄鱼。这种鱼在浮潜的时候出镜率特别高，由于他们鲜艳的肤色，和相对大的体型很容易识别*
+
 #### Two Step (Honaunau Bay)
 Two Steps 得名于海边的两块石头，他们是浮潜的最佳入水点。坐在第一块石头上穿脚蹼，然后踩着下一级入水。相比 Captian Cook Monument，这里的水质稍逊色，但胜在水下地形丰富，珊瑚也相对健康。由于藏在峡湾里，海面平静。下午的大岛经常起风，如果想下午浮潜，这里是个不错的选择。
 
@@ -67,23 +72,23 @@ Two Step 旁边就是 Puuhonua O Honaunau National Historical Park，这里是�
 
 ![yellow_tang](https://media.giphy.com/media/NE0MXXLi06ItrLc0CV/giphy.gif)
 
-最常见的是 Yellow Tang 鱼群
+*最常见的是 Yellow Tang 鱼群*
 
 ![spotted_boxfish](https://media.giphy.com/media/ok2V2lXoM68cDo5VbR/giphy.gif)
 
-一只雄性 Spotted Boxfish，它的肚子是深蓝色的头顶有着斑点，同 yellow tang 一对比就能显出它的娇小。
+*一只雄性 Spotted Boxfish，它的肚子是深蓝色的头顶有着斑点，同 yellow tang 一对比就能显出它的娇小*
 
 ![cornetfish](https://media.giphy.com/media/oJN6e7T2tf6GpV3wFt/giphy.gif)
 
-这是一只cornetfish，游得特别慢，像一根针。
+*这是一只cornetfish，游得特别慢，像一根针*
 
 ![moray_eel_moving](https://media.giphy.com/media/QbK60f4Iugdn6opsdw/giphy.gif)
 
-一只游动的 Moray Eel
+*一只游动的 Moray Eel*
 
 ![moray_eel_peacock_grouper](https://media.giphy.com/media/9EKncgECQmk0TpEAC6/giphy.gif)
 
-一只守在洞口的 Moray Eel 和 Peacock Grouper （夏威夷外来物种）
+*一只守在洞口的 Moray Eel 和 Peacock Grouper （夏威夷外来物种）*
 
 ![shallow_fish](https://media.giphy.com/media/dDpUo9tLrWksKhwhLV/giphy.gif)
 #### Night Manta Ray Snorkeling / Dive
@@ -99,6 +104,10 @@ Two Step 旁边就是 Puuhonua O Honaunau National Historical Park，这里是�
 >夏威夷之旅坚定了我要去学深潜的决心
 
 ![manta_ray](https://media.giphy.com/media/DQ8H4JgkpNbcP9cQSZ/giphy.gif)
+
+最后我我想隆重推出夏威夷的[州鱼（Humuhumunukunukuāpuaʻa）](https://en.wikipedia.org/wiki/Reef_triggerfish)。请在水下睁大眼睛，也许你们会不期而遇。
+![Humuhumunukunukuāpuaʻa](https://img.theculturetrip.com/1440x807/smart/wp-content/uploads/2018/03/rhinecanthus-rectangulus.jpg)
+
 ## 中部 - Mauna Kea
 [sunset_mauna_kea]: https://lh3.googleusercontent.com/KowM0jqn4y8Q5rUqDF2JHDUJLSvdkFhxhtAF3G9nG08MNTiGmdRQj7XaRztTZlRIGGnpCQii9_qXcdUAexneXgwmKrWm7Kb_yAkiDfPRU5_nR3l49ePmIjt4LPWAZ3Ghg6WLYRAJtwwvkUrJzY9Ee0OqsCNf-HfqE9SHOc0Qte90PeNI3MQBBDXw17PtyIHMrJIbiTYWm5WRDY5Hzh93tZ767AJCTxXfWfyMs1gajbyrwNGlGQSRSEemlsmcTxw3FIXrR62WFjCoh4EqJwofzMNBwwW8WIHAZ7FkPRMQW8f1jtJO0DPrHQjmbeMSad95wLRbW13REfrgxxZqzMbWuE4eAYuEd_vxTHosfIpDn_V3W7HbqCoVWnaImB2kZIJt34VLkZmJTXx7H1SrwJnJ7_k9uzhlfe_q34gwNIG3Zh4fqhhr3OSJ9S1y42flvwYnDRl4LoxR-JWInmj1SkkI8fn51_EQqs9l0SDdCcBdvivL8T7yLbxQVTq9jtrIq4BZd7asTIyuDqw6t84c1drpjZekPFioK8GC4g2Tyhosl-GTtrMRaQ5Fg8cmp6NAc_6p3leOkQ6l--wlDIQktEDAXFD224LjJPxGr6-OC50vXQq4zjSnmTHw9C3Ogt9v7XG097nOQuOj2BD2VlGQvCaJ5GXd1tmlS9p2jj9fD7McsRkL12wShCGbV6yHBDYRCA=w2400-no-tmp.jpg
 
@@ -118,7 +127,7 @@ Mauna Kea 山顶的海拔大概 4205 米，从海平面开到山顶只需要一�
 
 ![geiko](https://media.giphy.com/media/um7w2aRaeaSMeeiswS/giphy.gif)
 
-在热带雨林小木屋吃早餐时，投食的小壁虎。
+*在热带雨林小木屋吃早餐时，投食的小壁虎*
 
 [lava_tube]: https://lh3.googleusercontent.com/IHgX-ONGRO6tcNyVQEjMHAHKCVsRIjtx2gBsz4rILOvDzRqeoxt6jTYkojETJam3ZTlOucD1kbUSxgmrCkB8YFjFQVnz5c2aKSTQ1pcY15vZ0AznWmiZ3egy7HRFsEJxftxpU4ZbsvzSVv5nFkyxNJ1-x9BQSrT3vn9ZfZm4zUpX8d4pSj2ZYcJMTDaJcVIch3_cFkjT8skh1a3uSrhwJYD70GgIlenkS3jyBEsynf49dOBUniodMXJsbAoDajWvfqs4VVhoRh4OP8ao3b1qU7-4q2moxfK6v4RIJbO2vCFjSrPfbBBnUpEIpN7N_Nt2QrYZsLbxhZ_Bn_ApH5QCbW1Yy6l1WvB8L14xVG8PIaeBMwCImsfKkeI0iODIN-JV8LxucE3jNyAynwh_OyEaeKgdutbeBklKvpp1_JI314enExvnSi0Db-AmJGS7LYEPsgu4ch6tW7RaVXnMNBixWrBboOqX-lJkQLPQathaRG9hY0b66MwoBnm_WKVoTscpbLb_DW-ejGDpiWr9z0U-OBJboyoxJw-2JQT0eF5KQHkQyessI_xH7dpn9Uyouc-HvhJ3XrrvPjF1HpOmRBFpFvgP5INuM49IlJ5Wfkz3s5WUJ9blLyewWinhC-My8NebH9Cf1Jv-P8go9OQDsTeMKNQeQpChbHmkQ4oLHo9mOzyJELo6_onVJ6OT5BXO6Q=w1202-h802-no?authuser=0
 #### Lava Tube 

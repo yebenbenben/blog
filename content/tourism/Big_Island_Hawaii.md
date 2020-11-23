@@ -157,9 +157,13 @@ South Point 据说是美国本土地理位置上的最南端。从11 号公路�
 “基拉韦厄”在[夏威夷语](https://zh.wikipedia.org/wiki/夏威夷语)中的意思是“涌出”或“冒出”，形容这个[火山](https://zh.wikipedia.org/wiki/火山)经常涌出[岩浆](https://zh.wikipedia.org/wiki/岩浆)。基拉韦厄火山目前是世界上最活跃的火山，自从1983年1月3日至2018年12月喷发结束以来，35年一直在不断地喷出岩浆，喷出的物质如果铺成道路，可以绕[地球](https://zh.wikipedia.org/wiki/地球)三周以上，整个基拉韦厄火山的 90% 部分是被年龄不到1000年的岩浆所覆盖。
 
 2018 年 4 月 30 日，[Puʻu ʻŌʻō](https://en.wikipedia.org/wiki/Puu_Oo) 火山口发生大规模塌陷，5 月 1 日 Halemaʻumaʻu's 的岩浆湖开始塌陷， 到 10 日已经无法从观景台观测到岩浆湖了。如今站在观景台，只能看到 Steam Vent 里冒出的缥缈的烟。晴天从观景台眺望，Halemaʻumaʻu's 火山口和 Grand Canyon 颇为相似。
+[current_view]:https://lh3.googleusercontent.com/FO9Q6ov6-WslrTb6MYAMgeLYlqs3inMYQyTDV2u56--1SmKpdBsM6yrAJo4oCtOrkQkmsFMBY6lR66TDogr0OySZQgm9PGd5pPeMsXM4Nvptqmu3FUbN5mFhGjbQmYIraFNcQlWBg7Y_q1LaSTU7JtPZx-x-CUmDnNQuQUg1nUcJLNgKHeHfAVgQOxaYZTMOk6OkNchygzKJ0Xm4c55vvMH8Luklrvk7F_XVIpteMfRLu4U2PNabDm7EWuUPSC91ZwSr2oc6wendz1YTIoLEd0TiN-quLWsYzu0O_7dRlplOXd4MWjFgRa8NDOrkOA-rq76gH42MQwbZWobdSg5ko8VxGW45782sC3ZALZ5qDpTZ-mxuhbnea8iGyBstanKqD6uQ1RHjfpe7LiOZ-enikyh56HpawVAKtyzNqq-SDnJ36HaQLKU1YMNnkjwpBfg4uLkWT4T15TWZKYqraUundJL-X3lFf12UP6jb8_McYGIpcZqO5KcApHRhykmRMtT5fWsCzWJBVw6mjkfGbCm2W-9koo7qXamHxMzzOxT_aWyGUUrZZajUPlXnme0hy21YDVXo42CAYKsCvjGRyno1B1wXtVvl0kXnePYc8BLDe6DtL6_-gQBcsOjXhB3pr1Wv_-Nq3jLKmfhMIqxuhjuciR9lRDx7tCVxtYv5CKGFDya-yrxK-fLIM-vfhFbc8A=w2400-no-tmp.jpg
 
 [web_cam_volcano]:http://volcano.istad.org/wp-content/uploads/2018/06/may24-jun22-wide-angle.gif
+
 [before_after]: https://volcanoes.usgs.gov/observatories/hvo/multimedia_uploads/multimediaFile-2554.jpg
+![current_view]
+*现在的 View*
 
 ![web_cam_volcano]
 *webcam 拍下的岩浆湖的塌陷过程 (from USGS)*

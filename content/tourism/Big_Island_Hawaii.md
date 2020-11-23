@@ -19,12 +19,11 @@ draft: false
 
 世界上大概只有在这里才能在三小时车程之内体会到如此剧烈的气候变化。
 
-### 西部 - Kailua-Kona
+## 西部 - Kailua-Kona
 > Kailua-Kona 是大岛的旅游中心，距离机场二十分钟车程。这里有Walmart，Costco，Safeway 等大型超市可供大家购买浮潜装备和日常用品。靠海的 Alii Drive 算是岛上的旅游吃喝一条街，有海景酒吧和各种旅游纪念品小店。疫情期间这条小街算是大岛上十分热闹的地段了。
 >
 
 西岸的主题是海，可以躺在沙滩上看海，可以在岸边浮潜，也可以去海底看魔鬼鱼。
-
 #### Captain Cook Monument (Kealakekua Bay)
 1799 年，第三次远航的库克船长在夏威夷和岛民发生冲突遇害身亡，后世为了纪念他在他去世的地方竖立了一座白色方尖碑（方尖碑下的这方土壤归英国所有），现在这里成了大岛最好的浮潜点。
 
@@ -53,14 +52,12 @@ Saddle Wrasse 是夏威夷本土的一种 Warasse
 ![blue_jack](https://media.giphy.com/media/hVdUdldvKRiTkFVPDm/giphy.gif)
 
 三只杰克，这种体积很大的鱼经常能在夏威夷的浅水区遇见。阳光照在他们身上，蓝色的鱼鳍格外好看。
-
 #### Two Step (Honaunau Bay)
 Two Steps 得名于海边的两块石头，他们是浮潜的最佳入水点。坐在第一块石头上穿脚蹼，然后踩着下一级入水。相比 Captian Cook Monument，这里的水质稍逊色，但胜在水下地形丰富，珊瑚也相对健康。由于藏在峡湾里，海面平静。下午的大岛经常起风，如果想下午浮潜，这里是个不错的选择。
 
 Two Step 没有沙滩，对于我来说它唯一的不足就是出水和入水太困难了。风浪大时上岸艰难，一不小心可能就被水下的石头刮伤。
 
 Two Step 旁边就是 Puuhonua O Honaunau National Historical Park，这里是古夏威夷人逃离死刑的避难所。所有能逃到这里的人，无论犯了什么罪，都能免除死刑，重返社会。
-
 #### Makaiwa Bay
 这是我最喜欢的一个浮潜点，连着去了两次。入水点在 Mauna Lani Beach Club 的沙滩上。由于 Beach Club 没有公共停车位，需要把车停在 Kalahuipua'a Historic Park 的公共停车场，然后步行 0.7 mile 。这一路穿过曾经的熔岩场和古夏威夷人用来捕海鱼的池塘。池塘里养着许多海鱼，譬如鳗鱼和Pufferfish，如果浮潜的时候看不到，在这里看一看也是不错的。
 
@@ -89,7 +86,6 @@ Two Step 旁边就是 Puuhonua O Honaunau National Historical Park，这里是�
 一只守在洞口的 Moray Eel 和 Peacock Grouper （夏威夷外来物种）
 
 ![shallow_fish](https://media.giphy.com/media/dDpUo9tLrWksKhwhLV/giphy.gif)
-
 #### Night Manta Ray Snorkeling / Dive
 在大岛不可错过的活动便是 Manta Ray 夜潜。
 夏威夷不是唯一一个可以近距离观看 Manta Ray 的地方，但这里的 Manta Ray 是世界上唯一会利用灯光捕食的群落。是 Manta 们自己发现宾馆照射在水面上的灯光能够吸引到他们的食物，才开始利用灯光带来的便利进行捕食。
@@ -103,8 +99,7 @@ Two Step 旁边就是 Puuhonua O Honaunau National Historical Park，这里是�
 >夏威夷之旅坚定了我要去学深潜的决心
 
 ![manta_ray](https://media.giphy.com/media/DQ8H4JgkpNbcP9cQSZ/giphy.gif)
-
-### 中部 - Mauna Kea
+## 中部 - Mauna Kea
 [sunset_mauna_kea]: https://lh3.googleusercontent.com/KowM0jqn4y8Q5rUqDF2JHDUJLSvdkFhxhtAF3G9nG08MNTiGmdRQj7XaRztTZlRIGGnpCQii9_qXcdUAexneXgwmKrWm7Kb_yAkiDfPRU5_nR3l49ePmIjt4LPWAZ3Ghg6WLYRAJtwwvkUrJzY9Ee0OqsCNf-HfqE9SHOc0Qte90PeNI3MQBBDXw17PtyIHMrJIbiTYWm5WRDY5Hzh93tZ767AJCTxXfWfyMs1gajbyrwNGlGQSRSEemlsmcTxw3FIXrR62WFjCoh4EqJwofzMNBwwW8WIHAZ7FkPRMQW8f1jtJO0DPrHQjmbeMSad95wLRbW13REfrgxxZqzMbWuE4eAYuEd_vxTHosfIpDn_V3W7HbqCoVWnaImB2kZIJt34VLkZmJTXx7H1SrwJnJ7_k9uzhlfe_q34gwNIG3Zh4fqhhr3OSJ9S1y42flvwYnDRl4LoxR-JWInmj1SkkI8fn51_EQqs9l0SDdCcBdvivL8T7yLbxQVTq9jtrIq4BZd7asTIyuDqw6t84c1drpjZekPFioK8GC4g2Tyhosl-GTtrMRaQ5Fg8cmp6NAc_6p3leOkQ6l--wlDIQktEDAXFD224LjJPxGr6-OC50vXQq4zjSnmTHw9C3Ogt9v7XG097nOQuOj2BD2VlGQvCaJ5GXd1tmlS9p2jj9fD7McsRkL12wShCGbV6yHBDYRCA=w2400-no-tmp.jpg
 
 Mauna Kea 山顶的海拔大概 4205 米，从海平面开到山顶只需要一个多小时车程。突然的海拔上升，可能会带来高原反应，因此所有开车上山顶的游客都被要求在 2804 米处的 Visitor Information Center 停留至少半小时。Covid 期间 Visitor Center 当然是关闭的，窗外下着小雨，我们只能坐在车里干瞪眼，看着手机上的 webcam 监控山顶的天气。虽然山下阴雨连绵，乌云漫布，但据刚下来的小伙说，过了 3000米天就放晴了。这也是为什么虽然大岛常年降水，从远处看山上总是蒙着一层云雾，山顶却能成为著名的天文观测点，让世界各国争相在上面架设天文望远镜。
@@ -114,14 +109,12 @@ Mauna Kea 山顶的海拔大概 4205 米，从海平面开到山顶只需要一�
 原则上太阳落山后半小时就不能在山顶停留了。如果想裸眼观星的话， Visitor Center 由于海拔低氧气含量比山顶高40%，是肉眼观星的最佳地点。
 
 ![sunset_mauna_kea]
-
 ### 东部 - Hilo + Hamakua Coast
 > 我们在 Hilo 住了两晚，半天用来回访火山国家公园，半天用来探险 Lava Tube。Hilo 是大岛的首府，相对旅游中心 Kona 更加接地气。由于火山截住了大部分的雨水，让 Hilo 拥有和 Kona 截然不同的热带雨林气候。
 >
 > 我们住在离市中心不远的 Airbnb 丛林小屋里，窗前是高耸入天的热带植物，脚下是潺潺的溪水。本该是岁月静好，却不料夜夜蛙声不断。[coqui frog](https://en.wikipedia.org/wiki/Coqu%C3%AD) 这种只有硬币大小的树蛙是夏威夷的入侵物种，由于没有蝌蚪阶段，他们不需要池塘就能繁殖，生命力顽强，小小的身躯能爆发出 80 分贝的噪音。不像 Kona 的鸟儿，早晨六点唱一小时歌就收工，树蛙大合唱往往要进行一晚上，让早晨的时光显得格外安静美好。
 
 [lava_tube]: https://lh3.googleusercontent.com/IHgX-ONGRO6tcNyVQEjMHAHKCVsRIjtx2gBsz4rILOvDzRqeoxt6jTYkojETJam3ZTlOucD1kbUSxgmrCkB8YFjFQVnz5c2aKSTQ1pcY15vZ0AznWmiZ3egy7HRFsEJxftxpU4ZbsvzSVv5nFkyxNJ1-x9BQSrT3vn9ZfZm4zUpX8d4pSj2ZYcJMTDaJcVIch3_cFkjT8skh1a3uSrhwJYD70GgIlenkS3jyBEsynf49dOBUniodMXJsbAoDajWvfqs4VVhoRh4OP8ao3b1qU7-4q2moxfK6v4RIJbO2vCFjSrPfbBBnUpEIpN7N_Nt2QrYZsLbxhZ_Bn_ApH5QCbW1Yy6l1WvB8L14xVG8PIaeBMwCImsfKkeI0iODIN-JV8LxucE3jNyAynwh_OyEaeKgdutbeBklKvpp1_JI314enExvnSi0Db-AmJGS7LYEPsgu4ch6tW7RaVXnMNBixWrBboOqX-lJkQLPQathaRG9hY0b66MwoBnm_WKVoTscpbLb_DW-ejGDpiWr9z0U-OBJboyoxJw-2JQT0eF5KQHkQyessI_xH7dpn9Uyouc-HvhJ3XrrvPjF1HpOmRBFpFvgP5INuM49IlJ5Wfkz3s5WUJ9blLyewWinhC-My8NebH9Cf1Jv-P8go9OQDsTeMKNQeQpChbHmkQ4oLHo9mOzyJELo6_onVJ6OT5BXO6Q=w1202-h802-no?authuser=0
-
 #### Lava Tube 
 受疫情影响，火山国家公园的 THURSTON LAVA TUBE 暂时不对外开放。我们只好去 Hilo 附近十五分钟车程的 [KAUMANA CAVES](https://www.lovebigisland.com/activities-to-do/lava-tubes/)。这个由 Mauna Loa 的岩浆产生的 Lava Tube 长达 25 mile，对外开放的部分大约为 2 mile。岩洞很原始，没有灯光和栈道，行走其中颇有探险的野趣。
 
@@ -131,7 +124,7 @@ Kaumana Caves 分左右两个洞口，互不相通。因为大同小异，选择
 
 ![lava_tube]
 
-### 南部 - Volcano + Volcanoes National Park
+## 南部 - Volcano + Volcanoes National Park
 #### South Point
 South Point 据说是美国本土地理位置上的最南端。从11 号公路下来，一路上柏油路两旁是宽广的牧场，由于风很大，仅有的几棵树都长成了歪脖树，远处一排排风力发电车不停歇的转动着。本以为是一个僻静的景点，没想到当地人早早的就这里搭起了帐篷，烤起了 BBQ。不远处的悬崖边，齐刷刷放着一排钓竿。
 
@@ -142,12 +135,10 @@ South Point 据说是美国本土地理位置上的最南端。从11 号公路�
 ![cliff_dive_platform]
 
 ![cliff_dive](https://media.giphy.com/media/rdEx4QxvHfe0sdfnPH/giphy.gif)
-
 #### Punaluu Black Sand Beach
 沿着 11 号公路继续向东行驶，就来到了大岛上最好的看 Hawaii Green Turtle 的沙滩。我们去的时候人不多，放眼一看好像一只海龟都没有，结果走了几部幸运的看到一只海龟孤零零的在晒着太阳，也算是幸运。当然了，为了不打扰海龟们休息，游客要维持 20FT 的距离。而晒太阳的海龟们几乎一动不动，让人难辨真假。
 
 ![turtule](https://media.giphy.com/media/Idr9hN7GauqQ1GM9iO/giphy.gif)
-
 #### Volcanoes National Park
 火山国家公园占地面积很大，但随着 2018 年的火山爆发，这座火山公园可供观赏的景点就不多了。
 **Kīlauea Overlook**
@@ -200,12 +191,11 @@ Chain of Craters Road 是火山国家公园里的一条著名景观公路，从 
 ![rainbow_state]
 *一下午见到的第三次彩虹，不负rainbow state 盛名*
 
-### 北部 
+## 北部 
 从 Hilo 回东岸走的是北边的 19 号公路，这条公路穿越了多变的气候带，途径大岛北部的中心 Waimea 镇。这座位于东西两岸之间的小镇，气候适中，有着大片青翠的草场。19 号公路相对 11 号公路开起来更为悠闲，让人更能放松的享受沿途的风景。
 
 #### PEPE’EKEO (Onomea) Scenic Drive
 从 Hilo 沿着 19 号公路北上，在 mile mark 7 - 8 之间有一个 scenic drive 的指示牌，指向和 19 号公路平行的一段 4 mile 长的公路。如果去 Hawaii Tropical Botanical Garden 的话一定会走这条路， 可惜由于疫情植物园现在不对外开放。这条公路蜿蜒在庞大的热带雨林绿植中，让人完全忘记了火山区的干燥和荒芜。
-
 #### Waipio Valley
 Waipio Valley Road 只有 0.75 miles，却有着评价 25% 的坡度，最陡的地方达到 45%。由于路很窄，有些地方只能一辆车通过，下山的司机必须主动给来车让行。
 
@@ -214,7 +204,6 @@ Waipio Valley Road 只有 0.75 miles，却有着评价 25% 的坡度，最陡的
 [waipio_outlook]: https://lh3.googleusercontent.com/HC6V0ORCLGLsvlH3LwT_ns2Xa7vzEoFfkV47mvseG92CELobegu2F_48p-GMYSPg4VOjuju4Fu6gCxL9-d6hYLARpqe6LiWXU--XwHpOOs9BwQSIeIRvSqkEFCCaEmDBkxfl0jYH9u-BcCRxUWM4qEGFJRmmgrogcB4WZXxBUNLLNC4eOFLwwgA8a4-7kmHfZuuHiHRPbCS_ixiz7f_GiEu029X8KpkqLD6v4pSFQSaCCB4WsARlvoR9Du3E1CewuNj--HcQ6rxiaIa-XtM8Nxpj3Z2CqD9myW2mjFVBkXSuPtbOE3C5RnHThl9vrg0XURDSmvXxDQGSyVIMTw1hAOrsWvHh3b1jBlHbcvS1uJ7JVO8uZzWkDHDsbl5yQ6V6a20Gea935WJz8ammAM3bsQC26SymxhP0d4reNYd01GrkQditZp5YF3HfRAjl-I10Nght6isGLjGcTkkTbzg8qjdDnEnDEWq-YRWsqNdDoMU9X-Uyb496qXkd0vcaztVSBB4kHvQMtA_ULjbKhUWOBaYygdBy5p6A4PtyMLc55kjqhzYCA--rUCsZdHMLGhUEi0jNqQl6tgbwDLebuEK58DyQspr8IEjcYPyNKoJe_31SVI18HvuC4xVFi6laoAqrLe07seagyFMJwUvKhuBWPfhCPoWcr5cCa1_x2FCT_qcmxrp7zf2zOp1D10sm6g=w2400-no-tmp.jpg
 ![waipio_outlook]
 *Waipio Outlook*
-
 #### Pololu Valley
 由于两个 Valley 之间不通公路，从 Waipio Valley 到 Pololu Valley 需要从 19 号公路绕道至 270 号公路，Pololu Valley 就在 270 号公路的尽头。这里的景色和 Waipio Valley 有些类似，都是俯瞰被河流切割的热带峡谷。谷底没有公路直达，但有条来回 0.9 miles 的Pololu Trail。小径被绿树遮盖，即使烈日当头也很舒爽，因此即使在疫情期间依然有不少探访者。
 谷底面向大海的一边有着细软的黑沙滩，沿着海岸线是一片铁木树（Ironwood Tree），谷底的另一边是平静的湖泊，湖泊的上游便是切割出这个峡谷的 Pololu Stream。阳光洒在和河谷上一片金灿灿。树林里有露营地和火堆，还有许多简易的秋千挂在树上，暗示着这里昔日的热闹。

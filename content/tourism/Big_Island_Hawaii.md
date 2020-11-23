@@ -205,8 +205,8 @@ Chain of Craters Road 是火山国家公园里的一条著名景观公路，从 
 
 {{< youtube -cFcJOr3BkQ >}}
 
-> 在这条路上经常能看到夏威夷的州鸟 [Nēnē（Hawaii goose)](https://zh.wikipedia.org/wiki/%E5%A4%8F%E5%A8%81%E5%A4%B7%E9%9B%81)，请减慢车速不要撞到他们。
-> ![Nēnē](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Branta_sandvicensis_LC399.jpg/1920px-Branta_sandvicensis_LC399.jpg)
+虽然在靠近熔岩的地方几乎寸草不生，但靠近 Crater Rim Drive 的路上经常能看到夏威夷的州鸟 [Nēnē（Hawaii goose)](https://zh.wikipedia.org/wiki/%E5%A4%8F%E5%A8%81%E5%A4%B7%E9%9B%81)，请减慢车速不要撞到他们。
+![Nēnē](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Branta_sandvicensis_LC399.jpg/1920px-Branta_sandvicensis_LC399.jpg)
 
 [lava_vs_sea]: https://lh3.googleusercontent.com/fxYyDdOeqyYm8OzwZvNbkI2421ySum7GhA4yrZPmiUMWg3I15A-I_k5NUjNZHVGmlSjJYIaJyWvZKSoLUyY59dU1eltZMbZmfGzV9AFVldanGyoxoXTLuL2Lfb4ArkNPb0ERsUoqTWP3USLlz3Df8wULHXs5xNap_haNash9ueF-bu17x88jMqw-7vezhYG-HpznkV076Fl5ke3eHOSKUhol1X9SSjXtb2-7Q54cdPg_SPh_TtbuRKHXTL1TRZhNXcNVn8dnmP9wC5j-xM3HPjAyAULFOcyzOeJDdC---CwTyMaHmQw7axQZVi61ggWoxFKPW2_MC9zGYN9I4oMFbQu7u9oLXf6ucoBAFYh7Zg5gDQWLndXukjhZy2bIFVW6f9mhmKUWGqcPdHpvphP4eIq-Qbdzt61ALP5ZM4_AqpTZ0_r78DadwgzvHGa7ToFudOo93lyee_XEXSbZEOdjckUtEW37f_ZgHWTGjr7vYzS-0AzcR0m6ELB4U5kY-dF3O2d2VI-laNolDbc4DPrOR1RMJf2no368LBaoCBoK3eNiopqBfNHQfSnA6QI25JMan0hFUXwu4B52bx0JHq5ubv4LZNA5A-aOFbxsRmYBP25B2lIeCWQrqZ8i6C1lD157MzSwnbYZ-5LkVrxULwNyBYnflEqBQwIOGMLWiIYj17FrF8biAYmH2RGctPpZ6Q=w2400-no-tmp.jpg
 

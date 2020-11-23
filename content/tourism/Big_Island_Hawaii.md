@@ -20,14 +20,12 @@ draft: false
 世界上大概只有在这里才能在三小时车程之内体会到如此剧烈的气候变化。
 
 ### 西部 - Kailua-Kona
-
 > Kailua-Kona 是大岛的旅游中心，距离机场二十分钟车程。这里有Walmart，Costco，Safeway 等大型超市可供大家购买浮潜装备和日常用品。靠海的 Alii Drive 算是岛上的旅游吃喝一条街，有海景酒吧和各种旅游纪念品小店。疫情期间这条小街算是大岛上十分热闹的地段了。
 >
 
 西岸的主题是海，可以躺在沙滩上看海，可以在岸边浮潜，也可以去海底看魔鬼鱼。
 
 #### Captain Cook Monument (Kealakekua Bay)
-
 1799 年，第三次远航的库克船长在夏威夷和岛民发生冲突遇害身亡，后世为了纪念他在他去世的地方竖立了一座白色方尖碑（方尖碑下的这方土壤归英国所有），现在这里成了大岛最好的浮潜点。
 
 > 由于不通公路，到这里浮潜只能通过徒步，跟船游或者Kayak这三种方式。
@@ -57,7 +55,6 @@ Saddle Wrasse 是夏威夷本土的一种 Warasse
 三只杰克，这种体积很大的鱼经常能在夏威夷的浅水区遇见。阳光照在他们身上，蓝色的鱼鳍格外好看。
 
 #### Two Step (Honaunau Bay)
-
 Two Steps 得名于海边的两块石头，他们是浮潜的最佳入水点。坐在第一块石头上穿脚蹼，然后踩着下一级入水。相比 Captian Cook Monument，这里的水质稍逊色，但胜在水下地形丰富，珊瑚也相对健康。由于藏在峡湾里，海面平静。下午的大岛经常起风，如果想下午浮潜，这里是个不错的选择。
 
 Two Step 没有沙滩，对于我来说它唯一的不足就是出水和入水太困难了。风浪大时上岸艰难，一不小心可能就被水下的石头刮伤。
@@ -65,7 +62,6 @@ Two Step 没有沙滩，对于我来说它唯一的不足就是出水和入水�
 Two Step 旁边就是 Puuhonua O Honaunau National Historical Park，这里是古夏威夷人逃离死刑的避难所。所有能逃到这里的人，无论犯了什么罪，都能免除死刑，重返社会。
 
 #### Makaiwa Bay
-
 这是我最喜欢的一个浮潜点，连着去了两次。入水点在 Mauna Lani Beach Club 的沙滩上。由于 Beach Club 没有公共停车位，需要把车停在 Kalahuipua'a Historic Park 的公共停车场，然后步行 0.7 mile 。这一路穿过曾经的熔岩场和古夏威夷人用来捕海鱼的池塘。池塘里养着许多海鱼，譬如鳗鱼和Pufferfish，如果浮潜的时候看不到，在这里看一看也是不错的。
 
 在沙滩上有个指示牌，标明了浮潜的路线和难度还有各种可能见到的鱼类。我喜欢左边和中间的路线，有许多有趣的地貌、珊瑚和鱼群。如果游累了，可以回到沙滩边戏水，浅水区也能看到许多鱼，在人的脚边嬉戏。由于沙子的原因，近岸的地方能见度不高，稍稍游出去几十米，随着深度的增加能见度也提高不少。
@@ -95,7 +91,6 @@ Two Step 旁边就是 Puuhonua O Honaunau National Historical Park，这里是�
 ![shallow_fish](https://media.giphy.com/media/dDpUo9tLrWksKhwhLV/giphy.gif)
 
 #### Night Manta Ray Snorkeling / Dive
-
 在大岛不可错过的活动便是 Manta Ray 夜潜。
 夏威夷不是唯一一个可以近距离观看 Manta Ray 的地方，但这里的 Manta Ray 是世界上唯一会利用灯光捕食的群落。是 Manta 们自己发现宾馆照射在水面上的灯光能够吸引到他们的食物，才开始利用灯光带来的便利进行捕食。
 
@@ -121,16 +116,13 @@ Mauna Kea 山顶的海拔大概 4205 米，从海平面开到山顶只需要一�
 ![sunset_mauna_kea]
 
 ### 东部 - Hilo + Hamakua Coast
-
 > 我们在 Hilo 住了两晚，半天用来回访火山国家公园，半天用来探险 Lava Tube。Hilo 是大岛的首府，相对旅游中心 Kona 更加接地气。由于火山截住了大部分的雨水，让 Hilo 拥有和 Kona 截然不同的热带雨林气候。
 >
 > 我们住在离市中心不远的 Airbnb 丛林小屋里，窗前是高耸入天的热带植物，脚下是潺潺的溪水。本该是岁月静好，却不料夜夜蛙声不断。[coqui frog](https://en.wikipedia.org/wiki/Coqu%C3%AD) 这种只有硬币大小的树蛙是夏威夷的入侵物种，由于没有蝌蚪阶段，他们不需要池塘就能繁殖，生命力顽强，小小的身躯能爆发出 80 分贝的噪音。不像 Kona 的鸟儿，早晨六点唱一小时歌就收工，树蛙大合唱往往要进行一晚上，让早晨的时光显得格外安静美好。
 
 [lava_tube]: https://lh3.googleusercontent.com/IHgX-ONGRO6tcNyVQEjMHAHKCVsRIjtx2gBsz4rILOvDzRqeoxt6jTYkojETJam3ZTlOucD1kbUSxgmrCkB8YFjFQVnz5c2aKSTQ1pcY15vZ0AznWmiZ3egy7HRFsEJxftxpU4ZbsvzSVv5nFkyxNJ1-x9BQSrT3vn9ZfZm4zUpX8d4pSj2ZYcJMTDaJcVIch3_cFkjT8skh1a3uSrhwJYD70GgIlenkS3jyBEsynf49dOBUniodMXJsbAoDajWvfqs4VVhoRh4OP8ao3b1qU7-4q2moxfK6v4RIJbO2vCFjSrPfbBBnUpEIpN7N_Nt2QrYZsLbxhZ_Bn_ApH5QCbW1Yy6l1WvB8L14xVG8PIaeBMwCImsfKkeI0iODIN-JV8LxucE3jNyAynwh_OyEaeKgdutbeBklKvpp1_JI314enExvnSi0Db-AmJGS7LYEPsgu4ch6tW7RaVXnMNBixWrBboOqX-lJkQLPQathaRG9hY0b66MwoBnm_WKVoTscpbLb_DW-ejGDpiWr9z0U-OBJboyoxJw-2JQT0eF5KQHkQyessI_xH7dpn9Uyouc-HvhJ3XrrvPjF1HpOmRBFpFvgP5INuM49IlJ5Wfkz3s5WUJ9blLyewWinhC-My8NebH9Cf1Jv-P8go9OQDsTeMKNQeQpChbHmkQ4oLHo9mOzyJELo6_onVJ6OT5BXO6Q=w1202-h802-no?authuser=0
 
-
 #### Lava Tube 
-
 受疫情影响，火山国家公园的 THURSTON LAVA TUBE 暂时不对外开放。我们只好去 Hilo 附近十五分钟车程的 [KAUMANA CAVES](https://www.lovebigisland.com/activities-to-do/lava-tubes/)。这个由 Mauna Loa 的岩浆产生的 Lava Tube 长达 25 mile，对外开放的部分大约为 2 mile。岩洞很原始，没有灯光和栈道，行走其中颇有探险的野趣。
 
 Kaumana Caves 分左右两个洞口，互不相通。因为大同小异，选择一个洞即可。我们选择了右边的岩洞，因为它的入口更为宽敞。打着头灯走了几十米突然前面没有了路，环顾四周只有一个猫着腰才能钻过的小洞。钻过去之后，远处的管道又变得宽敞起来。就这样一会儿直着走一会儿蹲着走了十几分钟后，我们担心头灯没电才止步不前。
@@ -140,9 +132,7 @@ Kaumana Caves 分左右两个洞口，互不相通。因为大同小异，选择
 ![lava_tube]
 
 ### 南部 - Volcano + Volcanoes National Park
-
 #### South Point
-
 South Point 据说是美国本土地理位置上的最南端。从11 号公路下来，一路上柏油路两旁是宽广的牧场，由于风很大，仅有的几棵树都长成了歪脖树，远处一排排风力发电车不停歇的转动着。本以为是一个僻静的景点，没想到当地人早早的就这里搭起了帐篷，烤起了 BBQ。不远处的悬崖边，齐刷刷放着一排钓竿。
 
 对于游客来说，这里是个跳崖圣地。12 米的垂直落差，石壁上悬挂的爬梯，吸引着无数跳崖爱好者来此纵身一跃。我们去的时候天气正好，有不少人在这里跃跃欲试。
@@ -153,20 +143,13 @@ South Point 据说是美国本土地理位置上的最南端。从11 号公路�
 
 ![cliff_dive](https://media.giphy.com/media/rdEx4QxvHfe0sdfnPH/giphy.gif)
 
-
-
 #### Punaluu Black Sand Beach
-
 沿着 11 号公路继续向东行驶，就来到了大岛上最好的看 Hawaii Green Turtle 的沙滩。我们去的时候人不多，放眼一看好像一只海龟都没有，结果走了几部幸运的看到一只海龟孤零零的在晒着太阳，也算是幸运。当然了，为了不打扰海龟们休息，游客要维持 20FT 的距离。而晒太阳的海龟们几乎一动不动，让人难辨真假。
 
 ![turtule](https://media.giphy.com/media/Idr9hN7GauqQ1GM9iO/giphy.gif)
 
-
-
 #### Volcanoes National Park
-
 火山国家公园占地面积很大，但随着 2018 年的火山爆发，这座火山公园可供观赏的景点就不多了。
-
 **Kīlauea Overlook**
 
 基拉韦厄火山（Kīlauea）是[夏威夷岛](https://zh.wikipedia.org/wiki/夏威夷島)上的五个[盾状火山](https://zh.wikipedia.org/wiki/盾狀火山)之一。是目前世界上观光客流量最大的火山，也是最活跃的火山。根据统计，在20世纪内，该火山就喷发了52次。
@@ -185,10 +168,8 @@ South Point 据说是美国本土地理位置上的最南端。从11 号公路�
 *Before and After (from USGS)*
 
 **Kīlauea Iki Trail**
-
 [volcano_overview]: https://lh3.googleusercontent.com/Cvca6YHmEwjweLnckSvJCdivxTSQh4EFrUTGc71LfhtcIoFhpGMxMlYnN5eafeHyR6r-Mb-RZj7Ju4IyS1_arZ_mFu0gQJL19CC-Toi2xIKRYk3YSSKfoxYXtrPeFce9PO_SPeGVwvnFkg0-5L2rsXRh0SaPSkj0ChRgY_7x0iXLeu8pRikYk9ZfPBArjJnOBg8QTlDi80jnNa9BmV2_hODVFoPqAHokrWj2pk4WjwvUsS90rmCgSVXdfWl1TfyYGqJULtwlmVGn6vtiMCi92dl8NnIRJh-uzVOHhZYb7klttdY8CQRVBV9-6jZRbSYCB6oPMerfKqXgkU0P57N0wAM6R2U5ca-BHYY2Q188FJJLTw69tRrklgvE6yWI0TUqx-ggSMDjyvJvfocnfj8-7tOoCKQalPvM149_QV1FDkv14gttNRCmRCibDwizphckMejLMWRvtPkvrmmJSF8MXZzu7zgJ0zkoKXhLsE5vyB5n-f6Ot3b5W8q525DSatp_Z1I-2Wbdf9HYhauiVbGrEIHVqE06zCy7ApJBIofjVZDdAOw1AQPLuxVRtSoZI1tAeSA6U5F5NsS4Tw-LUNu1q_GeOgVJERItqwU7pVaPhqhaHufrsI_tm5f7PgcgG4HXVP7_sqXocypXVXCHRPjrWtXDE71aklz0lIMXIMX4vytLZYwSmi6LAbx3kg4gAA=w1202-h802-no?authuser=0
 [volcano_bottom]: https://lh3.googleusercontent.com/vK0Gpx-LPRdWrcg476WRpSk-UR_YpLpOJO4Zcl1w4bJRyzJ0WkRTthzL5A7pGKFZTdpmhdjvRrWJRJiwiVOihg6pHVgxMsAOpAj-4eo5SxdYdlDtv6tFDFa0n7jjt-MSc4ckdaQfYhx_S9T1ek-qRh7XoIL4lenWNUrRurggXvcJcPJUOY4NUoqfDBgYRhESKtjua6XOQrCHhnM5Oe063c-Bb8ed49YHFzXbliGBUlt7u9vogfZY5E22fprcAalVBgBYdW5nVyH1-Gmu93nNaGABoBICDOBQcM2kTrj_l1E5cOy6ovlqmzrArLx9EWwpm3SqTTEPJnLUXz4RZP3CzjOLW4BDSVYceQ_SesfDAlmIJLbxxKGj8-mg7T_J2kgaFN5d-97N94GpEnywkUPZlbct8KKpQ2r7DQzVmtWZ0WFSe7aYynfMEvajc2Ygq_rEUktWgwVjinzYKpzVArRLXwT9yG5OMBRGoOUrSruX7if0todN0vq48EPYhJM513EQyLUU5gPlQup5wTFSuAqwrqwAbU69BL5F6fewf2XIIbK3RIDYFpEy-LjvSK0HNpvnEd8myWBgZtEf7-DWOhtDWs-QBg6QOuFm5Rg2e21WM86XIdt_KbDNSaGxRcu0P_G9Xj6ZL6PrrieMRrYZul7WxIylRl4iPhOtL8Q19FuZgqxde0xLj1Gu_aVqfo64KQ=w1202-h802-no?authuser=0
-
 这是公园里最热门的环线徒步路线，沿着火山坑边缘行走 2 miles，然后横穿火山坑，总长 4 miles。这座小火山在 1959 年发生过一次大规模喷发，行走在火山坑底部，地面凹凸不平，像是地震后的柏油马路，时刻提醒着人们地壳运动的威力。
 
 ![volcano_overview]
@@ -198,9 +179,6 @@ South Point 据说是美国本土地理位置上的最南端。从11 号公路�
 *地壳运动的威力和顽强的植物*
 
 **Chain of Craters Road**
-
-[lava_vs_sea]: 
-
 Chain of Craters Road 是火山国家公园里的一条著名景观公路，从 Crater Rim Drive 一路向南，沿着曾经熔岩流过的路径奔向大海，路的尽头是 Hōlei Sea Arch。
 
 这条路修建之初通向海边小镇 Kalapana，但 1983 年的火山喷发把公路拦腰截断。时间快进到 2014 年，一股岩浆突然变道，向东流往小镇 Pāhoa。为了确保当地居民能够安全撤离，政府和公园用压路机推平了火山岩，开出了一条紧急撤离通道（Emergency Access Route）。2018 年喷发前，沿着这条碎石路就能到达岩浆出海口，小镇周围也有许多旅游团组织大家近距离观看“岩浆入海”。随着 2018 年 Kīlauea 火山的喷发，这一切都不复存在。没有了游人如织，Covid 期间这里显得格外冷清。
@@ -209,7 +187,6 @@ Chain of Craters Road 是火山国家公园里的一条著名景观公路，从 
 [lava_life]:https://lh3.googleusercontent.com/hZIgmFmflneWfVQrO52I5hC8M6jwvgZAJ2w60zMRoriBdOJG1NdxSszXsv6kufcx92BQUgYBWJkbWWcG6_Exqy47I_OgeO5oAd8mKFN0mXER2ZWBoGFTn4sZpcSQvKbosWW414cYYzzH00XTjzcQZiKz-p1qRPG5Ygr6iv11QhiKg_NZJo_YSsPaeZVAB8jZ08pRoZ_Me6MiI8wodgCHPeFNGDdyvEYk3uiSjadtf-MK-AOHFsUN64qcUts7i3_lUaFOKwacU_Arvq2SyUOs_ImwUA-w0lKuWS29bqRX7IrXNl4GRjDoKEKvxLvqeTNen_N3MwM9MmoM5pvNeKjulfy7PUIMMpiZ4XYHFGaDKzMwya-3XrkyD4Sj_4aXc3e3uoamR00I5RC4vgZONEK2GqN6EJHz3MZnRmvl0lBsOW_AWyPINJUNh4RUEb06UGuhCOU0CX8XqObFl-uuKna1fV3HKKCZ9dnMbi2rzrX2_BZcaeys9X8NHO3fIXiiw_gKc-lEYlTp5e0yU9pPPu8cVPbvBVg6LU-rgv2U1bbe8ECAsQbymiv0jKT6BWpTpUMyow-7haGJQeR2VU3dS3NaOBx2K6EMvwauCbB0kG9Gabj9eN26MKR2xBDWvDLDkoAibtZX87D1ZJJaurEo7Mlv40CnOlCbPKGrGP1PJAMmMG-TGsvIjXpvOcL8MHaG5Q=w2400-no-tmp.jpg
 
 [rainbow_state]:https://lh3.googleusercontent.com/fwBgp3bNvraRn7ZDW6-VnR6a4fRyLnvy13sL_oUvFljWiGfTf0xHU7pjTEf_INWzW-PqXaipuzg1fjPUM63uJcAlAAIibCqvrT0h7HYHz2LkDuzjKJBf_EKCu83l4O-je_BhYm0JsYddNP9tb4x8akSIYUAhB0mCYhbC2dRFXWwG_5K-gnZBZcp5MWMDlrNzigFk-I9RsmOkvN1gE7IPrtTgdsxAKuW2CobjLx7993sm1DtZ52F_EghenYa_bra41AbLkxFunuPLjNxXvlmJ9CB_0jzKnVtAcMRwCh-JUc1oWuOrrwGMjyuMEPAJvhAVxv0guBoorLd6c1QI-8KfeynmXTDDrY2bGDEZXYXiuKjdLvCmPqYFTnIDdaEMMICtgV2n0XF-M9nuTWzUzuehj5xxnmBzRx53Gvf5vz0XdryVsjoe70bVvPf694tAsvribtcu_FWV8mso93h3B_Qluhu1mYW3Zkm5VGMHa3ZQh4R8MDC39zpCLZ4WZqKhx3i-4iRhWJpnfHEJ_YjJ7EWQPWcqrvCDMjorUB1QtGNJZqgzMOhwHKvtvpLP3Zo2FX-h6BtRmfAi4h6JCuAUoVf5pNvd0_MkF78pntvqTzdaPvpmo7RUoworx5dAB-GGp0nqG03huxjmC__ycV5bb2HB8mSMta4CZkUyyKg8L6D_RKuu7qChblo0BXCfiSnDfg=w2400-no-tmp.jpg
-
 ![lava_vs_sea]
 *冰与火的曾经交汇的地方*
 
@@ -220,11 +197,9 @@ Chain of Craters Road 是火山国家公园里的一条著名景观公路，从 
 *一下午见到的第三次彩虹，不负rainbow state 盛名*
 
 ### 北部 
-
 从 Hilo 回东岸走的是北边的 19 号公路，这条公路穿越了多变的气候带，途径大岛北部的中心 Waimea 镇。这座位于东西两岸之间的小镇，气候适中，有着大片青翠的草场。19 号公路相对 11 号公路开起来更为悠闲，让人更能放松的享受沿途的风景。
 
 #### PEPE’EKEO (Onomea) Scenic Drive
-
 从 Hilo 沿着 19 号公路北上，在 mile mark 7 - 8 之间有一个 scenic drive 的指示牌，指向和 19 号公路平行的一段 4 mile 长的公路。如果去 Hawaii Tropical Botanical Garden 的话一定会走这条路， 可惜由于疫情植物园现在不对外开放。这条公路蜿蜒在庞大的热带雨林绿植中，让人完全忘记了火山区的干燥和荒芜。
 
 #### Waipio Valley
@@ -236,7 +211,7 @@ Waipio Valley Road 只有 0.75 miles，却有着评价 25% 的坡度，最陡的
 ![waipio_outlook]
 *Waipio Outlook*
 
-**Pololu Valley**
+#### Pololu Valley
 由于两个 Valley 之间不通公路，从 Waipio Valley 到 Pololu Valley 需要从 19 号公路绕道至 270 号公路，Pololu Valley 就在 270 号公路的尽头。这里的景色和 Waipio Valley 有些类似，都是俯瞰被河流切割的热带峡谷。谷底没有公路直达，但有条来回 0.9 miles 的Pololu Trail。小径被绿树遮盖，即使烈日当头也很舒爽，因此即使在疫情期间依然有不少探访者。
 谷底面向大海的一边有着细软的黑沙滩，沿着海岸线是一片铁木树（Ironwood Tree），谷底的另一边是平静的湖泊，湖泊的上游便是切割出这个峡谷的 Pololu Stream。阳光洒在和河谷上一片金灿灿。树林里有露营地和火堆，还有许多简易的秋千挂在树上，暗示着这里昔日的热闹。
 

@@ -137,6 +137,7 @@ Mauna Kea 山顶的海拔大概 4205 米，从海平面开到山顶只需要一�
 *在热带雨林小木屋吃早餐时，投食的小壁虎*
 
 [lava_tube]: https://lh3.googleusercontent.com/IHgX-ONGRO6tcNyVQEjMHAHKCVsRIjtx2gBsz4rILOvDzRqeoxt6jTYkojETJam3ZTlOucD1kbUSxgmrCkB8YFjFQVnz5c2aKSTQ1pcY15vZ0AznWmiZ3egy7HRFsEJxftxpU4ZbsvzSVv5nFkyxNJ1-x9BQSrT3vn9ZfZm4zUpX8d4pSj2ZYcJMTDaJcVIch3_cFkjT8skh1a3uSrhwJYD70GgIlenkS3jyBEsynf49dOBUniodMXJsbAoDajWvfqs4VVhoRh4OP8ao3b1qU7-4q2moxfK6v4RIJbO2vCFjSrPfbBBnUpEIpN7N_Nt2QrYZsLbxhZ_Bn_ApH5QCbW1Yy6l1WvB8L14xVG8PIaeBMwCImsfKkeI0iODIN-JV8LxucE3jNyAynwh_OyEaeKgdutbeBklKvpp1_JI314enExvnSi0Db-AmJGS7LYEPsgu4ch6tW7RaVXnMNBixWrBboOqX-lJkQLPQathaRG9hY0b66MwoBnm_WKVoTscpbLb_DW-ejGDpiWr9z0U-OBJboyoxJw-2JQT0eF5KQHkQyessI_xH7dpn9Uyouc-HvhJ3XrrvPjF1HpOmRBFpFvgP5INuM49IlJ5Wfkz3s5WUJ9blLyewWinhC-My8NebH9Cf1Jv-P8go9OQDsTeMKNQeQpChbHmkQ4oLHo9mOzyJELo6_onVJ6OT5BXO6Q=w1202-h802-no?authuser=0
+
 #### Lava Tube 
 受疫情影响，火山国家公园的 THURSTON LAVA TUBE 暂时不对外开放。我们只好去 Hilo 附近十五分钟车程的 [KAUMANA CAVES](https://www.lovebigisland.com/activities-to-do/lava-tubes/)。这个由 Mauna Loa 的岩浆产生的 Lava Tube 长达 25 mile，对外开放的部分大约为 2 mile。岩洞很原始，没有灯光和栈道，行走其中颇有探险的野趣。
 
@@ -200,8 +201,12 @@ Chain of Craters Road 是火山国家公园里的一条著名景观公路，从 
 
 这条路修建之初通向海边小镇 Kalapana，但 1983 年的火山喷发把公路拦腰截断。时间快进到 2014 年，一股岩浆突然变道，向东流往小镇 Pāhoa。为了确保当地居民能够安全撤离，政府和公园用压路机推平了火山岩，开出了一条紧急撤离通道（Emergency Access Route）。2018 年喷发前，沿着这条碎石路就能到达岩浆出海口，小镇周围也有许多旅游团组织大家近距离观看“岩浆入海”。随着 2018 年 Kīlauea 火山的喷发，这一切都不复存在。没有了游人如织，Covid 期间这里显得格外冷清。
 
-在这条路上经常能看到夏威夷的州鸟 [Nēnē（Hawaii goose)](https://zh.wikipedia.org/wiki/%E5%A4%8F%E5%A8%81%E5%A4%B7%E9%9B%81)，请减慢车速不要撞到他们。
-![Nēnē](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Branta_sandvicensis_LC399.jpg/1920px-Branta_sandvicensis_LC399.jpg)
+如今行走在熔岩石上，能非常清晰地观察到**绳装熔岩（Pahoehoe）**，它是由流动性高的玄武岩熔岩外表冷却而内部仍处于熔融状态下卷动后形成的, USCG有一段录像生动的记录了这种熔岩的形成。
+
+{{< youtube -cFcJOr3BkQ >}}
+
+> 在这条路上经常能看到夏威夷的州鸟 [Nēnē（Hawaii goose)](https://zh.wikipedia.org/wiki/%E5%A4%8F%E5%A8%81%E5%A4%B7%E9%9B%81)，请减慢车速不要撞到他们。
+> ![Nēnē](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Branta_sandvicensis_LC399.jpg/1920px-Branta_sandvicensis_LC399.jpg)
 
 [lava_vs_sea]: https://lh3.googleusercontent.com/fxYyDdOeqyYm8OzwZvNbkI2421ySum7GhA4yrZPmiUMWg3I15A-I_k5NUjNZHVGmlSjJYIaJyWvZKSoLUyY59dU1eltZMbZmfGzV9AFVldanGyoxoXTLuL2Lfb4ArkNPb0ERsUoqTWP3USLlz3Df8wULHXs5xNap_haNash9ueF-bu17x88jMqw-7vezhYG-HpznkV076Fl5ke3eHOSKUhol1X9SSjXtb2-7Q54cdPg_SPh_TtbuRKHXTL1TRZhNXcNVn8dnmP9wC5j-xM3HPjAyAULFOcyzOeJDdC---CwTyMaHmQw7axQZVi61ggWoxFKPW2_MC9zGYN9I4oMFbQu7u9oLXf6ucoBAFYh7Zg5gDQWLndXukjhZy2bIFVW6f9mhmKUWGqcPdHpvphP4eIq-Qbdzt61ALP5ZM4_AqpTZ0_r78DadwgzvHGa7ToFudOo93lyee_XEXSbZEOdjckUtEW37f_ZgHWTGjr7vYzS-0AzcR0m6ELB4U5kY-dF3O2d2VI-laNolDbc4DPrOR1RMJf2no368LBaoCBoK3eNiopqBfNHQfSnA6QI25JMan0hFUXwu4B52bx0JHq5ubv4LZNA5A-aOFbxsRmYBP25B2lIeCWQrqZ8i6C1lD157MzSwnbYZ-5LkVrxULwNyBYnflEqBQwIOGMLWiIYj17FrF8biAYmH2RGctPpZ6Q=w2400-no-tmp.jpg
 

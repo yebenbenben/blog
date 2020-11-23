@@ -1,5 +1,5 @@
 ---
-title: "智利百内 - W之旅"
+title: "Patagonia - W Treck"
 date: 2017-02-05T01:12:10-04:00
 slug: patagonia_trip
 categories: ["Trip Video"]

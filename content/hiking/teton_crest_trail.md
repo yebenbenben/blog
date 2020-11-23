@@ -1,5 +1,5 @@
 ---
-title: "大提顿山脊小径 - 观湖赏花之旅"
+title: "Wyoming - Teton Crest Trail"
 date: 2016-08-28T22:18:11-04:00
 slug: teton_crest_trail
 categories: ["Trip Report"]

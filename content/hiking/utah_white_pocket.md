@@ -1,5 +1,5 @@
 ---
-title: "科罗拉多高原 - 白口袋"
+title: "Colorado Plateau - White Pocket"
 date: 2019-06-13T02:34:48-04:00
 slug: utah_white_pocket
 categories: ["Trip Report"]

@@ -1,5 +1,5 @@
 ---
-title: 锡安国家公园 - The Subway 
+title: Zion - The Subway 
 date: 2015-08-26T22:50:18-04:00
 slug: zion_subway
 categories: ["Trip Report"]

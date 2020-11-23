@@ -1,5 +1,5 @@
 ---
-title: "Three Sister Loop - 三姐妹火山环线"
+title: "Oregon - Three Sister Loop"
 date: 2019-09-11T23:07:27-04:00
 slug: three_sister_loop
 categories: ["Trip Report"]

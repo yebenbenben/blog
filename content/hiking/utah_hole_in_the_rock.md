@@ -1,5 +1,5 @@
 ---
-title: "科罗拉多高原 - Hole In The Rock"
+title: "Colorado Plateau - Hole In The Rock"
 date: 2019-06-12T02:34:48-04:00
 slug: utah_hole_in_the_rock
 categories: ["Trip Report"]
@@ -21,7 +21,7 @@ draft: false
 [p7]: https://1.bp.blogspot.com/-1Kf4pt6VA0Y/XQCUiLy08EI/AAAAAAAALcg/N4ykjVi8uh0TNpJ9fNKzr7lwHrk6Kr-QwCPcBGAYYCw/s1600/IMG_0096.HEIC
 
 
-Hole-In-The-Rock是一条单程五十六英里的碎石土路，它始于12号景观公路，穿过漫漫沙漠，直达鲍威尔湖。在终点处的岩壁上，摩门先驱者们凿出了一条通向鲍威尔湖(科罗拉多河）的小计，故而得名Hole-In-The-Rock.我早就从[诺娅的博客](http://www.zhangnuoya-walk.com/%E5%8D%97%E7%8A%B9%E4%BB%96%E5%BE%80%E4%BA%8B-%E9%94%A1%E5%AE%89%EF%BC%8C%E5%8F%8D%E5%B0%84%E8%B0%B7%EF%BC%8C%E7%99%BD%E8%98%91%E8%8F%87/)中听说过这条藏着许多秘境的土路，直到阅读[反射谷的攻略](https://wayliublog.wordpress.com/2019/04/02/2019%E6%98%A5-%E6%8C%91%E6%88%98%E5%8F%8D%E5%B0%84%E8%B0%B7/)时误打误撞看到了传说中的秘境，才决定抽出一天时间去探访一下。
+Hole-In-The-Rock 是一条单程五十六英里的碎石土路，它始于12号景观公路，穿过漫漫沙漠，直达鲍威尔湖。在终点处的岩壁上，摩门先驱者们凿出了一条通向鲍威尔湖(科罗拉多河）的小计，故而得名Hole-In-The-Rock.我早就从[诺娅的博客](http://www.zhangnuoya-walk.com/%E5%8D%97%E7%8A%B9%E4%BB%96%E5%BE%80%E4%BA%8B-%E9%94%A1%E5%AE%89%EF%BC%8C%E5%8F%8D%E5%B0%84%E8%B0%B7%EF%BC%8C%E7%99%BD%E8%98%91%E8%8F%87/)中听说过这条藏着许多秘境的土路，直到阅读[反射谷的攻略](https://wayliublog.wordpress.com/2019/04/02/2019%E6%98%A5-%E6%8C%91%E6%88%98%E5%8F%8D%E5%B0%84%E8%B0%B7/)时误打误撞看到了传说中的秘境，才决定抽出一天时间去探访一下。
 
 离这条土路最近的小镇名叫Escalante，人口总数802，由唯一的高速公路-12号景观公路联通着外面。这条路 单程大约耗时两个多小时，前半段是碎石路，相对容易通行，而后七英里路况艰难，需要高底盘的四驱车。由于时间有限，我们决定不走完全程，只探访位于前半段的三个“一线天”峡谷（Slot Canyon）。
 

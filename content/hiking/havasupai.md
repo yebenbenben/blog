@@ -1,5 +1,5 @@
 ---
-title: "Havasupai Fall"
+title: "Utah - Havasupai Fall"
 date: 2017-11-27T23:07:27-04:00
 slug: havasupai
 categories: ["Trip Video"]

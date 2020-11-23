@@ -1,5 +1,5 @@
 ---
-title: 锡安国家公园 - Canyoneering
+title: Zion - Canyoneering
 date: 2016-05-28T22:50:18-04:00
 slug: zion_canyoneering
 categories: ["Trip Report"]

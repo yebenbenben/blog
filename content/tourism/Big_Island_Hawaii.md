@@ -23,7 +23,8 @@ draft: false
 
 > Kailua-Kona 是大岛的旅游中心，距离机场二十分钟车程。这里有Walmart，Costco，Safeway 等大型超市可供大家购买浮潜装备和日常用品。靠海的 Alii Drive 算是岛上的旅游吃喝一条街，有海景酒吧和各种旅游纪念品小店。疫情期间这条小街算是大岛上十分热闹的地段了。
 >
-> 西岸的主题是海，可以躺在沙滩上看海，可以在岸边浮潜，也可以去海底看魔鬼鱼。
+
+西岸的主题是海，可以躺在沙滩上看海，可以在岸边浮潜，也可以去海底看魔鬼鱼。
 
 #### Captain Cook Monument (Kealakekua Bay)
 
@@ -33,17 +34,27 @@ draft: false
 >
 > 如果是跟船游，船的 permit 不允许浮潜者上岸，一般可以在这里浮潜上一个小时左右。如果自己租 Kayak，需要确定租船公司有可以浮潜的 permit。徒步来纪念碑时间上更自由，但小径单程 2 mile， 垂直升降 1400 ft，也没什么树荫，雨后土路比较湿滑。如果决定徒步，请带足饮用水，量力而行。
 
-我们的船在离岸不远的地方下锚。跳下船是深水区，这里水质清澈，能见度很高。从船上下来，游一小会儿便到了浅水区，这里鱼群聚集，种类也很丰富，只可惜近岸处的珊瑚群没能幸免于 2014 - 2015 年由于海水突然升温而导致的白化现象（56% 的大岛珊瑚在 2014 - 2015 年发生白化。!
+我们的船在离岸不远的地方下锚。跳下船是深水区，这里水质清澈，能见度很高。从船上下来，游一小会儿便到了浅水区，这里鱼群聚集，种类也很丰富，只可惜近岸处的珊瑚群没能幸免于 2014 - 2015 年由于海水突然升温而导致的白化现象（56% 的大岛珊瑚在 2014 - 2015 年发生白化。
 
 ![group_fish]( https://media.giphy.com/media/xjNOjLTB1azvjf83v5/giphy.gif )
 
+鱼群之中有一只 Bird Wrasse，你看见了吗？
+
 ![black_triggerfish](https://media.giphy.com/media/zafSJlx7foAFcctufd/giphy.gif  )
+
+一群 Black Triggerfish。这种鱼扇懂动鱼鳍的方式很特别，像只扑腾着翅膀的鸟。他们远看是黑色的，近看身上有蓝绿色的条纹。
 
 ![spotted_porcupinefish](https://media.giphy.com/media/tS84LVJddxJRWdV6nc/giphy.gif)
 
+一只孤独的 spotted porcupinefish 
+
 ![saddle_wrasse](https://media.giphy.com/media/Hu2d2e3USlZH2IqKfY/giphy.gif)
 
+Saddle Wrasse 是夏威夷本土的一种 Warasse
+
 ![blue_jack](https://media.giphy.com/media/hVdUdldvKRiTkFVPDm/giphy.gif)
+
+三只杰克，这种体积很大的鱼经常能在夏威夷的浅水区遇见。阳光照在他们身上，蓝色的鱼鳍格外好看。
 
 #### Two Step (Honaunau Bay)
 
@@ -63,13 +74,23 @@ Two Step 旁边就是 Puuhonua O Honaunau National Historical Park，这里是�
 
 ![yellow_tang](https://media.giphy.com/media/NE0MXXLi06ItrLc0CV/giphy.gif)
 
+最常见的是 Yellow Tang 鱼群
+
 ![spotted_boxfish](https://media.giphy.com/media/ok2V2lXoM68cDo5VbR/giphy.gif)
 
-![cornfish](https://media.giphy.com/media/oJN6e7T2tf6GpV3wFt/giphy.gif)
+一只雄性 Spotted Boxfish，它的肚子是深蓝色的头顶有着斑点，同 yellow tang 一对比就能显出它的娇小。
+
+![cornetfish](https://media.giphy.com/media/oJN6e7T2tf6GpV3wFt/giphy.gif)
+
+这是一只cornetfish，游得特别慢，像一根针。
 
 ![moray_eel_moving](https://media.giphy.com/media/QbK60f4Iugdn6opsdw/giphy.gif)
 
+一只游动的 Moray Eel
+
 ![moray_eel_peacock_grouper](https://media.giphy.com/media/9EKncgECQmk0TpEAC6/giphy.gif)
+
+一只守在洞口的 Moray Eel 和 Peacock Grouper （夏威夷外来物种）
 
 ![shallow_fish](https://media.giphy.com/media/dDpUo9tLrWksKhwhLV/giphy.gif)
 
@@ -118,17 +139,32 @@ Kaumana Caves 分左右两个洞口，互不相通。因为大同小异，选择
 
 ![lava_tube]
 
-#### PEPE’EKEO (Onomea) Scenic Drive
-
-从 Hilo沿着 19 号公路北上，在 mile mark 7 - 8 之间有一个 scenic drive 的指示牌，指向和 19 号公路平行的一段 4 mile 长的公路。如果去 Hawaii Tropical Botanical Garden 的话一定会走这条路， 可惜由于疫情植物园现在不对外开放。这条公路蜿蜒在庞大的热带雨林绿植中，让人完全忘记了火山区的干燥和荒芜。
-
 ### 南部 - Volcano + Volcanoes National Park
 
 #### South Point
 
+South Point 据说是美国本土地理位置上的最南端。从11 号公路下来，一路上柏油路两旁是宽广的牧场，由于风很大，仅有的几棵树都长成了歪脖树，远处一排排风力发电车不停歇的转动着。本以为是一个僻静的景点，没想到当地人早早的就这里搭起了帐篷，烤起了 BBQ。不远处的悬崖边，齐刷刷放着一排钓竿。
+
+对于游客来说，这里是个跳崖圣地。12 米的垂直落差，石壁上悬挂的爬梯，吸引着无数跳崖爱好者来此纵身一跃。我们去的时候天气正好，有不少人在这里跃跃欲试。
+
+[cliff_dive_platform]: https://lh3.googleusercontent.com/k7Dyje2XdyDQHGL-1SUhCLNX7G_lh96rGB4A-5I0JTovE4pT58J-cTIjNNkTmHH7L8bO4n61KaPwc3hWEtCttS9wf8ZdZhYSMfWGZ6WZxmYz9ywkHUn4Sx9nvBSdQK-za_0AzpkQL1ZCKZMuhZ8zjCm5dTQshqgsqoqwdupA0y8Ja0hXiTHkKlUH8MugszzN9D4WXYNq1FZs_OwwTiW-Eyjb60IbygBVfJilSpRKFpnB4GYa0BU7lqoiMjYIeku-SuSfX6J6raM0-bDfEE7G15ToKLaCYlPa7y8qR6za-ae4vcaRcaCtjiPC9eYDtSUbDKJTcxoSfxjM8vJaYC7rk5gLC0q_r42vgDI7pzGtvd7zwHHx67f5HEGKVf4OCSdtPBkltIiNtWcQYoKT9OZGWpqlT7jrkeaaFEsDStE7bzPbmvN0L5Qask1Vw-00JtkUpCfb1osG4K732aQIBBNGWJAO5JTmVXp0TL4gEaBRO8wUM5JFNllhOznvJTPSHd-SYWesbQ-5w8HSa-4STy6S6OsdrboPLgLH9WL9J_2iSlTItUKWR1U7AT_5R6zzN6tYdKwBmY5Jh8EuSt_GsBpLm4azfujLU-bgtQ9GlxONy9DIf6V5lknHH0luGy4jROMMd2OUmZSwRAZlCaNBf7cTZqyM7NJueTXldXUFLqea1fON6c5jk13GkXm6H7W7cA=w2400-no-tmp.jpg
+
+![cliff_dive_platform]
+
+![cliff_dive](https://media.giphy.com/media/rdEx4QxvHfe0sdfnPH/giphy.gif)
+
+
+
 #### Punaluu Black Sand Beach
 
+沿着 11 号公路继续向东行驶，就来到了大岛上最好的看 Hawaii Green Turtle 的沙滩。我们去的时候人不多，放眼一看好像一只海龟都没有，结果走了几部幸运的看到一只海龟孤零零的在晒着太阳，也算是幸运。当然了，为了不打扰海龟们休息，游客要维持 20FT 的距离。而晒太阳的海龟们几乎一动不动，让人难辨真假。
+
+![turtule](https://media.giphy.com/media/Idr9hN7GauqQ1GM9iO/giphy.gif)
+
+
+
 #### Volcanoes National Park
+
 火山国家公园占地面积很大，但随着 2018 年的火山爆发，这座火山公园可供观赏的景点就不多了。
 
 **Kīlauea Overlook**
@@ -180,21 +216,44 @@ Chain of Craters Road 是火山国家公园里的一条著名景观公路，从 
 ![rainbow_state]
 *一下午见到的第三次彩虹，不负rainbow state 盛名*
 
-#### 北部 - Kohala Coast
+### 北部 
 
-**Waipio Valley**
+从 Hilo 回东岸走的是北边的 19 号公路，这条公路穿越了多变的气候带，途径大岛北部的中心 Waimea 镇。这座位于东西两岸之间的小镇，气候适中，有着大片青翠的草场。19 号公路相对 11 号公路开起来更为悠闲，让人更能放松的享受沿途的风景。
+
+#### PEPE’EKEO (Onomea) Scenic Drive
+
+从 Hilo 沿着 19 号公路北上，在 mile mark 7 - 8 之间有一个 scenic drive 的指示牌，指向和 19 号公路平行的一段 4 mile 长的公路。如果去 Hawaii Tropical Botanical Garden 的话一定会走这条路， 可惜由于疫情植物园现在不对外开放。这条公路蜿蜒在庞大的热带雨林绿植中，让人完全忘记了火山区的干燥和荒芜。
+
+#### Waipio Valley
+Waipio Valley Road 只有 0.75 miles，却有着评价 25% 的坡度，最陡的地方达到 45%。由于路很窄，有些地方只能一辆车通过，下山的司机必须主动给来车让行。
+
+谷底有人居住，至于景点只有一座瀑布和一片黑沙滩。享受驾驶的过程，才是挑战这条公路的初衷。至于风景，在观景点看看就好了。
+
 [waipio_outlook]: https://lh3.googleusercontent.com/HC6V0ORCLGLsvlH3LwT_ns2Xa7vzEoFfkV47mvseG92CELobegu2F_48p-GMYSPg4VOjuju4Fu6gCxL9-d6hYLARpqe6LiWXU--XwHpOOs9BwQSIeIRvSqkEFCCaEmDBkxfl0jYH9u-BcCRxUWM4qEGFJRmmgrogcB4WZXxBUNLLNC4eOFLwwgA8a4-7kmHfZuuHiHRPbCS_ixiz7f_GiEu029X8KpkqLD6v4pSFQSaCCB4WsARlvoR9Du3E1CewuNj--HcQ6rxiaIa-XtM8Nxpj3Z2CqD9myW2mjFVBkXSuPtbOE3C5RnHThl9vrg0XURDSmvXxDQGSyVIMTw1hAOrsWvHh3b1jBlHbcvS1uJ7JVO8uZzWkDHDsbl5yQ6V6a20Gea935WJz8ammAM3bsQC26SymxhP0d4reNYd01GrkQditZp5YF3HfRAjl-I10Nght6isGLjGcTkkTbzg8qjdDnEnDEWq-YRWsqNdDoMU9X-Uyb496qXkd0vcaztVSBB4kHvQMtA_ULjbKhUWOBaYygdBy5p6A4PtyMLc55kjqhzYCA--rUCsZdHMLGhUEi0jNqQl6tgbwDLebuEK58DyQspr8IEjcYPyNKoJe_31SVI18HvuC4xVFi6laoAqrLe07seagyFMJwUvKhuBWPfhCPoWcr5cCa1_x2FCT_qcmxrp7zf2zOp1D10sm6g=w2400-no-tmp.jpg
 ![waipio_outlook]
 *Waipio Outlook*
 
 **Pololu Valley**
+由于两个 Valley 之间不通公路，从 Waipio Valley 到 Pololu Valley 需要从 19 号公路绕道至 270 号公路，Pololu Valley 就在 270 号公路的尽头。这里的景色和 Waipio Valley 有些类似，都是俯瞰被河流切割的热带峡谷。谷底没有公路直达，但有条来回 0.9 miles 的Pololu Trail。小径被绿树遮盖，即使烈日当头也很舒爽，因此即使在疫情期间依然有不少探访者。
+谷底面向大海的一边有着细软的黑沙滩，沿着海岸线是一片铁木树（Ironwood Tree），谷底的另一边是平静的湖泊，湖泊的上游便是切割出这个峡谷的 Pololu Stream。阳光洒在和河谷上一片金灿灿。树林里有露营地和火堆，还有许多简易的秋千挂在树上，暗示着这里昔日的热闹。
 
+我们在海滩边小坐了一会儿，沙滩上有些彩色的东西吸引了我的注意力。走上前一看，原来是在《蓝色星球 lI》里提及过的[”葡萄牙战舰“僧帽水母（Portuguese man o' war）](https://en.wikipedia.org/wiki/Portuguese_man_o%27_war)，这种类似水母的观水母群落非常危险，被它们蜇伤会造成剧痛，并留下红色鞭痕，重者会发热休克。即是死亡后被冲刷上海岸它们依然能蜇伤人，因此不仅在浮潜时需要时时小心，即是在沙滩上走路也要避免触碰到它们。
+
+[man_o_war]:https://lh3.googleusercontent.com/taYm-dlorNoGOcCDG5BverEdwIHnBhygr1dSaC7sQw96UPAiaJgiZ1tX5VUTTVpd1qtGpQUsYtRe1ukzJEhMFlAWZEOpM6X7bZBO0ErLH-EAKxsa8hNaBLlblT8NAE8EDYEd1LUM1925wEmgIk4nv6xsOWxrjDqb8-z5bOaKeKjkFyGDqgRbXZGLYQ2QEjm5K4T3VQV-RESZUgUrvFEZ8EgGiI4XNTastg-_XFQIvtP9iMxFJG_McyzNxu31_5iDokp6J6-2ayswRcsabI2Ia0l2H5qp6ej4eyhGvUoXx5hUVSy0Ywe0qsy0Y1gjs8kJWmZflL_GXeRjvJbwrfp-b-BBc_CafUYwIM5_jMO4xQaO5bGUb0V7astNzEC8Qh8Ii4gWD0APMLv-xlpuUy7iBe_iTnOh2Yqu2-N3iRsdHvwDDuhREjUaECMmRw1GOFkm20X80boqQRKEUwjkqijPSLgFFj82eQhpOjvXdcVoyA7D6r26GmOlGyavG92RiDF2FlAnKcY4WWepBBH0k08FB3Lv1y6dS7aTxE61U8y72EJZYksoGGV_qCffPcvoR6nimBUIGDoCkxqa0Ez1wQZcoQL6tdAW2uVZO7KsrmaYIhA3NPvDEj_wxVHUOsBhH9RIzHh2TTtUJ0Fy9ft36l2YpuZflmkX6ILB0DvDSzIkTxo_aRhTBC2YwYbqga1SOOg=w2400-no-tmp.jpg
 [black_sand_beach]: https://lh3.googleusercontent.com/bgqVyz2h9MCEJ1YrCOsjrgWDDbw3vxxm1D4_FNSlx5xB2_WEm919WCXrtPNBJRh_vWnMnzjiNqOVaAbTphbey0DNrrF401QykgEZTSMkCW1BWrLHxuuo-OD_z_gNs8QZf5DXrPtWrM5MO6dgx5w-ZZHqfOZDrzYaG8lOnsuORh_3oVdrdH0Ejaud5WknHeIechdQ3AXHNumbwS7GjvECAj0rAiJTj-MqcFeUJxVSKDC83g5tyNZoZYsTrErRgISFJr_nRx0WZFeI9huarlgBY18vzK_tbJRY7N01fCL_2G1amGQrtyGeGwH5N3XUksvXOkZup6pdf9tVxx45WA9JctjdnWVBghGlK-YAUaXjdoHRRgGx8OFt14Dt2wTRRjIknfO4Sh0vPITutE4QrYnsv2EsXJQdvFBV1JxY-Z8VGfvmAuSNXYyBVCxmTjlzSZ9CY1VB6EPu9D3s5iv956YpDVOaJjwcubfBF9eG9tx5J6VaYBw9HKY9q1upFL36cTf9UJmJPJRI0MfTRE8sBOQBAhFKEUnAF4t63hqKnh4xapjP1G1SkyLR7DTATZHL5s7AQFnU_vcGGzlN9MKHJBbgFH1X1Vbkf_sWFgOIgSwwcnWm3yVo95-ZYQDGGvxs6QlBcTXCs8E6qaU7E-AXt9U1hLF-ykr-l2t-uFkpdZwsRMzTTehgHXXZHhm28VOe_A=w2400-no-tmp.jpg
 
 [tree_by_the_sea]: https://lh3.googleusercontent.com/e8Z8B2DY4qXl1tbkaU_o--AijaREViffLsw_qi9973kpq0Isg-8NPVgM1gAT84-5WKN7JbN1ud4lBoP5_4qd6laqXj_iC6ggbY-5S68HMDeukH04wq5ld6pcZexQEDs-cl7w6ltbgYRwNbDeaZvalHYZeFpVgV1sDHTqD9Qh-Pw9cQ7uvz2mTgDGVYDLALO3yyCMXBaGQfuxxV0DKAaj8Ofyd1jRWQQDzJy1DYvz7F2bJu8sGM1eGcAAfl8TrduL28PXjP5BrC6XEzALC2c9RVvOAsbQZFjLArs6AZfsvod3Y_kJSySCavPgaCyeXXRCsnLPaInsKEq-vPfHwS_EqtW8AneU9skEuLHHVAj05_ljLZw9UA9o7LFgvFrUQ3vZQoFoYtcq59g2VI4eVm8jG40W0o9XcZJYUhSt9sHfLx5u2QOxXH2Qfzg5vvrPAFYDRRsct0pzKMAxPg_EH3aAXNIP4zVpOgBIisq3HHmNHSKemqyURDNn1a3JZgdnPlFDbNooid_RyJ419mKLArjG6ptWgn_SkayGT4zgRVPfr6xogvmElfF4myW7SKK11mq5QHr6XUa6hH6WPs9tu-Q9EPUW534i70hBsHz9VFaRN0SRG8yTfwRw32N-aijtgXJOzeQxFlzlsd0tQ8NNrzI308MZPL9WR-GqxdxmQuACNw2amwRJUYk5KUyX5sKJ5w=w2400-no-tmp.jpg
 
 [valley_tree]:https://lh3.googleusercontent.com/K2_CE_B-g3mfquxkMVkCSTIP-XsG8WhtTagbIeJ2HwoOOR39e5EtlxuEkd4v5_AhDAoLhnL3BYzEyWsKY40mSIcsIu1q8WqkH60crpEaCa7bU36KOW54Nq-PvhMwAECtPudzdbLI2797gT3l_5_BrshUIV91GU18kfMpYAcOeYNQBZ5yV2k36Q_6btYF5tXmUFOlub9ew-GEu4jCYsb2UQHvlCB1r8TYgeS5FT45mBzcs7-RPHBcdrBzCaffoNws3lajbjjoz44dbkqlZoQsDJAXB6zbSWoESgt-5m00zZPF-S0yuj3r0J0a4JOhozSdDZx5icDxCqEzyMhQjg5ZMsoj2BmKXsukFDGuTx-Cj-q57JwN9XEBSrkcmzqq7ms_Qi7Tr07-KvP_JQBHDIZkjops5jk9z3u8GwBi-OaBwy1kzDdVrDH-2AOVFH4xHVWGSK8-vPXoeiXpKpapUNy4IQjDlMDj0eBmLJ7ZNXNkAMFEcqtL3QALfc_3y9v7maY3_p5-cqVmvdBaUaBWL7ZLSaT6Hf6bTdbAOY1EB5ZmfGwWzR2wBPJm1M06UQ2OIvhuuCf1sprJ7pjyOi8vzOZ7Hog8mpyWM29sGbJ6m6Yu3UuFmhP3fEK1zE8UwhSrdISdSyHS7c2_iq2ER_101NvqHvgz9ugDZ1pLv2Bm1GEUBcJIRZAQJdwqyoz8fq_HFQ=w2400-no-tmp.jpg
 
+![man_o_war]
+*死去的昆虫和 Man o War*
+
 ![black_sand_beach]
+*黑沙滩*
+
 ![tree_by_the_sea]
+*铁木树林*
+
 ![valley_tree]
+*金灿灿的河谷*

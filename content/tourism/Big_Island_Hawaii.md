@@ -123,9 +123,9 @@ Mauna Kea 山顶的海拔大概 4205 米，从海平面开到山顶只需要一�
 由于气温永远和海拔成反比，无论山下多么炎热潮湿，山顶永远值得你带羽绒服和防风衣。从 Visitor Center 上山有一段土路，只有 4WD 才能上去，连都 AWD 不行。疫情期间本以为车不多，结果太阳下山前，陆陆续续来了十几辆 Jeep，齐刷刷停在了观景台边上。
 
 原则上太阳落山后半小时就不能在山顶停留了。如果想裸眼观星的话， Visitor Center 由于海拔低氧气含量比山顶高40%，是肉眼观星的最佳地点。
-
 ![sunset_mauna_kea]
-### 东部 - Hilo + Hamakua Coast
+
+##东部 - Hilo + Hamakua Coast
 > 我们在 Hilo 住了两晚，半天用来回访火山国家公园，半天用来探险 Lava Tube。Hilo 是大岛的首府，相对旅游中心 Kona 更加接地气。由于火山截住了大部分的雨水，让 Hilo 拥有和 Kona 截然不同的热带雨林气候。
 >
 > Hilo 附近除了几个瀑布外并没有什么特别的景点，住在 Hilo 主要是因为它是环岛旅行的中间点。当然如果时间不充裕可以全程住在西海岸然后每天 Day Trip。
@@ -186,8 +186,7 @@ South Point 据说是美国本土地理位置上的最南端。从11 号公路�
 ![before_after]
 *Before and After (from USGS)*
 
-**Kīlauea Iki Trail**
-这是公园里最热门的环线徒步路线，沿着火山坑边缘行走 2 miles，然后横穿火山坑，总长 4 miles。这座小火山在 1959 年发生过一次大规模喷发，行走在火山坑底部，地面凹凸不平，像是地震后的柏油马路，时刻提醒着人们地壳运动的威力。
+**Kīlauea Iki Trail** 是公园里最热门的环线徒步路线，沿着火山坑边缘行走 2 miles，然后横穿火山坑，总长 4 miles。这座小火山在 1959 年发生过一次大规模喷发，行走在火山坑底部，地面凹凸不平，像是地震后的柏油马路，时刻提醒着人们地壳运动的威力。
 
 [volcano_overview]: https://lh3.googleusercontent.com/pw/ACtC-3e7XX6iK8i8IGtDXFpHsmswDpqxDV2q_N5OR6xjPGtmycYZZmpFx9B4XyQt9vYHTX7Thm3OavYuoJfnIC0A3ckxYAU9m_uxMmBj9iOH8y68BwBeBNDGyDJx0iUNkxuiEqiMKvuz95z9UjsU-7ISYiztlA=w2400-no-tmp.jpg
 
@@ -199,8 +198,7 @@ South Point 据说是美国本土地理位置上的最南端。从11 号公路�
 ![volcano_bottom]
 *地壳运动的威力和顽强的植物*
 
-**Chain of Craters Road**
-Chain of Craters Road 是火山国家公园里的一条著名景观公路，从 Crater Rim Drive 一路向南，沿着曾经熔岩流过的路径奔向大海，路的尽头是 Hōlei Sea Arch。
+**Chain of Craters Road** 是火山国家公园里的一条著名景观公路，从 Crater Rim Drive 一路向南，沿着曾经熔岩流过的路径奔向大海，路的尽头是 Hōlei Sea Arch。
 
 这条路修建之初通向海边小镇 Kalapana，但 1983 年的火山喷发把公路拦腰截断。时间快进到 2014 年，一股岩浆突然变道，向东流往小镇 Pāhoa。为了确保当地居民能够安全撤离，政府和公园用压路机推平了火山岩，开出了一条紧急撤离通道（Emergency Access Route）。2018 年喷发前，沿着这条碎石路就能到达岩浆出海口，小镇周围也有许多旅游团组织大家近距离观看“岩浆入海”。随着 2018 年 Kīlauea 火山的喷发，这一切都不复存在。没有了游人如织，Covid 期间这里显得格外冷清。
 

@@ -5,15 +5,17 @@ slug: iceland
 categories: ["Trip Thoughts"]
 tags: ["Iceland", "Europe", "Sightseeing"]
 draft: false
+
 ---
 
 ## 蓝湖
+
 [p1-1]: https://lh3.googleusercontent.com/S-o9e8LyjVf44bzsztpxN6stoJySNo9fbFm_gLEVjwJ4F_EQH8RuqmfSd1Cev0Vsu3lgUC53PKfzT_3itl-rhy5LDhv9QRxHqGu-jL48oSmoShQyQG_Jpl5x3HinAPsOYnN4k302-psz4QW1VcPMAuYvB-PvypjKl_m1kqwKA89_ujTsnYUQrs4edUbKkIcU0SeZT7cLoQGu5jAfSXgpkNuftdYkH2ya1A1lqgSE3D4ca6k9v1aY5C5BKL_8uCOX6Qo1KGUZ8LVckhoWMzk6Z6PGdidF0kZoBdwG7MkblQ2uzVcDMHA0_bvGH0yyMOFaJ_xV73nvKXuAbK8i1Me6OxB07_32Ycu8WN6ry5mW4kZMY4zc2tRd_w3W38YQiicXXnMmsduA1FW599TuIs224V8h4YE4gMSuCX9RUwOB-Wbw5y1fDWO0IR3jMPkdiOikipY3tCwI3hCENvUFY3QQ7zhME3NfRtN03RiDi7ykW4ZA1ADsJBeQMNhOZI9w1lluVEmmJb6qiikJedZuSA7H6oWMhbRcuMoMIBmKC2UJIuTGM_6fvlZD1xoWR3Y14AJyHjEdUkxT3UBTyrYzOH1O4EVZg1qMwRHQSzebbg7KnsPqYzeSH2qVf1bYvs10Yjbp_CQYh6OQfBjvlVGy94Ju8nWBGrrN2OA=w500-no-tmp.jpg
 
 [p1-2]: https://lh3.googleusercontent.com/aZblsSbADTLjj0THhRvIi76UdAsgtWw-wTgbZ_ac3cyWuTRS73v2i75sVUnS_mwC7biaVCP8aFGfBJdABRX3tqc1KpRI2spZr4ScgTxM9sA0z4Q6OtC4WHEkjV4KQBoMOi8h22m5hJFVxqQAyqLyqZLOr_JwrWNsNpku9qCByeugJLATl7OPloL5f3_gnToaR9dTPXvNf7yj4b8ThwfbTVSLBoa2xhM-qYFX1ulAEeGsvpM-QjuvcC9BTXyYatOdHOVF0d2NmLwlk_Bnpv1Mw2jTcs5FXKbQqRyR1yM0DekMlZW6fIQfmJ7q1PCv6jRzj0hh8ibnzSN-O3blU4YeDiY5zr8_xniic1oG6OdxCugjY3qC_zZdpl-ZNmQdwQnax7vFEi-MqLcJX-qdJlPvnrd7rJrl6Beb1KQT1BedwKSykl9IaTHmQg7gYp7HxfN9yuwQMBwx6NcRKcvzzxddgkNXvkv_brkobSKB_R36488XVatdnovSwnmm0RPOcyPGkxxDBQI3lkkH7tQUWc_oaOsUgmANn6FuBRB7cEmBVdNrBSmeQE8IWRvkkvbUBPrWVJk_aNfWE6gVm_DY7JrG4OFiIC_KidjwdAqGfF7-l3FwDN4SLBNcjYBnPKbGwDTsgIHLJS0vW-rSDHNLCKXIk69mQFZQi0c=w500-no-tmp.jpg
 
 [p1-3]: https://lh3.googleusercontent.com/hPTZzO5grVOTmJYSlVD1HJZ2rS1X_iuwymEDt4SXbfMerLZpgwxErkv6TEximYKvgUX_EjYDheogqKM6IsN9D68aXsT0kCM3uynmOphqFhZRYVhEVwvpLbK3RHZIRUnbbD9Ckv0Mg8Bud4czIoqzk3hKiT5uo7QabvQ7pO6CsOdDFZqHLR1xsqDbOJkL5V39CgVvSSD5HNzzrnPROvRV2jcHWegaJetl9wbx4YLD5L9bVPp13QgqVtVKvi6l5OmmxEEm1wF8Gg44DtxJU1m10bxqiMrNiRlpMiO29BS_KynSmwyi2c-OxbnnM6DygDAY9irSnaQGG4saqRhAlPWbkupc07qkXyIuTsEwFZdQOfBwIBbpOk1TOojSONHbVcH2G0UmGxYoPnyOJnOznljaO2FQOk1etM8dqbvn9fjU76oh_ehh6bJ6mHmYzI_3IdljkkliZdF6LLnXjb-6tWYcA1cm6bc3nItksjJRmrNhbF5FJQ5AeZe8vJ2Rynu9pKCIMQgmKT0ZoRm_UtwiG1UlhYllI4Tl6phzxSlFuFKCkoerQaD0f833K8Ded3OUTTIKQjIcCxIu1_vTYuD-ieFu8JgdOxt6lR79UFzneOSjsIIOq6aYVFgM3KXuJLRH_O6XdNgovW9GNOsU1SO8ED9ebhA43HpptjQ=w2400-no-tmp.jpg
- 
+
 感恩节凌晨五点半，我降落在雷克雅未克国际机场。冰岛的寒冬才刚拉开帷幕。我躺在候机室的巨型沙发上睡了个回笼觉，约莫着快八点了才慢慢吞吞地走出候机室。抬起头来，圆月依旧高悬，连篇的云朵把天空捂了个严实。冬天里，冰岛的太阳要十点才升起。它在半空中不温不火地挂上六个钟头，便又摇摇晃晃地沉到了地平线下。为了珍惜这来之不易的白昼，我决定先去著名的蓝湖 (Blue Lagoon) 泡个温泉，洗去舟车劳顿。
 
 蓝湖，正如它的名字一样，是奶蓝色的地热矿泉。车还未行近，便能远远望见地面上升腾起的氤氲。待更了衣，从室内的小池子缓缓游到外面，才猛然意识到原来照片上看到的那一抹蓝色不是虚妄，不是美图，而是真实地存在。天有些凉，一阵风来，热气越发肆意的蒸腾起来。一时间，四周的人与景在这蓝色的雾气下若隐若现，一切都显得不那么真实。
@@ -29,10 +31,13 @@ draft: false
 ![p1-3]*蓝湖外没有了热气的水池*
 
 我在天光未亮的时候就已经泡在了这一池碧水中，可 37-39 摄氏度的“完美温度”显然不是为寒冬暗夜准备的。原以为旭日东升，便可以脱离这”冰火两重天“的境地了。谁知，太阳才刚露了个脑袋，厚厚的乌云便如万重山一般压了过来。一眨眼的功夫，便下起了冰雹。我曾经无数次幻想，一面泡着温泉，一面天空飘起雪花的浪漫情景。未曾想到，这失之毫厘，差之却是千里。在冰雹中泡温泉，就是下半身在享受，上半身在受刑。凛冽的冰刀子刮在脸上，生疼。唯一的办法就是多挖一点蓝湖面膜抹在脸上。既可以护肤，又可以防寒，还可以抵御冰雹。可谓居家旅行，必备良品！最关键的是，火山泥面膜是无限量免费供应。但若想带它回家，一瓶就要 100 多刀！这怎能让人不找借口多涂几层呢？
+
 #### 旅行小贴士
+
 >蓝湖距离机场 20-30 分钟车程，距离雷克雅未克 50 分钟车程。在蓝湖网站上就可以预定机场接、送到旅馆的大巴。由于现在去蓝湖的人很多，蓝湖采取分时段售票。在网站上提前预定，既能保证买到理想时段的票，又能节省 5 欧元手续费。基础套餐是 35 欧元，只有门票不包含饮料和浴巾。有行李的顾客可以在停车场的行李包管处存包。如果想在留下美丽的照片，就不要忘记给手机带一个防水套。
 
 ## 雷克雅未克
+
 从 Blue Lagoon 出来，天神不知鬼不觉的放晴了。我坐上 2：15PM 的大巴前往首都雷克雅未克。Reykjavik 坐落在 Faxa Bay 的南岸，西南临海，东部和北部都被群山环绕。极目便可看到 Akranes 半岛的白皑皑的山峰。
 
 我住的青年旅社叫 [KEX](http://www.kexhostel.is/)，就在沿海公路的旁边。离大教堂 Hallgrimskirkja 步行10分钟，距河边的 Harbor 也只要 15 分钟。当然了，首都旧城区本来就不大。伫立着许多木头做的二层小楼，被漆成了红黄蓝绿不同的颜色。就算是在雪天，白色的世界也因有了这活泼的点缀而不再单调。漫长的极夜，黑暗的世界也因有了这明快的色彩而不显得孤单。
@@ -58,7 +63,9 @@ Reykjavik 天气变化多端。我刚举手给窗外的雪山拍了张照，发�
 尽管窗外飘起了大雪，我还是决定出去走走。出门，扑面而来的是寒冷而清新的空气。这里没有烟囱也没有锅炉，更没有因为烧煤供暖而造成空气污染。Reykjavik 在冰岛语里是座"冒烟的城市”，但这里冒的却不是烟囱排出的废气，而是地热系统蒸腾出的水汽。
 
 行走在整洁狭窄的街道上，雪花渐渐铺满了前行的路。远处太阳在乌云里不见了踪影，天色渐暗，夜幕沉沉降临，一阵困意袭来。低头一看，才下午四点，不禁哑然失笑。
+
 #### 旅行小贴士:
+
 >鉴于关于冰岛的攻略数不胜数，大家可以根据出行的时间（夏季/冬季）酌情选择。我就贴一下我搜到的几个不错的攻略吧。
 >
 >[冰岛各种打开方式](http://site.douban.com/145183/)
@@ -66,29 +73,28 @@ Reykjavik 天气变化多端。我刚举手给窗外的雪山拍了张照，发�
 >[冰岛各种打开方式](http://bbs.qyer.com/thread-1386910-1.html)
 >
 >[夏季打开方式](http://bbs.qyer.com/thread-307521-1.html)
->  
+>
 >[冬季打开方式](http://bbs.qyer.com/thread-883777-1.html) 
 
 ## 地热
-[p3-0]: https://lh3.googleusercontent.com/KvSS556Dxtclao1ish2dibFUAcnllvzexIBzmuAVsA7Br_KdK7eY27pmzp_5C_92jgRWrcPi9dVlY73-qKJ45wCXihTevIJ5JVCab5h2frp5G0_IDN8drGhELa-6NWIBMnAo51N_Tg=w2400
 
-[p3-1]: https://lh3.googleusercontent.com/vlCm1qgPM9YIYsqQkpAp6M3J0kCJlsuBidZvR8pBkdHpetc0MpNAlABHFcJaUE_eTWSl41Yna7Fvl1-xSQjII2u524Tsf9TiVCW8YuqXErMx4m3PrGBqeoUqVihqQ_ZsN2GZAsnJgA=w2400
+[p3-0]: https://lh3.googleusercontent.com/pw/ACtC-3fZx5cR6X7zddlpV5dFFp7R9JfvAq-7_XVw-e-1YHVdDBF5_6qy4twflEo7z4K0so-eueV3difhsh9bVlsbus_R6uQHZ-Tir9ZErtjImunAdMYJda4ZuYETtfEXl1THEuchpejVxsmXlSWXdwnuA_ce7Q=w2400-no-tmp.jpg
 
-[p3-2]: https://lh3.googleusercontent.com/eMlPFSeVsBnJx36GMYOlnvkiUzG-wkKumYOQkex3bzQVk4F_PmOwrs3aXfI3Fewdg8o0fUcMdOL1yrqO7yz3U3h5KAvlQvPIIQVT7QvbXuCFhxlcgxZqN6WC2Dk3A0gT7w2EDxjW-g=w2400
+[p3-1]: https://lh3.googleusercontent.com/pw/ACtC-3fQF84iXqAp2EuVlH5gXB9DFhGEeDlpJ5zClceuOJdBxaH_FivalPSb1clCFu8PxmRa4BzrD38JCfZW9oB5QcS0Cp2yuOI6jmt9UFnd2840Yr9XqXQK_QHxUvQcw-X8b94W4cO8l_4cWOZmTCF6ABq08Q=w2400-no-tmp.jpg
 
-[p3-3]: https://lh3.googleusercontent.com/0s9qIsz3u8uNH0ZkNKXk4CwcmKM3ZtdZ-i14B1hTqrS2Ed6pKL9vFyBTH5ORKjB8LbOH5ZGvhlW01A04w3X8QCN4sp4pmcr6rkAQP_MHmFAr-dwO1SYeTmx9NiJ7Smwk1G_tWB6Nnw=w2400
+[p3-2]: https://lh3.googleusercontent.com/pw/ACtC-3e1fnMYIa5SiNCICJN0U28KLebxxu4aAld-GuUkxRkgdI6djl_8UUrHrCqf2UnrZYnNwyJLalp2PrQ9-oIaJi3xv7BJAFSdQcXdPocnBq-GpjIY5wX1ukm7VK-ioBOewatkZAiKb_m8-CWmdWIP487VzQ=w2400-no-tmp.jpg
 
-[p3-4]: https://lh3.googleusercontent.com/mCXkNtrOF37IquC4zBRglWmD1lPg_TIhHJMQ_BbUNaBQ6hQGWJpuff09-eWJVifM411MCmUT8-zQX_UMP2uqpy5aaM9yMQFlHszAB9No64NQg6Ru74UYyBWW0cMr6SAqrLJn_fgq4w=w2400
+[p3-3]: https://lh3.googleusercontent.com/pw/ACtC-3d2GH2wN2YjEtlBOJC896IWE1dLJkNiIG3xtf6LX7B1clD-s9V1blrf9tSOygm5WCnNfP9MUSN-fsfpC6QOKK0lLpRtnP8ka8IFdd644FUA9YyamkHj8FiG4XAD2foIPL5NqHyeCsYiePTX_aDG9FxRkA=w2400-no-tmp.jpg
 
-[p3-5]: https://lh3.googleusercontent.com/M7-QDS7gwzlwEVHqCzpWQrR0rUvf6lSqdHXWa8rmyssSGhQ-hxkFK8uBHSE7CL8cR4A2WdOn2C8qPg0hmBvE7dEB7ZeJZlZ8X-bjT0jLwwp0rD2wXFYEHeSNFsoL0NJXSIL8eW2bKQ=w2400
+[p3-4]: https://lh3.googleusercontent.com/pw/ACtC-3dSoXZh3LaPMzDLC6TG_UDIjxlYd9xoSu9KiVGS4LF20TNHKS9Q-_WWpada88A8P0Kd1B5QyQ8jA4Ume57zm3u-5azfxMzt65o6Kd2gCIIekZaZF2xI0yO3kvkaFlxzct7WCyM_TQul8WWuj8i8XSsuIQ=w2400-no-tmp.jpg
 
-[p3-6]: https://lh3.googleusercontent.com/131ZQ8hZ2-Eg25FG3MZwCwkLMNYOikxi7h75kQUme5DWrQYebCGU3R2rvBHKawSHfW7iVSbC5ylG7BCp0cWDm9IqIKJi07XcYdBkSSDdWAlH-KZY4IaStyW4hgNBw50cf_H2PohGrQ=w2400
+[p3-6]: https://lh3.googleusercontent.com/pw/ACtC-3dqdkZquC64z2ptET-BWyC_krRWjnxXS-K0NRmUPeu-00e33Wsni0DSZtEP8NA4lSkDj-lO-6OJdcrpgtMTfh21bmwc3qcdA7tusOl_6yHW4tLcTVa9OM4csiuLLOJ8MWxj4s54c1LIXYpPjSR4eUelrA=w2400-no-tmp.jpg
 
-[p3-7]: https://lh3.googleusercontent.com/w9Zxi_Cu4A0D4yIETD10Oz1RfSLiz7oz91__XDvM-7jbcHk3ynqIL9O_lhWqB6YKwZoSDF5wRHFKXcVdvLI4NgFUHZU_hzFq2WP8R43Orgw2k_FNiu7DTC5k3KtK2V48YWBLPkef7g=w300
+[p3-7]: https://lh3.googleusercontent.com/pw/ACtC-3cascVMIy1XLjCl9W-pKXBETEE6slEXwHgrrh5ejgPDDhwyMYqGcxcOjkevYl9XgfbetIycRAjxlWAKv2CEzq6k9NfRJweZ6NZC1PR5_DDbWPdaJ3aIDWbAchgDxNp_54BJPciOD-uLdcF4Kk88ezFeMA=w2400-no-tmp.jpg
 
-[p3-8]: https://lh3.googleusercontent.com/ZEKMCHYYvjhcSYuu9naNidje6Fom_OoQ6MrOk2zuVYhm4UG59Wl80SuKonvur_PnTd1IYrFYraoJI9AvzeBOfHG1epChHNX-SDWLQZ52_tOels59jlQ29nHY_YRj2R-5Bxi5djLt2Q=w2400
+[p3-8]: https://lh3.googleusercontent.com/pw/ACtC-3fNinaZ7oZ_RrPhog3qljYRszNbDhG1MIKu9OMwkxnjCz5ijKQLcb9Cy3f2dHesc7D34WFpO7fTuh_fwpSw3opjFjrOZ3CdcF7gCEcH_h-CaRMjMmpP-4c-biAARLgOqi-RQOjmyKnzel6lvfhII9Rjsg=w2400-no-tmp.jpg
 
-[p3-9]: https://lh3.googleusercontent.com/slclJcF6hN3hGs2o9OQNjq237x_w3BMZUvGdUxVHZVOO0LsLC8HzeABfMkiRd4tp114fdWuoMAIQYWaXDqF3NekwyYuXqgwdJM9E7aNQdF_BT39f6jeCGskkUVJk8vVbipELxgAKag=w2400
+[p3-9]: https://lh3.googleusercontent.com/pw/ACtC-3cnCpeUdCddA56CdPG5ZiZ_ER_gsqw-SBGjzMPRxFx5DDBf35U6thYNBqqDsRz6ZVRryFR4qRuecXfgUvYJnZOElXaM4WXp7WPQuDBaG0XvQ7XEp0LHgtPb3GD1pvnswlIgqgpftgq7RBmlKuMWiL5z_A=w2400-no-tmp.jpg
 
 冰岛的后三天，大部分时间是在车轮上度过的。
 
@@ -114,8 +120,6 @@ Reykjavik 天气变化多端。我刚举手给窗外的雪山拍了张照，发�
 
 ![][p3-4]
 
-![][p3-5]
-
 离开 Gullfoss 的时候，太阳西斜，低垂在天边。我们的车缓缓行驶在铺满新雪的路上。忽然间，远处的云开始变得很低，一小朵一小朵的，或是挂在天上或是飘荡在房子的周围。那样子，就像一只一只的氢气球，悬在空中。
 
 ![][p3-6]
@@ -131,18 +135,18 @@ Reykjavik 天气变化多端。我刚举手给窗外的雪山拍了张照，发�
 ![][p3-9]
 
 #### 旅行小贴士：
+
 >冰岛是许多电视电影的取景点。一路上我们停留的 Thingvellir National Park 是 Game of throne 的拍摄地点。在那里拍摄了 Wildlings 在 North Of The Wall 的场景和 White walkers 进军 North Of The Wall的场景。
 
 >在路上行驶的时候，我突然有一种置身 Interstellar中某一个星球的感觉，上网一查原来 Interstellar 在冰岛有两处取景点。一处是 Svínafellsjökull Glacier, 那个白色的星球。另一处则是 Mafabot。这两处都是南部环线上，若是自驾不妨开去感受一下。
 
 ## 黑沙滩
-[p4-1]: https://lh3.googleusercontent.com/OuNTAYQN3EmugRIj1uc0QMXefnKlfChgRxrD0S6ZVYN3H1WXjunsS440EGUv0-RYPRRuGQvmWF899VdynUqSYiagtk16KRpIw0N1Ni8AXIhPXkm08pgmcpvJ2B9E67zgnujy3QJaDw=w2400
 
-[p4-2]: https://lh3.googleusercontent.com/4agcArUrYckT2I49Qu60HIn6t0tp0pr3S7iSqP1NgOsICOtdq0WBoIFWgGbo3Cyg7ibTRhgTCFCZDowpbTQa_0XE5U15JP2JE6N0HacB8QXBLnVpECHE2Kc4b6UdJjlBZUQdz3ZVEw=w2400
+[p4-1]: https://lh3.googleusercontent.com/pw/ACtC-3fAndLiFVevHFIAcZ4o7I9gOxtMBWXkLqrGldfEjgbn4Yfk3w3TAvY0m7UTimGTt9jRCmFymouPrDlddpPXNr1IyVLERBHZblHVvnVv5U8b-es50_DoPlrwtBCwnBBEtBf_Fjb5SUJLgY0KUAQ-iXtiDg=w2400-no-tmp.jpg
 
-[p4-3]: https://lh3.googleusercontent.com/bVBVv_fxEGcmFHyTVg-_CI6XSg9vbPS0ueB_L1cYsoqbCH9jcN_e3Q_NGGHwFOlPYInCM6YJauqk7KWg9awJfdZWXB_cr847JHHbUdPx9xyKpk2faoezthJ7AOIqCReihSgxCT-gsg=w2400
+[p4-2]: https://lh3.googleusercontent.com/pw/ACtC-3dzjASCiGZqKMuHyDr3NLkmVlVAS2JJzqRYLyVkD1wOpF3qN1BTfDvCbt4tTuKpiziiSs7mCKSLkL5_jGqgSnItOj_y_mQDkiPq5UAAAb4wqgUucAR0Ua3kNwCFn9yADs1B9xLA_hEOldwk4BHX3wkyoQ=w2400-no-tmp.jpg
 
-[p4-4]: https://lh3.googleusercontent.com/b0RHw9xI3gE5vi_j9A4cWJV2UF-u8G-R2CCpjMgL2TAgogPmIecbz-azZxhnda_sWk2mopCfos97qL7ifuB3ZKz62kO8IVQs4HzmYjWsHQmh9_1dqN2yLIvP4oIsdwR0FWrnm_GjpQ=w2400
+[p4-3]: https://lh3.googleusercontent.com/pw/ACtC-3ch7hMaoaktqtiA2SwK_geicnJxE3KOx_JbKUeY4vZ2-jwIfKf3RVE4qM3R9WOZ4zk-qrqTlxn4ZJwlATgGV-1xskhWWgwSib3l5vtJ9fLmGzYszIzD1COr6ZhAjKVx6N_7o-KW8BwUFvkxCmpAvUx5AQ=w2400-no-tmp.jpg
 
 这一夜我们留宿在只有六百人居住的小镇 Vík。这里倚山傍海，著名的 Reynisdrangar 黑沙滩就在离小镇不远的海边。
 
@@ -150,25 +154,26 @@ Reykjavik 天气变化多端。我刚举手给窗外的雪山拍了张照，发�
 
 当然了，这只是一则北欧的神话故事。所谓的黑沙滩，其实是由火山石形成的。火山喷发而出的熔岩经山口缓缓流下，滚烫的熔岩与冰冷的大西洋海水相遇了，在这冰与火的碰撞中，岩浆迅速冷却，变成了许多细小的颗粒。再经过时间的冲刷与洗涤，它们不仅没有了原来的血性也被磨平了棱角，躺在我手心里，光滑如镜，温润如玉。
 
+许多到过黑沙滩的人都说，它并没有照片拍得那么美。我想，他们定是没有来对时节。冬日里的黑沙滩，入口的草地上堆积着一片新雪。我们到得早，雪地上还没什么脚印。大雪无痕，山山水水在这白雪的世界里都变了模样。远处，浪花被海风裹挟着，汹涌地拍打着沙石。这些大西洋的裙摆，在黑色火山岩的映衬下，格外洁白细腻。脚下，海风吹起雪花，轻拂过沙石，一时间分不清楚，哪一朵是雪花，哪一朵又是浪花。
+
 ![p4-1]
 
 ![p4-2]
 
-许多到过黑沙滩的人都说，它并没有照片拍得那么美。我想，他们定是没有来对时节。冬日里的黑沙滩，入口的草地上堆积着一片新雪。我们到得早，雪地上还没什么脚印。大雪无痕，山山水水在这白雪的世界里都变了模样。远处，浪花被海风裹挟着，汹涌地拍打着沙石。这些大西洋的裙摆，在黑色火山岩的映衬下，格外洁白细腻。脚下，海风吹起雪花，轻拂过沙石，一时间分不清楚，哪一朵是雪花，哪一朵又是浪花。
-
 ![p4-3]
 
-![p4-4]
 
 #### 旅行小贴士:
+
 >黑沙滩有妖风和巨浪，切勿背对大西洋照相，容易被浪卷走。
 
 ## 欧若拉
-[p5-1]: https://lh3.googleusercontent.com/81fy0tRWPAJSol4h-ZkAezkxT0I17YzKcobPjpAg4zUG-F5L3pbBV9pHpEGp5nN_hqbksqXfle6zMJ75vZvPrBavLGhT06bUqmnJhT0xuaAXgEq_ojJ5JjDyWYhr2dZY9QQMF48x-Q=w2400
 
-[p5-2]: https://lh3.googleusercontent.com/lTbG_nzRK9FHBDV_sjeYA8ZsBkivNvctFJmxWRHJx1nQKm5IcOsGm4H_cuA_wdFO0mLi5RhQhQadtQKnoAWTKecyT5qM7CPpvW_i1O1tWOHfXjePT-B4UQNv0y--sRdc-cPk2I7eWw=w2400
+[p5-1]: https://lh3.googleusercontent.com/pw/ACtC-3e5HVvONxeoHZgyJkGw7QPo0yzFhHvfI8D2DV-adN7LSo8urGY9oIa0UpxeI7TvUK_RstB_1J97btcrZl3hhHDwu48_c0Yp-P9x2e9AEMPandNk1M7ZPb0V0EvKSQm-smcdjOFRmevHlSdOfc1UVLCacA=w2400-no-tmp.jpg
 
-[p5-3]: https://lh3.googleusercontent.com/sbtabx_1D3suhl9a_CZohdwYNp9Z0iCVC8r6f1t9FzrUh3z9HfYYC4rUZ0R7XBsjB5mibu-IE4_xLSyG2xI9G2TpNTW5llyS0a3HyXU_dZ4nocvx2zzQIFeAw0ZK99MQwa13_4ICJA=w2400
+[p5-2]: https://lh3.googleusercontent.com/pw/ACtC-3c76RGPr-2xai9C46hivla9p3qgOv500WHpgRnv5caBHFcOafMOp-12d8bkvGdkn9r3mIsqC6kloO5bhTQXIAVf_Bo8VQ4NxwfljsvlwsvvK4CMSvLMMVbqOxPc2-k3s6whYWcdwH2QB6DxZc0Vl5iFpg=w2400-no-tmp.jpg
+
+[p5-3]: https://lh3.googleusercontent.com/pw/ACtC-3d-UzN97mORoNLFvgDRW4fv4Mau3T3D_lv-EE60l6rkljPCK0-EZSn0xmjBLdkaCce1eBXwbhYF5XGdZXC2DP4NSYAOi_EBppvg6yZ_0O3QZzz5LOUt1DBoy6VHI7caqbisZOfT2apZ-qkXjG4u_YZYaw=w2400-no-tmp.jpg
 
 冬天到冰岛来，对极光不免有所期待。第一晚，极光指数达到了肉眼可见的三星。一屋子人吃着晚餐就急不可耐地向外张望，讨论着今晚见到极光的可能性。这时向导在一旁慢悠悠地说，“看极光得靠缘分，有时候各种条件都符合，极光也不一定出现”。也许是为了考验我们的耐心，那一晚极光果真没有赴约。第二天傍晚，极光指数还是三星，天空中还飘着些薄云。我早已做好了看不到极光的准备，所以当向导说今晚可能出现极光的时候，我连三脚架都没拿就出门了。
 
@@ -185,6 +190,39 @@ Reykjavik 天气变化多端。我刚举手给窗外的雪山拍了张照，发�
 ![p5-3]
 
 ## 瓦特纳冰原
+
+[p6-1]: https://lh3.googleusercontent.com/aV8EJFUBAJ28ks0wa5GuMcsCsIbGdomugurevvsHCRiIdnn2epMID8v8sS-uvdGoDT5w4ZBVNqf5o-mY6C7Knrh5sBurTpHmkHebgOvsuca_qQZBY7-U4b6rCGRnx_XhPkG2IbfmK6Njh-gZZGV5tP4nNncv1xDw7H9b42t7e89_QjvXKiyzUMf7JpBCWCcHHrl6XUUnRyxfEWSJPa26Uoval5IKCN5heDojnTwBB4rhiXC2tNJqOEjTTvW9HfGDcR5pFiY4QuS0hMk2MwJC56BY6ssU2bXQRVxhN7bnCgHH7EZN2nngWY3tmddNlELoyH_82RcIQ5MdVMUC7rltuy8aCeHtZp1ny19QhfMaE5Brv2kxDI7BmkVuZrWB1J9GVhojOWu-kGXH7RrrqJ_la2O88A_UOHBON2uzbXML7DZPP8pqE9Rc_YAT9BgErexQWFS08eXGayZjOCm9n7eaIo20zUlmYSmROYaBcZKdwV_ZzC1mtb5RDidsdK7XTeEHQEDtq22M-zXx55Jp4J5v-3YaTRMKQmozhu0P2diDw0jY1FCgSXmarUnCI_eeiOCg2c7zc5nH1NrWxj-Yqr6OlQJGOcDhwnodzCYO_j7g42Y2IracGGgLPSbaP9gxSZO_Icl_xaguB0p34kELvQEdxDhTc2JzHms=w2400-no-tmp.jpg
+
+[p6-2]: https://lh3.googleusercontent.com/J_T4-cHPHEkGarZaTpfNQp6xLyF98A34sfuT1vwT_RCmUB8l1cvqD2iOuW3lyDdkcyl4yTSQ5_jtKG9eDcAjFFGAXa-mjxpAGsLor-Octq3owQzwSrprCdmBbWrChgw3fT_DgAyARdP2uv05prOPkAFFeKaZUo2lpWLMQXatehhv9C2cWwNd_5C3842uhZuqcVfbr9kSXjtiKFqcZRoR-oisRKvo6kU-3zv2VBJIepq4yBllS-y1SWNKk8VmgfjWeETTDCVgqANQyvPi8cFWaKJPyJzfpMouBu9woWIn0QHr1ercxgwosr4A6XRzwGb1jBjOtAgSaRehUCx32NTMfdOp8tj18r1tt4msFSDrsMphVHz6enPqG2z-O6vQWJ0kzLxjuISU8Rs4BRx0EB_7B-soYpHK5B_hISNvctsETTuCOEB84KnW8QTG1kko3e6TNR_YlQUL_RDT14t7do1FihHF9-GoshIFku-c3av4jkfHWxyxrnvxxSdD6vy2_4vyQYmLzThPyjc8_BAhdAdpHlgOjTKH8NUR9bA8JpSXIgoC8PEy3_4om6NN_9Q8kNTcgDQfQ9D92objGgDpAKr_6EiksQOeKbfdiPi9ejcJdw9hkfSwpiEELRfdgkmr39FU1_MmFzusIWactNRATeyWOTfXqhzsZ3U=w2400-no-tmp.jpg
+
+[p6-3]: https://lh3.googleusercontent.com/LgQtZDEFwI8BxlK39sRQsFtHguSoVL0_RuaBsgukusa14F0C8mUoMkxt5rrkwYx-1Cs0stngjsVzGkBX6Xe2P4grEIWnfZnl2y7r-hL_5Uv2Cw3Tbq3jxDZRXeo3SR6cU0YX_IwzljfLnUi2Kck1i_KhQfOjYJfYFN9IIyaTu2nv6kLhoQIWhJUZ_nNluvNTCTRoYV3zYY5Fdl9KWr55hOFSjLHCjO5SUw_5wCPnvxkMEviS38llGsOE53xcdtugy6mMihWngLyX57O492_RxOvyZ_0xfFXjf35kM-hzf0QsirgYCQAi3BxfJzaEPZTkQaHJg-pfsn5U0tSfPQUHiuXFO0TSLnAKxQWr9WNIoUnPTVDGz9x8KygtF7toVdSRSnZDvtghk41k4IK_hLDhSafhM_v_T3JGBVxejg1apceKAl_jEQj_gAG8ai5BkS7WP5My0Zkm7aPj7G1ckh2V_LyidzhbyB9agmgek4sf1lWqSXbNH0HTv7hcPXWxHfcCdM3N1_fM_Lv_e1EcKMPNbjkr0_pAyOyhvMF8TV-uuSjF00ThXX0TSfOaZYlEM5EfT3Gc0SIotoLB7dXEAykqJVDv-cnvb_27mVR45vo5ottf3TZeinGVMB9Y-_DQ-_iXJ4YruB_jQvkurp5JpxjJ_LWCd7ZbchE=w2400-no-tmp.jpg
+
+[p6-4]: https://lh3.googleusercontent.com/y-AlN5Xi4jytfXlwHCHRS93-nHxikCvFA45AXZgZRYwH89J8yrMUpnisrdXscARsWihOuffT8dkC59qCP_UZDSyQegSeE4bDwwlOEcvzYEfM3_r3mzSAO2zjjXsiytQVUHMfMPHt10sLRp7OcsHlOf1kDi_dj2inlkSpAdjXlCVGESmdPlxPu8uMiejWRE0kdAS23d1Iz3czL5PKoJ4eGc01SlIVTLcQ7YMelrjm9c5sF5GFCDXMF2g0yjGYTwgaoUKhVlp_yqEmeD2J3ErMMU6mMumyr-kTtSnYiKnia8RgvPWISw-X0FWh3Oj_SHyZK6UGSGOMUxy3MuJKVCLVRgX0F7d6-ramoXrPlLfuDk8lQNB925eh_KF09YTOkk2pcdUIAgmMxHkIRTVdat-g8YZfGZI1m3D1m6l-1pCA_qp235i-wBUITi647c7wKfH7ZzVjlv0LZUkwUnKvWf6fjcUhBS-Y7PHS7q8adGNTxt8DMDRA6sCPFKuoftCDL28ji7a7oIhS0Y6K2suUek5-XldEglmXbfvKXVQNGi2WMSEUS-_ivromQGEgtHCK0-D7oKpb0NkraK7ETPOw-jVwru12Xbp_IXcyxd4FOzwwyDA6lTSwpIu06U1I5NhIQFLvy_D2L8urULJv7o0fs-uxFHB2AahUw8Q=w2400-no-tmp.jpg
+
+[p6-5]: https://lh3.googleusercontent.com/ncLu3MHhYBI-t0mZytmVuhIqZumSsAWsrDBHIt5lwT-cqM07BYm3lfNTWrz6B9j1ivBpWGw0GaFFv3js6x4SaSt5FS-f_FYDMR2Unz63HD6H9lNgmswQX3qA55OYyeSWocdH0Ft6c9gZsMmjHfojutoo_i90cLDBgNnrnG-_VP_3IVh9tfHPBHkhNFLJJp9u0U6IBYzu2M2P0J4lgVrpCX1pOJeQh51bCNbheRUcsPN-WpQYsDlUZ4UmHTH3GVOiOpSQAWc9t780x_P3DyXfPVy6-1YnIvgj72J5pv06-Opn9C5R2v3nmJ1r9gTo1GCoSg2qykAQBd5CjPpk-z190w3KDIejETxhIr7lqQ8y8lRlIwtS8hy_vR_hYve75IiOjjiupCGQr_SD628binvSQt2QqWex6qj5cIldiUmeXAEDEcE9x-xQ4iQ33KuuS6umH27u8kkB2N06K1sd5zcn9SZoB38o1jDkKBbiit1se0cc7i4axJianzHnsuJqtS0zY0w0XqMZipTzZJTttZEch_ey0OUH-80E-Ib5bvRJppi1euTkWeqDi6avzAa4S88jNERqG1ymPIw9E3b5q1zG-OyQ-wR8rC_s6OCkdZOZp93NasAK_aYHCCdT3YcT6kW0FCJxwoFbHcM8rmJFXlZDm3TNp6a-gE0=w2400-no-tmp.jpg
+
+[p6-6]: https://lh3.googleusercontent.com/urZktK_g51jh3eBu95nEijh-1sPOuxhpJ3H3jxYCr-ZRAegY-elQ1F0SklCIdkFO222Y-kySQO63fzNdi5xbaRB_Y0UvDAlZasXSwpnqlPPPOXibHiZjxfZ0_Sml_VU9v-eFD0YRHFvGGF8PeChKNvJADXOdJWRKNa7Yd0_rtIBXtFV7V8ltV83ZkL2XlL-Q5ikUS9JBsV5tDffs_T9teBvhuxu3giY5f8qjPuiM0Y7zJcaM56FRdvdP4a3v0qr4V3Jvqp_bt0N5giV3tdGlBj0qvhPgNDUTbrEzp0fuiIUkxxl1HamihiCbfyYcyDzjYXCze_4y4sEcQx1vOBDozGfGupZpiJEvepUcqAVa4AQWv3udt3fQlr113ES7wRlaMKlrdp2jYDTbUQ0Zvlok-b9vH_0UUZYkv3GaRncnhqo1UQCVqdpy8grlSuQtSXptlyjuqMoXe3cNzkl2Mbpe7thUbl40FlLhh_fk_gU2CJ5ii1_qSievLb-q-DYNVhApt0e1K_L3_EvhQ2WTsc8XBP1NS6flNhhZE5mBpBG7gd6mJPpiiFBrRlzCm5TlgT4EQESqIEYg-iGFWBOcx0ELHqg2l3Wmvk8KsYWxYPSO70O9yeYkbZluBSgxi2dgn5TaY4QebSr3qWVu7_CdKgF3_tAUfGt1Uk0=w2400-no-tmp.jpg
+
+[p6-7]: https://lh3.googleusercontent.com/uwctUaTFk6l0VycsRjlmuz77UABVmWIAzHE-bEgcqBwbkgY2SeEegls3VJFzVbOb_GpqVIliTkoi-KZtqIFmNnslFzypt1s57b6WoRiSA7O3CJmMVrnXzmu5-qIZvHXVeWs63p_iK9emxd3zAKLBNIBGO5urDbD_JukdU4vt7Rjb5XBagWsN5-Kf0n_HfZ7dL0D1htlNDd7pIzU6isgvDiwDwvtKwgijUU_lEZlQzVh2FClrU-6QEIaAQmMQx4kA8iiAX_49WsKDNIshX0E1BxbWCccbMYodbDpEyAmuh4tRKjKxQMF0CE1FJvv4LR5GkV_UiQrpSDJ_28_9GHVy11dxQrlElT8X0en8qt61SZKZkhxtMbyJ7NLaqgQl--KPPpq5ypWJCvhked_zI6iRdBwkP-bP3HARS79bnCHwI70uRunbxeLoeaxnyoDRkcLh3fdV2FkdTFX2xbc_Wj_8EglDf5HwE_YPBUE1eJzVZ_LLqY72eYRBLQCl6T5i8CwNRKi6o47J3spmeUs2N07KxFkkwpvlBV328FWMtHWBxLxRVn6l_yFchV1d-r_Lw8nQnXvOGRn23tyMOXvDFIYOKgLg573CtxyBsoKAtsjWA_XSOILV4gVoJ_DsSOxomt3yy_xrOfFA3zDvgmWlEQGMP35lg9sN04g=w2400-no-tmp.jpg
+
+[p6-8]: https://lh3.googleusercontent.com/HcBkIYO8YhZ9bdIglxfqXjugfrAcS2Vk20Ddag_TlxYObxevQcxpH6wCwiJNKvSnxVXC2GcDfW-Tvbb_XlnEWzbCR3O8mhpMBrIenpyKXe4Mn5SlfW5fRZiytHSSGKFoJ-lfvLF6KNLhqjnsvBMTNBEVTnT7M0dZJLrtmbURDGUZEB9wkk6LOyaMRBX5KZOyaUR7B3VjqYWxsv3r2qlmK-y-6S3E4oISXL1wc3VgBsspZbm9qqAMpOvIYTP5OIYampSBpQKF5hjuJNXODvFagvLvBfXlAW5LCx9bjGLZLRtaCOVnztygWG9WD_clee_e1EGq2QdnnAohRaU6--RpwFz9HTp1cBf3OuTWVO4sySu1Ice-W9l4NLnwtqNiE9exmGa0VZe54V1e3D0Fy0k9JGbzK6VeruohL4oMwIcyc0Cc9tgBSLiyp36AV7GTGg7C7vX_k95J6piCaXLCUzFi8wzO71k-p0JNCC5Gvp3jhiAD8WAsj1FMmqzWfCZWXgk2vFHFmjoLUQ3NYh5hWdv2G6s0y5TIn7yvS9peM8jcB67KhpOL_e-p8c7JsbvDkCq2dUEqO1wG5Y_IpF3wwPU2E8f-k0HWZzxfcc2UUePDjD1yaacwbjD9AZorlqN_3slfVXOPh9uQ3H8K7LORY7IjZQg0QmZW988=w2400-no-tmp.jpg
+
+[p6-9]: https://lh3.googleusercontent.com/pw/ACtC-3cWjgS_HgQct4XGXkeOKRzfgmT1NfQ0ILYIJJm8OQttYuX35-kpwMFZV6EGfdYwWzgcSAgq2G0_jfxQdZ3Rl2l2EIGfIY08M4QIkyi4QuZ0z-TPOJbOounH70QGCwDgeru0Wav7mcCD-v3YcDBcx9V9LA=w2400-no-tmp.jpg
+
+[p6-10]: https://lh3.googleusercontent.com/Qyrih0eHGLrMFi6QV2M6W5fF4SSQcSxg0dwQTTJ2FKieYZaA8coczRysmsIoK9MiNrJAbtQHbAQU1PyMlui7CxTSK1828bpGWzzA54080DfrTXG95xHAgiJVUQUmhqe9mTsfpZKvm8reo4lv9umTjcDjXfj43N9lxJPzNQSHgvRlENTnUwtstQkJh4FEGm4aDGr9jYTdqKYSnqc0INNZBslK1fOnR1wbJedqwMottvS62CCnRGZzqzb_PajTV6Q1dIhMqvXOtVOnrjrS8NhmWnzyRfTcojmYtiyhysXTQpwBMnhCnH3JQ3plvuzx0cOiEGS7VByCcZF30c8dTYaloDZ03HAoG7Q5B2xUDVRydI_xcAgSxgep5jTlH0Yhdmu03lAp22PUDaepyVef4WKpY-hJzF9u5aqDk_S8nwZ9LF4p_esF0G5i_HenVfowoge7rAaiZncKjP4Cg2aY565rDXbLvn3bZbfLMCTonxuwoGFNZGbEMkzxDxI5R67Rm7rKQZAqZpchl7gBSG8BH2-OmMuKbe_H_IIWnaFoQZXX835fFnZcYxOP2HYlmH_SrNY9zuL9pKn9AAGwBaWm46xC2dgM4EOM5f1KmVj8WUUDL19bLINJDGhnslHfyl9cr1dNd_ktaEObR8tr26wpUyptYSfKCPEALTw=w2400-no-tmp.jpg
+
+[p6-11]: https://lh3.googleusercontent.com/pw/ACtC-3djhQBTL5QjrORxcgA5LEbCqS9qzeeTPGoQI41xcWUiMWAj1hdmvtSufWOuJuS-2JantfogFnb_g-jeO3LW7f1GwpiidgTExl-Fp8o-PgRIMfrI3Qn4R7i8GGnqmUMyliB55HB2knn3zPWk5SeXY51PHA=w2400-no-tmp.jpg
+
+[p6-12]: https://lh3.googleusercontent.com/pw/ACtC-3dK2HC6QK7ll3aMARUeI46BKo-zigPefDkUZz3i5EH7hZ5JvhazteEvB6_2TKlV_OZzVy-B25QZ9fdeAdX8L7lHT5fTJShd4-TVC6CgWhyDkJXgWmM9JxRqYeJ-ZLYtatq-EyIktkP-Wp-iShzyIXlmzg=w2400-no-tmp.jpg
+
+[p6-13]: https://lh3.googleusercontent.com/pw/ACtC-3etS2pWLdsR_eepv3FCIB5Je1T9y48U2wdoG4p_ZFvsabxtYf4x-F2CrvMKZLfe1PGWhYc0CnuH9eT7oeUNdk5UImRzL9VbatGLaQ3YW5EMZiBsXMJ_tB57zatzupIZzvl0ZMBKmbp7t0EhLMOzoquZzg=w2400-no-tmp.jpg
+
+[p6-14]: https://lh3.googleusercontent.com/pw/ACtC-3f6vK6vq70HSZPEm82G4e-ENmEtyahBcuXNVvuPqA-Cd8vaAaZG9KeTzascxiYugoNj2-x99WzcPrHuzFwaprnZeFkLzHKmla8BNmJH06oRtuA2bKgFpkk56Lbzgvo_Ab8KsikqnNHRSBGCLh5Sm9zyPA=w2400-no-tmp.jpg
+
+[p6-15]:https://lh3.googleusercontent.com/pw/ACtC-3dPEpf48qzAxHIGtzSspvlLz7-2JccBAT8pqX_8u_Q6j3jRJCv9kqElbakCzENA5zOm01OXR9w1dlD94Mm-WhgCpdvz79FKBmG3E27pTuwjcgsFrJX_LTL_2AS0uPWPjSEgsqS0I0v1PhR5IxJP0uI94Q=w2400-no-tmp.jpg
+
+
+
 >瓦特纳冰原 (Vatnajökull) 是欧洲最大的冰原，超过8100平方千米。冰川面积占国家面积的8%之多，而冰层的平均厚度达到400米，最厚处达 到1000米。冰原的南部是冰岛最高山 (2110米)。这儿融合了冰盖和出口冰川，冰川下的火山经常会有地壳活动并伴随着大规模的洪水。
 
 沿着一号公路一路向东，就进入了瓦特纳冰川公园。从地图上看，冰原主体如同一只巨大的章鱼，盘踞在东南部的高山上，而它的触角则伸向四面八方，形成一座座冰川。汽车穿行在公路上，从车窗望出去，左侧的山覆盖着白雪，右侧的大西洋一眼望不到边。触手可及处，已是陆地的尽头。在那里，茫茫一片与天相接, 而天地之间则是一片混沌，厚重的云层像是一道帘幕，让人看不清它后面的世界。突然间，有一种恐惧由心底里生出。倘若这就是世界的尽头，那在它后面的究竟是一群观众，还是一堆电路线？倘若这个世界真的是虚拟的，那它究竟是设计好的游戏还是随机的程序？
@@ -217,15 +255,45 @@ Reykjavik 天气变化多端。我刚举手给窗外的雪山拍了张照，发�
 
 风还在刮，没有停的意思。冰山上一条狭长的隧道，成了天然的避风港。躲在冰隧道里，四周散发着冰蓝的光。而那蓝色之下，还藏着些什么不为人知的秘密？抱着这样一个疑问，我们结束了一天的旅程。
 
+![p6-10]*走之前再望一眼这无边的蓝*
+
 ![p6-11]*天然的隧道*
 
 ![p6-12]*冰墙*
 
-![p6-10]*走之前再望一眼这无边的蓝*
-
 ![p6-13]*冬天天黑得早，回去路上天已渐黑*
 
+![p6-14]*冰上打水漂*
+
+![p6-15]*日照金山*
 ## 冰河湖
+
+
+
+[p7-1]: https://lh3.googleusercontent.com/5ozvwhnqklKw_59YaLKB7uknnbpRhxdcEOImF1WxT-3UtiLwHtQT5xkDo3cweEqpJ-HgH2EEUmEXlorleChzFHIlZ6e-0NcJepdmPCCl7mO6tTqjRzUOwF368mxSMoYD5DgQJ-fnnxwQrWBuX70Axzj7ZiTpfj-TaEfZBjdR4tf48pVEYbfv58pgWVeg_Fj96fmhODO7g8LsKAEgsx6etl_oAVkkwdP1E2WChrvlCqo1MapkFmfmoQkrfI9hjity04hquPLCsHXJvF-ZqUjexJlxi9WUYRu6R27umZl_dLr0t2TOnFk7c706Skhd_c_TgMB2U0B_AyIsBhOLnVMQWBqq-fGB2N2GsNFwAUJXNFGxjtbedqKrOgN39DUlizmWIWGVp55l-mZp8jUjpQb0gfslSAAL4c00-OMh6kVk1A7vufgWL-z87WnX4d0OfFjIhM6HkwhKXoBqpx6VFz7TdhRpsX5-zHkGjmUCu5coKKNn_a5BnAW2onQ8Vi0vwKDlXSLjWCj59WaExHkh8AJjGOeKsFcNgUUU8_TA3b5kbCjAuJDG5K38Mu-veQq1z8suXxw8SRWbHM1U0LArPlxuMGNmY0w-5J2C8CMLwrlCEGD12uUQvfy1wx3sQlmJBACEoPNuRKe56Jfn52wpNpUe3iRjZCACZ20=w2400-no-tmp.jpg
+
+[p7-2]: https://lh3.googleusercontent.com/pw/ACtC-3eevtuxPncpEv5CME1GyTJ6PjVRyLfBS6ZZLagfKPk4hj3PezxkFImVCLLbbxl7CncxpWBTve7hEZPcsz9WbhkO431QgNFbwrv5iYi4D_5r7oG-YD5yWaENzjw-TvzL9-iSCdWRg42bJzf6Qk46IMrxeA=w2400-no-tmp.jpg
+
+[p7-3]: https://lh3.googleusercontent.com/pw/ACtC-3da0UnXoQHYPSGBBu31aWdfKmMho-tsst-XZTzrsTAX9SL9rNumEOeonl1bPk3Zi8tO3pRmflwzjWt8MZjoWyrhoJxBcqtX4sJPImLsuHYzcXv4qu0YfdD-VncKZ-zP_daZz8mdfCCN5ouFrENEvYM84w=w2400-no-tmp.jpg
+
+[p7-4]:https://lh3.googleusercontent.com/QELcdhpiz8MxcYSjV4w0Yc__oWRaX6rhCh2EtglvOOBl9VaceK_VfIY8Y6wwuOYZYbL-EcxC8y43mLUUSQmf6H2Cj4exgQib10kEHSKduSfFInxPViyagsJnm8mo2yDw7yEmG5QpxLmDS2AsDocRqlAWG089AI-PYjJJ1GoKy6n5q_yzAxGm3qXySbzszdRW8KE1oiGDq4sWyJ0hAmzDvUJjjO0BM_GFpSgt1WHl0VkEUK0Q6rtn-KRUdR76m7sdlzpFrL9aK18Q0JnHNpUxI3hdyx2PeRRUx3GP6gvEt3sJS7lORVAZ_cz64THnDsWbYoIEVKxOCKGV_kYMY8wpr-gWLZi87OQ2whXXcqUU8gdQdFS3YLuMpFOwcQ2xrY0Pk8n7B-6aO7odomHwerqsPfwMPuzBAf9wy3qmiVGorWfbAGOdUkKniwWghfx8Qu4JB0Jw301T28nxSEHhZtbfc5PJ7Mc6dmJipl0OLYusZhHr7FVgzlBHDTC6vSFaMeCv1zhJnbpIxibuiCbHq5y3yeY2v3oSoUc6V6eiIpplqpQ6SXu1SZD2S9jOEwVgsCg4hGojd-eSVshV0Wsy2zdY3kbTUhW5YcHnbBh_c5tGToAKTrWeALca-fB2WABv6octtn18dulNDyZm4XKIG86sBs85WAVsEIE=w2400-no-tmp.jpg
+
+[p7-5]: https://lh3.googleusercontent.com/IGRa86MHefzBm8Jxy-buxJU4jzOlcIBgEL3ETqU3aqQqXeTvVsQKwSVKOLaLT56zwxOqx2cIW8pshqOSczcOZIx9tE9UhyOmf4ntA4DQfTf7E0Kd_MJycdTmQh-YkZGv7NDGYLw23BWWO-9IeV7S08xmyn6lUHfP6Zx47FNZqj1sfxQgUN1Zgf-2pis1r5eX0sEFAkwBwNLN1p21u-FsdHHwKdyDQjmNzWowwnfiCy8u-sc4b_bv3dum988OOn0G3vFa199B0NNRZUHQMBgi5Lhkh0IN3ik1f-LQ0rQm5gSqB4gFzF5lBXl-owp3o15pAftjypQK_ChjdZ-JVFGpUt10z0qBNi_QXtXJgB8T7xsBDptvMFd97j-dWmey3k2HXknE5M5bvT7_wdgJlMU8xZUptIteVDIEmD1bUfqCpo2-86WUbTo13tII5ry1FKdzSpnKoIYfNxKFLmLr9GAtWOipNi6mlasJmo5LZbR1g9nahtDvxp5fQiEFvBWBWionW27mTNbth4NOFiXS-Hj_81jaR14aLRqaGlNiSgcvvoNhYNN61Lws1k_xKL70PEmnm1kFl0zbNM4Wui1d_I7cV1ZfuEoPPkLOqckV_7Fv087ss0FgqXCn8Cc8X-_nNewPSSWLBFnefTkPmW4QozPZs-LemD-g0bM=w2400-no-tmp.jpg
+
+[p7-6]: https://lh3.googleusercontent.com/qKvhla7jltjNhWf3O4CxLPwoZRGLWTmm1_JcQ1QCp4cys4QC5ihS83GnFJ_kHuzWYy9y7EKak4sL47Cj8HLb45fiiil_XwvFXEahgvSCWWliCPdb2xPeg5jrWkPGcuRmv50pB0daq8V9tFUFXQxFO5qyNslPbOYlJsRFA_pD09VFjuWAmXdqLmN5ngkLR6pc_8sSUyOEsKmzJNq4rI7KFcOuF7Ip--Gbfj8fqxOLTu8fUT-kyIn3SMLbL-fX81_OKD6dTJsXvsiabK-Gfkk96gSl1LQ2tyuvhHo4cvxKRw09SRNDSGPbThwS9qOfd_T4S3Yzrrlo94pGHqMUWgd2B_8Q5weWBbT3AVRkozQUiR03yFEvQ7OKJr6GptLyxR2f98iwCg5VxSQ45QT2Y3defg9tOAcBrFx5_Ntfsvy6KZIzRPT1_zskgfQ6xl4f190xVxaBumuYJnOkKwF6p-q4-u_y5B6goFyFbooasPZIr4ZXkbjb1-xw3VEZH_YCuYk_dDscxm8mkpbGbWT29uo9pvTDwkT8piJ5OY3EncrNmy3ZtXkInVIb6MM5WbL0tEN6Itu5_mQM0VbUFaQUbb-Y-ceplJFkMEr2Nn2THZAxJ9CBWOUNaG7Qy4Kjyy1LF1-GudapqtAZbZ1-LBBTH3vwS6eEQIUmUhw=w2400-no-tmp.jpg
+
+[p7-7]: https://lh3.googleusercontent.com/pw/ACtC-3eDEkjeyck0IUx1QpujlE4h9EFlmCHx2qUyEKeFZ-XmbvA0PkpSwVUav6yUDKlPpQ3U1KOylF2a0xRrIQ5xwsoVwz3CekAb4R9VQRUxyKyAuIExtII1YfDEy8KttEVuErBd0_rpvVAe-EbXL2VBI5h4ng=w2400-no-tmp.jpg
+
+[p7-8]: https://lh3.googleusercontent.com/Yjkxlqerq5-fGPPNwb37hYiexaeHmDxBy6lJvjxw29jzI6Rncl8F8I4NEJc62Pyv5vand4OloTH1RCxyGo5ZtKSXZ65tMfLB7CvOt2ZdsCN-j1ycKN4M2gN4Ui8jxMVX90iSUqHC_PYZOkEI86HIXcL4N2EPxj4a3wW5ZIA5F_hDtONgAm2rwWsPE2YsKX29z7oBTVHAhgiy8QmAFgU4i2HohchXzz7WmseGEgwT36YnrDMUIQDgucO3G2WK0ebbdlMGVO4u0Z-RexnZpCHdJ0phDRdCDt66SXtbWappyyS4xL5bf4QvFRhYO7x_tLFkqA2iEGa0zGVhykfsT3MXDbyWQRAf63qdGXn7huBZJIl9v0-smC346uhxs1IQ-9Mes0_zPa7w_Ctw6rHg6lQwjSl7BCngeForOawLrV7ObuRjbqHDGZVL5mMoHRrMl0hKX73jwr_FmvFO11WBAcvmaKr-IGXSM3pTaSrAsYr-Ozv6ogjcTlik_UFUxGBV_9YT_087dOAX3fyfD7FVS4vrqQOBmAmEA6NZZ2k2DXLdO5izlfsYBBDD87VZi6bInHwlxojN2JXImPtujxUk8sz-Cpz_G2sl9zv0ix_An3gfI1o77tlFyM2tedUAiZ4jlx_Qr1o0RRzT4aEAv66ncxIwA3uAFgY91rk=w2400-no-tmp.jpg
+
+[p7-9]: https://lh3.googleusercontent.com/CcB6frT9Ms9UQ1sO5KNj1-wKA4c8-lctpN3YLTaOVFmk2BzeZJgOImZ-yP8x_TrpehitqJ3qyuKtHyMVioAqwJ9BHiM1gngd5aQKi6vQBE4L5p4QZ85yciqeRVvp5hYLlTTdNDwGCeOrm2ST-aYmpDuJjBHDsEMOs_JiyUfDNVjcXb-Cbw41j5O6mLudRHQ4kS_5LXo-p1vyjgt7QBWSEJNwSdiQLFyP2t0L0CF-7hd6prXx38_0RY9glAzEmVWLrqTd7acsR_SEtpxPj8oSJ6GG1Nd65nR4yxvvBaRdxfikiu6thH7jzuEmJVJ88A6IJJgyV5v4e4gYdH3sCKpP1BEQ_PWTEQ0Ce73mlDepl2ZYvtENOF8VHbrqI2AqRLRqIX7i6ddTyc7hW63Lho30NTp7zbsIL1t7tjvtM7YjW2DJsMt70Jk4tEvvb2-H_3rFX5DW1EpSNBySQTxbw6v73Tu0aZoCSgM_V_Ez2UQSvQpCxz3ujjNlTwCIGD4TGES95c8efuTsWemLFy07cskz8cZW9kGmX1LF9iDIYFEDTRLN3WVBuSlxkl0FZnWsmCk2Tjun5spcOQvwLW2INqjm8buOiuMcgv8XbVRn-snnUJw-KKjKJSj9p-K-paDc_rPuHvYb4zJ57qtDawBF-bM3rNi7NJNjbrc=w2400-no-tmp.jpg
+
+[p7-10]: https://lh3.googleusercontent.com/WQUa8_lWDA6Aozgu9JpEIOxJfGpv1lij1LuS3AIgCsvbknsNkm04hkkxWJS90mlffwtNF0mIE3HWtCecizjJIu1oBO2Bl1-n4Xnmbh5_1vtP8B-JVlae3MQVnTyB6Tfj7NhOfJ37SI2j4i_qZJL3L9ufMsv-YFh32m9st_WYTuSIVYtMInIMqLLJNEZQfi4y4Nd-tx96HeaJ7LF1X7GzbGXvZypK0CHIre03ju-YAe9qBA9Df5DmN76SmAydPwTJ5PW_-wtdZ_OFVidNzepHkW-hSEpx8eQbgH8rZMlZvTl8sXl1NYUJE9hFOhfab9DIRkUkw5YoPde4QJlx2yh4GNbYgn32LkaCJ2Rw6ekR8r5NYnzHDVLXFvyxVotzPT-OetM4MZcSoaiWo-pfla0_m2TW_huE7oMK-idJYZlZkNNc9fEkTNoLGjagGptQF-jSrLiAfEt43OQ_uZ-FskDY8GiRZisETsXDvvfn1diRKhgXDuVQT93dzs7vtJSGgEdi948gFymChltgdlEEm1QCr9320lzbaujl_yfyMfTvILWrF1xfxf4u-KEMKU8bFKibNPfFCXDpbOq1q-D4rQtbc9_YIbvJXp_PfOGWODLvmsVqavQ_b-3acJTmuWMjzftM6KTgXgb3FT5k-uxMK1bOJPW1bLjzExA=w2400-no-tmp.jpg
+
+[p7-11]: https://lh3.googleusercontent.com/pw/ACtC-3d1_xttPc19NCQ8LXDJal-RwwNFdbF-3FhOVPH-mzCqAXj28R2iKzQaHz9iwiVUALhTP3bp1_QtLa8zPxhOdnyvDkanpBtj1mPi31Xu0VxT4dPkm3FIfewjRtQJSMo4yrhQlIZZdzNRBWuRKtbl9aamAA=w2400-no-tmp.jpg
+
+
+
 >杰古沙龙冰河湖，冰岛语 Jökulsárlón，是瓦特纳冰原东南部边缘入海处形成的天然泻湖。
 
 与冰河湖初遇是在晚上，天色惨白，无星也无月。我舟车劳顿，疲惫不堪。一脚深一脚浅地踩着雪，踉踉跄跄爬上雪坡。从坡顶俯视，眼前的湖面上堆积着大小不一的浮冰， 它们无序的排列在一起，几乎覆盖了整个湖面，毫无美感可言。
@@ -241,7 +309,6 @@ Reykjavik 天气变化多端。我刚举手给窗外的雪山拍了张照，发�
 ![p7-4]*月亮虽然高悬在天空，但冰块已渐渐散去*
 
 日出前的冰河湖，一切还都浸润着夜的蓝调。浮冰散开了，昨晚凌乱的湖面露出了它本来的颜色，除了明月影影绰绰漂浮在上，天光和山色都化在了水中。大地还未醒来，四下里一片寂静。我来到湖边，驻足聆听，捕捉着大自然的窃窃私语。那冰川碰撞的声音，冰块碎裂的声音，小海豹露出水面溅起的水花的声音，最重要的，自己内心的声音。
-
 
 ![p7-5]*再多优美的辞藻，都无法形容这样的日出*
 
@@ -276,54 +343,3 @@ Reykjavik 天气变化多端。我刚举手给窗外的雪山拍了张照，发�
 [p2-5]: https://lh3.googleusercontent.com/2GKeomnNcmSErbE9I5HWXHEMh9lEOJdH1R4Kw1yNYlBMnhEsE4HuoKrYyX4lQJ1M3jq2E_wlY1DdxlIRx8dClkPV0rFVdg-kcRl0GYD6aLFiHkTYv05pdzgdKw1P-CeXgE63XyvQ6dP2FgU4D2St3hjykIHkAHCV4XyJ87yy4cDqsYvxDnVm328vEgUUfMVb38yuOWzgVFGoJ6H4xNEvHRrf4NZoAZL2V9jpsXyxB2kQGBWkYbmgSQhD7Jr_sf9jb1QCCSvHFVKnuvrSCmYZ6wRXeV_jCiHa1VY9IMicz0XA_aNF904Di__pcChti9FcqT5w2hZ5xueIVsnkxJ_VIwQ8XFkJvlrGzaO5ypm9B3zbHaO2j_HOMH6KGdGu_fqCM3Ua0Ip-sOqpdr-M3NFS0zJkediXTzaV2oG4JTQDlGvhnU_2FipHjmmbsUPnF6fzeBkYne9CNMx01FrU82dcNb7VUrxqGBexDectBkgouo1v2BH68W4Nq6foNJhffggyKWAVRosgFcO6HBn2KV5ho8F9zAXAQowiOO3OlZ59QrwxQgROWYAcJX3wJgtr3HL6QIFGoyH9Di5_GDQfrObIUHcSMchckYyygB28Jk3DwpCFGhA4N-Qg857ElYETbX_VIE3H2c3yYtuoWI62jqfpVTpy2YG7ljk=w2400-no-tmp.jpg
 
 [p2-6]: https://lh3.googleusercontent.com/d_xMWmwcGobBG-LgCLDJO_aAdxDiNU5YGi87Gf9_0gwwONgQyO-0A24YmD875J-ZlPfOc60-ttgFfp8KxFVVWOClAQIKxL5Snw3nLqytNghwOs8NFXXWVgfLLkAv6sZw-YiFpYk5UNwiZcIunMDMJ_4uFlWbuABy57VioaCdSt1xarznxNm_R7LEjV57ojS_WAvIlQLpL-lacJ09oMWVDQxXD4IvOKlJC35seeefbSUONFN_mvonhwa5AYG1vLpnBvpKPzyrm_p7-rjUTlRAnJvDjDRnzdmpZ0uVDcwJrVSwjsVKHJHao0X2Ka0K8hYE9K9I1Oiy3MMwQo5SqVkX_rcRmhQOQmzOACnm_Sv2dyYZlhxWivy2gkDHEhEHXf9YRxscKMcA23EcWLtVwRZXbP9tiUwp66a460o-FRIkRvvPhIOzB-4e40MwArVZWhULvUokuUdH0hsWdqOL2ANvCiqxp1EM341PHcSpdLK8u0gMIrYSgEqoX-1aSgjrwQbhP1NOq_STGLwZirTIYW5REUi65mN98INm5wH1RRJya4qxHmtnWm0IV4KEpRhqpYY8PbjSF0sPbajlhfABGsM_8ebQ_q8vN7TFPL8HbSzDm6jTkKACSqBm-kYBER4FudIkeaxDsU1_DpXsZZ7hgmWf17H0YBnREj4=w2400-no-tmp.jpg
-
-
-[p6-1]: https://lh3.googleusercontent.com/aV8EJFUBAJ28ks0wa5GuMcsCsIbGdomugurevvsHCRiIdnn2epMID8v8sS-uvdGoDT5w4ZBVNqf5o-mY6C7Knrh5sBurTpHmkHebgOvsuca_qQZBY7-U4b6rCGRnx_XhPkG2IbfmK6Njh-gZZGV5tP4nNncv1xDw7H9b42t7e89_QjvXKiyzUMf7JpBCWCcHHrl6XUUnRyxfEWSJPa26Uoval5IKCN5heDojnTwBB4rhiXC2tNJqOEjTTvW9HfGDcR5pFiY4QuS0hMk2MwJC56BY6ssU2bXQRVxhN7bnCgHH7EZN2nngWY3tmddNlELoyH_82RcIQ5MdVMUC7rltuy8aCeHtZp1ny19QhfMaE5Brv2kxDI7BmkVuZrWB1J9GVhojOWu-kGXH7RrrqJ_la2O88A_UOHBON2uzbXML7DZPP8pqE9Rc_YAT9BgErexQWFS08eXGayZjOCm9n7eaIo20zUlmYSmROYaBcZKdwV_ZzC1mtb5RDidsdK7XTeEHQEDtq22M-zXx55Jp4J5v-3YaTRMKQmozhu0P2diDw0jY1FCgSXmarUnCI_eeiOCg2c7zc5nH1NrWxj-Yqr6OlQJGOcDhwnodzCYO_j7g42Y2IracGGgLPSbaP9gxSZO_Icl_xaguB0p34kELvQEdxDhTc2JzHms=w2400-no-tmp.jpg
-
-[p6-2]: https://lh3.googleusercontent.com/J_T4-cHPHEkGarZaTpfNQp6xLyF98A34sfuT1vwT_RCmUB8l1cvqD2iOuW3lyDdkcyl4yTSQ5_jtKG9eDcAjFFGAXa-mjxpAGsLor-Octq3owQzwSrprCdmBbWrChgw3fT_DgAyARdP2uv05prOPkAFFeKaZUo2lpWLMQXatehhv9C2cWwNd_5C3842uhZuqcVfbr9kSXjtiKFqcZRoR-oisRKvo6kU-3zv2VBJIepq4yBllS-y1SWNKk8VmgfjWeETTDCVgqANQyvPi8cFWaKJPyJzfpMouBu9woWIn0QHr1ercxgwosr4A6XRzwGb1jBjOtAgSaRehUCx32NTMfdOp8tj18r1tt4msFSDrsMphVHz6enPqG2z-O6vQWJ0kzLxjuISU8Rs4BRx0EB_7B-soYpHK5B_hISNvctsETTuCOEB84KnW8QTG1kko3e6TNR_YlQUL_RDT14t7do1FihHF9-GoshIFku-c3av4jkfHWxyxrnvxxSdD6vy2_4vyQYmLzThPyjc8_BAhdAdpHlgOjTKH8NUR9bA8JpSXIgoC8PEy3_4om6NN_9Q8kNTcgDQfQ9D92objGgDpAKr_6EiksQOeKbfdiPi9ejcJdw9hkfSwpiEELRfdgkmr39FU1_MmFzusIWactNRATeyWOTfXqhzsZ3U=w2400-no-tmp.jpg
-
-[p6-3]: https://lh3.googleusercontent.com/LgQtZDEFwI8BxlK39sRQsFtHguSoVL0_RuaBsgukusa14F0C8mUoMkxt5rrkwYx-1Cs0stngjsVzGkBX6Xe2P4grEIWnfZnl2y7r-hL_5Uv2Cw3Tbq3jxDZRXeo3SR6cU0YX_IwzljfLnUi2Kck1i_KhQfOjYJfYFN9IIyaTu2nv6kLhoQIWhJUZ_nNluvNTCTRoYV3zYY5Fdl9KWr55hOFSjLHCjO5SUw_5wCPnvxkMEviS38llGsOE53xcdtugy6mMihWngLyX57O492_RxOvyZ_0xfFXjf35kM-hzf0QsirgYCQAi3BxfJzaEPZTkQaHJg-pfsn5U0tSfPQUHiuXFO0TSLnAKxQWr9WNIoUnPTVDGz9x8KygtF7toVdSRSnZDvtghk41k4IK_hLDhSafhM_v_T3JGBVxejg1apceKAl_jEQj_gAG8ai5BkS7WP5My0Zkm7aPj7G1ckh2V_LyidzhbyB9agmgek4sf1lWqSXbNH0HTv7hcPXWxHfcCdM3N1_fM_Lv_e1EcKMPNbjkr0_pAyOyhvMF8TV-uuSjF00ThXX0TSfOaZYlEM5EfT3Gc0SIotoLB7dXEAykqJVDv-cnvb_27mVR45vo5ottf3TZeinGVMB9Y-_DQ-_iXJ4YruB_jQvkurp5JpxjJ_LWCd7ZbchE=w2400-no-tmp.jpg
-
-[p6-4]: https://lh3.googleusercontent.com/y-AlN5Xi4jytfXlwHCHRS93-nHxikCvFA45AXZgZRYwH89J8yrMUpnisrdXscARsWihOuffT8dkC59qCP_UZDSyQegSeE4bDwwlOEcvzYEfM3_r3mzSAO2zjjXsiytQVUHMfMPHt10sLRp7OcsHlOf1kDi_dj2inlkSpAdjXlCVGESmdPlxPu8uMiejWRE0kdAS23d1Iz3czL5PKoJ4eGc01SlIVTLcQ7YMelrjm9c5sF5GFCDXMF2g0yjGYTwgaoUKhVlp_yqEmeD2J3ErMMU6mMumyr-kTtSnYiKnia8RgvPWISw-X0FWh3Oj_SHyZK6UGSGOMUxy3MuJKVCLVRgX0F7d6-ramoXrPlLfuDk8lQNB925eh_KF09YTOkk2pcdUIAgmMxHkIRTVdat-g8YZfGZI1m3D1m6l-1pCA_qp235i-wBUITi647c7wKfH7ZzVjlv0LZUkwUnKvWf6fjcUhBS-Y7PHS7q8adGNTxt8DMDRA6sCPFKuoftCDL28ji7a7oIhS0Y6K2suUek5-XldEglmXbfvKXVQNGi2WMSEUS-_ivromQGEgtHCK0-D7oKpb0NkraK7ETPOw-jVwru12Xbp_IXcyxd4FOzwwyDA6lTSwpIu06U1I5NhIQFLvy_D2L8urULJv7o0fs-uxFHB2AahUw8Q=w2400-no-tmp.jpg
-
-[p6-5]: https://lh3.googleusercontent.com/ncLu3MHhYBI-t0mZytmVuhIqZumSsAWsrDBHIt5lwT-cqM07BYm3lfNTWrz6B9j1ivBpWGw0GaFFv3js6x4SaSt5FS-f_FYDMR2Unz63HD6H9lNgmswQX3qA55OYyeSWocdH0Ft6c9gZsMmjHfojutoo_i90cLDBgNnrnG-_VP_3IVh9tfHPBHkhNFLJJp9u0U6IBYzu2M2P0J4lgVrpCX1pOJeQh51bCNbheRUcsPN-WpQYsDlUZ4UmHTH3GVOiOpSQAWc9t780x_P3DyXfPVy6-1YnIvgj72J5pv06-Opn9C5R2v3nmJ1r9gTo1GCoSg2qykAQBd5CjPpk-z190w3KDIejETxhIr7lqQ8y8lRlIwtS8hy_vR_hYve75IiOjjiupCGQr_SD628binvSQt2QqWex6qj5cIldiUmeXAEDEcE9x-xQ4iQ33KuuS6umH27u8kkB2N06K1sd5zcn9SZoB38o1jDkKBbiit1se0cc7i4axJianzHnsuJqtS0zY0w0XqMZipTzZJTttZEch_ey0OUH-80E-Ib5bvRJppi1euTkWeqDi6avzAa4S88jNERqG1ymPIw9E3b5q1zG-OyQ-wR8rC_s6OCkdZOZp93NasAK_aYHCCdT3YcT6kW0FCJxwoFbHcM8rmJFXlZDm3TNp6a-gE0=w2400-no-tmp.jpg
-
-[p6-6]: https://lh3.googleusercontent.com/urZktK_g51jh3eBu95nEijh-1sPOuxhpJ3H3jxYCr-ZRAegY-elQ1F0SklCIdkFO222Y-kySQO63fzNdi5xbaRB_Y0UvDAlZasXSwpnqlPPPOXibHiZjxfZ0_Sml_VU9v-eFD0YRHFvGGF8PeChKNvJADXOdJWRKNa7Yd0_rtIBXtFV7V8ltV83ZkL2XlL-Q5ikUS9JBsV5tDffs_T9teBvhuxu3giY5f8qjPuiM0Y7zJcaM56FRdvdP4a3v0qr4V3Jvqp_bt0N5giV3tdGlBj0qvhPgNDUTbrEzp0fuiIUkxxl1HamihiCbfyYcyDzjYXCze_4y4sEcQx1vOBDozGfGupZpiJEvepUcqAVa4AQWv3udt3fQlr113ES7wRlaMKlrdp2jYDTbUQ0Zvlok-b9vH_0UUZYkv3GaRncnhqo1UQCVqdpy8grlSuQtSXptlyjuqMoXe3cNzkl2Mbpe7thUbl40FlLhh_fk_gU2CJ5ii1_qSievLb-q-DYNVhApt0e1K_L3_EvhQ2WTsc8XBP1NS6flNhhZE5mBpBG7gd6mJPpiiFBrRlzCm5TlgT4EQESqIEYg-iGFWBOcx0ELHqg2l3Wmvk8KsYWxYPSO70O9yeYkbZluBSgxi2dgn5TaY4QebSr3qWVu7_CdKgF3_tAUfGt1Uk0=w2400-no-tmp.jpg
-
-[p6-7]: https://lh3.googleusercontent.com/uwctUaTFk6l0VycsRjlmuz77UABVmWIAzHE-bEgcqBwbkgY2SeEegls3VJFzVbOb_GpqVIliTkoi-KZtqIFmNnslFzypt1s57b6WoRiSA7O3CJmMVrnXzmu5-qIZvHXVeWs63p_iK9emxd3zAKLBNIBGO5urDbD_JukdU4vt7Rjb5XBagWsN5-Kf0n_HfZ7dL0D1htlNDd7pIzU6isgvDiwDwvtKwgijUU_lEZlQzVh2FClrU-6QEIaAQmMQx4kA8iiAX_49WsKDNIshX0E1BxbWCccbMYodbDpEyAmuh4tRKjKxQMF0CE1FJvv4LR5GkV_UiQrpSDJ_28_9GHVy11dxQrlElT8X0en8qt61SZKZkhxtMbyJ7NLaqgQl--KPPpq5ypWJCvhked_zI6iRdBwkP-bP3HARS79bnCHwI70uRunbxeLoeaxnyoDRkcLh3fdV2FkdTFX2xbc_Wj_8EglDf5HwE_YPBUE1eJzVZ_LLqY72eYRBLQCl6T5i8CwNRKi6o47J3spmeUs2N07KxFkkwpvlBV328FWMtHWBxLxRVn6l_yFchV1d-r_Lw8nQnXvOGRn23tyMOXvDFIYOKgLg573CtxyBsoKAtsjWA_XSOILV4gVoJ_DsSOxomt3yy_xrOfFA3zDvgmWlEQGMP35lg9sN04g=w2400-no-tmp.jpg
-
-[p6-8]: https://lh3.googleusercontent.com/HcBkIYO8YhZ9bdIglxfqXjugfrAcS2Vk20Ddag_TlxYObxevQcxpH6wCwiJNKvSnxVXC2GcDfW-Tvbb_XlnEWzbCR3O8mhpMBrIenpyKXe4Mn5SlfW5fRZiytHSSGKFoJ-lfvLF6KNLhqjnsvBMTNBEVTnT7M0dZJLrtmbURDGUZEB9wkk6LOyaMRBX5KZOyaUR7B3VjqYWxsv3r2qlmK-y-6S3E4oISXL1wc3VgBsspZbm9qqAMpOvIYTP5OIYampSBpQKF5hjuJNXODvFagvLvBfXlAW5LCx9bjGLZLRtaCOVnztygWG9WD_clee_e1EGq2QdnnAohRaU6--RpwFz9HTp1cBf3OuTWVO4sySu1Ice-W9l4NLnwtqNiE9exmGa0VZe54V1e3D0Fy0k9JGbzK6VeruohL4oMwIcyc0Cc9tgBSLiyp36AV7GTGg7C7vX_k95J6piCaXLCUzFi8wzO71k-p0JNCC5Gvp3jhiAD8WAsj1FMmqzWfCZWXgk2vFHFmjoLUQ3NYh5hWdv2G6s0y5TIn7yvS9peM8jcB67KhpOL_e-p8c7JsbvDkCq2dUEqO1wG5Y_IpF3wwPU2E8f-k0HWZzxfcc2UUePDjD1yaacwbjD9AZorlqN_3slfVXOPh9uQ3H8K7LORY7IjZQg0QmZW988=w2400-no-tmp.jpg
-
-[p6-9]: https://lh3.googleusercontent.com/GfnEI0-3TBNH-akbB0-qgJ8v18VPcQPs4BKy7fT09pCH9QYbdQGnRlRzgtoKhEP9RY6MHTPT21HaQVQZRuCgLYUZG9YILYGexJmM09W93_4ySBuffAkIc6c3e450ELR1x5iZybkHQexf0yETLpJxDwE0GKOBQfEIucawwzjlbLW2c83qfI8R96-DYzrLMw_GT69Pi6OZN6jdyw9S8gBZC9JUeRYpqAh3B-17wXz0KkC57-_ICMjbbnujCAl9s8hgiVeAHFI9fwY7-bToLkTmXaaj3Qcd50zosGtcN3ImYrt_J2JdmFi-pUvkk4pdSUuR_zVnHCy4fc6AbZu6H_3TYr_05ZsR8BCO3QxJOZ9xIuc-UgtNANk6J-_6REfhQcjAwOOWNGHonora5pfzh1MDoupXI0OWPeUDbzpKDHGA_OC_pBgEqThfBtLZRSy9b9ySahTnIr44u4tbGDNMZNd8hBWO3ZfGkmX-zXeW6XMIMru6BStpzTvnj-lkBVFVofDue1-UJWDrbT9ndDb_A2FNKCaPWBWk8-HqCJZV1t8rmdk2tUZzNGEfjSrMsiblJ8q903vNMCl_dZQlntXvGb0scZDaaCmj6vw5i4N_U-iF4rmST3pLOOhH0vG00cTc49YnNLoRbo9cCPrjpnsTq6m2kyZ_wt1ex4o=w2400-no-tmp.jpg
-
-[p6-10]: https://lh3.googleusercontent.com/Qyrih0eHGLrMFi6QV2M6W5fF4SSQcSxg0dwQTTJ2FKieYZaA8coczRysmsIoK9MiNrJAbtQHbAQU1PyMlui7CxTSK1828bpGWzzA54080DfrTXG95xHAgiJVUQUmhqe9mTsfpZKvm8reo4lv9umTjcDjXfj43N9lxJPzNQSHgvRlENTnUwtstQkJh4FEGm4aDGr9jYTdqKYSnqc0INNZBslK1fOnR1wbJedqwMottvS62CCnRGZzqzb_PajTV6Q1dIhMqvXOtVOnrjrS8NhmWnzyRfTcojmYtiyhysXTQpwBMnhCnH3JQ3plvuzx0cOiEGS7VByCcZF30c8dTYaloDZ03HAoG7Q5B2xUDVRydI_xcAgSxgep5jTlH0Yhdmu03lAp22PUDaepyVef4WKpY-hJzF9u5aqDk_S8nwZ9LF4p_esF0G5i_HenVfowoge7rAaiZncKjP4Cg2aY565rDXbLvn3bZbfLMCTonxuwoGFNZGbEMkzxDxI5R67Rm7rKQZAqZpchl7gBSG8BH2-OmMuKbe_H_IIWnaFoQZXX835fFnZcYxOP2HYlmH_SrNY9zuL9pKn9AAGwBaWm46xC2dgM4EOM5f1KmVj8WUUDL19bLINJDGhnslHfyl9cr1dNd_ktaEObR8tr26wpUyptYSfKCPEALTw=w2400-no-tmp.jpg
-
-[p6-11]: https://lh3.googleusercontent.com/nYXPHbSGXkAhoVzEQ2YlNrxd2qWaHZTQWFySiod759NXu1fkx7DjNcnJJ3Wcy5C1PBVnco8802z1kK2EUhOq9mfH5iRGy9EDNDQ2AObBGI-DY-9gzgaXY477rQ4Po2mPCVz2g4acyb6w-73pwDElDJMojs1baMucQ-V0MtQ3EVGzNlEUcINFZ5iCpz6ZneUkIjKyczSESYgBHxQlGxIki-p3IhC4_-rs8KcoYgpow4dhPY_YXkvkq10l_hti6Uq6aExIhx9tmSdcXoSAG73zveBbzYmFtoY1dWM7nK2YbYnqVtPceV25O12WIS97vShbq9FLooWjWoU0aLCP8L1DVusaLVOI47w1-uKbMI0l4UmccrKGr3eo11fxhZP4Ff70lUUx4mOi0CxBNd0xYjC86uRhlRK_AGfziAsDEljSRLOFLqcDw4FSqauY6wZvSFa5cPBG4rsjBo3XrYCQ9iRqfQTi2XxaXPgVMgg8WTykkdiJsHrt21IKjFeS9SvPSLBjBjdF5Csvpm92-i_EL-k7aVABN_ozNgPsbLuVk3Y3ii5kwXs6LIqf2TgA6tzQsBdNjWAUQu43s57DizTMdS7OsNkAE-XdcXNgkEeMXFih5GHcXyRPUcFjGds4KhgfsXQpVNLml6SfRU-5VxH0Ql7TOlFCd9uhUvk=w2400-no-tmp.jpg
-
-[p6-12]: https://lh3.googleusercontent.com/E-G4HAFeoy9A11Rg4cpSWRK9BZ34jOn6UhzyBp5Grf0tPqitDjJ1IwogpKScLJPLCo2KXRvHpSq1yUYM2tWk70TaIRgEGqFqdqIx6oVaxIBpg6i77l3aisoQKAV5UnGBtKzpUEiD3xgrNSlNH4G2P2qNYpObrO5CNXE7b0-BLYWizjJqCsgpKbBcWQ2zslE-2gcxR7Ra6aipV6pGZQEt8firIgL2BI1MSBZhtQdVa-j6RlnOnQupIBEW0p3E7YCZfaJCErjWfDyvoVun4wXUQkAS4BEobgH0vuKMdvCLOuWWHf4_qQRhTn6f-jMZX2xPjlcLN4w3lEsESRpGGLCM1P9qpyce0t0mRQ15uxaPt2UWIBGJ28TJ6SVt3jjO5kLHVQ2hFgBF93zcPGOAHD2wPRdSe2XvAU1AYQ0NaMn7_yMHSr-6zxfn76IfD5q515-Gny2Ao11eYv_O5uNPX-ezjhUwIsDZNexSx6pAm7aNje30z-xUsWShnLe1yaQDiPuNJEAY8KWsO1x4t8hl3myeaZGTVfqAr8L2RTC_Hwee7eiG6oHz3dXtmpPjElPD3AKJaQbkqFYgwRxxTaCyD3AWzSRroTTQXMJFV9LxeKDRQW2OXlXAxpvG0HbWRl9LkutuGL2dkgGr6YGD83_DywNstT0wvBcprsY=w2400-no-tmp.jpg
-
-[p6-13]: https://lh3.googleusercontent.com/4TeGgQKvkMpgKbzD85UQlOoUF_0yYNUYemXJzBd5_ewgJb7zgACT2UbCof88NcXyDT8PPEoc9YADQFcZADo6lIxqzGRbAuIQB0e5WZxRPOzG-iaunosqS1m9xM7S5x5feVD1usXGsbiJIDZzF9tCr8TrOUxc3ztS-NMiIOX2OU4mfwWxxlPR2eOCxo89jZMC3rjXgBKR2JqthuXdlcttYyaV02jlUTyBJlZvA9RU3ZFIEw-6gb2worXmXsMVTP6B8zCbRknSl5LdVnLLG5pBS276xs1bp7xzya_ds1Tr1hVk19WWjA4MxoZikeO2iT-8o7j6x6uclLuDZMV8r-vhxmrQy-CoDpPfh3Y7YNMgAn4NPziP7M0LK_BMlR9VKRdW_hyXDbR3t68e-tg2VNrM1jQaH039VE2k-sfO-g56I-xJ8yMRS5M1WL5h1kJ-Rcq5eIMbM-szuAWc1Oe7vAXCR34GP-TlULev48-UlHQXQEQmzKx2Dxhgaa5k2HdONvC0nUniWCNGOVcFFB983h9p_0z9oJsagCLInq4jEA8_T49oo83uuqfKPqdi2YE83HPqxgo4VlPB96I9EOrSMIFDM0jpR2V_hNZ4aknC7DgBM2iZnq33JNjCRIRnjPOKCtnLefjX7sF8UMSozJr6Tkr8CoNTUSMzj3U=w2400-no-tmp.jpg
-
-
-[p7-1]: https://lh3.googleusercontent.com/5ozvwhnqklKw_59YaLKB7uknnbpRhxdcEOImF1WxT-3UtiLwHtQT5xkDo3cweEqpJ-HgH2EEUmEXlorleChzFHIlZ6e-0NcJepdmPCCl7mO6tTqjRzUOwF368mxSMoYD5DgQJ-fnnxwQrWBuX70Axzj7ZiTpfj-TaEfZBjdR4tf48pVEYbfv58pgWVeg_Fj96fmhODO7g8LsKAEgsx6etl_oAVkkwdP1E2WChrvlCqo1MapkFmfmoQkrfI9hjity04hquPLCsHXJvF-ZqUjexJlxi9WUYRu6R27umZl_dLr0t2TOnFk7c706Skhd_c_TgMB2U0B_AyIsBhOLnVMQWBqq-fGB2N2GsNFwAUJXNFGxjtbedqKrOgN39DUlizmWIWGVp55l-mZp8jUjpQb0gfslSAAL4c00-OMh6kVk1A7vufgWL-z87WnX4d0OfFjIhM6HkwhKXoBqpx6VFz7TdhRpsX5-zHkGjmUCu5coKKNn_a5BnAW2onQ8Vi0vwKDlXSLjWCj59WaExHkh8AJjGOeKsFcNgUUU8_TA3b5kbCjAuJDG5K38Mu-veQq1z8suXxw8SRWbHM1U0LArPlxuMGNmY0w-5J2C8CMLwrlCEGD12uUQvfy1wx3sQlmJBACEoPNuRKe56Jfn52wpNpUe3iRjZCACZ20=w2400-no-tmp.jpg
-
-[p7-2]: https://lh3.googleusercontent.com/vIQiFmFi-j3t0leuNdRDKMpJx59K0N1NL_M0Fojfcx88KaJkkNoq9aD7SU8TDhl5btGjMenPfFYN6COEyhg2kNygkEzkEhN4JoGSxoq5wxe3c-2aNyln3nY28nSjPrUhMp6PIqoJhTZ5H_18bznI2BAXdth7FpLS8e5pVhbN8uiLQdhUxAa1ALAXs2AC7-YUlN1YRXjSmChYONI7bHjdMiFFTOCXZafkMw-LcCcNhuWyJngKNu1o_CjnyH790pHoGVyZtY84qpCV8GV0-Rp85L3gfG5kPW45ErPVrME7P0aqvEvSCz5mqySxSArAum9ploNlu6oWYneW2_2dIc_DQUDXzIkEsr5aPRaUN5ti64zzsTDV4CxxKAE0O96wpbt_rWieu1_MT0CsysiOj1gZBnlNWtpXflk1S_sh9Kc1DFgnvo7FQinnc663fvCGlhNatUpDRCL79HIxltQw9hyv2UkxbZRtS-DAwl_Uc0YFlHNI79w39z2TAilxbYoJ7jjGh1svLZHpmvjoIAUkxkCDj5XYqlpgCTjgvH5TNgoxRQRUktmEitbxZ2yAmelXazNDW1B1pi-PEUbhRp04QJFTaSKmt6SW7CV436k9i_vCNRCNB950mQPv1GWvzQfd7fdqGLcD7vHq45ltkyM7Ha2H3QENNXV5_eg=w2400-no-tmp.jpg
-
-[p7-3]: https://lh3.googleusercontent.com/mdpaR40jhQkyMMA0xlI-uIGoDdNjQSL2LIZDzAulvNSPHpErkktyzIJJ7noBfCAfGkgZF96ZHKXfhy1vjPleQ1MLvaE9K8E6YGjA4pKjaSbuHxEd3EIp1qYwTKc2vfOr4JeOIb10sdiCoSUFZapnRKhMZ_nscekvBwKNmUzkqKrMyjwu1MmiPOL2VkzirfLqewn1GjB21f7zhO4797eiXrbWYZQzd5_GGeUMq26HkFPb72CwrR2oZcC828A27tCICafOv-FG9RsiGlxCvmsXOVsoUE9ND2ywVS-dlafUG5hP0yWWy7_Q5p08b5C7Mdo5xj_7VYXwemB5OI-PtGUgEWT2KfbehRUwYvwdxWNnQMPgG_SRQyI_0hmHSQ-ulISalxtr2j_iqZNoUtWikPy_n9qzxLlmkE2pv4wnWmYvQSALMAKBR0qZ98TFOjwaCQnhKF3WYfwY1NrBRAWX8x0VxYEhNi8GiCirc_A1Do5vPk4N8_zvUuSZtU0-bUPex90a0fWz9mihfOYn_-3nFzWClt2sV46ujwa7R0E-3MiHHdI8Ae8Sw-KKLetQNJWVhNwZK2dFSL5u_2K19Dm6_gVgaWK0G46JH1T8jiTMF4soThNegWTNG0VqF0jGWuekI2AE35MCHnI-65dUz5hfUEjBowac5Jtw_1M=w2400-no-tmp.jpg
-
-[p7-4]:https://lh3.googleusercontent.com/QELcdhpiz8MxcYSjV4w0Yc__oWRaX6rhCh2EtglvOOBl9VaceK_VfIY8Y6wwuOYZYbL-EcxC8y43mLUUSQmf6H2Cj4exgQib10kEHSKduSfFInxPViyagsJnm8mo2yDw7yEmG5QpxLmDS2AsDocRqlAWG089AI-PYjJJ1GoKy6n5q_yzAxGm3qXySbzszdRW8KE1oiGDq4sWyJ0hAmzDvUJjjO0BM_GFpSgt1WHl0VkEUK0Q6rtn-KRUdR76m7sdlzpFrL9aK18Q0JnHNpUxI3hdyx2PeRRUx3GP6gvEt3sJS7lORVAZ_cz64THnDsWbYoIEVKxOCKGV_kYMY8wpr-gWLZi87OQ2whXXcqUU8gdQdFS3YLuMpFOwcQ2xrY0Pk8n7B-6aO7odomHwerqsPfwMPuzBAf9wy3qmiVGorWfbAGOdUkKniwWghfx8Qu4JB0Jw301T28nxSEHhZtbfc5PJ7Mc6dmJipl0OLYusZhHr7FVgzlBHDTC6vSFaMeCv1zhJnbpIxibuiCbHq5y3yeY2v3oSoUc6V6eiIpplqpQ6SXu1SZD2S9jOEwVgsCg4hGojd-eSVshV0Wsy2zdY3kbTUhW5YcHnbBh_c5tGToAKTrWeALca-fB2WABv6octtn18dulNDyZm4XKIG86sBs85WAVsEIE=w2400-no-tmp.jpg
-
-[p7-5]: https://lh3.googleusercontent.com/IGRa86MHefzBm8Jxy-buxJU4jzOlcIBgEL3ETqU3aqQqXeTvVsQKwSVKOLaLT56zwxOqx2cIW8pshqOSczcOZIx9tE9UhyOmf4ntA4DQfTf7E0Kd_MJycdTmQh-YkZGv7NDGYLw23BWWO-9IeV7S08xmyn6lUHfP6Zx47FNZqj1sfxQgUN1Zgf-2pis1r5eX0sEFAkwBwNLN1p21u-FsdHHwKdyDQjmNzWowwnfiCy8u-sc4b_bv3dum988OOn0G3vFa199B0NNRZUHQMBgi5Lhkh0IN3ik1f-LQ0rQm5gSqB4gFzF5lBXl-owp3o15pAftjypQK_ChjdZ-JVFGpUt10z0qBNi_QXtXJgB8T7xsBDptvMFd97j-dWmey3k2HXknE5M5bvT7_wdgJlMU8xZUptIteVDIEmD1bUfqCpo2-86WUbTo13tII5ry1FKdzSpnKoIYfNxKFLmLr9GAtWOipNi6mlasJmo5LZbR1g9nahtDvxp5fQiEFvBWBWionW27mTNbth4NOFiXS-Hj_81jaR14aLRqaGlNiSgcvvoNhYNN61Lws1k_xKL70PEmnm1kFl0zbNM4Wui1d_I7cV1ZfuEoPPkLOqckV_7Fv087ss0FgqXCn8Cc8X-_nNewPSSWLBFnefTkPmW4QozPZs-LemD-g0bM=w2400-no-tmp.jpg
-
-[p7-6]: https://lh3.googleusercontent.com/qKvhla7jltjNhWf3O4CxLPwoZRGLWTmm1_JcQ1QCp4cys4QC5ihS83GnFJ_kHuzWYy9y7EKak4sL47Cj8HLb45fiiil_XwvFXEahgvSCWWliCPdb2xPeg5jrWkPGcuRmv50pB0daq8V9tFUFXQxFO5qyNslPbOYlJsRFA_pD09VFjuWAmXdqLmN5ngkLR6pc_8sSUyOEsKmzJNq4rI7KFcOuF7Ip--Gbfj8fqxOLTu8fUT-kyIn3SMLbL-fX81_OKD6dTJsXvsiabK-Gfkk96gSl1LQ2tyuvhHo4cvxKRw09SRNDSGPbThwS9qOfd_T4S3Yzrrlo94pGHqMUWgd2B_8Q5weWBbT3AVRkozQUiR03yFEvQ7OKJr6GptLyxR2f98iwCg5VxSQ45QT2Y3defg9tOAcBrFx5_Ntfsvy6KZIzRPT1_zskgfQ6xl4f190xVxaBumuYJnOkKwF6p-q4-u_y5B6goFyFbooasPZIr4ZXkbjb1-xw3VEZH_YCuYk_dDscxm8mkpbGbWT29uo9pvTDwkT8piJ5OY3EncrNmy3ZtXkInVIb6MM5WbL0tEN6Itu5_mQM0VbUFaQUbb-Y-ceplJFkMEr2Nn2THZAxJ9CBWOUNaG7Qy4Kjyy1LF1-GudapqtAZbZ1-LBBTH3vwS6eEQIUmUhw=w2400-no-tmp.jpg
-
-[p7-7]: https://lh3.googleusercontent.com/SBXLP4sGYyK1L0UG5uNl7qLaq3HInHzf6qubcEqhLkQaHhm-vDjeKvra4jxabmqH5u4weoCIuj_8pD0FY1lUeBnXaY07mOBrBDuNJxOk6gpe3sj2XUKXuyUo3WTKA-sTW-14ilCiR5BGZglBnIjt8yR_Ir5u_CL6CrVB64iNbaY175ylbh2D-GAttu0kmBgNydkmRXH9398zdGpXSU7xR9rRGqCYyDXSfZ0NBnVl9IS8vg5o7gDr2-BNSEXtlcE-gSfpuqsrfkFNrK6VGlBh7tSdnEXuADK2zsCvYVgK7OUdS3PjMDsMakBdUIOTJbm9xgWJLb12eVHk4W4hhQpEaRVYxu68tzq4-4wYkouwo6dOODWt10FEsthNlKwhHMZAYvKSliJbgpYCFcPWkE91JJ6YAwBFj8YwruW1DA5KV1q5UNe_kvEHv1pWgsR3oR7ahqLl1SN5lg0Mquc3_4vdSybNUjW6PgEpOh9mJ3lw_xHje0JvKpcgbbA4TV3M-R0hrjV3J46kMEGjI3Ko_tBc5D4ET6Vwb7HS9g8TgYBwNcvw6X8j8Uy3j47smS1QdZpyIueJ2PlS8MyZf92NV29rkx-rE-GrbxDCYimV67HhaLiZejBEEHsP5NKUZ4sAty07kTb9IeFXcPQLCTpoVyQNu8YTqkbHQVo=w2400-no-tmp.jpg
-
-[p7-8]: https://lh3.googleusercontent.com/Yjkxlqerq5-fGPPNwb37hYiexaeHmDxBy6lJvjxw29jzI6Rncl8F8I4NEJc62Pyv5vand4OloTH1RCxyGo5ZtKSXZ65tMfLB7CvOt2ZdsCN-j1ycKN4M2gN4Ui8jxMVX90iSUqHC_PYZOkEI86HIXcL4N2EPxj4a3wW5ZIA5F_hDtONgAm2rwWsPE2YsKX29z7oBTVHAhgiy8QmAFgU4i2HohchXzz7WmseGEgwT36YnrDMUIQDgucO3G2WK0ebbdlMGVO4u0Z-RexnZpCHdJ0phDRdCDt66SXtbWappyyS4xL5bf4QvFRhYO7x_tLFkqA2iEGa0zGVhykfsT3MXDbyWQRAf63qdGXn7huBZJIl9v0-smC346uhxs1IQ-9Mes0_zPa7w_Ctw6rHg6lQwjSl7BCngeForOawLrV7ObuRjbqHDGZVL5mMoHRrMl0hKX73jwr_FmvFO11WBAcvmaKr-IGXSM3pTaSrAsYr-Ozv6ogjcTlik_UFUxGBV_9YT_087dOAX3fyfD7FVS4vrqQOBmAmEA6NZZ2k2DXLdO5izlfsYBBDD87VZi6bInHwlxojN2JXImPtujxUk8sz-Cpz_G2sl9zv0ix_An3gfI1o77tlFyM2tedUAiZ4jlx_Qr1o0RRzT4aEAv66ncxIwA3uAFgY91rk=w2400-no-tmp.jpg
-
-[p7-9]: https://lh3.googleusercontent.com/CcB6frT9Ms9UQ1sO5KNj1-wKA4c8-lctpN3YLTaOVFmk2BzeZJgOImZ-yP8x_TrpehitqJ3qyuKtHyMVioAqwJ9BHiM1gngd5aQKi6vQBE4L5p4QZ85yciqeRVvp5hYLlTTdNDwGCeOrm2ST-aYmpDuJjBHDsEMOs_JiyUfDNVjcXb-Cbw41j5O6mLudRHQ4kS_5LXo-p1vyjgt7QBWSEJNwSdiQLFyP2t0L0CF-7hd6prXx38_0RY9glAzEmVWLrqTd7acsR_SEtpxPj8oSJ6GG1Nd65nR4yxvvBaRdxfikiu6thH7jzuEmJVJ88A6IJJgyV5v4e4gYdH3sCKpP1BEQ_PWTEQ0Ce73mlDepl2ZYvtENOF8VHbrqI2AqRLRqIX7i6ddTyc7hW63Lho30NTp7zbsIL1t7tjvtM7YjW2DJsMt70Jk4tEvvb2-H_3rFX5DW1EpSNBySQTxbw6v73Tu0aZoCSgM_V_Ez2UQSvQpCxz3ujjNlTwCIGD4TGES95c8efuTsWemLFy07cskz8cZW9kGmX1LF9iDIYFEDTRLN3WVBuSlxkl0FZnWsmCk2Tjun5spcOQvwLW2INqjm8buOiuMcgv8XbVRn-snnUJw-KKjKJSj9p-K-paDc_rPuHvYb4zJ57qtDawBF-bM3rNi7NJNjbrc=w2400-no-tmp.jpg
-
-[p7-10]: https://lh3.googleusercontent.com/WQUa8_lWDA6Aozgu9JpEIOxJfGpv1lij1LuS3AIgCsvbknsNkm04hkkxWJS90mlffwtNF0mIE3HWtCecizjJIu1oBO2Bl1-n4Xnmbh5_1vtP8B-JVlae3MQVnTyB6Tfj7NhOfJ37SI2j4i_qZJL3L9ufMsv-YFh32m9st_WYTuSIVYtMInIMqLLJNEZQfi4y4Nd-tx96HeaJ7LF1X7GzbGXvZypK0CHIre03ju-YAe9qBA9Df5DmN76SmAydPwTJ5PW_-wtdZ_OFVidNzepHkW-hSEpx8eQbgH8rZMlZvTl8sXl1NYUJE9hFOhfab9DIRkUkw5YoPde4QJlx2yh4GNbYgn32LkaCJ2Rw6ekR8r5NYnzHDVLXFvyxVotzPT-OetM4MZcSoaiWo-pfla0_m2TW_huE7oMK-idJYZlZkNNc9fEkTNoLGjagGptQF-jSrLiAfEt43OQ_uZ-FskDY8GiRZisETsXDvvfn1diRKhgXDuVQT93dzs7vtJSGgEdi948gFymChltgdlEEm1QCr9320lzbaujl_yfyMfTvILWrF1xfxf4u-KEMKU8bFKibNPfFCXDpbOq1q-D4rQtbc9_YIbvJXp_PfOGWODLvmsVqavQ_b-3acJTmuWMjzftM6KTgXgb3FT5k-uxMK1bOJPW1bLjzExA=w2400-no-tmp.jpg
-
-[p7-11]: https://lh3.googleusercontent.com/HuOw4q2m_aoRpQ4q7xBYWIRPS955RQWCTrM4FL0Jsid29PTm6XC5duiKTHD664MGDXC0tzbx0dbs6G_vEjkpFp3FZhvJVUOneb1lQv9chbPP9oGXCMINMAiey-SHsojIXCIE1y4Z6OVGurwKeQj8bKwANh1GOPcv2atMYiHTmVSllXU374efoq1Zpk6EStL1dq7Lk_ZCti_Z2gpCdGcwvjcf-ZA5kvk7JcmLaXgtyFqzNulAufFNG_i6QrDuxNhp6A0jCKxEkk1Yt-qNsdLw-iUcyr3KkzKpCf8lcq-kC3HfME7mnxO4VLScviFIq9nKF7aH4bMSCO6eByto8y9SgHopj_iiUKWHSYREwYUUhAkKZS2NJ1p1c7PYofln4_SUyeQerx5Uh83-IobMKY5mwtE9WmAqc3JLHbaMquce-rxIW4CgnFQQ0idtyhKr8wTMxqAu6HXYelMk7KG9ECsHYltJ3ex5DX_wlaFKdVdBcDx-rll9hVIb6ChBZIuRJsr-pC6u9JDY7kcehBeJjNp-FeMmIvO4m7vhJiSQxHnzU6VgXy5o6zWiRY11WeKpe_GSxQVqQbKOWvCyU056YZL5oSGhVpSAZmB22D9v5zkZCgpklcYm-AkRHfc8knqxDZhevmE_4RDUrZiTcA4j7PCYCpAUSenBxTs=w2400-no-tmp.jpg
-

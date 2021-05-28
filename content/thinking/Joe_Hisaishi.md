@@ -1,8 +1,8 @@
 ---
 title: "由久石让音乐会想到的"
 date: 2018-03-11T02:50:16-04:00
-categories: ["Arts"]
-tags: ["Music", "Education"]
+categories: ["Math"]
+tags: ["ML", "Stats"]
 slug: Joe_Hisaishi
 draft: true
 ---

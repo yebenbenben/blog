@@ -12,3 +12,4 @@
 </script>
 {{ end }}
 <link rel="stylesheet" href="{{ "/css/custom.css" | relURL }}" />
+{{ if .Params.mathjax}}{{ partial "mathjax_support.html" . }}{{ end }}

@@ -6,6 +6,7 @@ categories: ["Math"]
 tags: ["Data_Science", "Stats"]
 slug: MCMC
 draft: false
+mathjax = true
 
 ---
 # Why I wrote this article?

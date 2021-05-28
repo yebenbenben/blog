@@ -29,7 +29,7 @@ A couple of question I start to ask when I learn the MCMC sampling,
 -  Why do we need Markov Chain for sampeling? 
 -  Wouldn't that produce result that is not i.i.d?
 
-To answer the first question, let's start from how we sample a arbitrary distribution $P(x)$ when closed-form pdf does not exist. The typical way is to use what is called **Rejection Sampling**, where $x$ is drawn from another distribution $Q(x)$ which we can sample and we accept $x$ with probabiliy $\frac{P(x)}{MQ(x)}$, where $M$ is a constant.
+To answer the first question, let's start from how we sample a arbitrary distribution $$P(x)$$ when closed-form pdf does not exist. The typical way is to use what is called **Rejection Sampling**, where $x$ is drawn from another distribution $Q(x)$ which we can sample and we accept $x$ with probabiliy $\frac{P(x)}{MQ(x)}$, where $M$ is a constant.
 
 The problem with **Rejection Sampling** is that when proxy distribution $Q(x)$ is very different than true distribution $P(x)$, the acceptance rate is low (In high dimensional space, even if the $P(x)$ and $Q(x)$ are all multinominal, we can still experiencing high rejection).
 

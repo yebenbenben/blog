@@ -284,7 +284,7 @@ plot_trace(
 
 
 ### MH For Bayesian Logistic Regression
-In this example of use MH to model bayesian logistic regression. The example is borrowed from [Jocob Moore's blog](https://colab.research.google.com/drive/1YQBSfS1Nb8a9TAMsV1RjWsiErWqXLbrj#scrollTo=ZF3foEKV8-r3)
+In this example of use MH to model bayesian logistic regression. The example is borrowed from [Jocob Moore's blog](https://colab.research.google.com/drive/1YQBSfS1Nb8a9TAMsV1RjWsiErWqXLbrj#scrollTo=wKD7ltATG588)
 
 
 ```python

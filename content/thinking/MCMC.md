@@ -48,8 +48,9 @@ Here is the description of the algorithem,
 > The last step is often called Metropolis rejection. The name is supposed to remind one of “rejection sampling” in OMC, but this is a misleading analogy because in OMC rejection sampling is done repeatedly until some proposal is accepted (so it always produces a new value of the state). In contrast, one Metropolis–Hastings update makes one proposal y, which is the new state with probability A(y|x), but otherwise the new state the same as the old state x. Any attempt to make Metropolis rejection like OMC rejection, destroys the property that this update preserves the distribution with density h.
 
 Below is my implementation using Gaussian proposal distribution. Some technical details:
-* Use ```logpdf``` instead of ``pdf`` to avoid overflow or underflow for small or large numbers.
-* `$Q(x|x') = Q(x'|x)$` for Gaussian, we don't need to calculate $Q(\cdot)$ in implmentation.
+
+- Use ```logpdf``` instead of ``pdf`` to avoid overflow or underflow for small or large numbers.
+- `$Q(x|x') = Q(x'|x)$` for Gaussian, we don't need to calculate `$Q(\cdot)$` in implmentation.
 
 ```python
 import numpy as np

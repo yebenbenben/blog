@@ -367,11 +367,11 @@ The Hamiltonian Monte Carlo is not as straight forward as Metropolis Hastings. I
 ### Notation
 Before we get started let's define our variables
 
-- $t$ - time variable
-- $q$ - position variable
-- $p$ - momentum variable
-- $U$ - potential energy
-- $K$ - kinetic energy
+- `$t$` - time variable
+- `$q$` - position variable
+- `$p$` - momentum variable
+- `$U$` - potential energy
+- `$K$` - kinetic energy
 
 ### Phase Space and Hamilton's Equations
 The total energy of the system is the sum of it's potential energy and kinetic energy, $H(p, q) = K(p, q) + U(q)$ where $H$ is the *Hamiltonian* function.
@@ -381,12 +381,12 @@ We then introduce canonical distribution [$\pi(q, p)$](https://en.wikipedia.org/
 If we choose $\pi(q, p) = \pi(p)\pi(q)$, the above can be rewritten as $H(q, p) = -\log{\pi(p)} - \log{\pi(q)} = K(p) + U(q)$.
 
 The system can be evovled according to *Hamilton's equations* with total energy unchange $H(p, q)$ unchanged,
-$$
+`$$
 \begin{aligned}
 \frac{dq}{dt} &= +\frac{\partial{H}}{\partial{p}} = \frac{\partial{K}}{\partial{p}}\\
 \frac{dp}{dt} &= -\frac{\partial{H}}{\partial{q}} = - \frac{\partial{U}}{\partial{q}}\\
 \end{aligned}
-$$
+$$`
 
 **We noticed that the $\frac{\partial{U}}{\partial{q}}$ is the gradient of negative logrithm of the target density $\pi(q)$, that is the direction we try to explore our $q$ space.**
 
@@ -552,7 +552,7 @@ plt.subplot(1, 2, 2)
 plt.plot(chains)
 plt.suptitle('1D Gaussian')
 ```
-![png](MCMC_files/MCMC_20_1.png)
+![png](/images/MCMC_files/MCMC_20_1.png)
 
 *2D Gaussian*
 ```python
@@ -574,6 +574,7 @@ ax.set_title("Multivariate Gaussians")
 ![png](/images/MCMC_files/MCMC_21_1.png)
 
 *Mixture*
+
 ```python
 mu1 = np.ones(2)
 cov1 = 0.5 * np.array([[1.0, 0.7],

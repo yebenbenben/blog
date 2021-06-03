@@ -18,6 +18,7 @@ The biggist challenge of baysien inference is lack of analytical solution to cal
 The MCMC was initially developed to  simulate the distribution of states for a system of idealized molecules. As the ecosystem developed over years, it provides numerous tools that make such tasks easier. 
 
 There are many materials that covers such topic, here is a list of reference I used
+
 -	Bishop's [book](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
 -	Eric Xing from CMU has lectures in [10-708 PGM](https://youtube.com/playlist?list=PLoZgVqqHOumTqxIhcdcpOAJOOimrRCGZn)
 -	 [Introduction to Markov Chain Monte Carlo](https://www.mcmchandbook.net/HandbookChapter1.pdf)
@@ -26,6 +27,7 @@ After learning all the theories, I decided to get my hands dirty and implement t
 
 # Why Markov Chain?
 A couple of question I start to ask when I learn the MCMC sampling,
+
 -  Why do we need Markov Chain for sampeling? 
 -  Wouldn't that produce result that is not i.i.d?
 
@@ -358,10 +360,11 @@ To be filled
 
 # Hamiltonian Monte Carlo (HMC)
 The Hamiltonian Monte Carlo is not as straight forward as Metropolis Hastings. I found below materical extremely helpful,
-* [MCMC Using Hamiltonian Dynamics](https://www.mcmchandbook.net/HandbookChapter5.pdf)
-* Colind Carroll's [blog](https://colindcarroll.com/2019/04/11/hamiltonian-monte-carlo-from-scratch/)
-* Colin Carroll's [minimc github](https://github.com/ColCarroll/minimc) (This has more material than the blog!)
-*Michael Betancourt’s [“A Conceptual Introduction to Hamiltonian Monte Carlo“](https://arxiv.org/abs/1701.02434)
+
+- [MCMC Using Hamiltonian Dynamics](https://www.mcmchandbook.net/HandbookChapter5.pdf)
+- Colind Carroll's [blog](https://colindcarroll.com/2019/04/11/hamiltonian-monte-carlo-from-scratch/)
+- Colin Carroll's [minimc github](https://github.com/ColCarroll/minimc) (This has more material than the blog!)
+- Michael Betancourt’s [“A Conceptual Introduction to Hamiltonian Monte Carlo“](https://arxiv.org/abs/1701.02434)
 
 ### Notation
 Before we get started let's define our variables
@@ -607,4 +610,4 @@ plt.title("Multivariate Mixtures")
 ### Metropolis Hastings vs. Hamiltanion Monte Carlo
 
 ### Limitation
-One known limitation is HMC can't handel descrete variables since we can't take gradient, but we can combine it with other MCMC updates, for example update subset of the variables using HMC and use Gibbis sample for example to update othe other subset.
+One known limitation is HMC can't handel descrete variables since we can't take gradient, but we can combine it with other MCMC updates, for example update subset of the variables using HMC and use Gibbis sample  to update other subset of variables.

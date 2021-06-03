@@ -18,9 +18,9 @@ The biggist challenge of baysien inference is lack of analytical solution to cal
 The MCMC was initially developed to  simulate the distribution of states for a system of idealized molecules. As the ecosystem developed over years, it provides numerous tools that make such tasks easier. 
 
 There are many materials that covers such topic, here is a list of reference I used
-- Bishop's [book](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
-- Eric Xing from CMU has lectures in [10-708 PGM](https://youtube.com/playlist?list=PLoZgVqqHOumTqxIhcdcpOAJOOimrRCGZn)
-- [Introduction to Markov Chain Monte Carlo](https://www.mcmchandbook.net/HandbookChapter1.pdf)
+* Bishop's [book](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
+* Eric Xing from CMU has lectures in [10-708 PGM](https://youtube.com/playlist?list=PLoZgVqqHOumTqxIhcdcpOAJOOimrRCGZn)
+* [Introduction to Markov Chain Monte Carlo](https://www.mcmchandbook.net/HandbookChapter1.pdf)
 
 After learning all the theories, I decided to get my hands dirty and implement the common MCMC algorithm to reinforce my understandings. There are couple of pieces written in Metropolis Hastings and Hamiltonian MCMC, I borrow the some examples from them but using my own implementations, I will put them in reference.
 
@@ -46,8 +46,8 @@ Here is the description of the algorithem,
 > The last step is often called Metropolis rejection. The name is supposed to remind one of “rejection sampling” in OMC, but this is a misleading analogy because in OMC rejection sampling is done repeatedly until some proposal is accepted (so it always produces a new value of the state). In contrast, one Metropolis–Hastings update makes one proposal y, which is the new state with probability A(y|x), but otherwise the new state the same as the old state x. Any attempt to make Metropolis rejection like OMC rejection, destroys the property that this update preserves the distribution with density h.
 
 Below is my implementation using Gaussian proposal distribution. Some technical details:
-- Use ```logpdf``` instead of ``pdf`` to avoid overflow or underflow for small or large numbers.
-- `$Q(x|x') = Q(x'|x)$` for Gaussian, we don't need to calculate $Q(\cdot)$ in implmentation.
+* Use ```logpdf``` instead of ``pdf`` to avoid overflow or underflow for small or large numbers.
+* `$Q(x|x') = Q(x'|x)$` for Gaussian, we don't need to calculate $Q(\cdot)$ in implmentation.
 
 ```python
 import numpy as np
@@ -114,7 +114,7 @@ def gaussian_proposal(x, proposal_width=0.1):
     # Draw x_star
     x_star = x + np.random.randn(len(x)) * proposal_width
     # proposal ratio factor is 1 since jump is symmetric
-    # Simplify out symmetric proposal functions, Q(x'|x) == Q(x|x'), do not need to calculate Q(x'|x)
+    # Symmetric Q(x'|x) == Q(x|x')
     qxx = 1
     return (x_star, qxx)
 
@@ -165,7 +165,6 @@ If the Gaussian proposal distribution width are choosen too small `$\sigma=0.01$
 
 The optimal proposal width is `$\sigma_{\text{jump}} = 2.38\frac{\sigma_{\text{posterior}}}{n_{\text{dim}}}$`
 
-### Drawback 
 ```python
 iterations = 100_000
 random.seed(10)
@@ -189,7 +188,6 @@ for proposal_width in [0.01, 500, 1]:
 ![png](/images/MCMC_files/MCMC_5_1.png)
 ![png](/images/MCMC_files/MCMC_5_2.png)
 ![png](/images/MCMC_files/MCMC_5_3.png)
-
 
 ### MH For Posterior Distribution Estimation
 This section we discuss the application of using Metroplis Hastings in sampling posterior distribution. We use PyMC3 developr Thomas Wiecki's [example](https://twiecki.io/blog/2015/11/10/mcmc-sampling/).
@@ -355,14 +353,15 @@ for i in range(chain.shape[1]):
 
 ![png](/images/MCMC_files/MCMC_12_1.png)
 
+### Drawback 
+To be filled
+
 # Hamiltonian Monte Carlo (HMC)
 The Hamiltonian Monte Carlo is not as straight forward as Metropolis Hastings. I found below materical extremely helpful,
-- [MCMC Using Hamiltonian Dynamics](https://www.mcmchandbook.net/HandbookChapter5.pdf)
-- Colind Carroll's [blog](https://colindcarroll.com/2019/04/11/hamiltonian-monte-carlo-from-scratch/)
-
-- Colin Carroll's [minimc github](https://github.com/ColCarroll/minimc) (This has more material than the blog!)
-
-- Michael Betancourt’s [“A Conceptual Introduction to Hamiltonian Monte Carlo“](https://arxiv.org/abs/1701.02434)
+* [MCMC Using Hamiltonian Dynamics](https://www.mcmchandbook.net/HandbookChapter5.pdf)
+* Colind Carroll's [blog](https://colindcarroll.com/2019/04/11/hamiltonian-monte-carlo-from-scratch/)
+* Colin Carroll's [minimc github](https://github.com/ColCarroll/minimc) (This has more material than the blog!)
+*Michael Betancourt’s [“A Conceptual Introduction to Hamiltonian Monte Carlo“](https://arxiv.org/abs/1701.02434)
 
 ### Notation
 Before we get started let's define our variables
@@ -388,17 +387,16 @@ The system can be evovled according to *Hamilton's equations* with total energy 
 \end{aligned}
 $$`
 
-**We noticed that the $\frac{\partial{U}}{\partial{q}}$ is the gradient of negative logrithm of the target density $\pi(q)$, that is the direction we try to explore our $q$ space.**
+**We noticed that the `$\frac{\partial{U}}{\partial{q}}$` is the gradient of negative logrithm of the target density `$\pi(q)$`, that is the direction we try to explore our `$q$` space.**
 
 ### Hamiltonian Markov Transition and Metropolis Hasting Criteria
-- For a point on phase space, we sample from the conditional distribution over the momentum as `$p \sim \pi(p)$`.
+- For a point on phase space, we sample from the conditional distribution over the momentum from `$\pi(p)$`.
+- We explore `$(q, p)$` by integration Hamilton's equation for some time. 
+- Then we return to the target parameter space by projecting away the momentum.
 
-- We explore `$(q, p)$` by integration Hamilton's equation for some time. Then we return to the target parameter space by projecting away the momentum.
+Technically, with no integration error `$H$` will be constant after the integration. Due to integration error, `$H_0$` will not be the same as `$H_1$` thus we add Metropolis Hasting Criteria to reject those projection that is not converging to `$H_0$`.
 
-Technically, with no integration error `$H$` will be constant after the integration. Therefore, the movement to `$(p, q)$` with a different probability density is accomplished only by the first step in an HMC iterations. However, this replacement of `$p$`can change the probability density by large amount so when we look at in terms of `$q$` only, it produces a different potential energy.
-
-Due to integration error, `$H_0$` will not be the same as `$H_1$` thus we add Metropolis Hasting Criteria to reject those projection that is not converging to `$H_0$`
-
+The movement to `$(p, q)$` with a different probability density is accomplished only by the first step in an HMC iterations. However, this replacement of `$p$` can change the probability density by large amount so when we look at in terms of `$q$` only, it produces a different potential energy.
 
 ### Hamilton Equation Integration Through LeapFrog
 Colin's code is quite complete and therefore I borrowed some of his function and re-write the leap-frog and HMC sampler in a way that is more consistant, cuz his fast version of it is a bit confused for me to read.

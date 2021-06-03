@@ -29,25 +29,25 @@ A couple of question I start to ask when I learn the MCMC sampling,
 -  Why do we need Markov Chain for sampeling? 
 -  Wouldn't that produce result that is not i.i.d?
 
-To answer the first question, let's start from how we sample a arbitrary distribution $$P(x)$$ when closed-form pdf does not exist. The typical way is to use what is called **Rejection Sampling**, where $x$ is drawn from another distribution $Q(x)$ which we can sample and we accept $x$ with probabiliy $\frac{P(x)}{MQ(x)}$, where $M$ is a constant.
+To answer the first question, let's start from how we sample a arbitrary distribution `$P(x)$` when closed-form pdf does not exist. The typical way is to use what is called **Rejection Sampling**, where `$x$` is drawn from another distribution `$Q(x)$` which we can sample and we accept `$x$` with probabiliy `$\frac{P(x)}{MQ(x)}$`, where `$M$` is a constant.
 
-The problem with **Rejection Sampling** is that when proxy distribution $Q(x)$ is very different than true distribution $P(x)$, the acceptance rate is low (In high dimensional space, even if the $P(x)$ and $Q(x)$ are all multinominal, we can still experiencing high rejection).
+The problem with **Rejection Sampling** is that when proxy distribution `$Q(x)$` is very different than true distribution `$P(x)$`, the acceptance rate is low (In high dimensional space, even if the `$P(x)$` and `$Q(x)$` are all multinominal, we can still experiencing high rejection).
 
-**Markov Chain** is brought up as people sort to use stochastic proxy proposal distribution $Q(x'|x)$ which converge to the target distribution. There are certain criteria needed for the chain to converge to the target, but we will cover this later.
+**Markov Chain** is brought up as people sort to use stochastic proxy proposal distribution `$Q(x'|x)$` which converge to the target distribution. There are certain criteria needed for the chain to converge to the target, but we will cover this later.
 
 # Metropolis Hastings MCMC
 
 Here is the description of the algorithem,
 
-- Propose new sample $x'$ from $Q(\cdot|x)$ 
-- Hasting Ratio : $R(x'|x) = \frac{P(x') Q(x|x')}{Q(x'|x)P(x)}$
-- Metropolis Rejection : Accept $x'$ with probability $A(x'|x) = \min(1, R(x'|x))$, if rejected update the chain with original $x$
+- Propose new sample `$x'$` from `$Q(\cdot|x)$` 
+- Hasting Ratio : `$R(x'|x) = \frac{P(x') Q(x|x')}{Q(x'|x)P(x)}$`
+- Metropolis Rejection : Accept `$x'$` with probability `$A(x'|x) = \min(1, R(x'|x))$`, if rejected update the chain with original `$x$`
 
 > The last step is often called Metropolis rejection. The name is supposed to remind one of “rejection sampling” in OMC, but this is a misleading analogy because in OMC rejection sampling is done repeatedly until some proposal is accepted (so it always produces a new value of the state). In contrast, one Metropolis–Hastings update makes one proposal y, which is the new state with probability A(y|x), but otherwise the new state the same as the old state x. Any attempt to make Metropolis rejection like OMC rejection, destroys the property that this update preserves the distribution with density h.
 
 Below is my implementation using Gaussian proposal distribution. Some technical details:
 - Use ```logpdf``` instead of ``pdf`` to avoid overflow or underflow for small or large numbers.
-- $Q(x|x') = Q(x'|x)$ for Gaussian, we don't need to calculate $Q(\cdot)$ in implmentation.
+- `$Q(x|x') = Q(x'|x)$` for Gaussian, we don't need to calculate $Q(\cdot)$ in implmentation.
 
 ```python
 import numpy as np
@@ -161,9 +161,9 @@ def plot_trace(chain, accept_rate, lnprob, **kwargs):
 ```
 
 ### Diagnoising Efficiency And Convergence
-If the Gaussian proposal distribution width are choosen too small $\sigma=0.01$, the trace of the chain will not be i.i.d and will look like a randomn walk, but the acceptance rate will be high. With a large width $\sigma=500$ the acceptance rate will be very low. And with $\sigma = 1$ we reach a reasonal convergence.
+If the Gaussian proposal distribution width are choosen too small `$\sigma=0.01$`, the trace of the chain will not be i.i.d and will look like a randomn walk, but the acceptance rate will be high. With a large width `$\sigma=500$`the acceptance rate will be very low. And with `$\sigma = 1$` we reach a reasonal convergence.
 
-The optimal proposal width is $\sigma_{\text{jump}} = 2.38\frac{\sigma_{\text{posterior}}}{n_{\text{dim}}}$
+The optimal proposal width is `$\sigma_{\text{jump}} = 2.38\frac{\sigma_{\text{posterior}}}{n_{\text{dim}}}$`
 
 ### Drawback 
 ```python
@@ -374,13 +374,13 @@ Before we get started let's define our variables
 - `$K$` - kinetic energy
 
 ### Phase Space and Hamilton's Equations
-The total energy of the system is the sum of it's potential energy and kinetic energy, $H(p, q) = K(p, q) + U(q)$ where $H$ is the *Hamiltonian* function.
+The total energy of the system is the sum of it's potential energy and kinetic energy, `$H(p, q) = K(p, q) + U(q)$` where `$H$` is the *Hamiltonian* function.
 
-We then introduce canonical distribution [$\pi(q, p)$](https://en.wikipedia.org/wiki/Canonical_ensemble) which can be expressed as $$\pi(q, p) = e^{-H(q, p)}$$. The Hamiltonian can be written as $H(q, p) = -\log{\pi(q, p)}$. 
+We then introduce canonical distribution [$\pi(q, p)$](https://en.wikipedia.org/wiki/Canonical_ensemble) which can be expressed as `$$\pi(q, p) = e^{-H(q, p)}$$`. The Hamiltonian can be written as `$H(q, p) = -\log{\pi(q, p)}$`. 
 
-If we choose $\pi(q, p) = \pi(p)\pi(q)$, the above can be rewritten as $H(q, p) = -\log{\pi(p)} - \log{\pi(q)} = K(p) + U(q)$.
+If we choose `$\pi(q, p) = \pi(p)\pi(q)$`, the above can be rewritten as `$H(q, p) = -\log{\pi(p)} - \log{\pi(q)} = K(p) + U(q)$`.
 
-The system can be evovled according to *Hamilton's equations* with total energy unchange $H(p, q)$ unchanged,
+The system can be evovled according to *Hamilton's equations* with total energy unchange `$H(p, q)$` unchanged,
 `$$
 \begin{aligned}
 \frac{dq}{dt} &= +\frac{\partial{H}}{\partial{p}} = \frac{\partial{K}}{\partial{p}}\\
@@ -391,13 +391,13 @@ $$`
 **We noticed that the $\frac{\partial{U}}{\partial{q}}$ is the gradient of negative logrithm of the target density $\pi(q)$, that is the direction we try to explore our $q$ space.**
 
 ### Hamiltonian Markov Transition and Metropolis Hasting Criteria
-- For a point on phase space, we sample from the conditional distribution over the momentum as $p \sim \pi(p)$.
+- For a point on phase space, we sample from the conditional distribution over the momentum as `$p \sim \pi(p)$`.
 
-- We explore $(q, p)$ by integration Hamilton's equation for some time. Then we return to the target parameter space by projecting away the momentum.
+- We explore `$(q, p)$` by integration Hamilton's equation for some time. Then we return to the target parameter space by projecting away the momentum.
 
-Technically, with no integration error $H$ will be constant after the integration. Therefore, the movement to $(p, q)$ with a different probability density is accomplished only by the first step in an HMC iterations. However, this replacement of $p$ can change the probability density by large amount so when we look at in terms of $q$ only, it produces a different potential energy.
+Technically, with no integration error `$H$` will be constant after the integration. Therefore, the movement to `$(p, q)$` with a different probability density is accomplished only by the first step in an HMC iterations. However, this replacement of `$p$`can change the probability density by large amount so when we look at in terms of `$q$` only, it produces a different potential energy.
 
-Due to integration error, $H_0$ will not be the same as $H_1$ thus we add Metropolis Hasting Criteria to reject those projection that is not converging to $H_0$
+Due to integration error, `$H_0$` will not be the same as `$H_1$` thus we add Metropolis Hasting Criteria to reject those projection that is not converging to `$H_0$`
 
 
 ### Hamilton Equation Integration Through LeapFrog

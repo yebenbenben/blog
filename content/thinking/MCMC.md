@@ -164,7 +164,7 @@ def plot_trace(chain, accept_rate, lnprob, **kwargs):
 ```
 
 ### Diagnoising Efficiency And Convergence
-If the Gaussian proposal distribution width are choosen too small `$\sigma=0.01$`, the trace of the chain will not be i.i.d and will look like a randomn walk, but the acceptance rate will be high. With a large width `$\sigma=500$`the acceptance rate will be very low. And with `$\sigma = 1$` we reach a reasonal convergence.
+If the Gaussian proposal distribution width are choosen too small `$\sigma=0.01$`, the trace of the chain will not be i.i.d and will look like a randomn walk, but the acceptance rate will be high. With a large width `$\sigma=500$` the acceptance rate will be very low. And with `$\sigma = 1$` we reach a reasonal convergence.
 
 The optimal proposal width is `$\sigma_{\text{jump}} = 2.38\frac{\sigma_{\text{posterior}}}{n_{\text{dim}}}$`
 
@@ -379,11 +379,12 @@ Before we get started let's define our variables
 ### Phase Space and Hamilton's Equations
 The total energy of the system is the sum of it's potential energy and kinetic energy, `$H(p, q) = K(p, q) + U(q)$` where `$H$` is the *Hamiltonian* function.
 
-We then introduce canonical distribution [$\pi(q, p)$](https://en.wikipedia.org/wiki/Canonical_ensemble) which can be expressed as `$$\pi(q, p) = e^{-H(q, p)}$$`. The Hamiltonian can be written as `$H(q, p) = -\log{\pi(q, p)}$`. 
+We then introduce canonical distribution [`$\pi(q, p)$`](https://en.wikipedia.org/wiki/Canonical_ensemble) which can be expressed as `$$\pi(q, p) = e^{-H(q, p)}$$`. The Hamiltonian can be written as `$H(q, p) = -\log{\pi(q, p)}$`. 
 
-If we choose `$\pi(q, p) = \pi(p)\pi(q)$`, the above can be rewritten as `$H(q, p) = -\log{\pi(p)} - \log{\pi(q)} = K(p) + U(q)$`.
+If we choose `$\pi(q, p) = \pi(p)\pi(q)$`, 
+the above can be rewritten as `$H(q, p) = -\log{\pi(p)} - \log{\pi(q)} = K(p) + U(q)$`.
 
-The system can be evovled according to *Hamilton's equations* with total energy unchange `$H(p, q)$` unchanged,
+The system can be evovled according to *Hamilton's equations* with total energy unchanged,
 `$$
 \begin{aligned}
 \frac{dq}{dt} &= +\frac{\partial{H}}{\partial{p}} = \frac{\partial{K}}{\partial{p}}\\

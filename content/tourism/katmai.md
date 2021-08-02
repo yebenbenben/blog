@@ -1,7 +1,7 @@
 ---
 title: "熊的饕餮盛宴，人的观熊盛宴"
 date: 2021-08-02T02:50:16-04:00
-slug: american_lake_camping
+slug: katmai_national_park
 categories: ["Trip Report"]
 tags: ["Alaska", "Wild_Animal"]
 draft: false

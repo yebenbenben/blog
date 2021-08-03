@@ -80,6 +80,10 @@ Brooks Falls观熊的最佳时间是七月和九月。三文鱼洄游从六月�
 
 ![cubs_eating_fish_onshore]
 
+{{< bilibili 504455956 >}}
+
+{{< bilibili 461961100 >}}
+
 ### 棕熊食谱
 
 一只熊一天到底能吃多少条鱼？答案是很多！
@@ -94,9 +98,19 @@ Brooks Falls观熊的最佳时间是七月和九月。三文鱼洄游从六月�
 
 ![mum_and_cubs_theft]
 
+*小偷企图偷袭 Grazer*
+
 ![mum_and_cubs_yell]
 
+*Grazer 警告小偷*
+
 ![cubs_eat_fish]
+
+### 偷窃的代价
+
+下面这个视频有些血腥，但却真实展示了动物世界的生存法则。瀑布底下的是一只半成年熊，我们暂且称他为小偷熊。而瀑布上方是著名的 128 号母熊 Grazer 和她的两个幼崽。小偷熊在 Grazer 捕鱼期间一直坐在瀑布下方，之前的一次成功偷袭显然让他尝到了甜头，他目不转睛的盯着 Grazer 的食物。瀑布上方的 Grazer 看上去有些暴躁，她粗暴地教育着叼走了食物的幼崽，就在这个时候，下方的小偷熊依靠瀑布为掩护，慢慢地站了起来，企图再次偷走 Grazer 的食物。这一次 Grazer 不再客气，她显然已经忍耐到了极限，小偷熊的行为不止威胁到了她的食物，更威胁到了她的幼崽。她张口就咬住了小偷熊的脖颈肉，一口就把他拽上了瀑布。在视频里，你可以看到小偷熊已经无力反抗，只能靠双脚紧紧扒住瀑布边缘来对抗 Grazer 的拖拽。这样的攻击持续了三十多秒，这在棕熊间是非常少见的。好在 Grazer 并没有失去理智咬死对方，她松开嘴的刹那便把小偷熊推下了瀑布。从画面中看，小偷熊并没有受伤。而目睹这一切的其他熊，仿佛什么都没有看见一样，照常捕鱼。
+
+{{< bilibili 631999164 >}}
 
 ### 变红的三文鱼
 
@@ -122,13 +136,7 @@ survive the harsh transition from freshwater to the salty ocean. Sockeye salmon 
 
 
 
-{{< bilibili 504455956 >}}
-
-{{< bilibili 631999164 >}}
-
-{{< bilibili 461961100 >}}
-
-
+![standing_bear]
 
 [group_of_bear]: https://lh3.googleusercontent.com/pw/AM-JKLXM9RSMet5I4NYOdhS3ejcNzk65YwfubaLdajiLSc9z58pMhs4a78x883c6f8Toe8Hzz6xhliplc1UMOtDStGvc6x1jIcAm5kzdmE_0mtryxzU6OtwRX37lfh107SdQbUtf42dNFMoN5V-DwEqx48ywlw=w1960-h1306-no?authuser=1?.jpg
 [small_bear_catch_fish]: https://lh3.googleusercontent.com/pw/AM-JKLXG3xF1_QDXU12Vwm9CsVlVsDfdMBpq2A6CPMAEUlWSaqOqvd_kk2j3k70jUzIm8gRzKb_cN7j1lYJez5OzXeY3hA5lIju8o-V9fHuyY72ekCn2kFpG-2pxuhY1Y29HGZ4mcLr60rhRs1ZfkMj1DIrdBw=w1959-h1306-no?authuser=1?.jpg
@@ -146,3 +154,4 @@ survive the harsh transition from freshwater to the salty ocean. Sockeye salmon 
 [mum_and_cubs_yell]: https://lh3.googleusercontent.com/pw/AM-JKLWyLUDSrEwhADGIyNPrrLEO-RFhx7vR-FtwF-KRwF_ILiiOO572NyP8twhbSKhA-nP4ZpOyCOl43whf8xRBy92UIdTam4quEA1jTDajc8npQdC_QuOeLfAcygniFI5iAjRwTshNAHAbzAJWcI_YnKhsrw=w1959-h1306-no?authuser=1?.jpg
 [fishing_spot]: https://lh3.googleusercontent.com/pw/AM-JKLV0sf_JKLqfbHG4jipeUtAKgmng0gjl3MUcjVG71OJptsj4EdsO7AZTVOER_HNodZF6VRYFFq_fLBomG4lzFs_jLnTTihGe-lpk_HOYxyBhITZ4qMmjYY0Kv-ovmcoVRSag-mr3cN2zLzaBcHhrklEy7g=w1959-h1306-no?authuser=1?.jpg
 [cubs_eating_fish_onshore]:https://lh3.googleusercontent.com/pw/AM-JKLX_P2zU89U7LJ4j9mOejKRfHi8u5hR_vH5MuHha3xU9gQNDUGOUUZiaVSllKCmW5okWw0gsALVGJfyAWUMcf6BjsqSHEQEnnT-0NuDfI-1yBgs0ST9lB2VwXPH3NyDvLRp-TTfO7P3WStnNUe9DwTP7hw=w1960-h1306-no?authuser=1?.jpg
+[standing_bear]: https://lh3.googleusercontent.com/pw/AM-JKLVcC9hwzLdbYz6aH1Pb0xV73WlPXTMPwUx6-QjoWektMAw2F5wz2ObfWG-b1_PYMaqyDO0aXBnNLB-hmCboA8BjnVqsFwA14tkDG2__yYWX-FhOmkAaOFyKagq7P2XZ7K81suR-0MrVBRGcdm4Jc9E2Lg=w1959-h1306-no?authuser=1?.jpg

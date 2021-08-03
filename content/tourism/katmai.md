@@ -68,14 +68,6 @@ Katmai 公园的 Brooks Falls 是一个落差不超过1.8米的小瀑布，也�
 
 还有些捕鱼本领不佳的熊，练就了一身高超的偷窃技术。我们在现场目击了好几次偷窃行为，有成功的也有失败的。失败的代价嘛，请看后面的视频。
 
-![mum_and_cubs_theft]
-
-![mum_and_cubs_yell]
-
-![small_bear_catch_fish]
-
-![cubs_eat_fish]
-
 高超的捕鱼技术可以弥补地理位置的不足，在瀑布下游的 Riffles 平台上，我们观察到一只社会地位不高但技巧高超的熊，平均两分钟就能捕捉到一条鱼。之所以说他社会地位不高, 是因为每次别人来抢他底盘，他都会灰溜溜走开，但是其他熊却都无法成功在那里捕到鱼。
 
 {{< bilibili 504455956 >}}
@@ -91,6 +83,16 @@ Katmai 公园的 Brooks Falls 是一个落差不超过1.8米的小瀑布，也�
 ### 生存的艰难
 
 公园很贴心的记录了每年每只熊出现在 Brooks Falls 的情况，并且编写了一本[小册子](https://www.nps.gov/katm/learn/photosmultimedia/ebooks.htm)，记录了每一只熊的特征和他们的故事。册子里提到，只有长到半成年也就是 2 - 4 岁的熊才能拥有编号，幼熊存活到半成年的几率大概不足一半。幼熊们能否存活，他们母亲的捕食技术至关重要。拥有一个优秀的母亲，不仅在食物上能得到保障，让体格更加强壮，更能学习到高超的捕食技术，为他们将来独立生存奠定了基础。
+
+![mum_and_cubs_theft]
+
+![mum_and_cubs_yell]
+
+![small_bear_catch_fish]
+
+![cubs_eat_fish]
+
+![cubs_eating_fish_onshore]
 
 ### 变红的三文鱼
 
@@ -129,3 +131,4 @@ survive the harsh transition from freshwater to the salty ocean. Sockeye salmon 
 [mum_and_cubs_theft]: https://lh3.googleusercontent.com/pw/AM-JKLWQ3ian_bvYtJSo7k5e73WDHTvVfbEmAo9ZRRiRy0-0Fwx974NA2NcuX6SHB__VoRfS7RQH7d4BZ3GirxwkXoCQJPP11wPDVHJzamvTFwk-c3KOBkw9OrNhsOlYiP7XsMSp6pHbuhlSSikWB_PSo4VsfA=w1959-h1306-no?authuser=1?.jpg
 [mum_and_cubs_yell]: https://lh3.googleusercontent.com/pw/AM-JKLWyLUDSrEwhADGIyNPrrLEO-RFhx7vR-FtwF-KRwF_ILiiOO572NyP8twhbSKhA-nP4ZpOyCOl43whf8xRBy92UIdTam4quEA1jTDajc8npQdC_QuOeLfAcygniFI5iAjRwTshNAHAbzAJWcI_YnKhsrw=w1959-h1306-no?authuser=1?.jpg
 [fishing_spot]: https://lh3.googleusercontent.com/pw/AM-JKLV0sf_JKLqfbHG4jipeUtAKgmng0gjl3MUcjVG71OJptsj4EdsO7AZTVOER_HNodZF6VRYFFq_fLBomG4lzFs_jLnTTihGe-lpk_HOYxyBhITZ4qMmjYY0Kv-ovmcoVRSag-mr3cN2zLzaBcHhrklEy7g=w1959-h1306-no?authuser=1?.jpg
+[cubs_eating_fish_onshore]:https://lh3.googleusercontent.com/pw/AM-JKLX_P2zU89U7LJ4j9mOejKRfHi8u5hR_vH5MuHha3xU9gQNDUGOUUZiaVSllKCmW5okWw0gsALVGJfyAWUMcf6BjsqSHEQEnnT-0NuDfI-1yBgs0ST9lB2VwXPH3NyDvLRp-TTfO7P3WStnNUe9DwTP7hw=w1960-h1306-no?authuser=1?.jpg

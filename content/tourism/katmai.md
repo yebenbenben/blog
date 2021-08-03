@@ -12,6 +12,8 @@ draft: false
 >
 > 明月装饰了你的窗子，你装饰了别人的梦。
 
+![p1]
+
 Katmai 归来不看熊，远夏的这句话大概是对这个国家公园最好的注解。Katmai 国家公园坐落于阿拉斯加半岛上，距离 Anchorage 市三百英里。据统计这里栖居了大约 2200 只棕熊，而整个阿拉斯加半岛上棕熊的数量已经超过了常驻人口。生活在北美，人们对棕熊和黑熊并不陌生， Katmai 之所以出名是因为它得天独厚的地理位置让人们可以观赏到难能可贵的群熊派对！
 
 熊作为一种独居动物，只有在发情期才会互相接近。那么为什么在 Katmai 就能一口气看到很多只熊呢？他们真的是去开泳池派对的吗？这就要从 Brown Bear 和 Grizzly Bear 的区别说起了。在北美，能吃到新鲜海产品的棕熊被称为 Brown Bear，而他们的内陆兄弟则叫 Grizzly Bear。由于 Brown Bear 能吃上新鲜的三文鱼而他们可怜的内陆兄弟大多数时候只能靠蓝莓和植物根茎为生，运气好才能偶尔吃上肉，因此两者的体重差距明显。秋天的时候吃饱了的 Katmai Brown Bear 能长到 1000 磅以上而黄石的 Grizzly Bear 从未长到过 900 磅以上， 果然是吃素使人瘦啊！
@@ -83,4 +85,6 @@ survive the harsh transition from freshwater to the salty ocean. Sockeye salmon 
 ### 动物的本能
 
 常看 BBC 纪录片的小伙伴也许早就发现，独居动物譬如熊、猎豹等都是雌性独立抚养幼崽，雄性在其中的作用仅限于播种。而群居动物则不同，雄性需要保护领地和食物，这也是为什么阿尔法雄性可以得到更多雌性的青睐。
+
+[p1]: https://lh3.googleusercontent.com/pw/AM-JKLUTwHQeJu5bSNGskKl4SZa0MUrh3vx4CcI9YkDF5CzByB636j4KRZ1OtI2duewhdvFxaw-ET77sGm9zeapL12aGcvXMu0NwWgM0WgAqkDnV25WLzPOH5QdZtrDpb43TQdwdSkF5GncDp3b6nfh-iCO4Gg=w1960-h1306-no?authuser=1?.jpg
 

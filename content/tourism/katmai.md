@@ -70,12 +70,6 @@ Katmai 公园的 Brooks Falls 是一个落差不超过1.8米的小瀑布，也�
 
 高超的捕鱼技术可以弥补地理位置的不足，在瀑布下游的 Riffles 平台上，我们观察到一只社会地位不高但技巧高超的熊，平均两分钟就能捕捉到一条鱼。之所以说他社会地位不高, 是因为每次别人来抢他底盘，他都会灰溜溜走开，但是其他熊却都无法成功在那里捕到鱼。
 
-{{< bilibili 504455956 >}}
-
-{{< bilibili 631999164 >}}
-
-{{< bilibili 461961100 >}}
-
 看完视频你也许会问，一只熊一天到底能吃多少条鱼？答案是很多！大型成年雄性棕熊一天可以捕食 30-40 多条三文鱼，约 100 磅折合成卡路里大约 100,000 卡 。食物充足的时，棕熊们吃得很浪费，有时只吃鱼皮、鱼脑和鱼子部分，因为这几部分能量比最高。而剩下的部分则会被时刻围聚在他们身边的海鸟瓜分掉（不然你以为它们在旁边飞来飞去是干嘛？当然是捡漏！）。
 
 如果你是个爱动脑筋的小伙伴，看到这里你也许会心生疑惑，棕熊只吃三文鱼吗？事实上，Brooks River 里的虹鳟鱼也很丰富，无奈棕熊的捕鱼技术太拙劣，成功率太低。虹鳟鱼的数量还没有多到可以让熊敞开肚子吃的地步。因此熊并非只能吃三文鱼，而是只能捕到三文鱼，捕食其他鱼类对他们来说得不偿失，这也是为什么很少见到他们的内陆兄弟 Grizzly  Bear 靠捕鱼为生。
@@ -115,6 +109,16 @@ survive the harsh transition from freshwater to the salty ocean. Sockeye salmon 
 ### 动物的本能
 
 常看 BBC 纪录片的小伙伴也许早就发现，独居动物譬如熊、猎豹等都是雌性独立抚养幼崽，雄性在其中的作用仅限于播种。而群居动物则不同，雄性需要保护领地和食物，这也是为什么阿尔法雄性可以得到更多雌性的青睐。
+
+
+
+{{< bilibili 504455956 >}}
+
+{{< bilibili 631999164 >}}
+
+{{< bilibili 461961100 >}}
+
+
 
 [group_of_bear]: https://lh3.googleusercontent.com/pw/AM-JKLXM9RSMet5I4NYOdhS3ejcNzk65YwfubaLdajiLSc9z58pMhs4a78x883c6f8Toe8Hzz6xhliplc1UMOtDStGvc6x1jIcAm5kzdmE_0mtryxzU6OtwRX37lfh107SdQbUtf42dNFMoN5V-DwEqx48ywlw=w1960-h1306-no?authuser=1?.jpg
 [small_bear_catch_fish]: https://lh3.googleusercontent.com/pw/AM-JKLXG3xF1_QDXU12Vwm9CsVlVsDfdMBpq2A6CPMAEUlWSaqOqvd_kk2j3k70jUzIm8gRzKb_cN7j1lYJez5OzXeY3hA5lIju8o-V9fHuyY72ekCn2kFpG-2pxuhY1Y29HGZ4mcLr60rhRs1ZfkMj1DIrdBw=w1959-h1306-no?authuser=1?.jpg

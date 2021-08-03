@@ -8,17 +8,23 @@ draft: false
 
 ---
 
+![bear_head_shot]
+
 > 你站在桥上看风景，看风景人在楼上看你。
+>
+> 
 >
 > 明月装饰了你的窗子，你装饰了别人的梦。
 
-![p1]
-
 Katmai 归来不看熊，远夏的这句话大概是对这个国家公园最好的注解。Katmai 国家公园坐落于阿拉斯加半岛上，距离 Anchorage 市三百英里。据统计这里栖居了大约 2200 只棕熊，而整个阿拉斯加半岛上棕熊的数量已经超过了常驻人口。生活在北美，人们对棕熊和黑熊并不陌生， Katmai 之所以出名是因为它得天独厚的地理位置让人们可以观赏到难能可贵的群熊派对！
+
+![group_of_bear]
 
 熊作为一种独居动物，只有在发情期才会互相接近。那么为什么在 Katmai 就能一口气看到很多只熊呢？他们真的是去开泳池派对的吗？这就要从 Brown Bear 和 Grizzly Bear 的区别说起了。在北美，能吃到新鲜海产品的棕熊被称为 Brown Bear，而他们的内陆兄弟则叫 Grizzly Bear。由于 Brown Bear 能吃上新鲜的三文鱼而他们可怜的内陆兄弟大多数时候只能靠蓝莓和植物根茎为生，运气好才能偶尔吃上肉，因此两者的体重差距明显。秋天的时候吃饱了的 Katmai Brown Bear 能长到 1000 磅以上而黄石的 Grizzly Bear 从未长到过 900 磅以上， 果然是吃素使人瘦啊！
 
 此处有图
+
+![**bear_fish_tree**]
 
 Katmai 公园的 Brooks Falls 是一个落差不超过1.8米的小瀑布，也是三文鱼洄游时遇到的一个巨大障碍。洄游早期，这里由于聚集了许多没有跳过”龙门“的三文鱼而成为棕熊的捕食场，也为我们目睹这难能可贵的“棕熊派对“提供了机会。整个公园有四个观景平台，离 Brooks Falls 最近的观景平台限制人数在四十人，因此旺季白天等待时间较长（我们去的时候等了 2 小时），但下游的 Riffles 平台不限制人数，由于熊的数量众多，而且他们各自的捕食技巧不相同，在 Riffles 平台上我们也得到了相当不错的观熊体验。
 
@@ -40,19 +46,41 @@ Katmai 公园的 Brooks Falls 是一个落差不超过1.8米的小瀑布，也�
 
 棕熊通过身体、气味和吼声进行交流从而建立等级制度，一只熊的健康状况、年龄和体格决定了它的社会地位。金字塔的顶端是高大的成年雄性棕熊，其次是带幼崽的母熊，之后是其他成年的雄性和雌性，排在底层的是刚过弱冠之年的半成年熊。在一个有等级的社会中，资源分配才不会引发过多的暴力事件。两熊相遇，低等级的熊自动退避三舍，很少为了争夺地盘或食物而发生直接身体接触（这在动物界很常见，打斗造成的伤害，可能对双方都很严重因而影响他们的存活）。
 
+![bear_yelling_at_each_other]
+
 由于捕猎场所的不同，棕熊使用的捕鱼技巧也各有不同。站在瀑布上方边缘（Lid）的熊，只需要耐心等待三文鱼越过“龙门”跳入他们的嘴中。这是一场守株待兔的游戏，由于三文鱼成功越过龙门的机率较低，这样的捕食效率并不高，好在被动捕食所消耗的体能也相对较低。三文鱼洄游的早期，鱼群数量庞大，社会地位较高的棕熊喜欢采用这种捕猎方式， 而到后期鱼群数量的骤减使棕熊不得不寻求其他捕猎方式。
 
-{{< bilibili 504455956 >}}
+![group_of_bear_at_fall]
+
+![bear_looking_at_fish]
+
+![fishing_at_lid]
+
+![just_miss_it]
+
+![bear_catch_fish_in_air]
 
 另外一种更高效的守株待兔方式是坐在瀑布的下方（Jacuzzi）等鱼自投罗网，然后用爪子把它们摁到河床上。这种捕猎方式既不消耗体力又非常高效。但对位置的要求很高，瀑布下方只有少数几个位置可以采用这种方式捕猎，而这几个位置通常被社会地位最高的熊所占领。
+
+![fishing_spot]
 
 半成年的熊由于无法抢到最佳的捕猎场所，只能在瀑布的下游徘徊。他们会采取主动出击的捕猎方式，在追逐中把鱼逼迫到浅滩上，然后用爪子摁住。这种方式在鱼多的时候还算好用，缺点是十分消耗体力。如果技术不到家，可能竹篮子打水一场空。
 
 还有些捕鱼本领不佳的熊，练就了一身高超的偷窃技术。我们在现场目击了好几次偷窃行为，有成功的也有失败的。失败的代价嘛，请看后面的视频。
 
-{{< bilibili 631999164 >}}
+![mum_and_cubs_theft]
+
+![mum_and_cubs_yell]
+
+![small_bear_catch_fish]
+
+![cubs_eat_fish]
 
 高超的捕鱼技术可以弥补地理位置的不足，在瀑布下游的 Riffles 平台上，我们观察到一只社会地位不高但技巧高超的熊，平均两分钟就能捕捉到一条鱼。之所以说他社会地位不高, 是因为每次别人来抢他底盘，他都会灰溜溜走开，但是其他熊却都无法成功在那里捕到鱼。
+
+{{< bilibili 504455956 >}}
+
+{{< bilibili 631999164 >}}
 
 {{< bilibili 461961100 >}}
 
@@ -86,5 +114,18 @@ survive the harsh transition from freshwater to the salty ocean. Sockeye salmon 
 
 常看 BBC 纪录片的小伙伴也许早就发现，独居动物譬如熊、猎豹等都是雌性独立抚养幼崽，雄性在其中的作用仅限于播种。而群居动物则不同，雄性需要保护领地和食物，这也是为什么阿尔法雄性可以得到更多雌性的青睐。
 
-[p1]: https://lh3.googleusercontent.com/pw/AM-JKLUTwHQeJu5bSNGskKl4SZa0MUrh3vx4CcI9YkDF5CzByB636j4KRZ1OtI2duewhdvFxaw-ET77sGm9zeapL12aGcvXMu0NwWgM0WgAqkDnV25WLzPOH5QdZtrDpb43TQdwdSkF5GncDp3b6nfh-iCO4Gg=w1960-h1306-no?authuser=1?.jpg
-
+[group_of_bear]: https://lh3.googleusercontent.com/pw/AM-JKLXM9RSMet5I4NYOdhS3ejcNzk65YwfubaLdajiLSc9z58pMhs4a78x883c6f8Toe8Hzz6xhliplc1UMOtDStGvc6x1jIcAm5kzdmE_0mtryxzU6OtwRX37lfh107SdQbUtf42dNFMoN5V-DwEqx48ywlw=w1960-h1306-no?authuser=1?.jpg
+[small_bear_catch_fish]: https://lh3.googleusercontent.com/pw/AM-JKLXG3xF1_QDXU12Vwm9CsVlVsDfdMBpq2A6CPMAEUlWSaqOqvd_kk2j3k70jUzIm8gRzKb_cN7j1lYJez5OzXeY3hA5lIju8o-V9fHuyY72ekCn2kFpG-2pxuhY1Y29HGZ4mcLr60rhRs1ZfkMj1DIrdBw=w1959-h1306-no?authuser=1?.jpg
+[cubs_eat_fish]: https://lh3.googleusercontent.com/pw/AM-JKLUiZBC6K933ugA5WKJ19a-Eefbi9kdVlKZZkAJ-HpLIMe6xPZLVgGFTPx2HJ7BB3UPqO_f5lFulPxzYyokYfrt_ksGM_VcFUTr3rtTHYdOO0wK4VAbaDTIK9UUkEr3QFY0LzntpBR5-B4S_kRT3vkx58g=w1960-h1306-no?authuser=1?.jpg
+[bear_head_shot]: https://lh3.googleusercontent.com/pw/AM-JKLUTwHQeJu5bSNGskKl4SZa0MUrh3vx4CcI9YkDF5CzByB636j4KRZ1OtI2duewhdvFxaw-ET77sGm9zeapL12aGcvXMu0NwWgM0WgAqkDnV25WLzPOH5QdZtrDpb43TQdwdSkF5GncDp3b6nfh-iCO4Gg=w1960-h1306-no?authuser=1?.jpg
+[bear_fish_tree]: https://lh3.googleusercontent.com/pw/AM-JKLUCTl_s9IKTqy1viNZBMQ7umEmGc3taOWynnphrD1bmMzyrfDTWgOxYijRHDkfcU_AkEzIBo9jij-vYjQ6iQizR2woJiIBLjoeRQWuN3kXNI7c9FkUaktbICRT82CcKp7Q5ED0ow4smBGBXYLogewhQZQ=w1960-h1306-no?authuser=1?.jpg
+[group_of_bear_at_fall]: https://lh3.googleusercontent.com/pw/AM-JKLWyR-Sbamc2TJKUOkUsCfeUwZJ7jBSOoPCNCk4W48nasLVUXW-2H0cOqaBQbyw2_gJsxltiqH0QUhEW4iDYW4Wy_avEyMo_ifmzCX3ky21FTYxBdUwEHzRiSAc_brr8qJQiBoms0zUCuOCRijbAIZNJcg=w1960-h1306-no?authuser=1?.jpg
+[bear_looking_at_fish]:https://lh3.googleusercontent.com/pw/AM-JKLW-ebpLWQujq164780z60dtUXa_cyZEH2rWyS3uAdsIcXM6HNRX5_cqVKZoq8OuzdOR7rzDuchmoIMZiwryPGt96o2H0h4SU57efLeDKEumXsR_Hm1s7NrQ7oUfZg6WvZuNJlrQn6-8EI2yzxh4Cc-5NQ=w1959-h1306-no?authuser=1?.jpg
+[fishing_at_lid]: https://lh3.googleusercontent.com/pw/AM-JKLWglvDm7E8_hAWmappaQBllZBs7osVDd60X-dqY_dWH6AI7zcbrpn4RJtGKdvieue-3DiZQvqKSZpZFpKI0uIiTniF8Jdr9SKE5pP1eRLkmnyUS6hDkKPsGSRQhOclGQbRgIwFhGXjkMy6foMkjidsspg=w1959-h1306-no?authuser=1?.jpg
+[just_miss_it]:https://lh3.googleusercontent.com/pw/AM-JKLUm5uKiqiCEq1qOh6QuXTMsF5Y-0sB3ivKjXpNy3b6pu2Ux3UpvSn24dMxy0SUgmRGB7aTTtbXzuJVwErV_MXpu4PiAB2vzpzZGZ3rRIDOqEs8I3dYNH7T-LIX7ko79CTDBmN42Xbm8IwNxQOyg-Q7vHg=w1959-h1306-no?authuser=1?.jpg
+[bear_yelling_at_each_other]: https://lh3.googleusercontent.com/pw/AM-JKLWnmlgWoU_MiskGgYM0N5lG72_YxovjGNMdGSHFmDUKgQ5OVTof2YJuvcjY7HZXCKRgh7EFUcm7EHrD95CgetZyZ8Lp944OvmoqZPx9yh84yyZ4jrYGXBsscc4RhfJOno6MW2m7sH4AQypmwRUlCHiMpw=w1959-h1306-no?authuser=1?.jpg
+[bear_catch_fish_in_air]: https://lh3.googleusercontent.com/pw/AM-JKLWDrsyG7uPNS1BBF7WDwOjNDHg1gnZ2CxsBSpfWUKlmZJGSpiznD-sIE50PCGhQNfD2-WBcsQHK5f3RM1Q1JIdSA_EUur5y9Kg_Vz5TGRQsWrhkW2uBP92hRpGx0GXWmE5yir2qQ4CQiksdbwzfioTvaw=w1959-h1306-no?authuser=1?.jpg
+[mum_and_cubs]:  https://lh3.googleusercontent.com/pw/AM-JKLXG3VWK6E445HsqYCviest9b_Iz2p3L9b_omG3Nxw1KuEPbwh0AWg9w-mejg-0WLIoKPeunTeA8BOQJybScpXXg6G9bA-9x0t_BVwReRzwLgmBlSbov4m4ns2FZqpMon535y0olCz0tgMbJyitRF3lKMA=w1959-h1306-no?authuser=1?.jpg
+[mum_and_cubs_theft]: https://lh3.googleusercontent.com/pw/AM-JKLWQ3ian_bvYtJSo7k5e73WDHTvVfbEmAo9ZRRiRy0-0Fwx974NA2NcuX6SHB__VoRfS7RQH7d4BZ3GirxwkXoCQJPP11wPDVHJzamvTFwk-c3KOBkw9OrNhsOlYiP7XsMSp6pHbuhlSSikWB_PSo4VsfA=w1959-h1306-no?authuser=1?.jpg
+[mum_and_cubs_yell]: https://lh3.googleusercontent.com/pw/AM-JKLWyLUDSrEwhADGIyNPrrLEO-RFhx7vR-FtwF-KRwF_ILiiOO572NyP8twhbSKhA-nP4ZpOyCOl43whf8xRBy92UIdTam4quEA1jTDajc8npQdC_QuOeLfAcygniFI5iAjRwTshNAHAbzAJWcI_YnKhsrw=w1959-h1306-no?authuser=1?.jpg
+[fishing_spot]: https://lh3.googleusercontent.com/pw/AM-JKLV0sf_JKLqfbHG4jipeUtAKgmng0gjl3MUcjVG71OJptsj4EdsO7AZTVOER_HNodZF6VRYFFq_fLBomG4lzFs_jLnTTihGe-lpk_HOYxyBhITZ4qMmjYY0Kv-ovmcoVRSag-mr3cN2zLzaBcHhrklEy7g=w1959-h1306-no?authuser=1?.jpg

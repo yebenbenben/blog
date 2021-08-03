@@ -80,6 +80,8 @@ Brooks Falls观熊的最佳时间是七月和九月。三文鱼洄游从六月�
 
 ![cubs_eating_fish_onshore]
 
+下面是熊妈妈 Grazer 捕鱼的场景，同她做对比的是浮潜捕鱼小能手的捕鱼视频。
+
 {{< bilibili 504455956 >}}
 
 {{< bilibili 461961100 >}}

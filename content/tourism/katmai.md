@@ -10,12 +10,6 @@ draft: false
 
 ![bear_head_shot]
 
-> 你站在桥上看风景，看风景人在楼上看你。
->
-> 
->
-> 明月装饰了你的窗子，你装饰了别人的梦。
-
 Katmai 归来不看熊，远夏的这句话大概是对这个国家公园最好的注解。Katmai 国家公园坐落于阿拉斯加半岛上，距离 Anchorage 市三百英里。据统计这里栖居了大约 2200 只棕熊，而整个阿拉斯加半岛上棕熊的数量已经超过了常驻人口。生活在北美，人们对棕熊和黑熊并不陌生， Katmai 之所以出名是因为它得天独厚的地理位置让人们可以观赏到难能可贵的群熊派对！
 
 ![fishing_spot]
@@ -116,27 +110,17 @@ Brooks Falls观熊的最佳时间是七月和九月。三文鱼洄游从六月�
 
 ### 变红的三文鱼
 
-**Sockeye Salmon of Brooks River**
+Sockeye Salmon 的中文名叫红鲑鱼，是三文鱼中的极品。红鲑鱼的名字来源于通红的身体。只有准备交配的红鲑鱼，才会退去银色的外衣，通体火红，鱼背隆起。每年夏天数以千万的红鲑鱼从北太平洋洄游到他们的出生地阿拉斯加。从夏至开始，几十万条红鲑鱼从 Bristoal Bay 经过 Naknek River 来到 Brooks River。对于一些鱼来说，Brooks River 就是他们生命的终点，而对于另一些鱼来说，征程还没有结束，他们的终点在更上游的小溪中。为了到达那里，他们必须跳过 Brooks Falls 瀑布，而在瀑布周围等着他们的是一群饥肠辘辘的棕熊。
 
-The rivers, lakes, and streams of Bristol Bay host the closing acts of an epic migration. Each summer tens of millions of sockeye salmon leave the North Pacific, instinctively driven to return to the exact spawning grounds where they hatched years earlier. For several hundred thousand salmon the path leads up Brooks River.
+为什么他们一定要回到出生地？他们又是怎样记住出生的小溪在哪里？如果三文鱼无法找到它出生的小溪又该怎么办？这个问题我留给 Google 搜索去回答。
 
-Near the summer solstice, sockeye salmon begin migrating into Naknek River from Bristol Bay. From there, salmon swim into Naknek Lake and reach Brooks River. This is the final stop for some fish; here they will spawn and die. For others, the voyage is not quite over. Their destination lies beyond Brooks River, in the small tributaries of Lake Brooks.
+![](https://prd-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/full_width/public/thumbnails/image/USGS_Salmon_J_Armstrong_0.jpg)
 
-Sockeye salmon reach sexual maturity when they approach their spawning grounds. Their silver color disappears, replaced by red-colored bodies and green heads. They also attain humped backs, elongated jaws and prominent teeth. These features are especially pronounced in male salmon.
+### 生命的轮回
 
-Using their tails, female sockeye excavate a series of nests, called redds in the river bottom. Males don’t dig nests, but they viciously fight with other males for access to females. When a female judges a nest to be just right, she releases eggs in it. Simultaneously, the attending male fertilizes the eggs with milt. Then the female buries the eggs in gravel. Once spawning is complete, a female will defend her redd as long as she can. Male salmon move on and may attempt to fertilize the eggs of other females. After spawning though, salmon are on borrowed time. Spawned-out and with their life purpose complete, they will never return to the ocean. They slowly weaken and die.
+如果每条三文鱼都爱惜自己的性命，而不奋力地游回出生地，就不会有棕熊的三文鱼盛宴，我们也看不到群熊聚集的盛况。没有了三文鱼这样的优质营养来源，棕熊的冬天将会变得很难熬。三文鱼对于生态系统来说不仅仅是熊的食物，它们产卵后死去，给贫瘠的土壤和淡水提供了丰富的营养，这些营养物质滋养了浮游生物和周边的植物，而浮游生物又成了鱼苗的食物。从死亡到出生，生命就这样轮回了一圈。
 
-Eggs incubate for about four months. After hatching, the tiny larval fish, called alevin, remain in the gravel until they emerge as fry in spring. When large enough, young salmon fry move from streams to lakes, where they stay for one to two years.
-
-Salmon fry become smolt when they begin to migrate downstream to the ocean. Salmon smolt imprint on their natal streams and lakes while migrating to the ocean. Along this journey, they undergo many physiological changes to prepare for a saltwater existence. Salmon smolt are about to enter a totally new environment, whose conditions they cannot know until they get there. Substantial changes to the kidneys and gills are required for the fish to
-
-survive the harsh transition from freshwater to the salty ocean. Sockeye salmon feast in the North Pacific for two additional years. There they grow into the large and beautiful fish who return as adults to spawn.
-
-### 动物的本能
-
-常看 BBC 纪录片的小伙伴也许早就发现，独居动物譬如熊、猎豹等都是雌性独立抚养幼崽，雄性在其中的作用仅限于播种。而群居动物则不同，雄性需要保护领地和食物，这也是为什么阿尔法雄性可以得到更多雌性的青睐。
-
-
+动物的一生都忙碌于生存和繁衍，生存的意义是为了繁衍，繁衍的意义是为了种群的生存。生命轮回的车辙就这样执着地向前滚动着，日复一日年复一年。是个死循环，更是逃不出的宿命。存在的意义是什么？如果有一天人类要灭绝了，你愿把什么留下作为我们存在过的痕迹？
 
 ![standing_bear]
 

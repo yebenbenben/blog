@@ -24,8 +24,6 @@ Katmai 归来不看熊，远夏的这句话大概是对这个国家公园最好�
 
 此处有图
 
-![**bear_fish_tree**]
-
 Katmai 公园的 Brooks Falls 是一个落差不超过1.8米的小瀑布，也是三文鱼洄游时遇到的一个巨大障碍。洄游早期，这里由于聚集了许多没有跳过”龙门“的三文鱼而成为棕熊的捕食场，也为我们目睹这难能可贵的“棕熊派对“提供了机会。整个公园有四个观景平台，离 Brooks Falls 最近的观景平台限制人数在四十人，因此旺季白天等待时间较长（我们去的时候等了 2 小时），但下游的 Riffles 平台不限制人数，由于熊的数量众多，而且他们各自的捕食技巧不相同，在 Riffles 平台上我们也得到了相当不错的观熊体验。
 
 ![](https://www.nps.gov/katm/planyourvisit/images/Brooks-Camp-map-2020.tif?maxwidth=1200&maxheight=1200&autorotate=false)
@@ -34,7 +32,7 @@ Katmai 公园的 Brooks Falls 是一个落差不超过1.8米的小瀑布，也�
 
 ![](https://www.nps.gov/katm/planyourvisit/images/Bear-Viewing-Calendar-688-px.jpg?maxwidth=1200&maxheight=1200&autorotate=false)
 
-暂时去不了的同学也不用伤心，公园为了满足广大眼馋的野生动物爱好者，在平台周围装了很多摄像机，六月到九月在油管上直播熊吃鱼的盛况（https://explore.org/live-cams/player/brown-bear-salmon-cam-brooks-falls），可以让你大饱眼福。广大粉丝们还给 Katmai 的熊建立的 [Wiki Page](https://katmai-bearcams.fandom.com/wiki/Katmai_Bearcams_Wiki)，里面详细介绍了每一只熊在摄像机前出现的各种有趣的事件。
+暂时去不了的同学也不用伤心，公园为了满足广大眼馋的野生动物爱好者，安装了许多角度的摄像机，甚至还有水下的！从六月到九月每天白天油管上进行[吃播](https://explore.org/live-cams/player/brown-bear-salmon-cam-brooks-falls)。广大粉丝们还给 Katmai 的棕熊们建立了 [Wiki Page](https://katmai-bearcams.fandom.com/wiki/Katmai_Bearcams_Wiki)，详细介绍了每一只熊的趣事。
 
 ### 熊的饕餮盛宴
 
@@ -67,6 +65,8 @@ Katmai 公园的 Brooks Falls 是一个落差不超过1.8米的小瀑布，也�
 半成年的熊由于无法抢到最佳的捕猎场所，只能在瀑布的下游徘徊。他们会采取主动出击的捕猎方式，在追逐中把鱼逼迫到浅滩上，然后用爪子摁住。这种方式在鱼多的时候还算好用，缺点是十分消耗体力。如果技术不到家，可能竹篮子打水一场空。
 
 还有些捕鱼本领不佳的熊，练就了一身高超的偷窃技术。我们在现场目击了好几次偷窃行为，有成功的也有失败的。失败的代价嘛，请看后面的视频。
+
+![bear_fish_tree]
 
 高超的捕鱼技术可以弥补地理位置的不足，在瀑布下游的 Riffles 平台上，我们观察到一只社会地位不高但技巧高超的熊，平均两分钟就能捕捉到一条鱼。之所以说他社会地位不高, 是因为每次别人来抢他底盘，他都会灰溜溜走开，但是其他熊却都无法成功在那里捕到鱼。
 

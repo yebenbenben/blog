@@ -1,24 +1,27 @@
-{{ $videoID := index .Params 0 }}
-{{ $pageNum := index .Params 1 | default 1}}
-
-{{ if (findRE "^[bB][vV][0-9a-zA-Z]+$" $videoID) }}
-<div><iframe id="biliplayer" src="//player.bilibili.com/player.html?bvid={{ $videoID }}&page={{ $pageNum }}&&page=1&as_wide=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" loading="lazy" > </iframe></div>
-{{ else }}
-<div><iframe id="biliplayer" src="//player.bilibili.com/player.html?aid={{ $videoID }}&page={{ $pageNum }}&&page=1&as_wide=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" loading="lazy" > </iframe></div>
-{{ end }}
-
 <style>
-// «∂»Î BiliBili  ”∆µ
-#bilibili {
+.aspect-ratio {
     position: relative;
     width: 100%;
     height: 0;
     padding-bottom: 75%;
-}
-@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
-  #bilibili {
+    }
+      
+.aspect-ratio iframe {
+    position: absolute;
     width: 100%;
-    height: 250px;
-  }
-}
+    height: 100%;
+    left: 0;
+    top: 0;
+    }
 </style>
+      
+
+<div align=center class="aspect-ratio">
+    <iframe src="https://player.bilibili.com/player.html?aid={{ index .Params 0 }}&&page=1&as_wide=1&high_quality=1&danmaku=0" 
+    scrolling="no" 
+    border="0" 
+    frameborder="no" 
+    framespacing="0" 
+    allowfullscreen="true"> 
+    </iframe>
+</div>

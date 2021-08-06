@@ -155,7 +155,7 @@ img[src$="#border"] {
   }
 }
 
-* The markdown image container */
+/* The markdown image container */
 .md__image {
   cursor: pointer;
 }

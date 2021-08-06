@@ -77,6 +77,7 @@ params:
     newsletter: "订阅"
 
 markup:
+  defaultMarkdownHandler: goldmark
   goldmark:
     extensions:
       definitionList: true

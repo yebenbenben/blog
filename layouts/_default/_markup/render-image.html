@@ -1,10 +1,10 @@
 {{ if .Title }}
   <p class="md__image">
-    <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" {{ with .Title}} title="{{ . }}"{{ end }} />
+    <img id="{{ first 6 (shuffle (seq 1 500)) }}" src="{{ .Destination | safeURL }}" onclick="openModal(this.id)" alt="{{ .Text }}" {{ with .Title }} title="{{ . }}"{{ end }} />
   </p>
 {{ else }}
   <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}">
   <p class="md__image">
-    <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}">
+    <img id="{{ first 6 (shuffle (seq 1 500)) }}" src="{{ .Destination | safeURL }}" onclick="openModal(this.id)" alt="{{ .Text }}">
   </p>
 {{ end }}

@@ -77,7 +77,10 @@ params:
     newsletter: "订阅"
 
 markup:
-  defaultMarkdownHandler: goldmark
+  defaultMarkdownHandler: blackfriday
+  blackfriday:
+    extensionsmask: [ "noIntraEmphasis" ]
+    fractions: false
   goldmark:
     extensions:
       definitionList: true

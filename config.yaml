@@ -76,11 +76,6 @@ params:
     subscribe: "RSS"
     newsletter: "订阅"
 
-
-blackfriday:
-    extensionsmask: ["noIntraEmphasis"]
-    fractions: false
-
 markup:
   goldmark:
     extensions:

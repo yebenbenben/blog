@@ -16,7 +16,7 @@ Katmai 归来不看熊，远夏的这句话大概是对这个国家公园最好�
 
 熊作为一种独居动物，只有在发情期才会互相接近。那么为什么在 Katmai 就能一口气看到很多只熊呢？他们真的是去开泳池派对的吗？这就要从 Brown Bear 和 Grizzly Bear 的区别说起了。在北美，能吃到新鲜海产品的棕熊被称为 Brown Bear，而他们的内陆兄弟则叫 Grizzly Bear。由于 Brown Bear 能吃上新鲜的三文鱼而他们可怜的内陆兄弟大多数时候只能靠蓝莓和植物根茎为生，运气好才能偶尔吃上肉，因此两者的体重差距明显。秋天的时候吃饱了的 Katmai Brown Bear 能长到 1000 磅以上而黄石的 Grizzly Bear 从未长到过 900 磅以上， 果然是吃素使人瘦啊！
 
-​	![Fat_Bear](https://lh3.googleusercontent.com/pw/AM-JKLUo3zIn2NAU1Hy8HK6f3nqNtO22K-0_iqzUEivAIZX4Uib4cf-w5hpzwwygmAJ6qDnsxS8XwR1KlF3pdnaWF4K2ELwa4X0oDx8z4PIc-hklkN7Xw5wp0hLtJ249i7Ym3uzGDET-BH8r2Kz7ieJ2Z88lJw=w512-h650-no?authuser=1?.jpg)
+​	![Fat_Bear](https://lh3.googleusercontent.com/pw/AM-JKLUo3zIn2NAU1Hy8HK6f3nqNtO22K-0_iqzUEivAIZX4Uib4cf-w5hpzwwygmAJ6qDnsxS8XwR1KlF3pdnaWF4K2ELwa4X0oDx8z4PIc-hklkN7Xw5wp0hLtJ249i7Ym3uzGDET-BH8r2Kz7ieJ2Z88lJw=w512-h650-no?authuser=1?.jpg "FatBear")
 
 *2019 年胖熊比赛冠军 435 Hlolly，上图是 2019 年 7 月 12 号的 Holly，下图是 2019 年秋季的 Holly*
 

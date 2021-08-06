@@ -1,0 +1,12 @@
+[build]
+	base = "/"
+	command = "hugo"
+	context = "production"
+	publish = "public"
+
+[build.processing]
+	skip_processing = true
+
+[context.production.environment]
+	HUGO_VERSION = "0.82.0"
+	HUGO_ENV = "production"

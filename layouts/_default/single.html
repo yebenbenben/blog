@@ -2,6 +2,9 @@
 <main>
 {{ .Content }}
 </main>
+{{- if templates.Exists "partials/image-modal.html" -}}
+  {{ partial "image-modal.html" . }}
+  {{- end }}
 <p class="terms">
   {{ range $i := (slice "categories" "tags") }}
   {{ with ($.Param $i) }}

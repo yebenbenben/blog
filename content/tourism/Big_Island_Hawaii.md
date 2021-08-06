@@ -176,7 +176,7 @@ South Point 据说是美国本土地理位置上的最南端。从11 号公路�
 2018 年 4 月 30 日，[Puʻu ʻŌʻō](https://en.wikipedia.org/wiki/Puu_Oo) 火山口发生大规模塌陷，5 月 1 日 Halemaʻumaʻu's 的岩浆湖开始塌陷， 到 10 日已经无法从观景台观测到岩浆湖了。如今站在观景台，只能看到 Steam Vent 里冒出的缥缈的烟。晴天从观景台眺望，Halemaʻumaʻu's 火山口和 Grand Canyon 颇为相似。
 
 [current_view]:https://lh3.googleusercontent.com/pw/ACtC-3fbBKG0-8UasxrBTKG2pO6jJE9MmNx0rxpo_6u3OuaagCXxLeXWAHSnJIZJAEUQolOzhNe6Fmj5fdWsWdULuKDKsDt6ufizkaa3KAZZcjUtWgqGMA7ZeMGVaLDXfl3tzk5paFrGboIszX6cfqt8y5L1sg=w2400-no-tmp.jpg
-[web_cam_volcano]:http://volcano.istad.org/wp-content/uploads/2018/06/may24-jun22-wide-angle.gif
+[web_cam_volcano]:https://volcano.istad.org/wp-content/uploads/2018/06/may24-jun22-wide-angle.gif
 [before_after]: https://volcanoes.usgs.gov/observatories/hvo/multimedia_uploads/multimediaFile-2554.jpg
 
 ![current_view]

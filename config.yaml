@@ -78,9 +78,6 @@ params:
 
 markup:
   defaultMarkdownHandler: goldmark
-  blackfriday:
-    extensionsmask: [ "noIntraEmphasis" ]
-    fractions: false
   goldmark:
     extensions:
       definitionList: true

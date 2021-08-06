@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trip Video on 叶重之</title>
+    <link>https://www.yebenbenben.com/categories/trip-video/</link>
+    <description>Recent content in Trip Video on 叶重之</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Nov 2017 23:07:27 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.yebenbenben.com/categories/trip-video/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Havasupai Fall</title>
+      <link>https://www.yebenbenben.com/hiking/2017/11/havasupai/</link>
+      <pubDate>Mon, 27 Nov 2017 23:07:27 -0400</pubDate>
+      
+      <guid>https://www.yebenbenben.com/hiking/2017/11/havasupai/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>智利百内 - W之旅</title>
+      <link>https://www.yebenbenben.com/hiking/2017/02/patagonia_trip/</link>
+      <pubDate>Sun, 05 Feb 2017 01:12:10 -0400</pubDate>
+      
+      <guid>https://www.yebenbenben.com/hiking/2017/02/patagonia_trip/</guid>
+      <description>第一次拍视频，有点抖，镜头转换太快， 见谅！</description>
+    </item>
+    
+  </channel>
+</rss>

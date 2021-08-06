@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thoughts on 叶重之</title>
+    <link>https://www.yebenbenben.com/categories/thoughts/</link>
+    <description>Recent content in Thoughts on 叶重之</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Jun 2008 11:35:23 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.yebenbenben.com/categories/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>忆·北剧场</title>
+      <link>https://www.yebenbenben.com/tourism/2008/06/old_theater_memo/</link>
+      <pubDate>Mon, 23 Jun 2008 11:35:23 -0400</pubDate>
+      
+      <guid>https://www.yebenbenben.com/tourism/2008/06/old_theater_memo/</guid>
+      <description>从校内网挖出来的 2008 年的博文。 最近一次回北京，发现话剧市场异常繁盛，各类剧种层出不穷，票价相对于十年前浮动也不大，大有小剧场走进百姓千万家的势</description>
+    </item>
+    
+  </channel>
+</rss>

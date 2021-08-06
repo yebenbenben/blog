@@ -10,5 +10,7 @@
   {{ end }}
 </p>
 {{ partial "footer.html" . }}
-{{ partial "image-modal.html" . }}
+{{- if templates.Exists "partials/image-modal.html" -}}
+  {{ partial "image-modal.html" . }}
+  {{- end }}
 <link rel="stylesheet" href="{{ "/css/custom.css" | relURL }}" />

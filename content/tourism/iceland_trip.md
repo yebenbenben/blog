@@ -211,7 +211,7 @@ Reykjavik 天气变化多端。我刚举手给窗外的雪山拍了张照，发�
 
 [p6-12]: https://tvax4.sinaimg.cn/large/722664abgy1gt9zjzo35pj24mo334qv9.jpg
 
-[p6-13]: https://lh3.googleusercontent.com/pw/ACtC-3etS2pWLdsR_eepv3FCIB5Je1T9y48U2wdoG4p_ZFvsabxtYf4x-F2CrvMKZLfe1PGWhYc0CnuH9eT7oeUNdk5UImRzL9VbatGLaQ3YW5EMZiBsXMJ_tB57zatzupIZzvl0ZMBKmbp7t0EhLMOzoquZzg=w2400-no-tmp.jpg
+[p6-13]: https://tvax3.sinaimg.cn/large/722664abgy1gta4px5pwhj24mo334qv7.jpg
 
 [p6-14]: https://tva4.sinaimg.cn/large/722664abgy1gt9y4h68psj24mo334b2f.jpg
 
@@ -270,7 +270,7 @@ Reykjavik 天气变化多端。我刚举手给窗外的雪山拍了张照，发�
 
 [p7-2]: https://tva3.sinaimg.cn/large/722664abgy1gt9y5cnrjlj24mo3347wn.jpg
 
-[p7-3]: https://lh3.googleusercontent.com/pw/ACtC-3da0UnXoQHYPSGBBu31aWdfKmMho-tsst-XZTzrsTAX9SL9rNumEOeonl1bPk3Zi8tO3pRmflwzjWt8MZjoWyrhoJxBcqtX4sJPImLsuHYzcXv4qu0YfdD-VncKZ-zP_daZz8mdfCCN5ouFrENEvYM84w=w2400-no-tmp.jpg
+[p7-3]: https://tvax3.sinaimg.cn/large/722664abgy1gta4u81413j24mo334hdw.jpg
 
 [p7-4]: https://tva3.sinaimg.cn/large/722664abgy1gt9y52ai85j24mo3347wn.jpg
 
@@ -288,6 +288,7 @@ Reykjavik 天气变化多端。我刚举手给窗外的雪山拍了张照，发�
 
 [p7-11]: https://tvax3.sinaimg.cn/large/722664abgy1gt9y4r23oyj24mo334npj.jpg
 
+[p7-12]: https://tvax4.sinaimg.cn/large/722664abgy1gt9y569ar2j23v02kou0z.jpg
 
 
 >杰古沙龙冰河湖，冰岛语 Jökulsárlón，是瓦特纳冰原东南部边缘入海处形成的天然泻湖。
@@ -299,6 +300,7 @@ Reykjavik 天气变化多端。我刚举手给窗外的雪山拍了张照，发�
 ![][p7-2]*冰湖旁唯一的小店，给找不到路的人们指引了方向*
 
 本以为同冰河湖只有一面之缘。不料次日，车抛锚在附近的海滩上，而我们因祸得福，再次来到冰湖。
+![][p7-12]*抛锚在雪地上的小车*
 
 ![][p7-3]*日出前的冰湖*
 

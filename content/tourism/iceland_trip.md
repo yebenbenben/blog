@@ -81,23 +81,21 @@ Reykjavik 天气变化多端。我刚举手给窗外的雪山拍了张照，发�
 
 ## 地热
 
-[p3-0]: https://lh3.googleusercontent.com/pw/ACtC-3fZx5cR6X7zddlpV5dFFp7R9JfvAq-7_XVw-e-1YHVdDBF5_6qy4twflEo7z4K0so-eueV3difhsh9bVlsbus_R6uQHZ-Tir9ZErtjImunAdMYJda4ZuYETtfEXl1THEuchpejVxsmXlSWXdwnuA_ce7Q=w2400-no-tmp.jpg
+[p3-0]: https://tvax4.sinaimg.cn/large/722664abgy1gt9y6ss9idj24gt2zgnph.jpg
 
-[p3-1]: https://lh3.googleusercontent.com/pw/ACtC-3fQF84iXqAp2EuVlH5gXB9DFhGEeDlpJ5zClceuOJdBxaH_FivalPSb1clCFu8PxmRa4BzrD38JCfZW9oB5QcS0Cp2yuOI6jmt9UFnd2840Yr9XqXQK_QHxUvQcw-X8b94W4cO8l_4cWOZmTCF6ABq08Q=w2400-no-tmp.jpg
+[p3-1]: https://tvax4.sinaimg.cn/large/722664abgy1gt9zjukqxlj24mo334hdw.jpg
 
-[p3-2]: https://lh3.googleusercontent.com/pw/ACtC-3e1fnMYIa5SiNCICJN0U28KLebxxu4aAld-GuUkxRkgdI6djl_8UUrHrCqf2UnrZYnNwyJLalp2PrQ9-oIaJi3xv7BJAFSdQcXdPocnBq-GpjIY5wX1ukm7VK-ioBOewatkZAiKb_m8-CWmdWIP487VzQ=w2400-no-tmp.jpg
+[p3-2]: https://tvax3.sinaimg.cn/large/722664abgy1gt9y6fyeurj23ut2kux6t.jpg
 
-[p3-3]: https://lh3.googleusercontent.com/pw/ACtC-3d2GH2wN2YjEtlBOJC896IWE1dLJkNiIG3xtf6LX7B1clD-s9V1blrf9tSOygm5WCnNfP9MUSN-fsfpC6QOKK0lLpRtnP8ka8IFdd644FUA9YyamkHj8FiG4XAD2foIPL5NqHyeCsYiePTX_aDG9FxRkA=w2400-no-tmp.jpg
+[p3-3]: https://tva1.sinaimg.cn/large/722664abgy1gt9y6lz50lj24mo334u14.jpg
 
-[p3-4]: https://lh3.googleusercontent.com/pw/ACtC-3dSoXZh3LaPMzDLC6TG_UDIjxlYd9xoSu9KiVGS4LF20TNHKS9Q-_WWpada88A8P0Kd1B5QyQ8jA4Ume57zm3u-5azfxMzt65o6Kd2gCIIekZaZF2xI0yO3kvkaFlxzct7WCyM_TQul8WWuj8i8XSsuIQ=w2400-no-tmp.jpg
+[p3-4]: https://tva4.sinaimg.cn/large/722664abgy1gta21f12vfj23344mo4qx.jpg
 
-[p3-6]: https://lh3.googleusercontent.com/pw/ACtC-3dqdkZquC64z2ptET-BWyC_krRWjnxXS-K0NRmUPeu-00e33Wsni0DSZtEP8NA4lSkDj-lO-6OJdcrpgtMTfh21bmwc3qcdA7tusOl_6yHW4tLcTVa9OM4csiuLLOJ8MWxj4s54c1LIXYpPjSR4eUelrA=w2400-no-tmp.jpg
+[p3-6]: https://tva2.sinaimg.cn/large/722664abgy1gt9y60s81xj23kq2dv1l0.jpg
 
-[p3-7]: https://lh3.googleusercontent.com/pw/ACtC-3cascVMIy1XLjCl9W-pKXBETEE6slEXwHgrrh5ejgPDDhwyMYqGcxcOjkevYl9XgfbetIycRAjxlWAKv2CEzq6k9NfRJweZ6NZC1PR5_DDbWPdaJ3aIDWbAchgDxNp_54BJPciOD-uLdcF4Kk88ezFeMA=w2400-no-tmp.jpg
+[p3-7]: https://tva4.sinaimg.cn/large/722664abgy1gt9y66d1xuj24mo3341l5.jpg
 
-[p3-8]: https://lh3.googleusercontent.com/pw/ACtC-3fNinaZ7oZ_RrPhog3qljYRszNbDhG1MIKu9OMwkxnjCz5ijKQLcb9Cy3f2dHesc7D34WFpO7fTuh_fwpSw3opjFjrOZ3CdcF7gCEcH_h-CaRMjMmpP-4c-biAARLgOqi-RQOjmyKnzel6lvfhII9Rjsg=w2400-no-tmp.jpg
-
-[p3-9]: https://lh3.googleusercontent.com/pw/ACtC-3cnCpeUdCddA56CdPG5ZiZ_ER_gsqw-SBGjzMPRxFx5DDBf35U6thYNBqqDsRz6ZVRryFR4qRuecXfgUvYJnZOElXaM4WXp7WPQuDBaG0XvQ7XEp0LHgtPb3GD1pvnswlIgqgpftgq7RBmlKuMWiL5z_A=w2400-no-tmp.jpg
+[p3-8]: https://tva4.sinaimg.cn/large/722664abgy1gt9zhzar9lj24mo334hdx.jpg
 
 冰岛的后三天，大部分时间是在车轮上度过的。
 
@@ -109,7 +107,7 @@ Reykjavik 天气变化多端。我刚举手给窗外的雪山拍了张照，发�
 
 ![][p3-1]
 
-待众人集结完毕，动身前往间歇泉的时候，太阳也从地平线上缓缓升了起来。冬日的晨光透过厚重的云层，显得越发的清冷。还好这雪地四周热气腾腾。被岩浆加热的地下水，每隔5-7分钟便从间歇泉口喷发而出。两年前在黄石，我为了一睹老忠实 (old faithful) 喷发的场景，等待了足足九十分钟。而这个名叫 Strokkur 的间歇泉，性子急，每隔5-7分钟便迫不及待登场表演一次。让人毫无准备，因而惊喜连连。
+待众人集结完毕，动身前往间歇泉的时候，太阳也从地平线上缓缓升了起来。冬日的晨光透过厚重的云层，显得越发的清冷。还好这雪地四周热气腾腾。被岩浆加热的地下水，每隔5-7分钟便从间歇泉口喷发而出。两年前在黄石，我为了一睹老忠实（old faithful） 喷发的场景，等待了足足九十分钟。而这个名叫 Strokkur 的间歇泉，性子急，每隔5-7分钟便迫不及待登场表演一次。让人毫无准备，因而惊喜连连。
 
 ![][p3-2]
 
@@ -135,21 +133,19 @@ Reykjavik 天气变化多端。我刚举手给窗外的雪山拍了张照，发�
 
 开车去旅馆的路上，四周又是白茫茫一片，没有车也没有灯。天还是宝蓝色的，飘着几朵淡淡的云。我在车里想着，今晚极光会不会降临呢？
 
-![][p3-9]
-
 #### 旅行小贴士：
 
->冰岛是许多电视电影的取景点。一路上我们停留的 Thingvellir National Park 是 Game of throne 的拍摄地点。在那里拍摄了 Wildlings 在 North Of The Wall 的场景和 White walkers 进军 North Of The Wall的场景。
+>冰岛是许多电视电影的取景点。一路上我们停留的 Thingvellir National Park 是 《冰与火之歌》的拍摄地点。在那里拍摄了 Wildlings 在 North Of The Wall 的场景和 White walkers 进军 North Of The Wall的场景。
 
 >在路上行驶的时候，我突然有一种置身 Interstellar中某一个星球的感觉，上网一查原来 Interstellar 在冰岛有两处取景点。一处是 Svínafellsjökull Glacier, 那个白色的星球。另一处则是 Mafabot。这两处都是南部环线上，若是自驾不妨开去感受一下。
 
 ## 黑沙滩
 
-[p4-1]: https://lh3.googleusercontent.com/pw/ACtC-3fAndLiFVevHFIAcZ4o7I9gOxtMBWXkLqrGldfEjgbn4Yfk3w3TAvY0m7UTimGTt9jRCmFymouPrDlddpPXNr1IyVLERBHZblHVvnVv5U8b-es50_DoPlrwtBCwnBBEtBf_Fjb5SUJLgY0KUAQ-iXtiDg=w2400-no-tmp.jpg
+[p4-1]: https://tvax2.sinaimg.cn/large/722664abgy1gt9zhp6jksj22e71luhdt.jpg
 
-[p4-2]: https://lh3.googleusercontent.com/pw/ACtC-3dzjASCiGZqKMuHyDr3NLkmVlVAS2JJzqRYLyVkD1wOpF3qN1BTfDvCbt4tTuKpiziiSs7mCKSLkL5_jGqgSnItOj_y_mQDkiPq5UAAAb4wqgUucAR0Ua3kNwCFn9yADs1B9xLA_hEOldwk4BHX3wkyoQ=w2400-no-tmp.jpg
+[p4-2]: https://tva1.sinaimg.cn/large/722664abgy1gt9zjoxb3jj24mo334qv9.jpg
 
-[p4-3]: https://lh3.googleusercontent.com/pw/ACtC-3ch7hMaoaktqtiA2SwK_geicnJxE3KOx_JbKUeY4vZ2-jwIfKf3RVE4qM3R9WOZ4zk-qrqTlxn4ZJwlATgGV-1xskhWWgwSib3l5vtJ9fLmGzYszIzD1COr6ZhAjKVx6N_7o-KW8BwUFvkxCmpAvUx5AQ=w2400-no-tmp.jpg
+[p4-3]: https://tva1.sinaimg.cn/large/722664abgy1gt9y5snnc8j24mo3344qv.jpg
 
 这一夜我们留宿在只有六百人居住的小镇 Vík。这里倚山傍海，著名的 Reynisdrangar 黑沙滩就在离小镇不远的海边。
 
@@ -159,11 +155,11 @@ Reykjavik 天气变化多端。我刚举手给窗外的雪山拍了张照，发�
 
 许多到过黑沙滩的人都说，它并没有照片拍得那么美。我想，他们定是没有来对时节。冬日里的黑沙滩，入口的草地上堆积着一片新雪。我们到得早，雪地上还没什么脚印。大雪无痕，山山水水在这白雪的世界里都变了模样。远处，浪花被海风裹挟着，汹涌地拍打着沙石。这些大西洋的裙摆，在黑色火山岩的映衬下，格外洁白细腻。脚下，海风吹起雪花，轻拂过沙石，一时间分不清楚，哪一朵是雪花，哪一朵又是浪花。
 
-![p4-1]
+![][p4-1]
 
-![p4-2]
+![][p4-2]
 
-![p4-3]
+![][p4-3]
 
 
 #### 旅行小贴士:
@@ -172,11 +168,9 @@ Reykjavik 天气变化多端。我刚举手给窗外的雪山拍了张照，发�
 
 ## 欧若拉
 
-[p5-1]: https://lh3.googleusercontent.com/pw/ACtC-3e5HVvONxeoHZgyJkGw7QPo0yzFhHvfI8D2DV-adN7LSo8urGY9oIa0UpxeI7TvUK_RstB_1J97btcrZl3hhHDwu48_c0Yp-P9x2e9AEMPandNk1M7ZPb0V0EvKSQm-smcdjOFRmevHlSdOfc1UVLCacA=w2400-no-tmp.jpg
+[p5-1]: https://tva1.sinaimg.cn/large/722664abgy1gt9y58sw7wj24mo334e83.jpg
 
-[p5-2]: https://lh3.googleusercontent.com/pw/ACtC-3c76RGPr-2xai9C46hivla9p3qgOv500WHpgRnv5caBHFcOafMOp-12d8bkvGdkn9r3mIsqC6kloO5bhTQXIAVf_Bo8VQ4NxwfljsvlwsvvK4CMSvLMMVbqOxPc2-k3s6whYWcdwH2QB6DxZc0Vl5iFpg=w2400-no-tmp.jpg
-
-[p5-3]: https://lh3.googleusercontent.com/pw/ACtC-3d-UzN97mORoNLFvgDRW4fv4Mau3T3D_lv-EE60l6rkljPCK0-EZSn0xmjBLdkaCce1eBXwbhYF5XGdZXC2DP4NSYAOi_EBppvg6yZ_0O3QZzz5LOUt1DBoy6VHI7caqbisZOfT2apZ-qkXjG4u_YZYaw=w2400-no-tmp.jpg
+[p5-2]: https://tvax4.sinaimg.cn/large/722664abgy1gt9zinjvszj24mo334npf.jpg
 
 冬天到冰岛来，对极光不免有所期待。第一晚，极光指数达到了肉眼可见的三星。一屋子人吃着晚餐就急不可耐地向外张望，讨论着今晚见到极光的可能性。这时向导在一旁慢悠悠地说，“看极光得靠缘分，有时候各种条件都符合，极光也不一定出现”。也许是为了考验我们的耐心，那一晚极光果真没有赴约。第二天傍晚，极光指数还是三星，天空中还飘着些薄云。我早已做好了看不到极光的准备，所以当向导说今晚可能出现极光的时候，我连三脚架都没拿就出门了。
 
@@ -186,114 +180,113 @@ Reykjavik 天气变化多端。我刚举手给窗外的雪山拍了张照，发�
 
 第一次拍极光，心里有些忐忑。暗夜里，传来一声清脆的快门声，之后便是令人窒息的寂静。十五，十四，十三，我在心里默默倒数着。二十秒后屏幕一亮，一个和现实完全不同的世界呈现在眼前。镜头下，一道红光和一道绿光胶着着射向天际，像是两个高人在比试武艺，从谷底一直缠斗到天边，难分胜负。红光一会儿就消失了，接下来便是绿光的独舞。她以苍穹为舞台，流动着，跳跃着，变幻莫测。这时，寂静的山谷里响起了熟悉的旋律，“红橙黄绿蓝，五彩的欧若拉，爱就在心中，相信就会存在”。我回头一看，同车的姑娘们正拉着手大声地唱着《欧若拉》。此时此刻，还有什么比这首歌更应此景呢？
 
-![p5-1]
+![][p5-1]
 
-![p5-2]
+![][p5-2]
 
-![p5-3]
 
 ## 瓦特纳冰原
 
-[p6-1]: https://lh3.googleusercontent.com/aV8EJFUBAJ28ks0wa5GuMcsCsIbGdomugurevvsHCRiIdnn2epMID8v8sS-uvdGoDT5w4ZBVNqf5o-mY6C7Knrh5sBurTpHmkHebgOvsuca_qQZBY7-U4b6rCGRnx_XhPkG2IbfmK6Njh-gZZGV5tP4nNncv1xDw7H9b42t7e89_QjvXKiyzUMf7JpBCWCcHHrl6XUUnRyxfEWSJPa26Uoval5IKCN5heDojnTwBB4rhiXC2tNJqOEjTTvW9HfGDcR5pFiY4QuS0hMk2MwJC56BY6ssU2bXQRVxhN7bnCgHH7EZN2nngWY3tmddNlELoyH_82RcIQ5MdVMUC7rltuy8aCeHtZp1ny19QhfMaE5Brv2kxDI7BmkVuZrWB1J9GVhojOWu-kGXH7RrrqJ_la2O88A_UOHBON2uzbXML7DZPP8pqE9Rc_YAT9BgErexQWFS08eXGayZjOCm9n7eaIo20zUlmYSmROYaBcZKdwV_ZzC1mtb5RDidsdK7XTeEHQEDtq22M-zXx55Jp4J5v-3YaTRMKQmozhu0P2diDw0jY1FCgSXmarUnCI_eeiOCg2c7zc5nH1NrWxj-Yqr6OlQJGOcDhwnodzCYO_j7g42Y2IracGGgLPSbaP9gxSZO_Icl_xaguB0p34kELvQEdxDhTc2JzHms=w2400-no-tmp.jpg
+[p6-1]: https://tva4.sinaimg.cn/large/722664abgy1gt9zjkutnaj24mo3344qs.jpg
 
-[p6-2]: https://lh3.googleusercontent.com/J_T4-cHPHEkGarZaTpfNQp6xLyF98A34sfuT1vwT_RCmUB8l1cvqD2iOuW3lyDdkcyl4yTSQ5_jtKG9eDcAjFFGAXa-mjxpAGsLor-Octq3owQzwSrprCdmBbWrChgw3fT_DgAyARdP2uv05prOPkAFFeKaZUo2lpWLMQXatehhv9C2cWwNd_5C3842uhZuqcVfbr9kSXjtiKFqcZRoR-oisRKvo6kU-3zv2VBJIepq4yBllS-y1SWNKk8VmgfjWeETTDCVgqANQyvPi8cFWaKJPyJzfpMouBu9woWIn0QHr1ercxgwosr4A6XRzwGb1jBjOtAgSaRehUCx32NTMfdOp8tj18r1tt4msFSDrsMphVHz6enPqG2z-O6vQWJ0kzLxjuISU8Rs4BRx0EB_7B-soYpHK5B_hISNvctsETTuCOEB84KnW8QTG1kko3e6TNR_YlQUL_RDT14t7do1FihHF9-GoshIFku-c3av4jkfHWxyxrnvxxSdD6vy2_4vyQYmLzThPyjc8_BAhdAdpHlgOjTKH8NUR9bA8JpSXIgoC8PEy3_4om6NN_9Q8kNTcgDQfQ9D92objGgDpAKr_6EiksQOeKbfdiPi9ejcJdw9hkfSwpiEELRfdgkmr39FU1_MmFzusIWactNRATeyWOTfXqhzsZ3U=w2400-no-tmp.jpg
+[p6-2]: https://tva2.sinaimg.cn/large/722664abgy1gt9ziwibjvj24mo3344qt.jpg
 
-[p6-3]: https://lh3.googleusercontent.com/LgQtZDEFwI8BxlK39sRQsFtHguSoVL0_RuaBsgukusa14F0C8mUoMkxt5rrkwYx-1Cs0stngjsVzGkBX6Xe2P4grEIWnfZnl2y7r-hL_5Uv2Cw3Tbq3jxDZRXeo3SR6cU0YX_IwzljfLnUi2Kck1i_KhQfOjYJfYFN9IIyaTu2nv6kLhoQIWhJUZ_nNluvNTCTRoYV3zYY5Fdl9KWr55hOFSjLHCjO5SUw_5wCPnvxkMEviS38llGsOE53xcdtugy6mMihWngLyX57O492_RxOvyZ_0xfFXjf35kM-hzf0QsirgYCQAi3BxfJzaEPZTkQaHJg-pfsn5U0tSfPQUHiuXFO0TSLnAKxQWr9WNIoUnPTVDGz9x8KygtF7toVdSRSnZDvtghk41k4IK_hLDhSafhM_v_T3JGBVxejg1apceKAl_jEQj_gAG8ai5BkS7WP5My0Zkm7aPj7G1ckh2V_LyidzhbyB9agmgek4sf1lWqSXbNH0HTv7hcPXWxHfcCdM3N1_fM_Lv_e1EcKMPNbjkr0_pAyOyhvMF8TV-uuSjF00ThXX0TSfOaZYlEM5EfT3Gc0SIotoLB7dXEAykqJVDv-cnvb_27mVR45vo5ottf3TZeinGVMB9Y-_DQ-_iXJ4YruB_jQvkurp5JpxjJ_LWCd7ZbchE=w2400-no-tmp.jpg
+[p6-3]: https://tva2.sinaimg.cn/large/722664abgy1gt9zk4e7kwj24mo334u11.jpg
 
-[p6-4]: https://lh3.googleusercontent.com/y-AlN5Xi4jytfXlwHCHRS93-nHxikCvFA45AXZgZRYwH89J8yrMUpnisrdXscARsWihOuffT8dkC59qCP_UZDSyQegSeE4bDwwlOEcvzYEfM3_r3mzSAO2zjjXsiytQVUHMfMPHt10sLRp7OcsHlOf1kDi_dj2inlkSpAdjXlCVGESmdPlxPu8uMiejWRE0kdAS23d1Iz3czL5PKoJ4eGc01SlIVTLcQ7YMelrjm9c5sF5GFCDXMF2g0yjGYTwgaoUKhVlp_yqEmeD2J3ErMMU6mMumyr-kTtSnYiKnia8RgvPWISw-X0FWh3Oj_SHyZK6UGSGOMUxy3MuJKVCLVRgX0F7d6-ramoXrPlLfuDk8lQNB925eh_KF09YTOkk2pcdUIAgmMxHkIRTVdat-g8YZfGZI1m3D1m6l-1pCA_qp235i-wBUITi647c7wKfH7ZzVjlv0LZUkwUnKvWf6fjcUhBS-Y7PHS7q8adGNTxt8DMDRA6sCPFKuoftCDL28ji7a7oIhS0Y6K2suUek5-XldEglmXbfvKXVQNGi2WMSEUS-_ivromQGEgtHCK0-D7oKpb0NkraK7ETPOw-jVwru12Xbp_IXcyxd4FOzwwyDA6lTSwpIu06U1I5NhIQFLvy_D2L8urULJv7o0fs-uxFHB2AahUw8Q=w2400-no-tmp.jpg
+[p6-4]: https://tvax4.sinaimg.cn/large/722664abgy1gt9zjhvnzkj24mo3341l2.jpg
 
-[p6-5]: https://lh3.googleusercontent.com/ncLu3MHhYBI-t0mZytmVuhIqZumSsAWsrDBHIt5lwT-cqM07BYm3lfNTWrz6B9j1ivBpWGw0GaFFv3js6x4SaSt5FS-f_FYDMR2Unz63HD6H9lNgmswQX3qA55OYyeSWocdH0Ft6c9gZsMmjHfojutoo_i90cLDBgNnrnG-_VP_3IVh9tfHPBHkhNFLJJp9u0U6IBYzu2M2P0J4lgVrpCX1pOJeQh51bCNbheRUcsPN-WpQYsDlUZ4UmHTH3GVOiOpSQAWc9t780x_P3DyXfPVy6-1YnIvgj72J5pv06-Opn9C5R2v3nmJ1r9gTo1GCoSg2qykAQBd5CjPpk-z190w3KDIejETxhIr7lqQ8y8lRlIwtS8hy_vR_hYve75IiOjjiupCGQr_SD628binvSQt2QqWex6qj5cIldiUmeXAEDEcE9x-xQ4iQ33KuuS6umH27u8kkB2N06K1sd5zcn9SZoB38o1jDkKBbiit1se0cc7i4axJianzHnsuJqtS0zY0w0XqMZipTzZJTttZEch_ey0OUH-80E-Ib5bvRJppi1euTkWeqDi6avzAa4S88jNERqG1ymPIw9E3b5q1zG-OyQ-wR8rC_s6OCkdZOZp93NasAK_aYHCCdT3YcT6kW0FCJxwoFbHcM8rmJFXlZDm3TNp6a-gE0=w2400-no-tmp.jpg
+[p6-5]: https://tvax1.sinaimg.cn/large/722664abgy1gt9zj84tlaj24mo334x6t.jpg
 
-[p6-6]: https://lh3.googleusercontent.com/urZktK_g51jh3eBu95nEijh-1sPOuxhpJ3H3jxYCr-ZRAegY-elQ1F0SklCIdkFO222Y-kySQO63fzNdi5xbaRB_Y0UvDAlZasXSwpnqlPPPOXibHiZjxfZ0_Sml_VU9v-eFD0YRHFvGGF8PeChKNvJADXOdJWRKNa7Yd0_rtIBXtFV7V8ltV83ZkL2XlL-Q5ikUS9JBsV5tDffs_T9teBvhuxu3giY5f8qjPuiM0Y7zJcaM56FRdvdP4a3v0qr4V3Jvqp_bt0N5giV3tdGlBj0qvhPgNDUTbrEzp0fuiIUkxxl1HamihiCbfyYcyDzjYXCze_4y4sEcQx1vOBDozGfGupZpiJEvepUcqAVa4AQWv3udt3fQlr113ES7wRlaMKlrdp2jYDTbUQ0Zvlok-b9vH_0UUZYkv3GaRncnhqo1UQCVqdpy8grlSuQtSXptlyjuqMoXe3cNzkl2Mbpe7thUbl40FlLhh_fk_gU2CJ5ii1_qSievLb-q-DYNVhApt0e1K_L3_EvhQ2WTsc8XBP1NS6flNhhZE5mBpBG7gd6mJPpiiFBrRlzCm5TlgT4EQESqIEYg-iGFWBOcx0ELHqg2l3Wmvk8KsYWxYPSO70O9yeYkbZluBSgxi2dgn5TaY4QebSr3qWVu7_CdKgF3_tAUfGt1Uk0=w2400-no-tmp.jpg
+[p6-6]: https://tva3.sinaimg.cn/large/722664abgy1gt9zjcrsboj24mo334kjp.jpg
 
-[p6-7]: https://lh3.googleusercontent.com/uwctUaTFk6l0VycsRjlmuz77UABVmWIAzHE-bEgcqBwbkgY2SeEegls3VJFzVbOb_GpqVIliTkoi-KZtqIFmNnslFzypt1s57b6WoRiSA7O3CJmMVrnXzmu5-qIZvHXVeWs63p_iK9emxd3zAKLBNIBGO5urDbD_JukdU4vt7Rjb5XBagWsN5-Kf0n_HfZ7dL0D1htlNDd7pIzU6isgvDiwDwvtKwgijUU_lEZlQzVh2FClrU-6QEIaAQmMQx4kA8iiAX_49WsKDNIshX0E1BxbWCccbMYodbDpEyAmuh4tRKjKxQMF0CE1FJvv4LR5GkV_UiQrpSDJ_28_9GHVy11dxQrlElT8X0en8qt61SZKZkhxtMbyJ7NLaqgQl--KPPpq5ypWJCvhked_zI6iRdBwkP-bP3HARS79bnCHwI70uRunbxeLoeaxnyoDRkcLh3fdV2FkdTFX2xbc_Wj_8EglDf5HwE_YPBUE1eJzVZ_LLqY72eYRBLQCl6T5i8CwNRKi6o47J3spmeUs2N07KxFkkwpvlBV328FWMtHWBxLxRVn6l_yFchV1d-r_Lw8nQnXvOGRn23tyMOXvDFIYOKgLg573CtxyBsoKAtsjWA_XSOILV4gVoJ_DsSOxomt3yy_xrOfFA3zDvgmWlEQGMP35lg9sN04g=w2400-no-tmp.jpg
+[p6-7]: https://tvax4.sinaimg.cn/large/722664abgy1gt9zj4bctwj24mo334hdx.jpg
 
-[p6-8]: https://lh3.googleusercontent.com/HcBkIYO8YhZ9bdIglxfqXjugfrAcS2Vk20Ddag_TlxYObxevQcxpH6wCwiJNKvSnxVXC2GcDfW-Tvbb_XlnEWzbCR3O8mhpMBrIenpyKXe4Mn5SlfW5fRZiytHSSGKFoJ-lfvLF6KNLhqjnsvBMTNBEVTnT7M0dZJLrtmbURDGUZEB9wkk6LOyaMRBX5KZOyaUR7B3VjqYWxsv3r2qlmK-y-6S3E4oISXL1wc3VgBsspZbm9qqAMpOvIYTP5OIYampSBpQKF5hjuJNXODvFagvLvBfXlAW5LCx9bjGLZLRtaCOVnztygWG9WD_clee_e1EGq2QdnnAohRaU6--RpwFz9HTp1cBf3OuTWVO4sySu1Ice-W9l4NLnwtqNiE9exmGa0VZe54V1e3D0Fy0k9JGbzK6VeruohL4oMwIcyc0Cc9tgBSLiyp36AV7GTGg7C7vX_k95J6piCaXLCUzFi8wzO71k-p0JNCC5Gvp3jhiAD8WAsj1FMmqzWfCZWXgk2vFHFmjoLUQ3NYh5hWdv2G6s0y5TIn7yvS9peM8jcB67KhpOL_e-p8c7JsbvDkCq2dUEqO1wG5Y_IpF3wwPU2E8f-k0HWZzxfcc2UUePDjD1yaacwbjD9AZorlqN_3slfVXOPh9uQ3H8K7LORY7IjZQg0QmZW988=w2400-no-tmp.jpg
+[p6-8]: https://tvax2.sinaimg.cn/large/722664abgy1gt9zj053rfj24mo334npg.jpg
 
-[p6-9]: https://lh3.googleusercontent.com/pw/ACtC-3cWjgS_HgQct4XGXkeOKRzfgmT1NfQ0ILYIJJm8OQttYuX35-kpwMFZV6EGfdYwWzgcSAgq2G0_jfxQdZ3Rl2l2EIGfIY08M4QIkyi4QuZ0z-TPOJbOounH70QGCwDgeru0Wav7mcCD-v3YcDBcx9V9LA=w2400-no-tmp.jpg
+[p6-9]: https://tvax3.sinaimg.cn/large/722664abgy1gt9y4mav8oj24mo334he1.jpg
 
-[p6-10]: https://lh3.googleusercontent.com/Qyrih0eHGLrMFi6QV2M6W5fF4SSQcSxg0dwQTTJ2FKieYZaA8coczRysmsIoK9MiNrJAbtQHbAQU1PyMlui7CxTSK1828bpGWzzA54080DfrTXG95xHAgiJVUQUmhqe9mTsfpZKvm8reo4lv9umTjcDjXfj43N9lxJPzNQSHgvRlENTnUwtstQkJh4FEGm4aDGr9jYTdqKYSnqc0INNZBslK1fOnR1wbJedqwMottvS62CCnRGZzqzb_PajTV6Q1dIhMqvXOtVOnrjrS8NhmWnzyRfTcojmYtiyhysXTQpwBMnhCnH3JQ3plvuzx0cOiEGS7VByCcZF30c8dTYaloDZ03HAoG7Q5B2xUDVRydI_xcAgSxgep5jTlH0Yhdmu03lAp22PUDaepyVef4WKpY-hJzF9u5aqDk_S8nwZ9LF4p_esF0G5i_HenVfowoge7rAaiZncKjP4Cg2aY565rDXbLvn3bZbfLMCTonxuwoGFNZGbEMkzxDxI5R67Rm7rKQZAqZpchl7gBSG8BH2-OmMuKbe_H_IIWnaFoQZXX835fFnZcYxOP2HYlmH_SrNY9zuL9pKn9AAGwBaWm46xC2dgM4EOM5f1KmVj8WUUDL19bLINJDGhnslHfyl9cr1dNd_ktaEObR8tr26wpUyptYSfKCPEALTw=w2400-no-tmp.jpg
+[p6-10]: https://tva2.sinaimg.cn/large/722664abgy1gt9y5gik12j24f72y5x6u.jpg
 
-[p6-11]: https://lh3.googleusercontent.com/pw/ACtC-3djhQBTL5QjrORxcgA5LEbCqS9qzeeTPGoQI41xcWUiMWAj1hdmvtSufWOuJuS-2JantfogFnb_g-jeO3LW7f1GwpiidgTExl-Fp8o-PgRIMfrI3Qn4R7i8GGnqmUMyliB55HB2knn3zPWk5SeXY51PHA=w2400-no-tmp.jpg
+[p6-11]: https://tvax3.sinaimg.cn/large/722664abgy1gt9y5kx8b9j24mo334e87.jpg
 
-[p6-12]: https://lh3.googleusercontent.com/pw/ACtC-3dK2HC6QK7ll3aMARUeI46BKo-zigPefDkUZz3i5EH7hZ5JvhazteEvB6_2TKlV_OZzVy-B25QZ9fdeAdX8L7lHT5fTJShd4-TVC6CgWhyDkJXgWmM9JxRqYeJ-ZLYtatq-EyIktkP-Wp-iShzyIXlmzg=w2400-no-tmp.jpg
+[p6-12]: https://tvax4.sinaimg.cn/large/722664abgy1gt9zjzo35pj24mo334qv9.jpg
 
 [p6-13]: https://lh3.googleusercontent.com/pw/ACtC-3etS2pWLdsR_eepv3FCIB5Je1T9y48U2wdoG4p_ZFvsabxtYf4x-F2CrvMKZLfe1PGWhYc0CnuH9eT7oeUNdk5UImRzL9VbatGLaQ3YW5EMZiBsXMJ_tB57zatzupIZzvl0ZMBKmbp7t0EhLMOzoquZzg=w2400-no-tmp.jpg
 
-[p6-14]: https://lh3.googleusercontent.com/pw/ACtC-3f6vK6vq70HSZPEm82G4e-ENmEtyahBcuXNVvuPqA-Cd8vaAaZG9KeTzascxiYugoNj2-x99WzcPrHuzFwaprnZeFkLzHKmla8BNmJH06oRtuA2bKgFpkk56Lbzgvo_Ab8KsikqnNHRSBGCLh5Sm9zyPA=w2400-no-tmp.jpg
+[p6-14]: https://tva4.sinaimg.cn/large/722664abgy1gt9y4h68psj24mo334b2f.jpg
 
-[p6-15]:https://lh3.googleusercontent.com/pw/ACtC-3dPEpf48qzAxHIGtzSspvlLz7-2JccBAT8pqX_8u_Q6j3jRJCv9kqElbakCzENA5zOm01OXR9w1dlD94Mm-WhgCpdvz79FKBmG3E27pTuwjcgsFrJX_LTL_2AS0uPWPjSEgsqS0I0v1PhR5IxJP0uI94Q=w2400-no-tmp.jpg
+[p6-15]: https://tvax1.sinaimg.cn/large/722664abgy1gt9y49cq3tj24mo334kjs.jpg
 
 
 
->瓦特纳冰原 (Vatnajökull) 是欧洲最大的冰原，超过8100平方千米。冰川面积占国家面积的8%之多，而冰层的平均厚度达到400米，最厚处达 到1000米。冰原的南部是冰岛最高山 (2110米)。这儿融合了冰盖和出口冰川，冰川下的火山经常会有地壳活动并伴随着大规模的洪水。
+>瓦特纳冰原 （Vatnajökull）是欧洲最大的冰原，超过 8100 平方千米。冰川面积占国家面积的 8%之多，而冰层的平均厚度达到 400米，最厚处达到 1000米。冰原的南部是冰岛最高山 （2110米）。这儿融合了冰盖和出口冰川，冰川的火山经常会有地壳活动并伴随着大规模的洪水。
 
 沿着一号公路一路向东，就进入了瓦特纳冰川公园。从地图上看，冰原主体如同一只巨大的章鱼，盘踞在东南部的高山上，而它的触角则伸向四面八方，形成一座座冰川。汽车穿行在公路上，从车窗望出去，左侧的山覆盖着白雪，右侧的大西洋一眼望不到边。触手可及处，已是陆地的尽头。在那里，茫茫一片与天相接, 而天地之间则是一片混沌，厚重的云层像是一道帘幕，让人看不清它后面的世界。突然间，有一种恐惧由心底里生出。倘若这就是世界的尽头，那在它后面的究竟是一群观众，还是一堆电路线？倘若这个世界真的是虚拟的，那它究竟是设计好的游戏还是随机的程序？
 
 好在我还没来得及开始思考， 车已到达目的地。迎接我们的是两台雪地越野车，他们将带领我们进入冰原腹地，探寻冰洞。
 
-![p6-1]*世界的尽头*
+![][p6-1]*世界的尽头*
 
-![p6-2]*雪地越野车，轻松开过河*
+![][p6-2]*雪地越野车，轻松开过河*
 
 冰洞是冰内消融的产物，它的同类包括冰隧道，冰漏斗和冰井。当冰面融水沿着冰川裂缝流入其内部，就形成了冰内消融。不同于岩洞，冰洞会随着冰川一起移动，越到冰川尾部，温度就越高，冰洞的结构也越不稳定。在瓦特纳冰原上，每年都会有许多冰洞消失，也会有新的冰洞产生。组织冰洞探险活动，向导们需要从初冬开始到冰原上去寻找结构稳定的冰洞。等气温降到零下，冰川融水逐渐结冰，才带领大家进洞探险。由于这个缘故，不同时间去冰岛看到的冰洞都不一样。
 
 十一月温度还不够低，大一点的冰洞融水还没有结冰。我们进入的这个冰洞，虽然没有照片上的那么惊心动魄，确也满足了我和冰川亲密接触的心愿。冰洞入口处有一条冰河，沿着河岸走，踩着脚印，就来到了它跟前。这时我才发现，这些覆盖着落石和积雪的山体都是冰川的一部分，它们就像一条条青蛇，匍匐在冰原上。冰洞里面很暗，没有照片上那么绚丽的蓝色。抬起手便触摸到了冰川上那鳞状的波纹。这可是几百年地质运动的结晶啊！一朵雪花变成冰川的一部分要经历上百年的积压。而人的生命不过区区几十年，与之相比，如同蜉蝣。想到这里，心底对大自然的敬畏又多了一分。
 
-![p6-3]*茫茫冰原*
+![][p6-3]*茫茫冰原*
 
-![p6-4]*后面的是一整座冰丘*
+![][p6-4]*后面的是一整座冰丘*
 
-![p6-5]*冰洞前*
+![][p6-5]*冰洞前*
 
-![p6-6]*鳞片*
+![][p6-6]*鳞片*
 
-走出冰洞，天色已暗，日光昏沉，可大家还意犹未尽。向导便拉了绳索，带着我们爬上了就近的一座小山丘。从山上远眺，疾风劲舞，雪花飞扬，远处的世界混沌不清，仿佛来到了异鬼（white walker) 的世界。
+走出冰洞，天色已暗，日光昏沉，可大家还意犹未尽。向导便拉了绳索，带着我们爬上了就近的一座小山丘。从山上远眺，疾风劲舞，雪花飞扬，远处的世界混沌不清，仿佛来到了《冰与火之歌》中异鬼的世界。
 
-![p6-8]*拉着绳子才爬上冰山*
+![][p6-8]*拉着绳子才爬上冰山*
 
-![p6-7]*四下一望无际的冰原*
+![][p6-7]*四下一望无际的冰原*
 
-![p6-9]*在冰原上的我们，显得如此渺小*
+![][p6-9]*在冰原上的我们，显得如此渺小*
 
 风还在刮，没有停的意思。冰山上一条狭长的隧道，成了天然的避风港。躲在冰隧道里，四周散发着冰蓝的光。而那蓝色之下，还藏着些什么不为人知的秘密？抱着这样一个疑问，我们结束了一天的旅程。
 
-![p6-10]*走之前再望一眼这无边的蓝*
+![][p6-10]*走之前再望一眼这无边的蓝*
 
-![p6-11]*天然的隧道*
+![][p6-11]*天然的隧道*
 
-![p6-12]*冰墙*
+![][p6-12]*冰墙*
 
-![p6-13]*冬天天黑得早，回去路上天已渐黑*
+![][p6-13]*冬天天黑得早，回去路上天已渐黑*
 
-![p6-14]*冰上打水漂*
+![][p6-14]*冰上打水漂*
 
-![p6-15]*日照金山*
+![][p6-15]*日照金山*
+
+
 ## 冰河湖
 
+[p7-1]: https://tva2.sinaimg.cn/large/722664abgy1gt9zis4ckaj24mo3347wl.jpg
 
-
-[p7-1]: https://lh3.googleusercontent.com/5ozvwhnqklKw_59YaLKB7uknnbpRhxdcEOImF1WxT-3UtiLwHtQT5xkDo3cweEqpJ-HgH2EEUmEXlorleChzFHIlZ6e-0NcJepdmPCCl7mO6tTqjRzUOwF368mxSMoYD5DgQJ-fnnxwQrWBuX70Axzj7ZiTpfj-TaEfZBjdR4tf48pVEYbfv58pgWVeg_Fj96fmhODO7g8LsKAEgsx6etl_oAVkkwdP1E2WChrvlCqo1MapkFmfmoQkrfI9hjity04hquPLCsHXJvF-ZqUjexJlxi9WUYRu6R27umZl_dLr0t2TOnFk7c706Skhd_c_TgMB2U0B_AyIsBhOLnVMQWBqq-fGB2N2GsNFwAUJXNFGxjtbedqKrOgN39DUlizmWIWGVp55l-mZp8jUjpQb0gfslSAAL4c00-OMh6kVk1A7vufgWL-z87WnX4d0OfFjIhM6HkwhKXoBqpx6VFz7TdhRpsX5-zHkGjmUCu5coKKNn_a5BnAW2onQ8Vi0vwKDlXSLjWCj59WaExHkh8AJjGOeKsFcNgUUU8_TA3b5kbCjAuJDG5K38Mu-veQq1z8suXxw8SRWbHM1U0LArPlxuMGNmY0w-5J2C8CMLwrlCEGD12uUQvfy1wx3sQlmJBACEoPNuRKe56Jfn52wpNpUe3iRjZCACZ20=w2400-no-tmp.jpg
-
-[p7-2]: https://lh3.googleusercontent.com/pw/ACtC-3eevtuxPncpEv5CME1GyTJ6PjVRyLfBS6ZZLagfKPk4hj3PezxkFImVCLLbbxl7CncxpWBTve7hEZPcsz9WbhkO431QgNFbwrv5iYi4D_5r7oG-YD5yWaENzjw-TvzL9-iSCdWRg42bJzf6Qk46IMrxeA=w2400-no-tmp.jpg
+[p7-2]: https://tva3.sinaimg.cn/large/722664abgy1gt9y5cnrjlj24mo3347wn.jpg
 
 [p7-3]: https://lh3.googleusercontent.com/pw/ACtC-3da0UnXoQHYPSGBBu31aWdfKmMho-tsst-XZTzrsTAX9SL9rNumEOeonl1bPk3Zi8tO3pRmflwzjWt8MZjoWyrhoJxBcqtX4sJPImLsuHYzcXv4qu0YfdD-VncKZ-zP_daZz8mdfCCN5ouFrENEvYM84w=w2400-no-tmp.jpg
 
-[p7-4]:https://lh3.googleusercontent.com/QELcdhpiz8MxcYSjV4w0Yc__oWRaX6rhCh2EtglvOOBl9VaceK_VfIY8Y6wwuOYZYbL-EcxC8y43mLUUSQmf6H2Cj4exgQib10kEHSKduSfFInxPViyagsJnm8mo2yDw7yEmG5QpxLmDS2AsDocRqlAWG089AI-PYjJJ1GoKy6n5q_yzAxGm3qXySbzszdRW8KE1oiGDq4sWyJ0hAmzDvUJjjO0BM_GFpSgt1WHl0VkEUK0Q6rtn-KRUdR76m7sdlzpFrL9aK18Q0JnHNpUxI3hdyx2PeRRUx3GP6gvEt3sJS7lORVAZ_cz64THnDsWbYoIEVKxOCKGV_kYMY8wpr-gWLZi87OQ2whXXcqUU8gdQdFS3YLuMpFOwcQ2xrY0Pk8n7B-6aO7odomHwerqsPfwMPuzBAf9wy3qmiVGorWfbAGOdUkKniwWghfx8Qu4JB0Jw301T28nxSEHhZtbfc5PJ7Mc6dmJipl0OLYusZhHr7FVgzlBHDTC6vSFaMeCv1zhJnbpIxibuiCbHq5y3yeY2v3oSoUc6V6eiIpplqpQ6SXu1SZD2S9jOEwVgsCg4hGojd-eSVshV0Wsy2zdY3kbTUhW5YcHnbBh_c5tGToAKTrWeALca-fB2WABv6octtn18dulNDyZm4XKIG86sBs85WAVsEIE=w2400-no-tmp.jpg
+[p7-4]: https://tva3.sinaimg.cn/large/722664abgy1gt9y52ai85j24mo3347wn.jpg
 
-[p7-5]: https://lh3.googleusercontent.com/IGRa86MHefzBm8Jxy-buxJU4jzOlcIBgEL3ETqU3aqQqXeTvVsQKwSVKOLaLT56zwxOqx2cIW8pshqOSczcOZIx9tE9UhyOmf4ntA4DQfTf7E0Kd_MJycdTmQh-YkZGv7NDGYLw23BWWO-9IeV7S08xmyn6lUHfP6Zx47FNZqj1sfxQgUN1Zgf-2pis1r5eX0sEFAkwBwNLN1p21u-FsdHHwKdyDQjmNzWowwnfiCy8u-sc4b_bv3dum988OOn0G3vFa199B0NNRZUHQMBgi5Lhkh0IN3ik1f-LQ0rQm5gSqB4gFzF5lBXl-owp3o15pAftjypQK_ChjdZ-JVFGpUt10z0qBNi_QXtXJgB8T7xsBDptvMFd97j-dWmey3k2HXknE5M5bvT7_wdgJlMU8xZUptIteVDIEmD1bUfqCpo2-86WUbTo13tII5ry1FKdzSpnKoIYfNxKFLmLr9GAtWOipNi6mlasJmo5LZbR1g9nahtDvxp5fQiEFvBWBWionW27mTNbth4NOFiXS-Hj_81jaR14aLRqaGlNiSgcvvoNhYNN61Lws1k_xKL70PEmnm1kFl0zbNM4Wui1d_I7cV1ZfuEoPPkLOqckV_7Fv087ss0FgqXCn8Cc8X-_nNewPSSWLBFnefTkPmW4QozPZs-LemD-g0bM=w2400-no-tmp.jpg
+[p7-5]: https://tvax4.sinaimg.cn/large/722664abgy1gt9zi9w6tcj24mo3341l0.jpg
 
-[p7-6]: https://lh3.googleusercontent.com/qKvhla7jltjNhWf3O4CxLPwoZRGLWTmm1_JcQ1QCp4cys4QC5ihS83GnFJ_kHuzWYy9y7EKak4sL47Cj8HLb45fiiil_XwvFXEahgvSCWWliCPdb2xPeg5jrWkPGcuRmv50pB0daq8V9tFUFXQxFO5qyNslPbOYlJsRFA_pD09VFjuWAmXdqLmN5ngkLR6pc_8sSUyOEsKmzJNq4rI7KFcOuF7Ip--Gbfj8fqxOLTu8fUT-kyIn3SMLbL-fX81_OKD6dTJsXvsiabK-Gfkk96gSl1LQ2tyuvhHo4cvxKRw09SRNDSGPbThwS9qOfd_T4S3Yzrrlo94pGHqMUWgd2B_8Q5weWBbT3AVRkozQUiR03yFEvQ7OKJr6GptLyxR2f98iwCg5VxSQ45QT2Y3defg9tOAcBrFx5_Ntfsvy6KZIzRPT1_zskgfQ6xl4f190xVxaBumuYJnOkKwF6p-q4-u_y5B6goFyFbooasPZIr4ZXkbjb1-xw3VEZH_YCuYk_dDscxm8mkpbGbWT29uo9pvTDwkT8piJ5OY3EncrNmy3ZtXkInVIb6MM5WbL0tEN6Itu5_mQM0VbUFaQUbb-Y-ceplJFkMEr2Nn2THZAxJ9CBWOUNaG7Qy4Kjyy1LF1-GudapqtAZbZ1-LBBTH3vwS6eEQIUmUhw=w2400-no-tmp.jpg
+[p7-6]: https://tva3.sinaimg.cn/large/722664abgy1gt9y4ya8maj24mo334nph.jpg
 
-[p7-7]: https://lh3.googleusercontent.com/pw/ACtC-3eDEkjeyck0IUx1QpujlE4h9EFlmCHx2qUyEKeFZ-XmbvA0PkpSwVUav6yUDKlPpQ3U1KOylF2a0xRrIQ5xwsoVwz3CekAb4R9VQRUxyKyAuIExtII1YfDEy8KttEVuErBd0_rpvVAe-EbXL2VBI5h4ng=w2400-no-tmp.jpg
+[p7-7]: https://tva1.sinaimg.cn/large/722664abgy1gt9y4v0mfsj24mo334b2d.jpg
 
-[p7-8]: https://lh3.googleusercontent.com/Yjkxlqerq5-fGPPNwb37hYiexaeHmDxBy6lJvjxw29jzI6Rncl8F8I4NEJc62Pyv5vand4OloTH1RCxyGo5ZtKSXZ65tMfLB7CvOt2ZdsCN-j1ycKN4M2gN4Ui8jxMVX90iSUqHC_PYZOkEI86HIXcL4N2EPxj4a3wW5ZIA5F_hDtONgAm2rwWsPE2YsKX29z7oBTVHAhgiy8QmAFgU4i2HohchXzz7WmseGEgwT36YnrDMUIQDgucO3G2WK0ebbdlMGVO4u0Z-RexnZpCHdJ0phDRdCDt66SXtbWappyyS4xL5bf4QvFRhYO7x_tLFkqA2iEGa0zGVhykfsT3MXDbyWQRAf63qdGXn7huBZJIl9v0-smC346uhxs1IQ-9Mes0_zPa7w_Ctw6rHg6lQwjSl7BCngeForOawLrV7ObuRjbqHDGZVL5mMoHRrMl0hKX73jwr_FmvFO11WBAcvmaKr-IGXSM3pTaSrAsYr-Ozv6ogjcTlik_UFUxGBV_9YT_087dOAX3fyfD7FVS4vrqQOBmAmEA6NZZ2k2DXLdO5izlfsYBBDD87VZi6bInHwlxojN2JXImPtujxUk8sz-Cpz_G2sl9zv0ix_An3gfI1o77tlFyM2tedUAiZ4jlx_Qr1o0RRzT4aEAv66ncxIwA3uAFgY91rk=w2400-no-tmp.jpg
+[p7-8]: https://tvax4.sinaimg.cn/large/722664abgy1gt9ziev1uuj24mo334x6t.jpg
 
-[p7-9]: https://lh3.googleusercontent.com/CcB6frT9Ms9UQ1sO5KNj1-wKA4c8-lctpN3YLTaOVFmk2BzeZJgOImZ-yP8x_TrpehitqJ3qyuKtHyMVioAqwJ9BHiM1gngd5aQKi6vQBE4L5p4QZ85yciqeRVvp5hYLlTTdNDwGCeOrm2ST-aYmpDuJjBHDsEMOs_JiyUfDNVjcXb-Cbw41j5O6mLudRHQ4kS_5LXo-p1vyjgt7QBWSEJNwSdiQLFyP2t0L0CF-7hd6prXx38_0RY9glAzEmVWLrqTd7acsR_SEtpxPj8oSJ6GG1Nd65nR4yxvvBaRdxfikiu6thH7jzuEmJVJ88A6IJJgyV5v4e4gYdH3sCKpP1BEQ_PWTEQ0Ce73mlDepl2ZYvtENOF8VHbrqI2AqRLRqIX7i6ddTyc7hW63Lho30NTp7zbsIL1t7tjvtM7YjW2DJsMt70Jk4tEvvb2-H_3rFX5DW1EpSNBySQTxbw6v73Tu0aZoCSgM_V_Ez2UQSvQpCxz3ujjNlTwCIGD4TGES95c8efuTsWemLFy07cskz8cZW9kGmX1LF9iDIYFEDTRLN3WVBuSlxkl0FZnWsmCk2Tjun5spcOQvwLW2INqjm8buOiuMcgv8XbVRn-snnUJw-KKjKJSj9p-K-paDc_rPuHvYb4zJ57qtDawBF-bM3rNi7NJNjbrc=w2400-no-tmp.jpg
+[p7-9]: https://tva1.sinaimg.cn/large/722664abgy1gt9zijjkvij24mo3344qu.jpg
 
-[p7-10]: https://lh3.googleusercontent.com/WQUa8_lWDA6Aozgu9JpEIOxJfGpv1lij1LuS3AIgCsvbknsNkm04hkkxWJS90mlffwtNF0mIE3HWtCecizjJIu1oBO2Bl1-n4Xnmbh5_1vtP8B-JVlae3MQVnTyB6Tfj7NhOfJ37SI2j4i_qZJL3L9ufMsv-YFh32m9st_WYTuSIVYtMInIMqLLJNEZQfi4y4Nd-tx96HeaJ7LF1X7GzbGXvZypK0CHIre03ju-YAe9qBA9Df5DmN76SmAydPwTJ5PW_-wtdZ_OFVidNzepHkW-hSEpx8eQbgH8rZMlZvTl8sXl1NYUJE9hFOhfab9DIRkUkw5YoPde4QJlx2yh4GNbYgn32LkaCJ2Rw6ekR8r5NYnzHDVLXFvyxVotzPT-OetM4MZcSoaiWo-pfla0_m2TW_huE7oMK-idJYZlZkNNc9fEkTNoLGjagGptQF-jSrLiAfEt43OQ_uZ-FskDY8GiRZisETsXDvvfn1diRKhgXDuVQT93dzs7vtJSGgEdi948gFymChltgdlEEm1QCr9320lzbaujl_yfyMfTvILWrF1xfxf4u-KEMKU8bFKibNPfFCXDpbOq1q-D4rQtbc9_YIbvJXp_PfOGWODLvmsVqavQ_b-3acJTmuWMjzftM6KTgXgb3FT5k-uxMK1bOJPW1bLjzExA=w2400-no-tmp.jpg
+[p7-10]: https://tva2.sinaimg.cn/large/722664abgy1gt9zi68t4cj24mo334b2e.jpg
 
-[p7-11]: https://lh3.googleusercontent.com/pw/ACtC-3d1_xttPc19NCQ8LXDJal-RwwNFdbF-3FhOVPH-mzCqAXj28R2iKzQaHz9iwiVUALhTP3bp1_QtLa8zPxhOdnyvDkanpBtj1mPi31Xu0VxT4dPkm3FIfewjRtQJSMo4yrhQlIZZdzNRBWuRKtbl9aamAA=w2400-no-tmp.jpg
+[p7-11]: https://tvax3.sinaimg.cn/large/722664abgy1gt9y4r23oyj24mo334npj.jpg
 
 
 
@@ -301,38 +294,37 @@ Reykjavik 天气变化多端。我刚举手给窗外的雪山拍了张照，发�
 
 与冰河湖初遇是在晚上，天色惨白，无星也无月。我舟车劳顿，疲惫不堪。一脚深一脚浅地踩着雪，踉踉跄跄爬上雪坡。从坡顶俯视，眼前的湖面上堆积着大小不一的浮冰， 它们无序的排列在一起，几乎覆盖了整个湖面，毫无美感可言。
 
-![p7-1]*傍晚时分，冰湖上堆满了冰块*
+![][p7-1]*傍晚时分，冰湖上堆满了冰块*
 
-![p7-2]*冰湖旁唯一的小店，给找不到路的人们指引了方向*
+![][p7-2]*冰湖旁唯一的小店，给找不到路的人们指引了方向*
 
 本以为同冰河湖只有一面之缘。不料次日，车抛锚在附近的海滩上，而我们因祸得福，再次来到冰湖。
 
-![p7-3]*日出前的冰湖*
+![][p7-3]*日出前的冰湖*
 
-![p7-4]*月亮虽然高悬在天空，但冰块已渐渐散去*
+![][p7-4]*月亮虽然高悬在天空，但冰块已渐渐散去*
 
 日出前的冰河湖，一切还都浸润着夜的蓝调。浮冰散开了，昨晚凌乱的湖面露出了它本来的颜色，除了明月影影绰绰漂浮在上，天光和山色都化在了水中。大地还未醒来，四下里一片寂静。我来到湖边，驻足聆听，捕捉着大自然的窃窃私语。那冰川碰撞的声音，冰块碎裂的声音，小海豹露出水面溅起的水花的声音，最重要的，自己内心的声音。
 
-![p7-5]*再多优美的辞藻，都无法形容这样的日出*
+![][p7-5]*再多优美的辞藻，都无法形容这样的日出*
 
-![p7-6]*阳光落在哪里，哪里就有了生命*
+![][p7-6]*阳光落在哪里，哪里就有了生命*
 
 一不留神，天际线已经被涂抹成了淡粉色。清晨的第一缕阳光洒在山头，叫醒了沉睡着的大地，原本蓝色的世界顿时变了基调。不多会儿，整个冰雪大地上都笼罩在太阳金色的纱帐下。月亮，虽然很不情愿离场，却也抵不住太阳的光芒，不得不退居配角。
 
-![p7-7]*跨过那座桥，就是太阳升起的地方*
+![][p7-7]*跨过那座桥，就是太阳升起的地方*
 
 距离冰河湖不远是冰川入海口。从冰原上一路奔袭来到山脚的冰川，终于要在这里，完成从气态到固态再到液态的一个轮回，重归大海的怀抱。然而有一些不幸的，一路艰辛却在最后关口被涨潮时的海水冲上了岸。他们星罗棋布在黑沙滩上，大小不一，形态迥异。大一些的，在阳光的照射下透着幽蓝，仿佛是大自然精心制作的冰雕作品；而小一些的，则像镶嵌在沙滩上的碎钻，晶莹剔透，闪闪发光。穿梭其中，不禁感叹大自然的鬼斧神工，更感慨大自然的变幻无常。
 
-![p7-8]*一切还在沉睡中*
+![][p7-8]*一切还在沉睡中*
 
-![p7-9]*冰雕*
+![][p7-9]*冰雕*
 
-![p7-10]*太阳升起前，它们还只是散落的冰块*
+![][p7-10]*太阳升起前，它们还只是散落的冰块*
 
-![p7-11]*太阳升起后，它们变成了一颗颗钻石*
+![][p7-11]*太阳升起后，它们变成了一颗颗钻石*
 
 我们每一个人都是这样一块浮冰，在人生的长河中漂浮着。同样一路走来，有些冰块顺利地回归了大海，而有些则搁浅在了沙滩上。这些左右命运的自然之力，不可控制却也无法抗拒。作为一块小小的浮冰，我们唯一能做的，就是享受当下，努力过好每一天。这算是此次旅行的起因，也是当下最深切的感悟。
-
 
 
 [p2-1]: https://lh3.googleusercontent.com/T36RmmXYabHf-hg8gnXFauXBVqVzV6RaY_C3PLUQ6tLcwn9yPo0VpNQgcFGZ40YWx-zklQxfkT4qPBSrM2DdCZx8QHKwKbgu-OqSqVShO1eHIzg8pOBAOu-ptElGML1sRPPigAAfG_TLYd_C0aHkK7QllEZipEbFszM00qQccYg9CQ1q-7bwPojl8v9Qiu1HS9_XBQo7VhgYFqb82trqzpd6BdsRDVd0RjUr9tEXCfJsyg3-uLNYawUTcM3M9MO-LsBrgtoFiSzOFEAx_AYgyaJONFctq3vaB5_oQwz42-2HMJujl5x0_xLtFLLqEB9a5K0J2p5VnqYQjrTmSUfsOyBUeQqbnMMQsbBl7t9MbQSQ_Wd3dOdouO4qLFKButqLRq6YV4th5eJL_LgaY4e8T5LfFr2_8u-jeFfY_1ggnGFiP3yKQ0nPHizBozO2X1HG5261xe81z0TbD9abrNJiWUZTyZDzrbEabdy12WFqPwTnz1MPhA29E1SGbSnnz-7Le6efN3emYe0hUc0h6wtz4QYhsu3paRbqMLHfQZDz_Objs1WJdFd03Dpor59J4A90NtQPvItOtFI4W2EXTLyg3ANcJY_MhW6tSTehxeeW_mU_8Kw6BJ8lgvVBVKSYVMaf0Qg-xTf1h2LyA33Ar6YkNwmHgkQ7naA=w2400-no-tmp.jpg

@@ -91,7 +91,7 @@ Reykjavik 天气变化多端。我刚举手给窗外的雪山拍了张照，发�
 
 [p3-3]: https://tva1.sinaimg.cn/large/722664abgy1gt9y6lz50lj24mo334u14.jpg
 
-[p3-4]: https://tva4.sinaimg.cn/large/722664abgy1gta21f12vfj23344mo4qx.jpg
+[p3-4]: https://tva2.sinaimg.cn/large/722664abgy1gtb9zeq2rkj23344mo1l8.jpg
 
 [p3-6]: https://tva2.sinaimg.cn/large/722664abgy1gt9y60s81xj23kq2dv1l0.jpg
 

@@ -12,12 +12,24 @@ title: "关于"
 # 本站架构
 
 本站目前采用 Hugo 作为后台系统，我希望这是我的最后一站。
-我的博客模板 [hugo-ivy](https://github.com/yihui/hugo-ivy) 来源于 [谢益辉](https://yihui.name/cn/about/) 的模板. 我是个HTML和CSS小白，大部分内容都是从益辉的各个模板里抄来的。为了方便写作，内容由 Markdown 编辑。再由 Hugo 生成静态网页，上传至Github，通过 Github Page 发布。由于 Google Photo 不限内存，图片暂时都存在了那里。
-
-本站在苹果系统下浏览体验最佳（有漂亮的宋体和楷体）；建议不要用 IE 浏览器；为了最流畅的阅读体验，我强烈建议安装思源宋体。
+我的博客模板 [hugo-ivy](https://github.com/yihui/hugo-ivy) 来源于 [谢益辉](https://yihui.name/cn/about/) 的模板. 我是个 HTML 和 CSS 小白，大部分内容都是从益辉的各个模板里抄来的。为了方便写作，内容由 Markdown 编辑, ，上传至Github，再由 Netfly 通过 Hugo 生成静态网页发布。照片本来一直存在 GOOGLE PHOTO 但是墙里墙外的现在暂时上传至了渣浪。
 
 # 其它链接
 
-## 软件
-- [pandoc](http://pandoc.org)：强大的文档转换工具，极客必备杀器，以防愣头客户索要 Word 版本
+## Software
+- [pandoc](http://pandoc.org)：强大的文档转换工具
 - [Hugo](http://gohugo.io)：静态网站生成器
+
+## Trip Inspiration
+- [Things To Lu Cat](https://thingstolucat.com/): 驻扎在阿拉斯加的户外冒险者
+- [Doing Miles](https://doingmiles.com/): 退休长距离徒步夫妇的 Trip Report
+- [The Zilcsak](https://zilcsak.com/): Hiking Trip Report
+- [Clever HIker](https://www.cleverhiker.com/): To get some great trip inspiration
+- [ANdrew Skurka](https://andrewskurka.com/): 长距离 Off Trail大神的网站
+- [张诺娅](https://www.zhangnuoya-walk.com/)：那个徒步的女孩，长距离三重冠国内第一人
+- [Tropical Snorkeling](https://www.tropicalsnorkeling.com/)
+- [American Southwest](https://www.americansouthwest.net/): 美西南户外景点介绍
+- [Road Trip Ryan](https://www.roadtripryan.com/):  Canyoneering, Slot canyon hiking and climbing information
+
+## Interesting Things
+- [Yihui](https://yihui.org/): 本站模板的来源

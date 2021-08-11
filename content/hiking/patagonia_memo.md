@@ -7,6 +7,9 @@ tags: ["Sourth America", "Patagonia", "environment"]
 draft: false
 ---
 
+[Base De Las Torres]: https://tva1.sinaimg.cn/large/722664abgy1gtcx62cvicj23402c0e84.jpg
+![][Base De Las Torres]
+
 故事要从六十年代说起，加州有两个热爱户外的年轻人 Yvon Chouinard 和 Doug Tompkins， 他们痴迷于攀岩和冲浪。为了维持生计，两人开了个手工作坊，在攀岩和冲浪之余做户外登山装备。1968年的某一天，Doug 对 Yvon 说，我们去 Patagonia 爬 Mt.Fitz Roy吧。两人说走就走，带上一台 16mm 相机，开着一辆塞满户外装备的面包车就出发了。他们计划沿着泛美公路一路南下，一直开到南美洲最南端的Patagonia。
 
 1968年的泛美公路，荒无人迹，Yvon 和 Dough 驾驶着小破面包车奔驰在土路上。他们途径墨西哥、洪都拉斯、尼加拉瓜、哥斯达黎加、危地马拉、萨尔瓦多，到达巴拿马城，再搭乘轮渡抵达南美洲大陆。这一路上惊险不断，光爆胎就有十多次。在危地马拉，他们不得不睡在大街上。有一次一觉醒来，脑袋上顶了一把手枪。虽然计划外的状况不断，却没有打乱两人“一路南下一路探险”的计划。一路上，他们去沙漠里滑沙，到海边冲浪，在智利的活火山上滑雪。就这样走走停停，花了六个月时间，行驶了一万多英里之后，两人终于到达了此行的目的地 Patagonia。
@@ -23,17 +26,38 @@ draft: false
 
 走在智利百内公园崎岖的小道上，望着远处珊瑚绿般的湖水，静静流淌，我和朋友打趣说，如果在中国，我们脚下肯定是一条观景公路，远处的湖边会有客栈林立，上山的缆车可以让游客不抬腿就到冰川脚下，哪还有什么徒步旅行？说到这儿，我们不约而同地望向了远方，想拼命留住眼前的美景，生怕错过此刻，下一秒智利就变成了另一个中国。人类社会正享受着现代化带来便利，但有些亲身经历才能带来的感官体验，却在这个过程中丢失了。
 
-![](https://4.bp.blogspot.com/-IfTxSqLUG7o/WLHih8o5pgI/AAAAAAAAKds/waqCC_KK_Jk_aZjl7scrsTfURTFYe6AiACEw/s1600/OPN_lightroomed-26.jpg)
-
 “世界上最困难的事，是简化你的生活”，Dough又吸了一口烟斗，缓缓说道，“人们总喜欢把事情弄得很复杂。其实许多问题的解法很简单，大家只需转过身，再迈出一步。”
+![][me_jump]
 
+*不同的湖可以有不同的颜色，人生也一样丰富多彩*
+![][lake_1]
 
+![][lake_2]
 
+![][lake_3]
 
+*Gray Glacier 从世界第二大冰原南巴塔哥尼亚冰原流下* 
+![][gray_glacier_1]
 
+![][gray_glacier_2]
 
+![][gray_glacier_3]
 
+*风雨过后的彩虹*
+![][rainbow]
 
+*乘船离开时，恋恋不舍这美景*
+![][end]
+
+[lake_1]: https://tvax1.sinaimg.cn/large/722664abgy1gtcx5v1dlbj23342bcb2b.jpg
+[lake_2]:  https://tvax3.sinaimg.cn/large/722664abgy1gtcx5o1gcdj23342bcx6r.jpg
+[lake_3]: https://tva4.sinaimg.cn/large/722664abgy1gtcxd617f5j22x41y4b2a.jpg
+[me_jump]: https://tva3.sinaimg.cn/large/722664abgy1gtcx5z1fbrj23342bc7wk.jpg
+[gray_glacier_1]:https://tva3.sinaimg.cn/large/722664abgy1gtcxd3y5r5j230j20d7wh.jpg
+[gray_glacier_2]: https://tvax2.sinaimg.cn/large/722664abgy1gtcxd2pp1rj22721gphan.jpg
+[gray_glacier_3]: https://tva2.sinaimg.cn/large/722664abgy1gtcxd1bxysj228k1hqx4i.jpg
+[rainbow]: https://tva1.sinaimg.cn/large/722664abgy1gtcxden48lj23402c04qq.jpg
+[end]: https://tvax3.sinaimg.cn/large/722664abgy1gtcxcynkjej231w21akjl.jpg
 
 
 

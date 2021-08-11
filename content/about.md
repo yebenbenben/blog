@@ -36,8 +36,8 @@ title: "关于"
 
 ### See Through Other's Eyes
 
-- [Paul Nicklen](https://www.instagram.com/paulnicklen/?hl=en): NAGO Wildlife Photographer
-- [Robbie Shone](https://www.instagram.com/shonephoto/?hl=en): NAGO Cave Photographer
+- [Paul Nicklen](https://www.instagram.com/paulnicklen/?hl=en): NAGO Wildlife Photographer (https://paulnicklen.com/)
+- [Robbie Shone](https://www.instagram.com/shonephoto/?hl=en): NAGO Cave Photographer (http://www.shonephotography.com/)
 - [Explore](https://explore.org/livecams): Live cam of beatiful animals
 - [SeaLegacy](https://www.youtube.com/c/SeaLegacy): Expedition to show the world about beatiful ocean animals
 - [Sailing SV Delos](https://www.youtube.com/c/svdelos): Story of couple sailing around the world on a sailboat and raising a kid

@@ -20,7 +20,7 @@ title: "关于"
 - [pandoc](http://pandoc.org)：强大的文档转换工具
 - [Hugo](http://gohugo.io)：静态网站生成器
 
-### Trip Inspiration
+### Advanture Inspirations
 - [Things To Lu Cat](https://thingstolucat.com/): 驻扎在阿拉斯加的户外冒险者
 - [Doing Miles](https://doingmiles.com/): 退休长距离徒步夫妇的 Trip Report
 - [The Zilcsak](https://zilcsak.com/): Hiking Trip Report
@@ -31,5 +31,14 @@ title: "关于"
 - [American Southwest](https://www.americansouthwest.net/): 美西南户外景点介绍
 - [Road Trip Ryan](https://www.roadtripryan.com/):  Canyoneering, Slot canyon hiking and climbing information
 
-### Interesting Things
+### Beautiful Minds
 - [Yihui](https://yihui.org/): 本站模板的来源
+
+### See Through Other's Eyes
+
+- [Paul Nicklen](https://www.instagram.com/paulnicklen/?hl=en): NAGO Wildlife Photographer
+- [Robbie Shone](https://www.instagram.com/shonephoto/?hl=en): NAGO Cave Photographer
+- [Explore](https://explore.org/livecams): Live cam of beatiful animals
+- [SeaLegacy](https://www.youtube.com/c/SeaLegacy): Expedition to show the world about beatiful ocean animals
+- [Sailing SV Delos](https://www.youtube.com/c/svdelos): Story of couple sailing around the world on a sailboat and raising a kid
+- [Kombi Life](https://www.youtube.com/c/kombilife): Travel in a van through different continent (not only the content but also the editing and storytelling is good)

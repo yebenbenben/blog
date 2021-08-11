@@ -5,13 +5,13 @@ disable_mathjax: true
 disable_highlight: true
 ---
 
-[p1]: https://lh3.googleusercontent.com/SaloEW7_ijK1c127Er7LL6pc5vCqTTQbKGLq6O8KpL1EOjlJE11KFgnpswRJJHeMObMn60hcXf1hf5plPkLAqqwpj_msZQUh1GUl6kQ2shVV55HgaC52i02WRa2HNqshpbb6CFCFYWBjcKUW-PqEeuXt8s-UYqKyxJGCFhLdWxDbXCzhxJ2yuqdQKK28cZiA3oscudzajhXs7l8VLdyrv0wx7evfXmo1h9LzkBChACREObddFoG4QkEyzgVUwrM_MZ3LLOGnNt5wIy32cTsrC2SDU7i6Z1-ywei00WqcuzB10EFP1oX-DJuoj3Ws6y7CkAVRhsSJ3Oo8mv6ohA4WzP2oSm2oYN0262FaS20FeaGKdr5WCg6Ybq7B9K-iN-jHeNxfaqLVgwShtD7eZxSwnegbApqZweBnS8wPZrOsY1TLljPrlkWcQ5KkleqRj0LvnPARMPaDDaTI2JpNpM_QChZpZLQ2c_8jusGzzy_VynzgFKKKOvn5aa-G3wM4rpmYfRdwPKiXSZV3Y8R3yLzB3urXnoxlEzSigaxAZXU4uT7kGjFnW_Cvy2M4xwStUk6P3cS1j1NNa0V2jJPul0tNxL48kxxceVYBkOV73Vf2DRCfirK-gF35N8Zmxlwn2oTYaQ2T6VfJwrrLPVYdUikZBCE0ytKBbJ4=w2400-no-tmp.jpg
+[portrait]: https://tvax2.sinaimg.cn/large/722664abgy1gtcudaom68j24mo334x6y.jpg
 
-![p1]
+![][portrait]
 
 这是叶重之的个人主页，收集了这些年来我在各个平台上留下的图文片段。
 
-在这十年间，我用过不少博客，从兴盛时期的博客大巴，到国外平台blogspot、worldpress。由于移动端的兴起、网络长城等种种原因，又转战到简书和新浪长微博。然而”墙“里”墙“外，没有一个平台可以做到同其他平台无缝衔接。但重复排版和贴图实在是一件痛苦不堪的事，一番挣扎后，我下定决心把博客搬到Github上来。这样既不用担心[数据丢失](https://www.douban.com/group/topic/111603767/)，又能穿“墙”而过（因为图床在谷歌上，照片依然无法在国内显示）。
+在这十年间，我用过不少博客，从兴盛时期的博客大巴，到国外平台 blogspot、worldpress。由于移动端的兴起、网络长城等种种原因，又转战到简书和新浪长微博。然而”墙“里”墙“外，没有一个平台可以做到同其他平台无缝衔接。但重复排版和贴图实在是一件痛苦不堪的事，一番挣扎后，我下定决心把博客搬到 Github上来。这样既不用担心[数据丢失](https://www.douban.com/group/topic/111603767/)，又能穿“墙”而过。
 
 下面给各位看官来介绍一下我这一亩三分地。地不大，分三块试验田，希望能满足各位看官得需求。
 

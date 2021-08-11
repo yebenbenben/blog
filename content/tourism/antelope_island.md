@@ -1,7 +1,7 @@
 ---
 title: "Antelope Island - 羚羊岛"
 date: 2020-12-20T20:50:16-04:00
-slug: katmai_national_park
+slug: antelope_island_state_park
 categories: ["Trip Report"]
 tags: ["Utah", "Wildlife"]
 draft: false

@@ -12,13 +12,14 @@ title: "关于"
 ## 本站架构
 
 本站目前采用 Hugo 作为后台系统，我希望这是我的最后一站。
-我的博客模板 [hugo-ivy](https://github.com/yihui/hugo-ivy) 来源于 [谢益辉](https://yihui.name/cn/about/) 的模板. 我是个 HTML 和 CSS 小白，大部分内容都是从益辉的各个模板里抄来的。为了方便写作，内容由 Markdown 编辑, ，上传至Github，再由 Netfly 通过 Hugo 生成静态网页发布。照片本来一直存在 GOOGLE PHOTO 但是墙里墙外的现在暂时上传至了渣浪。
+我的博客模板 [hugo-ivy](https://github.com/yihui/hugo-ivy) 来源于 [谢益辉](https://yihui.name/cn/about/) 的模板. 我是个 HTML 和 CSS 小白，大部分内容都是从益辉的各个模板里抄来的。为了方便写作，内容由 Markdown 编辑, ，上传至Github，再由 Netlify 通过 Hugo 生成静态网页发布。照片本来一直存在 GOOGLE PHOTO 但是墙里墙外的现在暂时上传至了渣浪。
 
 ## 其它链接
 
 ### Software
 - [pandoc](http://pandoc.org)：强大的文档转换工具
 - [Hugo](http://gohugo.io)：静态网站生成器
+- [Netlify](https://www.netlify.com/): 快速自动发布网站
 
 ### Advanture Inspirations
 - [Things To Lu Cat](https://thingstolucat.com/): 驻扎在阿拉斯加的户外冒险者

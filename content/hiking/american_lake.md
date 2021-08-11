@@ -3,7 +3,7 @@ title: " Desolation Wildness - American Lake 国庆露营"
 date: 2021-07-02T02:50:16-04:00
 slug: american_lake_camping
 categories: ["Trip Report"]
-tags: ["Desolation Wildness", "Backcountry Backpacking", "California"]
+tags: ["Desolation Wildness", "Backpacking", "California"]
 draft: false
 ---
 

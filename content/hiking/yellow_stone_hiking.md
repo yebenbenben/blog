@@ -3,7 +3,7 @@ title: "Yellowstone NP - 6 Days Hiking Trip"
 date: 2014-09-06T23:04:58-04:00
 slug: yellow_stone_hiking
 categories: ["Trip Report"]
-tags: ["Wyoming", "Backcountry Backpacking"]
+tags: ["Wyoming", "Backpacking"]
 draft: false
 ---
 We(well, it is Alex alone actually) had been planning this trip to Yellowstone NP in late August since early March. Most of the backcountry campsite has limited capacity, holding up to 12 people per night, so we decided to book the camp sites before nailing down our route. It turned out to be a wise decision as we had made several changes of the plan due to lack of experience of long distance hiking for most of the team members.

@@ -3,7 +3,7 @@ title: "Wyoming - Teton Crest Trail"
 date: 2016-08-28T22:18:11-04:00
 slug: teton_crest_trail
 categories: ["Trip Report"]
-tags: ["wyoming", "Backcountry Backpacking"]
+tags: ["Wyoming", "Backpacking"]
 draft: false
 
 ---
@@ -16,16 +16,14 @@ draft: false
 
 小径栈道一直被精心维护着，步道宽敞平整没有淤泥，可以算得上步道里的柏油马路了。沿途路标清晰，不用GPS也不会迷路。栈道的起点最初设在22号公路旁的Teton Pass，随着2009年Jackson Mountain Resort Tram的建成，越来越多的徒步者选择将 Tram 作为徒步的起点，从而避免了那段相对枯燥的爬升。
 
-> 我们的路线
+我们的路线,
 
->
-
-- Day 1: Tram - Middle/North Creek
-- Day 2: Middle/North Creek - Death Canyon Shelf
-- Day 3: Death Canyon Shelf - Alaska Basin Sunset Lake
-- Day 4: Alaska Basin Sunset Lake - North Cascade
-- Day 5: North Cascade - Holly Lake
-- Day 6: Holly Lake - Jenny Lake Lodge
+> - Day 1: Tram - Middle/North Creek
+>- Day 2: Middle/North Creek - Death Canyon Shelf
+>- Day 3: Death Canyon Shelf - Alaska Basin Sunset Lake
+>- Day 4: Alaska Basin Sunset Lake - North Cascade
+>- Day 5: North Cascade - Holly Lake
+>- Day 6: Holly Lake - Jenny Lake Lodge
 
 #### Day 1
 

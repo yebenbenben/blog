@@ -28,7 +28,13 @@ draft: false
 
 “世界上最困难的事，是简化你的生活”，Dough又吸了一口烟斗，缓缓说道，“人们总喜欢把事情弄得很复杂。其实许多问题的解法很简单，大家只需转过身，再迈出一步。”
 
-电影《180° South: Conquerors of the Useless》- [油管](https://youtu.be/bCFnPYXO_bc)
+片源
+
+- 《Mountain of Storms  | A Legendary Road Trip》 - [油管](https://www.youtube.com/watch?v=YxM2cOvq6s8), [Bilibili](https://www.bilibili.com/video/BV1gA411h7hr?share_source=copy_web)
+
+- 《180° South: Conquerors of the Useless》- [油管](https://youtu.be/bCFnPYXO_bc)
+
+  
 
 ![][me_jump]
 

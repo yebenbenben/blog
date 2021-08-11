@@ -28,6 +28,8 @@ draft: false
 
 “世界上最困难的事，是简化你的生活”，Dough又吸了一口烟斗，缓缓说道，“人们总喜欢把事情弄得很复杂。其实许多问题的解法很简单，大家只需转过身，再迈出一步。”
 
+电影《180° South: Conquerors of the Useless》- [油管](https://youtu.be/bCFnPYXO_bc)
+
 ![][me_jump]
 
 *不同的湖可以有不同的颜色，人生也一样丰富多彩*
@@ -59,8 +61,6 @@ draft: false
 [gray_glacier_3]: https://tva2.sinaimg.cn/large/722664abgy1gtcxd1bxysj228k1hqx4i.jpg
 [rainbow]: https://tva1.sinaimg.cn/large/722664abgy1gtcxden48lj23402c04qq.jpg
 [end]: https://tvax3.sinaimg.cn/large/722664abgy1gtcxcynkjej231w21akjl.jpg
-
-
 
 
 

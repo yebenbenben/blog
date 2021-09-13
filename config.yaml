@@ -37,7 +37,7 @@ menu:
 
 params:
   description: "竹杖芒鞋轻胜马，谁怕?一蓑烟雨任平生"
-  footer: "&copy; [Lydia Lu](/) 2005 - 2020"
+  footer: "&copy; [Lydia Lu](/) 2005 - 2021"
   disqusURL: "https://yebenbenben.github.io/"
   customJS:
     - "js/fix-toc.js"

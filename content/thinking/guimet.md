@@ -41,7 +41,10 @@ draft: false
 唐代的文物基本上都是唐三彩，这个在彩绘打马球女陶俑造型生动和以前看到的唐三彩不大一样（再次让人诟病的玻璃窗，还不是无缝的 ！）。
 
 ![马球全景](https://tva4.sinaimg.cn/large/0025BDSjgy1gupbtd0xm6j64mo3341l102.jpg)
+
 ![马球侧面](https://tva3.sinaimg.cn/large/0025BDSjgy1gupbto0g9dj63344mo4qx02.jpg)
+
+![马球拼图](https://tva3.sinaimg.cn/large/0025BDSjgy1gupdfv2oqcj64mo99cnpf02.jpg)
 
 ![三彩骏马 1](https://tvax2.sinaimg.cn/large/0025BDSjgy1gupches7q4j64mo334npk02.jpg)
 ![三彩骏马 2](https://tvax4.sinaimg.cn/large/0025BDSjgy1gupchh7bm7j630j4itb2c02.jpg)

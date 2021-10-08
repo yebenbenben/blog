@@ -38,7 +38,7 @@ Roughly speaking, with 16 players and 18 pair of glass panes, the average number
 
 ### Question 2 - Survival Probability of `$i^{th}$` player
 
-The next question came to my mind is **what is the survival probability of the` $i^{th}$` player?** 
+The next question came to my mind is **what is the survival probability of the  `$i^{th}$` player?** 
 
 The survival probability of the `$i^{th}$` player is equal to `$P(t \leq i - 1)$`, where `$ t \sim B(Y, 0.5)$`.
 

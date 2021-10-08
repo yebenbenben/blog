@@ -25,7 +25,7 @@ The above question is equal to **what is the expected number of survivors among 
 - No one will pushing other people off the bridge using violence.
 - Following player can remember previous players' choices and make rational choices.
 
-Under all these assumption, this game can be simplified as **tossing a fair coin `$Y$`  times and counting # of tails. The game will terminate earlier if  # of tails reaches `$X$`. Each tail event represents the death of one player and the next player will start from where the previous one died.*
+Under all these assumption, this game can be simplified as *tossing a fair coin `$Y$`  times and counting # of tails. The game will terminate earlier if  # of tails reaches `$X$`. Each tail event represents the death of one player and the next player will start from where the previous one died.*
 
 Lets take an example, the sequence  "`$+ + + -  + - + +$`" describes the following scenario, 1st player moved 3 steps forward and died at the 4th panes, 2nd player continue from the 4th to the 5th and fell off at the 6th, the 3rd player continue from 6th pane and successfully pass the 7th and 8th. Since the 3rd player already passed, the rest of the players will just follow through.
 

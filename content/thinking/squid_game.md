@@ -68,7 +68,7 @@ for i in range(1, 17):
 
 ### Question 3 - Optimal Strategy
 
-Knowing all these, is it possible to improve our chance of survival? For the first 4 players, it is almost impossible to survive and the only way out is for the half of the group to VETO the game. But we also observed that, the chance of the` $9^{th}$` player (the vote we need for majority vote) to survive is significantly higher, jumping from 24% to 40%, and he/she highly likely will take the chance.
+Knowing all these, is it possible to improve our chance of survival? For the first 4 players, it is almost impossible to survive and the only way out is for the half of the group to VETO the game. But we also observed that, the chance of the 9-th player (the vote we need for majority vote) to survive is significantly higher, jumping from 24% to 40%, and he/she highly likely will take the chance.
 
 BUT, all our analysis are based on the assumption that the player will jump and as long as they jump, successful or not, will reveal useful information for other player behind them. What if they suicide? If the first 4 players jump off the bridge, the odds for the following players will change significantly. And for the first 4 players, the odds of survival are so low that if I were them I probably will be indifferent between the two options. And the only difference between my choices will be **if I want others to benefit from my death or not.**
 

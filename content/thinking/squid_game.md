@@ -23,7 +23,7 @@ This is important because there will be only one final game left to win the pric
 
  Lets first make some assumption, 
 
-- No one will suicide (suicide by jumping off the bridge will not reveal additional information for other players) 
+- No one will suicide (suicide by jumping off the bridge will not reveal additional information for other players) .
 - Everyone jumps randomly with 50/50 guess.
 - No one will push other people down the bridge using violence.
 - Following player can remember previous players' choices and make rational choices.

@@ -14,20 +14,23 @@ draft: false
 
 ### Question 1 - Expected Number of Survivors
 
-The first thing came to my mind after watching this episode was, **how many pairs of glass panes do I need  if I want X number of players to make it?**  This is important because there will be only one final game left to win the price, so one will need to make sure there will be enough player who makes it but not too many.
+The first thing came to my mind after watching this episode was, 
+> **how many pairs of glass panes do I need  if I want X number of players to make it?** >
 
-The above question is equal to **what is the expected number of survivors among X players crossing Y pair of glass?**
+This is important because there will be only one final game left to win the price, so one will need to make sure there will be enough player who makes it but not too many. The above question is equal to 
+
+>**what is the expected number of survivors among X players crossing Y pair of glass?**
 
  Lets first make some assumption, 
 
 - No one will suicide (suicide by jumping off the bridge will not reveal additional information for other players) 
 - Everyone jumps randomly with 50/50 guess.
-- No one will pushing other people off the bridge using violence.
+- No one will push other people down the bridge using violence.
 - Following player can remember previous players' choices and make rational choices.
 
 Under all these assumption, this game can be simplified as *tossing a fair coin `$Y$`  times and counting # of tails. The game will terminate earlier if  # of tails reaches `$X$`. Each tail event represents the death of one player and the next player will start from where the previous one died.*
 
-Lets take an example, the sequence  "`$+ + + -  + - + +$`" describes the following scenario, 1st player moved 3 steps forward and died at the 4th panes, 2nd player continue from the 4th to the 5th and fell off at the 6th, the 3rd player continue from 6th pane and successfully pass the 7th and 8th. Since the 3rd player already passed, the rest of the players will just follow through.
+Lets take an example, the sequence  "`$+ + + -  + - + +$`" describes the following scenario, 1st player moved 3 steps forward and died at the 4th pane, 2nd player continue from the 4th to the 5th and fell off at the 6th, the 3rd player continue from 6th pane and successfully pass the 7th and 8th. Since the 3rd player already passed, the rest of the players will just follow through.
 
 If `$X \geq Y$`, we know the number of survivors will be `$ X - 0.5Y$`, where `$0.5Y$`is the mean of `$B(Y, 0.5)$` distribution. When `$ X < Y$`, Binomial distribution will be truncated by earlier termination. 
 

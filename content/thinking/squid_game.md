@@ -32,7 +32,7 @@ Under all these assumption, this game can be simplified as *tossing a fair coin 
 
 Lets take an example, the sequence  "`$+ + + -  + - + +$`" describes the following scenario, 1st player moved 3 steps forward and died at the 4th pane, 2nd player continue from the 4th to the 5th and fell off at the 6th, the 3rd player continue from 6th pane and successfully pass the 7th and 8th. Since the 3rd player already passed, the rest of the players will just follow through.
 
-If `$X \geq Y$`, we know the number of survivors will be `$ X - 0.5Y$`, where `$0.5Y$`is the mean of `$B(Y, 0.5)$` distribution. When `$ X < Y$`, Binomial distribution will be truncated by earlier termination. 
+If `$X \geq Y$`, we know the number of survivors will be `$ X - 0.5Y$`, where `$0.5Y$` is the mean of `$B(Y, 0.5)$` distribution. When `$ X < Y$`, binomial distribution will be truncated by earlier termination. 
 
 Roughly speaking, with 16 players and 18 pair of glass panes, the average number of death should be little bit less than 9 therefore the number of survivors will be a little more than 7.
 

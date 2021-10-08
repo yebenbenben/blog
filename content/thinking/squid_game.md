@@ -1,5 +1,5 @@
 ---
-title: "Thoughts on "The Squid Game" (spoilers for Ep.7)"
+title: "Thoughts on - The Squid Game (spoilers for Ep.7)"
 date: 2021-10-08T01:45:16-04:00
 categories: ["Essay"]
 tags: ["Movie", "Math"]

@@ -15,7 +15,7 @@ draft: false
 ### Question 1 - Expected Number of Survivors
 
 The first thing came to my mind after watching this episode was, 
-> **how many pairs of glass panes do I need  if I want X number of players to make it?** >
+> **how many pairs of glass panes do I need  if I want X number of players to make it?** 
 
 This is important because there will be only one final game left to win the price, so one will need to make sure there will be enough player who makes it but not too many. The above question is equal to 
 

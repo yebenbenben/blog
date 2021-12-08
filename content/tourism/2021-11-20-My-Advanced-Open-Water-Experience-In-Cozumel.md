@@ -12,7 +12,7 @@ draft: false
 
 Almost six years ago, I went to Cancun for long weekend with my friend and during our 3 nights stay there we took the public transpotation to Playa Del Carmen and then ferry to Cozumel for a day trip (looking back, I can't believe we did all these in one day, a snorkeling trip, a dinner at a popular place and driving around the island). That was my first time trying snorkling and we didn't see a lot of fish in deep open water, so I didn't think snorkelling is fun to do.
 
-It was until my Hawaii trip that I got to see the beauty of underwater world, the color fish school and beatiful giant Manta Rays. However, without being able to freedive, one can only see thing from distance, unless at places like Captain Cook where the reef is at shallow place. It was that time my boyfriend suggested me to get the Open Water diving certification so that we can go diving together. Combining the suggestions from my friend who did Great Barrier Reef live board, I booked a 9 days trip for 9 tanks in total to get us the Advanced Open Water certifications with Dressel Diver in Cozumel.
+It was until my Hawaii trip that I got to see the beauty of underwater world, the colorful school of fish, the coral life and the beatiful Manta Rays. However, without being able to freedive, one can only see thing from distance, unless at places like Captain Cook where the reef is at shallow place. It was that time my boyfriend suggested me to get the Open Water diving certification so that we can go diving together. Combining the suggestions from my friend who did Great Barrier Reef live board, I booked a 9 days trip for 9 tanks in total to get us the Advanced Open Water certifications with Dressel Diver in Cozumel.
 
 ### Where to take the course?
 
@@ -20,7 +20,7 @@ I chose Cozumel because it is famous for diving and the hotel is reasonable pric
 
 For our AOW, we need to do 5 dives (navigation, deep dive, peak performance bouyancy, night and drift), we had four different instructors. For PPB and Navigation, Night dive the entire group was getting AOW, so the briefing was thorough and the instructor answered a lot of question for me, we got a lot time underwater for practice. While for the drift dive, we were the only two divers doing the AOW, the instructor FLO has a lot of self-ego (he might be a good instructor, but he insisted on reducing our weights then blaming us on struggling too much of getting down and finning too much). I certainly learned a lot from this experience, but given that I told him from the beginning that we were new divers, I don't expect myself to know what to do when I can not descend, especially when I did it easily with the weight I used during previous four dives. Also I don't think he helped us checking if the weight is distributed evenly since both of us were not only struggling with descend, but also struggling stay in vertical position, we kept rolling back on our back and had to keep finning to hold balance which contribute negatively to our descend. And of course as I struggled in descned, I struggled to stay at my safety stop, and it was not only me but another person in my group also shoot up to the surface under his watch, even earlier than me. 
 
-Some may say you should have bagged at least 10 dives before going for your AOW, I think with how losely those course get taught, it is really just a way to help you dive under supervision and learn stuff and get comfortable, because the instructor should be there adress your concerns and answer your questions while DM's role is a guide not a teacher. It is good to know what is the wrong technique so that you don't need to correct them after following wrong practice for long.
+Some may say you should have bagged at least 10 dives before going for your AOW, I think with how losely those course constructed, it is really just a way to help you dive under supervision and learn stuff and get comfortable, because the instructor should be there adress your concerns and answer your questions while DM's role is a guide not a teacher. It is good to know what is the wrong technique so that you don't need to correct them after following wrong practice for long.
 
 ### Thoughts On Dressel Diver?
 
@@ -55,6 +55,19 @@ Lastly, I want to remind myself as a new diver,
 - Dive within your ability
 
 Keep safe and happy diving!
+
+
+### About Cozumel
+As we finished our dives quickly than I expected, we had two days to spare. So we rent a car and drove the entire island.
+
+The south west side of the island are all resorts and nothing else, you might be able to walk on sandy beach from hotel to beach club, but outside of resort you really need a car / scooter because there is absolutely nothing ouside not even gas station.
+
+On the east side of the island, it is no-man's land with beatiful beaches and several beach clubs, between which is just empty beach. The water is clean and sand is good but the wave is stronger than the west side partially due to wind.
+
+Our favorite beach club is on the South end of the island called **Buccanos**, it has outstanding food, great view and awesome snorkeling.
+
+We don't like the downtown area too much since my boyfriend can't stand the smell of gasoline from the old cars, plus the traffic was really bad there. But the we do recommand **Lobster Shack** in downtown, the double fresh caught wild lobster meat was so good.
+
 
 ### Reference
 

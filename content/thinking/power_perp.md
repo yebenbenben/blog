@@ -30,7 +30,7 @@ Let `$V_t = S_t^p$` and `$f(t, S_t) = \ln V_t$`. According to Ito’s lemma we h
 `$$
 df = f_t dt+ f_s dS + \frac{1}{2}f_{ss}dS^2
 $$`
-Given `$f_s = pS_t^{-1}$ and $f_{ss} = -p S_t^{-2}$`, we have
+Given `$f_s = pS_t^{-1}$` and `$f_{ss} = -p S_t^{-2}$`, we have
 `$$
 df = pS_t^{-1} dS - \frac{1}{2}pS_t^{-2}dS^2 \\df = p(rdt + \sigma dW_t) - \frac{1}{2}p\sigma^2dt \\ df = (pr -  \frac{1}{2}p\sigma^2) dt + p \sigma dW_t
 $$`

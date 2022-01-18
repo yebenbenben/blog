@@ -23,9 +23,9 @@ Opyn just launched a power perpetual product for ETH named Squeeth (ETH^2) to pr
 
 Assuming `$S(t)$` follows GBM under risk-neutral measure,
 
-$$
+`$$
 dS_t = S_t(rdt + \sigma dW_t)
-$$
+$$`
 
 where `$S_t$` is the asset price, `$r$` is the risk-free rates and `$\sigma$` is the volatility. 
 
@@ -37,19 +37,19 @@ $$`
 
 Given `$f_s = pS_t^{-1}$ and $f_{ss} = -p S_t^{-2}$`, we have
 
-$$
+`$$
 df = pS_t^{-1} dS - \frac{1}{2}pS_t^{-2}dS^2 \\df = p(rdt + \sigma dW_t) - \frac{1}{2}p\sigma^2dt \\ df = (pr -  \frac{1}{2}p\sigma^2) dt + p \sigma dW_t
-$$
+$$`
 
 Derivative pricing follows martingale under risk-neutral measure, thus we have
-$$
+`$$
 V_t = E_t(e^{-r(T-t)}V_T) = E_t( S_t^pe^{(r(p-1) - \frac{1}{2}p\sigma^2)(T-t)+ p\sigma W_{T-t}})
-$$
+$$`
 
 Thus,
-$$
+`$$
 V_t = S_t^pe^{(r(p-1) + \frac{1}{2}\sigma^2p(p- 1))(T-t)}
-$$
+$$`
 
 # Pricing Perpetual Contract
 
@@ -64,9 +64,9 @@ The creation of perpetual contract is to solve the inefficiency of rolling an op
 ### Pricing and Replication
 
 Assuming we are holding a portfolio of derivatives with maturity set `$\{t_i\}$`, the portfolio can be written as,
-$$
+`$$
 V = \sum_{i = 0}^{+\infty}(1 - x)^ix P(t_i)
-$$
+$$`
 
 when the front contract roll-off, the next contract will have `$x$` weight on the remaining portfolio and `$P(t_i)$` is the pricing of the derivative with matruity of `$t_i$`.
 
@@ -84,16 +84,15 @@ For replicated portfolio,
 - The remaining replicated portfolio is `$1-x$`
 
 To make the cash flow on perpetual the same as the replicated portfolio, we have,
-
-$$
+`$$
 xP_M - (1-x)\frac{P_M - P}{q} = xP
-$$
+$$`
 
 we get `$x = \frac{1}{1 + q}$`. Thus we can use the replicate portfolio to price the perpetual derivative here and derivative price
 
-$$
+`$$
 V = \frac{1}{q}\sum_{i = 1}^{+\infty}(\frac{q}{1+q})^iP(t_i)
-$$
+$$`
 
 ### Future and Option
 
@@ -103,23 +102,20 @@ $$
   
 
 # Pricing the Power Perpetual
-
 Combing the power contract and perpetual contract pricing, we can get the pricing for power perpetual to be,
 
-$$
+`$$
 V = S_t^p\frac{1}{q}\sum_{i = 1}^{+\infty}(\frac{q}{1+q})^i e^{Aif}
-$$
+$$`
 
 where `$A = r(p-1) + \frac{1}{2}\sigma^2p(p- 1)$`, `$f$` is the funding frequency in years and $q$ is number of payment per payment period. Using some basic math, we have,
-
-$$
+`$$
 (1 - \frac{q}{1+q}e^{Af})V =  S_t^p\frac{1}{1+q} e^{Af} \\ V =  S_t^p\frac{1}{(1+q)e^{-Af} -q} 
-$$
+$$`
 
 Therefore, the funding rate can be written as,
-
-$$
+`$$
 R= S_t^p(\frac{1}{(1+q)e^{-Af} -q} - 1)
-$$
+$$`
 
 Remember for the summation to converge we need  `$\frac{q}{1+q}e^{Af} < 1$` to be satisfied.

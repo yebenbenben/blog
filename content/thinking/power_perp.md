@@ -87,7 +87,7 @@ Combing the power contract and perpetual contract pricing, we can get the pricin
 `$$
 V = S_t^p\frac{1}{q}\sum_{i = 1}^{+\infty}(\frac{q}{1+q})^i e^{Aif}
 $$`
-where `$A = r(p-1) + \frac{1}{2}\sigma^2p(p- 1)$`, `$f$` is the funding frequency in years and $q$ is number of payment per payment period. Using some basic math, we have,
+where `$A = r(p-1) + \frac{1}{2}\sigma^2p(p- 1)$`, `$f$` is the funding frequency in years and `$q$` is number of payment per payment period. Using some basic math, we have,
 `$$
 (1 - \frac{q}{1+q}e^{Af})V =  S_t^p\frac{1}{1+q} e^{Af} \\ V =  S_t^p\frac{1}{(1+q)e^{-Af} -q} 
 $$`

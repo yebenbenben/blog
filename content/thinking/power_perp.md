@@ -26,7 +26,7 @@ dS_t = S_t(rdt + \sigma dW_t)
 $$`
 where `$S_t$` is the asset price, `$r$` is the risk-free rates and `$\sigma$` is the volatility. 
 
-Let `$V_t = S_t^p$ and $f(t, S_t) = \ln V_t$`. According to Ito’s lemma we have,
+Let `$V_t = S_t^p$` and `$f(t, S_t) = \ln V_t$`. According to Ito’s lemma we have,
 `$$
 df = f_t dt+ f_s dS + \frac{1}{2}f_{ss}dS^2
 $$`

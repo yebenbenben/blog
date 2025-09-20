@@ -1,26 +1,30 @@
 ---
 title: 和小Po的一起攀岩Road Trip
 date: 2025-08-21
-slug: wyoming
+slug: climbing_wyoming
 categories:
   - Trip Report
 tags:
   - Climbing
 draft: false
 ---
+计划中的风河山脉硬核攀岩之旅因为天公不做美而临时变成了从盐湖城出发，斜穿怀俄明的攀岩Road Trip。提起怀俄明，最出名的要数黄石和大提顿这两个国家公园，除此之外没一个让人叫得上名字的城市。可正是这个全美人口倒数第一的州（没错！并不是阿拉斯加），因为并没有什么期待，一路上带来的全是惊喜。
 
-这次Wind River Range硬核攀岩之旅因为连续降雨一周而不得不改成从盐湖城对角线斜穿Wyoming的攀岩road trip。
+怀俄明的西面被落基山脉覆盖，高低起伏，重峦叠嶂，也是我们原本要去的风河山脉所在之处。我们原本计划的是在 Big Sandy Trailhead 露营一晚上，改成了去 Lander City Park Public Campground 里住了一宿。Lander 算是离风河山脉比较近的一个相对大的小镇了，超市、户外运动店一应俱全。
 
-提起怀俄明，最出名的要数黄石和大提顿这两个国家公园，除此之外没有一个让人叫的出口的城市。
-由于之前只去过黄石和大提顿，我错误的以为这是一个高低起伏，有着崇山峻岭的地方。
+
 
 #### Fremont Canyon
-名不见经传的 Fremont Canyon 是此行最大的惊喜。 North Platte River 从峡谷间奔流而过，两边的峭壁少则30米，高达150米。在这里攀岩几乎不用走路，只需站到悬崖边设顶绳，再垂降到河岸边的起攀点。人少，景美，线路丰富， 性价比高是对 Fremont Canyon 最好的概括。
+Fremont Canyon 是我们从 Lander 到 Devil‘s Tower的中转站，也是此行最大的惊喜。
+North Platte River 从峡谷间奔流而过，两边的峭壁少则30米，高达150米。在这里攀岩几乎不用走路，只需站到悬崖边设顶绳，再垂降到河岸边的起攀点。人少，景美，线路丰富， 性价比高是对 Fremont Canyon 最好的概括。
+
+![fremont12|400](https://pub-38dca85e4a294f82874cb61692073e4b.r2.dev/fremont12.JPG)
+*桥得下面就可以架顶绳， 大太阳的时候躲在桥下belay才不会中暑！*
 
 虽然这里的线路需要用到一些裂缝攀岩的技巧，但是摩擦力和脚点的选择都比酋长岩要好很多。
-每条线路也不都是一成不变的裂缝，会有一些 face crimp，一些sloper，一些 corner stemming， 一些 chimney， 总而言之不会因为线路太长而让人爬得了无生趣。
+每条线路也不都是一成不变的裂缝，会有一些 face crimp，一些 sloper，一些 corner stemming， 一些 chimney， 总而言之不会因为线路太长而让人爬得了无生趣。
 
-我们以 Fremont Canyon 作为往返 Devil's Tower 的中转站，因此分别爬了两个半天和一个全天。
+我们一共爬了两个半天和一个全天。
 - **Day 1 - Half Day**
 	- Easy Day for a Lady 5.9 
 	- Dillingham Blues - 5.10+: 我最喜爱的一条线路了，双缝的感觉真好！
@@ -36,7 +40,7 @@ draft: false
 	- Pale Face - 5.10+: 开头和结尾有一段Face Climbing。
 	- Heroes and Zeroes - 5.11c: 没有好的休息点的长线，sloper 和 undercling 加上 smearing，爬得相当艰难每一段都有每一段的难点。
 
-Fremont Canyon 唯二的“缺点”就是 Top Side Belay，无法把绳拉到最紧，垂降下去万一爬不上来，也要靠自己爬绳过难点。所以不确定自己有能力爬过难点还真不敢轻易下去。
+Fremont Canyon 唯一的“缺点”就是 Top Side Belay，无法把绳拉到最紧，垂降下去万一爬不上来，也要靠自己爬绳过难点。所以不确定自己有能力爬过难点还真不敢轻易下去。
 
 ![fremont7|400](https://pub-38dca85e4a294f82874cb61692073e4b.r2.dev/fremont7.JPG)
 *Bushwacker - 5.9*
@@ -94,7 +98,7 @@ Devil‘s tower 有着世界上最大的柱状结理群，而攀岩者的攀爬�
 ![dt9|700](https://pub-38dca85e4a294f82874cb61692073e4b.r2.dev/dt9.JPG)
 *一望无际的草原*
 
-攀爬只占用了登顶日的一小部分时间，我们大部分的时间都花在了找路以及如何安全有效的scamble up和descend上了。 登顶的时候正值中午，在正午太阳的炙烤下，保持头脑清醒避免中暑也是此行的一大挑战。
+攀爬只占用了登顶日的一小部分时间，我们大部分的时间都花在了找路以及如何安全有效的 scramble up和 descend 上了。 登顶的时候正值中午，在正午太阳的炙烤下，保持头脑清醒避免中暑也是此行的一大挑战。一共两个有效绳段加上三四段 Class 4的 scramble 结果下撤花了大半天的时间。就像路书上介绍的，devil‘s tower 登顶一次就够了，还有许多不需要登顶的好路线等着大家去攀爬呢！
 
 ![dt9|700](https://pub-38dca85e4a294f82874cb61692073e4b.r2.dev/dt11.JPG)*先到先得的免费营地*
 

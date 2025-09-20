@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5932ab1ba12454c0",
+        "id": "282255228f85713c",
         "type": "tabs",
         "children": [
           {
-            "id": "39ef62a90fe5c609",
+            "id": "efda34c0ea82862f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,9 +165,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39ef62a90fe5c609",
+  "active": "efda34c0ea82862f",
   "lastOpenFiles": [
-    "content/hiking/climing_rrg.md",
-    "content/hiking/climbing_road_trip.md"
+    "Alcova,.md",
+    "content/hiking/climbing_road_trip.md",
+    "content/hiking/climing_rrg.md"
   ]
 }

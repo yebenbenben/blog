@@ -16,7 +16,7 @@ draft: false
 Fremont Canyon 是我们从 Lander 到 Devil‘s Tower的中转站，也是此行最大的惊喜。
 North Platte River 从峡谷间奔流而过，两边的峭壁少则30米，高达150米。在这里攀岩几乎不用走路，只需站到悬崖边设顶绳，再垂降到河岸边的起攀点。人少，景美，线路丰富， 性价比高是对 Fremont Canyon 最好的概括。
 
-![fremont12|400](https://pub-38dca85e4a294f82874cb61692073e4b.r2.dev/fremont12.JPG)
+![fremont12|400](https://pub-38dca85e4a294f82874cb61692073e4b.r2.dev/fremont12.JPG "{width='350'}")
 *桥得下面就可以架顶绳， 大太阳的时候躲在桥下belay才不会中暑！*
 
 虽然这里的线路需要用到一些裂缝攀岩的技巧，但是摩擦力和脚点的选择都比酋长岩要好很多。

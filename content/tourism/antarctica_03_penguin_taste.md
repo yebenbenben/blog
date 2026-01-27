@@ -6,6 +6,7 @@ categories:
   - Trip Report
 tags:
   - Antarctica
+  - Penguin
 draft: false
 ---
 “企鹅吃起来什么味道？”，我睁大眼睛问道。\

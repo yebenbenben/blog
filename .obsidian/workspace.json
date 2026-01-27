@@ -11,10 +11,14 @@
             "id": "3ad7ccdacacc6835",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/tourism/antarctica_02_drake_passage.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "antarctica_02_drake_passage"
             }
           }
         ]
@@ -162,11 +166,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c7b0cf846540b03",
+  "active": "3ad7ccdacacc6835",
   "lastOpenFiles": [
     "content/tourism/antarctica_01_drake_passage.md",
-    "2025-08-21.md",
+    "content/tourism/antarctica_02_drake_passage.md",
     "content/hiking/antarctica_01_drake_passage.md",
+    "2025-08-21.md",
     "content/thinking/bookshelf.md",
     "content/hiking/climbing_road_trip.md",
     "content/hiking/haute_route_day10.md",

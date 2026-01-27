@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/tourism/antarctica_05_sound_of_the_sea.md",
+                "file": "content/tourism/antarctica_04_penguin_gender.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "antarctica_05_sound_of_the_sea"
+              "title": "antarctica_04_penguin_gender"
             }
           }
         ]
@@ -168,8 +168,8 @@
   },
   "active": "3ad7ccdacacc6835",
   "lastOpenFiles": [
-    "content/tourism/antarctica_03_penguin_taste.md",
     "content/tourism/antarctica_05_sound_of_the_sea.md",
+    "content/tourism/antarctica_03_penguin_taste.md",
     "content/tourism/antarctica_04_penguin_gender.md",
     "content/tourism/antarctica_06_color_of_the_ice.md",
     "content/tourism/antarctica_02_drake_passage.md",

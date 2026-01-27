@@ -1,5 +1,5 @@
 ---
-title: 企鹅吃起来什么味道?
+title: 男企鹅还是女企鹅
 date: 2026-01-17
 slug: antarctica_04_penguin_gender
 categories:

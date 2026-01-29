@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/tourism/recoleta_argentina.md",
+                "file": "content/tourism/argentina_mate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "recoleta_argentina"
+              "title": "argentina_mate"
             }
           }
         ]
@@ -168,8 +168,9 @@
   },
   "active": "3ad7ccdacacc6835",
   "lastOpenFiles": [
+    "content/tourism/argentina_recoleta.md",
+    "content/tourism/argentina_mate.md",
     "content/tourism/antarctica_06_color_of_the_ice.md",
-    "content/tourism/recoleta_argentina.md",
     "content/tourism/antarctica_05_sound_of_the_sea.md",
     "content/tourism/antarctica_04_penguin_gender.md",
     "content/tourism/antarctica_03_penguin_taste.md",

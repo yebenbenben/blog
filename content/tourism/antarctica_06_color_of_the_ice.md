@@ -1,5 +1,5 @@
 ---
-title: 南极的冰有几种颜色
+title: 南极之旅 - 冰有几种颜色
 date: 2026-01-20
 slug: antarctica_06_color_of_the_ice
 categories:

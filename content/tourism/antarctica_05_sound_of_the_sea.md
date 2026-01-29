@@ -1,5 +1,5 @@
 ---
-title: 来自南大洋的声音
+title: 南极之旅 - 来自南大洋的声音
 date: 2026-01-19
 slug: antarctica_05_sound_of_the_sea
 categories:

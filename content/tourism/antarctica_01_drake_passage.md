@@ -1,5 +1,5 @@
 ---
-title: 头顶一个苹果过德雷克海峡
+title: 南极之旅 - 头顶一个苹果过德雷克海峡
 date: 2026-01-14
 slug: antarctica_01_drake_passage
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 假如李白去了南极
+title: 南极之旅 - 假如李白去了南极
 date: 2026-01-15
 slug: antarctica_02_libai
 categories:

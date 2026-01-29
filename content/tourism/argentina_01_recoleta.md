@@ -1,7 +1,7 @@
 ---
 title: 你男朋友是活的吧?
 date: 2026-01-21
-slug: argentina_recoleta
+slug: argentina_01_recoleta
 categories:
   - Trip Report
 tags:

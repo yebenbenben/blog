@@ -1,5 +1,5 @@
 ---
-title: 企鹅吃起来什么味道?
+title: 南极之旅 - 企鹅吃起来什么味道?
 date: 2026-01-16
 slug: antarctica_03_penguin_taste
 categories:

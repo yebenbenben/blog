@@ -1,6 +1,6 @@
 ---
 title: 马黛茶
-date: 2026-01-21
+date: 2026-01-22
 slug: argentina_mate
 categories:
   - Trip Report

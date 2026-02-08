@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/tourism/argentina_01_recoleta.md",
+                "file": "content/thinking/随笔.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "argentina_01_recoleta"
+              "title": "随笔"
             }
           }
         ]
@@ -168,31 +168,31 @@
   },
   "active": "3ad7ccdacacc6835",
   "lastOpenFiles": [
+    "content/tourism/alaska_road_trip.md",
+    "content/thinking/the_barnes_foundation.md",
+    "content/thinking/随笔.md",
+    "content/hiking/climbing_road_trip.md",
+    "content/tourism/churchill.md",
+    "content/tourism/cozumel.md",
+    "content/tourism/Big_Island_Hawaii.md",
     "content/tourism/argentina_02_mate.md",
+    "content/tourism/argentina_01_recoleta.md",
+    "content/tourism/antelope_island.md",
+    "content/tourism/katmai.md",
+    "content/tourism/old_theater.md",
+    "content/tourism/iceland_trip.md",
     "content/tourism/antarctica_06_color_of_the_ice.md",
     "content/tourism/antarctica_05_sound_of_the_sea.md",
     "content/tourism/antarctica_04_penguin_gender.md",
     "content/tourism/antarctica_03_penguin_taste.md",
     "content/tourism/antarctica_02_libai.md",
     "content/tourism/antarctica_01_drake_passage.md",
-    "content/tourism/antelope_island.md",
-    "content/tourism/argentina_01_recoleta.md",
     "content/hiking/haute_route_day10.md",
     "content/hiking/antarctica_01_drake_passage.md",
     "2025-08-21.md",
     "content/thinking/bookshelf.md",
-    "content/hiking/climbing_road_trip.md",
     "content/hiking/haute_route_day8.md",
     "content/hiking/haute_route_day6.md",
-    "content/hiking/haute_route_day4.md",
-    "content/hiking/haute_route_day2.md",
-    "content/tourism/katmai.md",
-    "content/thinking/freer_gallary_of_art.md",
-    "content/tourism/alaska_road_trip.md",
-    "content/hiking/patagonia_memo.md",
-    "content/hiking/haute_route_day5.md",
-    "content/hiking/haute_route_day1.md",
-    "Alcova,.md",
-    "content/hiking/climing_rrg.md"
+    "content/hiking/haute_route_day4.md"
   ]
 }

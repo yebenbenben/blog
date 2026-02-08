@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/thinking/society_change.md",
-                "mode": "source",
+                "file": "content/thinking/grandpa_memory.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "society_change"
+              "title": "grandpa_memory"
             }
           }
         ]
@@ -168,10 +168,17 @@
   },
   "active": "3ad7ccdacacc6835",
   "lastOpenFiles": [
+    "content/thinking/随笔.md",
+    "content/thinking/guimet.md",
+    "content/thinking/grandpa_memory.md",
+    "content/tourism/old_theater.md",
+    "content/tourism/south_asia_trip_1.md",
+    "content/tourism/south_asia_trip_2.md",
+    "content/tourism/tomales_bay_bioluminescence.md",
     "content/thinking/the_barnes_foundation.md",
+    "content/thinking/society_change.md",
     "content/thinking/MCMC.md",
     "content/thinking/power_perp.md",
-    "content/thinking/随笔.md",
     "content/tourism/alaska_road_trip.md",
     "content/hiking/climbing_road_trip.md",
     "content/tourism/churchill.md",
@@ -181,18 +188,11 @@
     "content/tourism/argentina_01_recoleta.md",
     "content/tourism/antelope_island.md",
     "content/tourism/katmai.md",
-    "content/tourism/old_theater.md",
     "content/tourism/iceland_trip.md",
     "content/tourism/antarctica_06_color_of_the_ice.md",
     "content/tourism/antarctica_05_sound_of_the_sea.md",
     "content/tourism/antarctica_04_penguin_gender.md",
     "content/tourism/antarctica_03_penguin_taste.md",
-    "content/tourism/antarctica_02_libai.md",
-    "content/tourism/antarctica_01_drake_passage.md",
-    "content/hiking/haute_route_day10.md",
-    "content/hiking/antarctica_01_drake_passage.md",
-    "2025-08-21.md",
-    "content/thinking/bookshelf.md",
-    "content/hiking/haute_route_day8.md"
+    "content/tourism/antarctica_02_libai.md"
   ]
 }

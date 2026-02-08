@@ -1,10 +1,12 @@
 ---
-title: "纪念外公"
+title: 纪念外公
 date: 2018-03-11T02:50:16-04:00
-categories: ["Memorial"]
-tags: ["Family"]
 slug: grandpa_memorial
-draft: true
+categories:
+  - Thoughts
+tags:
+  - NYC
+draft: false
 ---
 
 我的外公于1927年正月初八，出生于山东省茌平县的一户书香人家，是家中的老二。
@@ -34,11 +36,11 @@ draft: true
 >  无题歪詩
 
 >老翁今日岁九十
-
+>
 > 雍慈万里鮮花寄
-
+>
 >手捧鲜花思雍慈
-
+>
 >老翁可爱外孙女
 >
 >自幼聪敏有灵气

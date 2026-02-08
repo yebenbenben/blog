@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/thinking/随笔.md",
+                "file": "content/thinking/society_change.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "随笔"
+              "title": "society_change"
             }
           }
         ]
@@ -168,9 +168,11 @@
   },
   "active": "3ad7ccdacacc6835",
   "lastOpenFiles": [
-    "content/tourism/alaska_road_trip.md",
     "content/thinking/the_barnes_foundation.md",
+    "content/thinking/MCMC.md",
+    "content/thinking/power_perp.md",
     "content/thinking/随笔.md",
+    "content/tourism/alaska_road_trip.md",
     "content/hiking/climbing_road_trip.md",
     "content/tourism/churchill.md",
     "content/tourism/cozumel.md",
@@ -191,8 +193,6 @@
     "content/hiking/antarctica_01_drake_passage.md",
     "2025-08-21.md",
     "content/thinking/bookshelf.md",
-    "content/hiking/haute_route_day8.md",
-    "content/hiking/haute_route_day6.md",
-    "content/hiking/haute_route_day4.md"
+    "content/hiking/haute_route_day8.md"
   ]
 }

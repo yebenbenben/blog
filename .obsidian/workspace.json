@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/thinking/grandpa_memory.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -168,15 +168,18 @@
   },
   "active": "3ad7ccdacacc6835",
   "lastOpenFiles": [
+    "content/thinking/grandpa_memory.md",
+    "content/thinking/grandpa_memory.md",
     "content/thinking/随笔.md",
     "content/thinking/guimet.md",
-    "content/thinking/grandpa_memory.md",
+    "content/thinking/movie_the_great_buddha_plus.md",
+    "content/thinking/society_change.md",
+    "content/thinking/squid_game.md",
     "content/tourism/old_theater.md",
     "content/tourism/south_asia_trip_1.md",
     "content/tourism/south_asia_trip_2.md",
     "content/tourism/tomales_bay_bioluminescence.md",
     "content/thinking/the_barnes_foundation.md",
-    "content/thinking/society_change.md",
     "content/thinking/MCMC.md",
     "content/thinking/power_perp.md",
     "content/tourism/alaska_road_trip.md",
@@ -190,9 +193,6 @@
     "content/tourism/katmai.md",
     "content/tourism/iceland_trip.md",
     "content/tourism/antarctica_06_color_of_the_ice.md",
-    "content/tourism/antarctica_05_sound_of_the_sea.md",
-    "content/tourism/antarctica_04_penguin_gender.md",
-    "content/tourism/antarctica_03_penguin_taste.md",
-    "content/tourism/antarctica_02_libai.md"
+    "content/tourism/antarctica_05_sound_of_the_sea.md"
   ]
 }
